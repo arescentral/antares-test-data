@@ -1,0 +1,1838 @@
+quiet	3	0
+amp	3	0	255
+loop	3	0	/music/3000.mp3
+quiet	3	0
+quiet	3	0
+amp	3	0	215
+loop	3	0	/music/5001.mp3
+quiet	0	1
+amp	0	1	128
+play	0	1	/sounds/510.aiff
+quiet	1	201
+amp	1	201	128
+play	1	201	/sounds/509.aiff
+quiet	1	213
+amp	1	213	128
+play	1	213	/sounds/509.aiff
+quiet	0	309
+amp	0	309	192
+play	0	309	/sounds/507.aiff
+quiet	0	396
+amp	0	396	192
+play	0	396	/sounds/507.aiff
+quiet	0	459
+amp	0	459	192
+play	0	459	/sounds/507.aiff
+quiet	0	516
+amp	0	516	192
+play	0	516	/sounds/507.aiff
+quiet	0	561
+amp	0	561	192
+play	0	561	/sounds/507.aiff
+quiet	0	687
+amp	0	687	192
+play	0	687	/sounds/507.aiff
+quiet	0	831
+amp	0	831	192
+play	0	831	/sounds/507.aiff
+quiet	1	903
+amp	1	903	128
+play	1	903	/sounds/509.aiff
+quiet	1	936
+amp	1	936	128
+play	1	936	/sounds/509.aiff
+quiet	0	1008
+amp	0	1008	255
+play	0	1008	/sounds/526.aiff
+quiet	1	1032
+amp	1	1032	255
+play	1	1032	/sounds/527.aiff
+quiet	2	1056
+amp	2	1056	255
+play	2	1056	/sounds/528.aiff
+quiet	0	1083
+amp	0	1083	255
+play	0	1083	/sounds/529.aiff
+quiet	1	1107
+amp	1	1107	255
+play	1	1107	/sounds/517.aiff
+quiet	2	1233
+amp	2	1233	255
+play	2	1233	/sounds/518.aiff
+quiet	0	1361
+amp	0	1361	128
+play	0	1361	/sounds/510.aiff
+quiet	0	1515
+amp	0	1515	255
+play	0	1515	/sounds/502.aiff
+quiet	1	1515
+amp	1	1515	255
+play	1	1515	/sounds/500.aiff
+quiet	1	1524
+amp	1	1524	255
+play	1	1524	/sounds/500.aiff
+quiet	0	1530
+amp	0	1530	255
+play	0	1530	/sounds/502.aiff
+quiet	1	1533
+amp	1	1533	255
+play	1	1533	/sounds/500.aiff
+quiet	2	1536
+amp	2	1536	255
+play	2	1536	/sounds/503.aiff
+quiet	1	1542
+amp	1	1542	255
+play	1	1542	/sounds/500.aiff
+quiet	0	1545
+amp	0	1545	255
+play	0	1545	/sounds/502.aiff
+quiet	2	1551
+amp	2	1551	255
+play	2	1551	/sounds/503.aiff
+quiet	0	1560
+amp	0	1560	255
+play	0	1560	/sounds/502.aiff
+quiet	1	1560
+amp	1	1560	255
+play	1	1560	/sounds/500.aiff
+quiet	1	1569
+amp	1	1569	255
+play	1	1569	/sounds/500.aiff
+quiet	0	1575
+amp	0	1575	255
+play	0	1575	/sounds/502.aiff
+quiet	2	1575
+amp	2	1575	255
+play	2	1575	/sounds/503.aiff
+quiet	1	1578
+amp	1	1578	255
+play	1	1578	/sounds/500.aiff
+quiet	1	1587
+amp	1	1587	255
+play	1	1587	/sounds/500.aiff
+quiet	0	1590
+amp	0	1590	255
+play	0	1590	/sounds/502.aiff
+quiet	2	1593
+amp	2	1593	255
+play	2	1593	/sounds/503.aiff
+quiet	2	1602
+amp	2	1602	255
+play	2	1602	/sounds/503.aiff
+quiet	0	1608
+amp	0	1608	255
+play	0	1608	/sounds/502.aiff
+quiet	2	1620
+amp	2	1620	255
+play	2	1620	/sounds/503.aiff
+quiet	0	1656
+amp	0	1656	255
+play	0	1656	/sounds/502.aiff
+quiet	1	1659
+amp	1	1659	255
+play	1	1659	/sounds/500.aiff
+quiet	1	1668
+amp	1	1668	255
+play	1	1668	/sounds/500.aiff
+quiet	0	1671
+amp	0	1671	255
+play	0	1671	/sounds/502.aiff
+quiet	2	1671
+amp	2	1671	255
+play	2	1671	/sounds/503.aiff
+quiet	1	1677
+amp	1	1677	255
+play	1	1677	/sounds/500.aiff
+quiet	2	1680
+amp	2	1680	255
+play	2	1680	/sounds/503.aiff
+quiet	0	1686
+amp	0	1686	255
+play	0	1686	/sounds/502.aiff
+quiet	1	1686
+amp	1	1686	255
+play	1	1686	/sounds/500.aiff
+quiet	1	1695
+amp	1	1695	255
+play	1	1695	/sounds/500.aiff
+quiet	2	1707
+amp	2	1707	255
+play	2	1707	/sounds/503.aiff
+quiet	0	1755
+amp	0	1755	255
+play	0	1755	/sounds/533.aiff
+quiet	0	1887
+amp	0	1887	255
+play	0	1887	/sounds/533.aiff
+quiet	0	1965
+amp	0	1965	255
+play	0	1965	/sounds/532.aiff
+quiet	1	2028
+amp	1	2028	255
+play	1	2028	/sounds/533.aiff
+quiet	2	2070
+amp	2	2070	255
+play	2	2070	/sounds/550.aiff
+quiet	2	2073
+amp	2	2073	255
+play	2	2073	/sounds/553.aiff
+quiet	0	2076
+amp	0	2076	255
+play	0	2076	/sounds/550.aiff
+quiet	2	2079
+amp	2	2079	255
+play	2	2079	/sounds/553.aiff
+quiet	1	2082
+amp	1	2082	255
+play	1	2082	/sounds/550.aiff
+quiet	0	2085
+amp	0	2085	255
+play	0	2085	/sounds/552.aiff
+quiet	2	2091
+amp	2	2091	255
+play	2	2091	/sounds/553.aiff
+quiet	1	2094
+amp	1	2094	255
+play	1	2094	/sounds/550.aiff
+quiet	1	2094
+amp	1	2094	255
+play	1	2094	/sounds/502.aiff
+quiet	2	2097
+amp	2	2097	255
+play	2	2097	/sounds/553.aiff
+quiet	0	2100
+amp	0	2100	255
+play	0	2100	/sounds/515.aiff
+quiet	1	2109
+amp	1	2109	255
+play	1	2109	/sounds/502.aiff
+quiet	2	2118
+amp	2	2118	255
+play	2	2118	/sounds/503.aiff
+quiet	1	2121
+amp	1	2121	255
+play	1	2121	/sounds/500.aiff
+quiet	1	2154
+amp	1	2154	255
+play	1	2154	/sounds/514.aiff
+quiet	2	2301
+amp	2	2301	255
+play	2	2301	/sounds/502.aiff
+quiet	0	2304
+amp	0	2304	255
+play	0	2304	/sounds/500.aiff
+quiet	0	2313
+amp	0	2313	255
+play	0	2313	/sounds/500.aiff
+quiet	2	2316
+amp	2	2316	255
+play	2	2316	/sounds/502.aiff
+quiet	1	2316
+amp	1	2316	255
+play	1	2316	/sounds/503.aiff
+quiet	0	2322
+amp	0	2322	255
+play	0	2322	/sounds/500.aiff
+quiet	1	2322
+amp	1	2322	255
+play	1	2322	/sounds/503.aiff
+quiet	1	2325
+amp	1	2325	255
+play	1	2325	/sounds/503.aiff
+quiet	2	2331
+amp	2	2331	255
+play	2	2331	/sounds/502.aiff
+quiet	0	2331
+amp	0	2331	255
+play	0	2331	/sounds/500.aiff
+quiet	1	2331
+amp	1	2331	255
+play	1	2331	/sounds/503.aiff
+quiet	1	2331
+amp	1	2331	255
+play	1	2331	/sounds/503.aiff
+quiet	1	2337
+amp	1	2337	255
+play	1	2337	/sounds/503.aiff
+quiet	0	2340
+amp	0	2340	255
+play	0	2340	/sounds/500.aiff
+quiet	1	2340
+amp	1	2340	255
+play	1	2340	/sounds/503.aiff
+quiet	1	2343
+amp	1	2343	255
+play	1	2343	/sounds/503.aiff
+quiet	2	2346
+amp	2	2346	255
+play	2	2346	/sounds/502.aiff
+quiet	0	2349
+amp	0	2349	255
+play	0	2349	/sounds/500.aiff
+quiet	1	2349
+amp	1	2349	255
+play	1	2349	/sounds/503.aiff
+quiet	1	2352
+amp	1	2352	255
+play	1	2352	/sounds/503.aiff
+quiet	0	2358
+amp	0	2358	255
+play	0	2358	/sounds/500.aiff
+quiet	1	2358
+amp	1	2358	255
+play	1	2358	/sounds/503.aiff
+quiet	2	2430
+amp	2	2430	255
+play	2	2430	/sounds/502.aiff
+quiet	0	2433
+amp	0	2433	255
+play	0	2433	/sounds/500.aiff
+quiet	0	2442
+amp	0	2442	255
+play	0	2442	/sounds/500.aiff
+quiet	2	2445
+amp	2	2445	255
+play	2	2445	/sounds/502.aiff
+quiet	1	2445
+amp	1	2445	255
+play	1	2445	/sounds/503.aiff
+quiet	0	2451
+amp	0	2451	255
+play	0	2451	/sounds/500.aiff
+quiet	1	2454
+amp	1	2454	255
+play	1	2454	/sounds/503.aiff
+quiet	1	2454
+amp	1	2454	255
+play	1	2454	/sounds/503.aiff
+quiet	2	2460
+amp	2	2460	255
+play	2	2460	/sounds/502.aiff
+quiet	0	2460
+amp	0	2460	255
+play	0	2460	/sounds/500.aiff
+quiet	1	2463
+amp	1	2463	255
+play	1	2463	/sounds/503.aiff
+quiet	0	2469
+amp	0	2469	255
+play	0	2469	/sounds/500.aiff
+quiet	1	2469
+amp	1	2469	255
+play	1	2469	/sounds/503.aiff
+quiet	1	2472
+amp	1	2472	255
+play	1	2472	/sounds/503.aiff
+quiet	2	2475
+amp	2	2475	255
+play	2	2475	/sounds/502.aiff
+quiet	0	2478
+amp	0	2478	255
+play	0	2478	/sounds/500.aiff
+quiet	1	2481
+amp	1	2481	255
+play	1	2481	/sounds/503.aiff
+quiet	0	2484
+amp	0	2484	255
+play	0	2484	/sounds/515.aiff
+quiet	1	2484
+amp	1	2484	255
+play	1	2484	/sounds/503.aiff
+quiet	2	2487
+amp	2	2487	255
+play	2	2487	/sounds/500.aiff
+quiet	2	2496
+amp	2	2496	255
+play	2	2496	/sounds/500.aiff
+quiet	1	2537
+amp	1	2537	128
+play	1	2537	/sounds/510.aiff
+quiet	1	2625
+amp	1	2625	255
+play	1	2625	/sounds/526.aiff
+quiet	2	2649
+amp	2	2649	255
+play	2	2649	/sounds/527.aiff
+quiet	0	2673
+amp	0	2673	255
+play	0	2673	/sounds/528.aiff
+quiet	1	2700
+amp	1	2700	255
+play	1	2700	/sounds/529.aiff
+quiet	2	2724
+amp	2	2724	255
+play	2	2724	/sounds/517.aiff
+quiet	0	2840
+amp	0	2840	128
+play	0	2840	/sounds/510.aiff
+quiet	0	2841
+amp	0	2841	255
+play	0	2841	/sounds/550.aiff
+quiet	0	2889
+amp	0	2889	255
+play	0	2889	/sounds/518.aiff
+quiet	1	2976
+amp	1	2976	255
+play	1	2976	/sounds/502.aiff
+quiet	2	2976
+amp	2	2976	255
+play	2	2976	/sounds/500.aiff
+quiet	2	2985
+amp	2	2985	255
+play	2	2985	/sounds/500.aiff
+quiet	1	2991
+amp	1	2991	255
+play	1	2991	/sounds/502.aiff
+quiet	2	2994
+amp	2	2994	255
+play	2	2994	/sounds/500.aiff
+quiet	0	2994
+amp	0	2994	255
+play	0	2994	/sounds/503.aiff
+quiet	0	2994
+amp	0	2994	255
+play	0	2994	/sounds/503.aiff
+quiet	2	3003
+amp	2	3003	255
+play	2	3003	/sounds/500.aiff
+quiet	0	3003
+amp	0	3003	255
+play	0	3003	/sounds/503.aiff
+quiet	1	3006
+amp	1	3006	255
+play	1	3006	/sounds/502.aiff
+quiet	0	3009
+amp	0	3009	255
+play	0	3009	/sounds/503.aiff
+quiet	2	3012
+amp	2	3012	255
+play	2	3012	/sounds/500.aiff
+quiet	0	3012
+amp	0	3012	255
+play	0	3012	/sounds/503.aiff
+quiet	0	3015
+amp	0	3015	255
+play	0	3015	/sounds/503.aiff
+quiet	1	3021
+amp	1	3021	255
+play	1	3021	/sounds/502.aiff
+quiet	2	3021
+amp	2	3021	255
+play	2	3021	/sounds/500.aiff
+quiet	0	3021
+amp	0	3021	255
+play	0	3021	/sounds/503.aiff
+quiet	0	3021
+amp	0	3021	255
+play	0	3021	/sounds/503.aiff
+quiet	1	3090
+amp	1	3090	255
+play	1	3090	/sounds/502.aiff
+quiet	2	3090
+amp	2	3090	255
+play	2	3090	/sounds/500.aiff
+quiet	2	3099
+amp	2	3099	255
+play	2	3099	/sounds/500.aiff
+quiet	1	3105
+amp	1	3105	255
+play	1	3105	/sounds/502.aiff
+quiet	2	3108
+amp	2	3108	255
+play	2	3108	/sounds/500.aiff
+quiet	2	3117
+amp	2	3117	255
+play	2	3117	/sounds/500.aiff
+quiet	1	3120
+amp	1	3120	255
+play	1	3120	/sounds/502.aiff
+quiet	2	3126
+amp	2	3126	255
+play	2	3126	/sounds/500.aiff
+quiet	0	3132
+amp	0	3132	255
+play	0	3132	/sounds/503.aiff
+quiet	1	3135
+amp	1	3135	255
+play	1	3135	/sounds/502.aiff
+quiet	2	3135
+amp	2	3135	255
+play	2	3135	/sounds/500.aiff
+quiet	0	3141
+amp	0	3141	255
+play	0	3141	/sounds/503.aiff
+quiet	2	3144
+amp	2	3144	255
+play	2	3144	/sounds/500.aiff
+quiet	1	3150
+amp	1	3150	255
+play	1	3150	/sounds/502.aiff
+quiet	2	3153
+amp	2	3153	255
+play	2	3153	/sounds/500.aiff
+quiet	2	3162
+amp	2	3162	255
+play	2	3162	/sounds/500.aiff
+quiet	0	3171
+amp	0	3171	255
+play	0	3171	/sounds/503.aiff
+quiet	1	3201
+amp	1	3201	255
+play	1	3201	/sounds/502.aiff
+quiet	2	3201
+amp	2	3201	255
+play	2	3201	/sounds/500.aiff
+quiet	2	3210
+amp	2	3210	255
+play	2	3210	/sounds/500.aiff
+quiet	1	3216
+amp	1	3216	255
+play	1	3216	/sounds/502.aiff
+quiet	0	3216
+amp	0	3216	255
+play	0	3216	/sounds/503.aiff
+quiet	2	3219
+amp	2	3219	255
+play	2	3219	/sounds/500.aiff
+quiet	0	3222
+amp	0	3222	255
+play	0	3222	/sounds/503.aiff
+quiet	0	3225
+amp	0	3225	255
+play	0	3225	/sounds/503.aiff
+quiet	2	3228
+amp	2	3228	255
+play	2	3228	/sounds/500.aiff
+quiet	1	3231
+amp	1	3231	255
+play	1	3231	/sounds/502.aiff
+quiet	0	3231
+amp	0	3231	255
+play	0	3231	/sounds/503.aiff
+quiet	2	3237
+amp	2	3237	255
+play	2	3237	/sounds/500.aiff
+quiet	0	3237
+amp	0	3237	255
+play	0	3237	/sounds/503.aiff
+quiet	0	3240
+amp	0	3240	255
+play	0	3240	/sounds/515.aiff
+quiet	1	3246
+amp	1	3246	255
+play	1	3246	/sounds/502.aiff
+quiet	2	3246
+amp	2	3246	255
+play	2	3246	/sounds/500.aiff
+quiet	2	3255
+amp	2	3255	255
+play	2	3255	/sounds/500.aiff
+quiet	1	3261
+amp	1	3261	255
+play	1	3261	/sounds/502.aiff
+quiet	2	3264
+amp	2	3264	255
+play	2	3264	/sounds/500.aiff
+quiet	1	3324
+amp	1	3324	255
+play	1	3324	/sounds/503.aiff
+quiet	2	3525
+amp	2	3525	255
+play	2	3525	/sounds/502.aiff
+quiet	0	3525
+amp	0	3525	255
+play	0	3525	/sounds/500.aiff
+quiet	0	3534
+amp	0	3534	255
+play	0	3534	/sounds/500.aiff
+quiet	2	3540
+amp	2	3540	255
+play	2	3540	/sounds/502.aiff
+quiet	2	3555
+amp	2	3555	255
+play	2	3555	/sounds/502.aiff
+quiet	0	3555
+amp	0	3555	255
+play	0	3555	/sounds/500.aiff
+quiet	0	3564
+amp	0	3564	255
+play	0	3564	/sounds/500.aiff
+quiet	2	3570
+amp	2	3570	255
+play	2	3570	/sounds/502.aiff
+quiet	2	3585
+amp	2	3585	255
+play	2	3585	/sounds/502.aiff
+quiet	0	3585
+amp	0	3585	255
+play	0	3585	/sounds/500.aiff
+quiet	1	3585
+amp	1	3585	255
+play	1	3585	/sounds/503.aiff
+quiet	1	3597
+amp	1	3597	255
+play	1	3597	/sounds/503.aiff
+quiet	2	3612
+amp	2	3612	255
+play	2	3612	/sounds/502.aiff
+quiet	0	3612
+amp	0	3612	255
+play	0	3612	/sounds/500.aiff
+quiet	0	3621
+amp	0	3621	255
+play	0	3621	/sounds/500.aiff
+quiet	2	3645
+amp	2	3645	255
+play	2	3645	/sounds/502.aiff
+quiet	0	3645
+amp	0	3645	255
+play	0	3645	/sounds/500.aiff
+quiet	0	3654
+amp	0	3654	255
+play	0	3654	/sounds/500.aiff
+quiet	2	3660
+amp	2	3660	255
+play	2	3660	/sounds/502.aiff
+quiet	2	3690
+amp	2	3690	255
+play	2	3690	/sounds/502.aiff
+quiet	0	3690
+amp	0	3690	255
+play	0	3690	/sounds/500.aiff
+quiet	0	3699
+amp	0	3699	255
+play	0	3699	/sounds/500.aiff
+quiet	2	3705
+amp	2	3705	255
+play	2	3705	/sounds/502.aiff
+quiet	1	3705
+amp	1	3705	255
+play	1	3705	/sounds/503.aiff
+quiet	0	3708
+amp	0	3708	255
+play	0	3708	/sounds/500.aiff
+quiet	0	3717
+amp	0	3717	255
+play	0	3717	/sounds/500.aiff
+quiet	1	3723
+amp	1	3723	255
+play	1	3723	/sounds/503.aiff
+quiet	2	3738
+amp	2	3738	255
+play	2	3738	/sounds/502.aiff
+quiet	0	3741
+amp	0	3741	255
+play	0	3741	/sounds/500.aiff
+quiet	0	3750
+amp	0	3750	255
+play	0	3750	/sounds/500.aiff
+quiet	2	3801
+amp	2	3801	255
+play	2	3801	/sounds/502.aiff
+quiet	0	3801
+amp	0	3801	255
+play	0	3801	/sounds/500.aiff
+quiet	0	3810
+amp	0	3810	255
+play	0	3810	/sounds/500.aiff
+quiet	1	3810
+amp	1	3810	255
+play	1	3810	/sounds/503.aiff
+quiet	2	3816
+amp	2	3816	255
+play	2	3816	/sounds/502.aiff
+quiet	1	3816
+amp	1	3816	255
+play	1	3816	/sounds/503.aiff
+quiet	0	3819
+amp	0	3819	255
+play	0	3819	/sounds/500.aiff
+quiet	0	3828
+amp	0	3828	255
+play	0	3828	/sounds/500.aiff
+quiet	2	3831
+amp	2	3831	255
+play	2	3831	/sounds/502.aiff
+quiet	1	3846
+amp	1	3846	255
+play	1	3846	/sounds/527.aiff
+quiet	2	3849
+amp	2	3849	255
+play	2	3849	/sounds/502.aiff
+quiet	0	3849
+amp	0	3849	255
+play	0	3849	/sounds/500.aiff
+quiet	0	3858
+amp	0	3858	255
+play	0	3858	/sounds/500.aiff
+quiet	2	3864
+amp	2	3864	255
+play	2	3864	/sounds/502.aiff
+quiet	1	3870
+amp	1	3870	255
+play	1	3870	/sounds/528.aiff
+quiet	0	3897
+amp	0	3897	255
+play	0	3897	/sounds/529.aiff
+quiet	2	3921
+amp	2	3921	253
+play	2	3921	/sounds/517.aiff
+quiet	1	4029
+amp	1	4029	245
+play	1	4029	/sounds/526.aiff
+quiet	0	4053
+amp	0	4053	231
+play	0	4053	/sounds/527.aiff
+quiet	2	4077
+amp	2	4077	220
+play	2	4077	/sounds/528.aiff
+quiet	1	4103
+amp	1	4103	128
+play	1	4103	/sounds/510.aiff
+quiet	1	4104
+amp	1	4104	206
+play	1	4104	/sounds/529.aiff
+quiet	0	4128
+amp	0	4128	191
+play	0	4128	/sounds/517.aiff
+quiet	2	4434
+amp	2	4434	36
+play	2	4434	/sounds/561.aiff
+quiet	2	4591
+amp	2	4591	128
+play	2	4591	/sounds/510.aiff
+quiet	0	4674
+amp	0	4674	240
+play	0	4674	/sounds/561.aiff
+quiet	0	4914
+amp	0	4914	252
+play	0	4914	/sounds/561.aiff
+quiet	0	5043
+amp	0	5043	255
+play	0	5043	/sounds/502.aiff
+quiet	1	5043
+amp	1	5043	255
+play	1	5043	/sounds/500.aiff
+quiet	1	5052
+amp	1	5052	255
+play	1	5052	/sounds/500.aiff
+quiet	0	5058
+amp	0	5058	255
+play	0	5058	/sounds/502.aiff
+quiet	1	5061
+amp	1	5061	255
+play	1	5061	/sounds/500.aiff
+quiet	2	5061
+amp	2	5061	255
+play	2	5061	/sounds/503.aiff
+quiet	2	5064
+amp	2	5064	255
+play	2	5064	/sounds/503.aiff
+quiet	2	5067
+amp	2	5067	255
+play	2	5067	/sounds/503.aiff
+quiet	1	5070
+amp	1	5070	255
+play	1	5070	/sounds/500.aiff
+quiet	0	5073
+amp	0	5073	255
+play	0	5073	/sounds/502.aiff
+quiet	1	5079
+amp	1	5079	255
+play	1	5079	/sounds/500.aiff
+quiet	0	5109
+amp	0	5109	255
+play	0	5109	/sounds/502.aiff
+quiet	1	5112
+amp	1	5112	255
+play	1	5112	/sounds/500.aiff
+quiet	1	5121
+amp	1	5121	255
+play	1	5121	/sounds/500.aiff
+quiet	0	5124
+amp	0	5124	255
+play	0	5124	/sounds/502.aiff
+quiet	2	5124
+amp	2	5124	255
+play	2	5124	/sounds/503.aiff
+quiet	1	5130
+amp	1	5130	255
+play	1	5130	/sounds/500.aiff
+quiet	2	5133
+amp	2	5133	255
+play	2	5133	/sounds/503.aiff
+quiet	0	5139
+amp	0	5139	255
+play	0	5139	/sounds/502.aiff
+quiet	1	5139
+amp	1	5139	255
+play	1	5139	/sounds/500.aiff
+quiet	2	5142
+amp	2	5142	255
+play	2	5142	/sounds/503.aiff
+quiet	1	5148
+amp	1	5148	255
+play	1	5148	/sounds/500.aiff
+quiet	0	5154
+amp	0	5154	255
+play	0	5154	/sounds/561.aiff
+quiet	1	5160
+amp	1	5160	255
+play	1	5160	/sounds/502.aiff
+quiet	2	5169
+amp	2	5169	255
+play	2	5169	/sounds/500.aiff
+quiet	1	5175
+amp	1	5175	255
+play	1	5175	/sounds/502.aiff
+quiet	0	5175
+amp	0	5175	255
+play	0	5175	/sounds/503.aiff
+quiet	2	5178
+amp	2	5178	255
+play	2	5178	/sounds/500.aiff
+quiet	0	5184
+amp	0	5184	255
+play	0	5184	/sounds/503.aiff
+quiet	2	5187
+amp	2	5187	255
+play	2	5187	/sounds/500.aiff
+quiet	1	5190
+amp	1	5190	255
+play	1	5190	/sounds/502.aiff
+quiet	0	5193
+amp	0	5193	255
+play	0	5193	/sounds/503.aiff
+quiet	2	5211
+amp	2	5211	255
+play	2	5211	/sounds/501.aiff
+quiet	1	5214
+amp	1	5214	255
+play	1	5214	/sounds/502.aiff
+quiet	0	5214
+amp	0	5214	255
+play	0	5214	/sounds/500.aiff
+quiet	0	5223
+amp	0	5223	255
+play	0	5223	/sounds/500.aiff
+quiet	1	5238
+amp	1	5238	255
+play	1	5238	/sounds/503.aiff
+quiet	2	5241
+amp	2	5241	255
+play	2	5241	/sounds/502.aiff
+quiet	0	5241
+amp	0	5241	255
+play	0	5241	/sounds/500.aiff
+quiet	0	5250
+amp	0	5250	255
+play	0	5250	/sounds/500.aiff
+quiet	2	5265
+amp	2	5265	255
+play	2	5265	/sounds/502.aiff
+quiet	0	5268
+amp	0	5268	255
+play	0	5268	/sounds/500.aiff
+quiet	0	5277
+amp	0	5277	255
+play	0	5277	/sounds/500.aiff
+quiet	2	5280
+amp	2	5280	255
+play	2	5280	/sounds/502.aiff
+quiet	0	5286
+amp	0	5286	255
+play	0	5286	/sounds/500.aiff
+quiet	1	5286
+amp	1	5286	255
+play	1	5286	/sounds/503.aiff
+quiet	1	5298
+amp	1	5298	255
+play	1	5298	/sounds/503.aiff
+quiet	2	5325
+amp	2	5325	255
+play	2	5325	/sounds/502.aiff
+quiet	0	5325
+amp	0	5325	255
+play	0	5325	/sounds/500.aiff
+quiet	0	5334
+amp	0	5334	255
+play	0	5334	/sounds/500.aiff
+quiet	2	5340
+amp	2	5340	255
+play	2	5340	/sounds/502.aiff
+quiet	0	5352
+amp	0	5352	255
+play	0	5352	/sounds/500.aiff
+quiet	2	5355
+amp	2	5355	255
+play	2	5355	/sounds/502.aiff
+quiet	0	5361
+amp	0	5361	255
+play	0	5361	/sounds/500.aiff
+quiet	1	5367
+amp	1	5367	255
+play	1	5367	/sounds/503.aiff
+quiet	2	5370
+amp	2	5370	255
+play	2	5370	/sounds/502.aiff
+quiet	0	5370
+amp	0	5370	255
+play	0	5370	/sounds/500.aiff
+quiet	0	5379
+amp	0	5379	255
+play	0	5379	/sounds/500.aiff
+quiet	2	5385
+amp	2	5385	255
+play	2	5385	/sounds/502.aiff
+quiet	1	5388
+amp	1	5388	255
+play	1	5388	/sounds/503.aiff
+quiet	0	5394
+amp	0	5394	255
+play	0	5394	/sounds/561.aiff
+quiet	2	5412
+amp	2	5412	255
+play	2	5412	/sounds/502.aiff
+quiet	1	5412
+amp	1	5412	255
+play	1	5412	/sounds/500.aiff
+quiet	1	5421
+amp	1	5421	255
+play	1	5421	/sounds/500.aiff
+quiet	2	5427
+amp	2	5427	255
+play	2	5427	/sounds/502.aiff
+quiet	1	5430
+amp	1	5430	255
+play	1	5430	/sounds/500.aiff
+quiet	1	5439
+amp	1	5439	255
+play	1	5439	/sounds/500.aiff
+quiet	2	5442
+amp	2	5442	255
+play	2	5442	/sounds/502.aiff
+quiet	1	5448
+amp	1	5448	255
+play	1	5448	/sounds/500.aiff
+quiet	0	5448
+amp	0	5448	255
+play	0	5448	/sounds/503.aiff
+quiet	2	5457
+amp	2	5457	255
+play	2	5457	/sounds/502.aiff
+quiet	1	5457
+amp	1	5457	255
+play	1	5457	/sounds/500.aiff
+quiet	0	5457
+amp	0	5457	255
+play	0	5457	/sounds/503.aiff
+quiet	1	5466
+amp	1	5466	255
+play	1	5466	/sounds/500.aiff
+quiet	0	5484
+amp	0	5484	255
+play	0	5484	/sounds/503.aiff
+quiet	2	5511
+amp	2	5511	255
+play	2	5511	/sounds/502.aiff
+quiet	1	5514
+amp	1	5514	255
+play	1	5514	/sounds/500.aiff
+quiet	1	5523
+amp	1	5523	255
+play	1	5523	/sounds/500.aiff
+quiet	2	5526
+amp	2	5526	255
+play	2	5526	/sounds/502.aiff
+quiet	1	5532
+amp	1	5532	255
+play	1	5532	/sounds/500.aiff
+quiet	2	5541
+amp	2	5541	255
+play	2	5541	/sounds/502.aiff
+quiet	1	5541
+amp	1	5541	255
+play	1	5541	/sounds/500.aiff
+quiet	0	5541
+amp	0	5541	255
+play	0	5541	/sounds/515.aiff
+quiet	1	5772
+amp	1	5772	255
+play	1	5772	/sounds/514.aiff
+quiet	2	5793
+amp	2	5793	255
+play	2	5793	/sounds/550.aiff
+quiet	0	5799
+amp	0	5799	255
+play	0	5799	/sounds/550.aiff
+quiet	1	5805
+amp	1	5805	255
+play	1	5805	/sounds/550.aiff
+quiet	2	5808
+amp	2	5808	255
+play	2	5808	/sounds/550.aiff
+quiet	0	5811
+amp	0	5811	255
+play	0	5811	/sounds/550.aiff
+quiet	1	5820
+amp	1	5820	255
+play	1	5820	/sounds/550.aiff
+quiet	0	5820
+amp	0	5820	255
+play	0	5820	/sounds/553.aiff
+quiet	2	5826
+amp	2	5826	255
+play	2	5826	/sounds/550.aiff
+quiet	1	5829
+amp	1	5829	255
+play	1	5829	/sounds/552.aiff
+quiet	2	5892
+amp	2	5892	255
+play	2	5892	/sounds/502.aiff
+quiet	0	5892
+amp	0	5892	255
+play	0	5892	/sounds/500.aiff
+quiet	0	5901
+amp	0	5901	255
+play	0	5901	/sounds/500.aiff
+quiet	2	5907
+amp	2	5907	255
+play	2	5907	/sounds/502.aiff
+quiet	0	5910
+amp	0	5910	255
+play	0	5910	/sounds/500.aiff
+quiet	0	5919
+amp	0	5919	255
+play	0	5919	/sounds/500.aiff
+quiet	2	5922
+amp	2	5922	255
+play	2	5922	/sounds/502.aiff
+quiet	1	5925
+amp	1	5925	255
+play	1	5925	/sounds/503.aiff
+quiet	0	5928
+amp	0	5928	255
+play	0	5928	/sounds/500.aiff
+quiet	1	5928
+amp	1	5928	255
+play	1	5928	/sounds/503.aiff
+quiet	1	5934
+amp	1	5934	255
+play	1	5934	/sounds/503.aiff
+quiet	2	5937
+amp	2	5937	255
+play	2	5937	/sounds/502.aiff
+quiet	0	5937
+amp	0	5937	255
+play	0	5937	/sounds/500.aiff
+quiet	0	5946
+amp	0	5946	255
+play	0	5946	/sounds/500.aiff
+quiet	2	5949
+amp	2	5949	255
+play	2	5949	/sounds/550.aiff
+quiet	1	5949
+amp	1	5949	255
+play	1	5949	/sounds/503.aiff
+quiet	2	5955
+amp	2	5955	255
+play	2	5955	/sounds/502.aiff
+quiet	0	5958
+amp	0	5958	255
+play	0	5958	/sounds/500.aiff
+quiet	1	5958
+amp	1	5958	255
+play	1	5958	/sounds/503.aiff
+quiet	2	5967
+amp	2	5967	255
+play	2	5967	/sounds/550.aiff
+quiet	0	5967
+amp	0	5967	255
+play	0	5967	/sounds/500.aiff
+quiet	2	5970
+amp	2	5970	255
+play	2	5970	/sounds/502.aiff
+quiet	0	5976
+amp	0	5976	255
+play	0	5976	/sounds/500.aiff
+quiet	2	5985
+amp	2	5985	255
+play	2	5985	/sounds/502.aiff
+quiet	0	5985
+amp	0	5985	255
+play	0	5985	/sounds/500.aiff
+quiet	1	5985
+amp	1	5985	255
+play	1	5985	/sounds/503.aiff
+quiet	1	5988
+amp	1	5988	255
+play	1	5988	/sounds/503.aiff
+quiet	0	5994
+amp	0	5994	255
+play	0	5994	/sounds/500.aiff
+quiet	2	6000
+amp	2	6000	255
+play	2	6000	/sounds/502.aiff
+quiet	1	6000
+amp	1	6000	255
+play	1	6000	/sounds/503.aiff
+quiet	0	6003
+amp	0	6003	255
+play	0	6003	/sounds/500.aiff
+quiet	1	6009
+amp	1	6009	255
+play	1	6009	/sounds/503.aiff
+quiet	2	6012
+amp	2	6012	255
+play	2	6012	/sounds/550.aiff
+quiet	0	6012
+amp	0	6012	255
+play	0	6012	/sounds/500.aiff
+quiet	1	6012
+amp	1	6012	255
+play	1	6012	/sounds/503.aiff
+quiet	2	6015
+amp	2	6015	255
+play	2	6015	/sounds/502.aiff
+quiet	0	6021
+amp	0	6021	255
+play	0	6021	/sounds/500.aiff
+quiet	1	6021
+amp	1	6021	255
+play	1	6021	/sounds/503.aiff
+quiet	2	6027
+amp	2	6027	255
+play	2	6027	/sounds/552.aiff
+quiet	0	6030
+amp	0	6030	255
+play	0	6030	/sounds/500.aiff
+quiet	0	6039
+amp	0	6039	255
+play	0	6039	/sounds/500.aiff
+quiet	2	6039
+amp	2	6039	255
+play	2	6039	/sounds/552.aiff
+quiet	1	6042
+amp	1	6042	255
+play	1	6042	/sounds/550.aiff
+quiet	1	6045
+amp	1	6045	255
+play	1	6045	/sounds/502.aiff
+quiet	0	6048
+amp	0	6048	255
+play	0	6048	/sounds/500.aiff
+quiet	0	6057
+amp	0	6057	255
+play	0	6057	/sounds/500.aiff
+quiet	1	6060
+amp	1	6060	255
+play	1	6060	/sounds/502.aiff
+quiet	2	6063
+amp	2	6063	255
+play	2	6063	/sounds/503.aiff
+quiet	0	6066
+amp	0	6066	255
+play	0	6066	/sounds/500.aiff
+quiet	1	6075
+amp	1	6075	255
+play	1	6075	/sounds/502.aiff
+quiet	0	6075
+amp	0	6075	255
+play	0	6075	/sounds/500.aiff
+quiet	0	6084
+amp	0	6084	255
+play	0	6084	/sounds/500.aiff
+quiet	2	6096
+amp	2	6096	255
+play	2	6096	/sounds/550.aiff
+quiet	1	6102
+amp	1	6102	255
+play	1	6102	/sounds/550.aiff
+quiet	0	6108
+amp	0	6108	255
+play	0	6108	/sounds/550.aiff
+quiet	0	6108
+amp	0	6108	255
+play	0	6108	/sounds/552.aiff
+quiet	2	6114
+amp	2	6114	255
+play	2	6114	/sounds/550.aiff
+quiet	0	6117
+amp	0	6117	255
+play	0	6117	/sounds/552.aiff
+quiet	1	6120
+amp	1	6120	255
+play	1	6120	/sounds/550.aiff
+quiet	0	6123
+amp	0	6123	255
+play	0	6123	/sounds/552.aiff
+quiet	1	6129
+amp	1	6129	255
+play	1	6129	/sounds/502.aiff
+quiet	2	6129
+amp	2	6129	255
+play	2	6129	/sounds/500.aiff
+quiet	2	6138
+amp	2	6138	255
+play	2	6138	/sounds/500.aiff
+quiet	1	6144
+amp	1	6144	255
+play	1	6144	/sounds/502.aiff
+quiet	2	6147
+amp	2	6147	255
+play	2	6147	/sounds/500.aiff
+quiet	2	6156
+amp	2	6156	255
+play	2	6156	/sounds/500.aiff
+quiet	0	6159
+amp	0	6159	255
+play	0	6159	/sounds/503.aiff
+quiet	1	6162
+amp	1	6162	255
+play	1	6162	/sounds/502.aiff
+quiet	2	6165
+amp	2	6165	255
+play	2	6165	/sounds/500.aiff
+quiet	2	6174
+amp	2	6174	255
+play	2	6174	/sounds/500.aiff
+quiet	1	6177
+amp	1	6177	255
+play	1	6177	/sounds/502.aiff
+quiet	2	6183
+amp	2	6183	255
+play	2	6183	/sounds/500.aiff
+quiet	1	6195
+amp	1	6195	255
+play	1	6195	/sounds/502.aiff
+quiet	2	6198
+amp	2	6198	255
+play	2	6198	/sounds/500.aiff
+quiet	0	6204
+amp	0	6204	255
+play	0	6204	/sounds/550.aiff
+quiet	2	6207
+amp	2	6207	255
+play	2	6207	/sounds/500.aiff
+quiet	1	6210
+amp	1	6210	255
+play	1	6210	/sounds/550.aiff
+quiet	0	6210
+amp	0	6210	255
+play	0	6210	/sounds/502.aiff
+quiet	2	6216
+amp	2	6216	255
+play	2	6216	/sounds/500.aiff
+quiet	0	6225
+amp	0	6225	255
+play	0	6225	/sounds/502.aiff
+quiet	1	6225
+amp	1	6225	255
+play	1	6225	/sounds/503.aiff
+quiet	2	6228
+amp	2	6228	255
+play	2	6228	/sounds/500.aiff
+quiet	2	6237
+amp	2	6237	255
+play	2	6237	/sounds/500.aiff
+quiet	1	6240
+amp	1	6240	255
+play	1	6240	/sounds/503.aiff
+quiet	0	6246
+amp	0	6246	255
+play	0	6246	/sounds/502.aiff
+quiet	2	6246
+amp	2	6246	255
+play	2	6246	/sounds/500.aiff
+quiet	1	6255
+amp	1	6255	255
+play	1	6255	/sounds/503.aiff
+quiet	1	6261
+amp	1	6261	255
+play	1	6261	/sounds/503.aiff
+quiet	0	6270
+amp	0	6270	255
+play	0	6270	/sounds/502.aiff
+quiet	2	6273
+amp	2	6273	255
+play	2	6273	/sounds/500.aiff
+quiet	2	6282
+amp	2	6282	255
+play	2	6282	/sounds/500.aiff
+quiet	0	6285
+amp	0	6285	255
+play	0	6285	/sounds/502.aiff
+quiet	0	6285
+amp	0	6285	255
+play	0	6285	/sounds/515.aiff
+quiet	1	6285
+amp	1	6285	255
+play	1	6285	/sounds/503.aiff
+quiet	2	6291
+amp	2	6291	255
+play	2	6291	/sounds/500.aiff
+quiet	1	6297
+amp	1	6297	255
+play	1	6297	/sounds/503.aiff
+quiet	2	6300
+amp	2	6300	255
+play	2	6300	/sounds/500.aiff
+quiet	2	6378
+amp	2	6378	255
+play	2	6378	/sounds/514.aiff
+quiet	1	6699
+amp	1	6699	255
+play	1	6699	/sounds/503.aiff
+quiet	0	6730
+amp	0	6730	128
+play	0	6730	/sounds/510.aiff
+quiet	0	6889
+amp	0	6889	128
+play	0	6889	/sounds/510.aiff
+quiet	0	6957
+amp	0	6957	255
+play	0	6957	/sounds/533.aiff
+quiet	2	7002
+amp	2	7002	255
+play	2	7002	/sounds/502.aiff
+quiet	1	7002
+amp	1	7002	255
+play	1	7002	/sounds/500.aiff
+quiet	1	7011
+amp	1	7011	255
+play	1	7011	/sounds/500.aiff
+quiet	2	7017
+amp	2	7017	255
+play	2	7017	/sounds/502.aiff
+quiet	1	7020
+amp	1	7020	255
+play	1	7020	/sounds/500.aiff
+quiet	1	7029
+amp	1	7029	255
+play	1	7029	/sounds/500.aiff
+quiet	0	7029
+amp	0	7029	255
+play	0	7029	/sounds/532.aiff
+quiet	2	7032
+amp	2	7032	255
+play	2	7032	/sounds/502.aiff
+quiet	1	7038
+amp	1	7038	255
+play	1	7038	/sounds/500.aiff
+quiet	2	7047
+amp	2	7047	255
+play	2	7047	/sounds/502.aiff
+quiet	1	7047
+amp	1	7047	255
+play	1	7047	/sounds/500.aiff
+quiet	1	7056
+amp	1	7056	255
+play	1	7056	/sounds/500.aiff
+quiet	2	7062
+amp	2	7062	255
+play	2	7062	/sounds/502.aiff
+quiet	0	7062
+amp	0	7062	255
+play	0	7062	/sounds/503.aiff
+quiet	1	7065
+amp	1	7065	255
+play	1	7065	/sounds/500.aiff
+quiet	0	7068
+amp	0	7068	255
+play	0	7068	/sounds/503.aiff
+quiet	0	7071
+amp	0	7071	255
+play	0	7071	/sounds/503.aiff
+quiet	1	7074
+amp	1	7074	255
+play	1	7074	/sounds/500.aiff
+quiet	0	7074
+amp	0	7074	255
+play	0	7074	/sounds/503.aiff
+quiet	2	7077
+amp	2	7077	255
+play	2	7077	/sounds/502.aiff
+quiet	0	7080
+amp	0	7080	255
+play	0	7080	/sounds/503.aiff
+quiet	1	7083
+amp	1	7083	255
+play	1	7083	/sounds/500.aiff
+quiet	0	7083
+amp	0	7083	255
+play	0	7083	/sounds/503.aiff
+quiet	0	7089
+amp	0	7089	255
+play	0	7089	/sounds/503.aiff
+quiet	2	7092
+amp	2	7092	255
+play	2	7092	/sounds/502.aiff
+quiet	1	7092
+amp	1	7092	255
+play	1	7092	/sounds/500.aiff
+quiet	0	7092
+amp	0	7092	255
+play	0	7092	/sounds/503.aiff
+quiet	0	7098
+amp	0	7098	255
+play	0	7098	/sounds/503.aiff
+quiet	1	7101
+amp	1	7101	255
+play	1	7101	/sounds/500.aiff
+quiet	0	7101
+amp	0	7101	255
+play	0	7101	/sounds/503.aiff
+quiet	0	7104
+amp	0	7104	255
+play	0	7104	/sounds/503.aiff
+quiet	2	7107
+amp	2	7107	255
+play	2	7107	/sounds/502.aiff
+quiet	1	7110
+amp	1	7110	255
+play	1	7110	/sounds/500.aiff
+quiet	0	7113
+amp	0	7113	255
+play	0	7113	/sounds/515.aiff
+quiet	1	7119
+amp	1	7119	255
+play	1	7119	/sounds/500.aiff
+quiet	2	7122
+amp	2	7122	255
+play	2	7122	/sounds/502.aiff
+quiet	1	7128
+amp	1	7128	255
+play	1	7128	/sounds/500.aiff
+quiet	2	7179
+amp	2	7179	128
+play	2	7179	/sounds/510.aiff
+quiet	2	7217
+amp	2	7217	128
+play	2	7217	/sounds/510.aiff
+quiet	1	7322
+amp	1	7322	64
+play	1	7322	/sounds/535.aiff
+quiet	1	7325
+amp	1	7325	64
+play	1	7325	/sounds/535.aiff
+quiet	1	7328
+amp	1	7328	64
+play	1	7328	/sounds/535.aiff
+quiet	1	7331
+amp	1	7331	64
+play	1	7331	/sounds/535.aiff
+quiet	1	7334
+amp	1	7334	64
+play	1	7334	/sounds/535.aiff
+quiet	1	7337
+amp	1	7337	64
+play	1	7337	/sounds/535.aiff
+quiet	1	7340
+amp	1	7340	64
+play	1	7340	/sounds/535.aiff
+quiet	1	7343
+amp	1	7343	64
+play	1	7343	/sounds/535.aiff
+quiet	1	7344
+amp	1	7344	255
+play	1	7344	/sounds/526.aiff
+quiet	0	7346
+amp	0	7346	64
+play	0	7346	/sounds/535.aiff
+quiet	0	7349
+amp	0	7349	64
+play	0	7349	/sounds/535.aiff
+quiet	0	7352
+amp	0	7352	64
+play	0	7352	/sounds/535.aiff
+quiet	0	7355
+amp	0	7355	64
+play	0	7355	/sounds/535.aiff
+quiet	0	7358
+amp	0	7358	64
+play	0	7358	/sounds/535.aiff
+quiet	0	7361
+amp	0	7361	64
+play	0	7361	/sounds/535.aiff
+quiet	0	7364
+amp	0	7364	64
+play	0	7364	/sounds/535.aiff
+quiet	0	7367
+amp	0	7367	64
+play	0	7367	/sounds/535.aiff
+quiet	0	7368
+amp	0	7368	255
+play	0	7368	/sounds/527.aiff
+quiet	2	7370
+amp	2	7370	64
+play	2	7370	/sounds/535.aiff
+quiet	2	7373
+amp	2	7373	64
+play	2	7373	/sounds/535.aiff
+quiet	2	7376
+amp	2	7376	64
+play	2	7376	/sounds/535.aiff
+quiet	2	7379
+amp	2	7379	64
+play	2	7379	/sounds/535.aiff
+quiet	2	7382
+amp	2	7382	64
+play	2	7382	/sounds/535.aiff
+quiet	2	7385
+amp	2	7385	64
+play	2	7385	/sounds/535.aiff
+quiet	2	7388
+amp	2	7388	64
+play	2	7388	/sounds/535.aiff
+quiet	2	7391
+amp	2	7391	64
+play	2	7391	/sounds/535.aiff
+quiet	2	7392
+amp	2	7392	255
+play	2	7392	/sounds/528.aiff
+quiet	1	7394
+amp	1	7394	64
+play	1	7394	/sounds/535.aiff
+quiet	1	7397
+amp	1	7397	64
+play	1	7397	/sounds/535.aiff
+quiet	1	7400
+amp	1	7400	64
+play	1	7400	/sounds/535.aiff
+quiet	1	7403
+amp	1	7403	64
+play	1	7403	/sounds/535.aiff
+quiet	1	7406
+amp	1	7406	64
+play	1	7406	/sounds/535.aiff
+quiet	1	7409
+amp	1	7409	64
+play	1	7409	/sounds/535.aiff
+quiet	1	7412
+amp	1	7412	64
+play	1	7412	/sounds/535.aiff
+quiet	1	7415
+amp	1	7415	64
+play	1	7415	/sounds/535.aiff
+quiet	1	7418
+amp	1	7418	64
+play	1	7418	/sounds/535.aiff
+quiet	1	7419
+amp	1	7419	255
+play	1	7419	/sounds/529.aiff
+quiet	0	7421
+amp	0	7421	64
+play	0	7421	/sounds/535.aiff
+quiet	0	7424
+amp	0	7424	64
+play	0	7424	/sounds/535.aiff
+quiet	0	7427
+amp	0	7427	64
+play	0	7427	/sounds/535.aiff
+quiet	0	7430
+amp	0	7430	64
+play	0	7430	/sounds/535.aiff
+quiet	0	7433
+amp	0	7433	64
+play	0	7433	/sounds/535.aiff
+quiet	0	7436
+amp	0	7436	64
+play	0	7436	/sounds/535.aiff
+quiet	0	7439
+amp	0	7439	64
+play	0	7439	/sounds/535.aiff
+quiet	0	7442
+amp	0	7442	64
+play	0	7442	/sounds/535.aiff
+quiet	0	7443
+amp	0	7443	255
+play	0	7443	/sounds/517.aiff
+quiet	2	7445
+amp	2	7445	64
+play	2	7445	/sounds/535.aiff
+quiet	2	7448
+amp	2	7448	64
+play	2	7448	/sounds/535.aiff
+quiet	2	7451
+amp	2	7451	64
+play	2	7451	/sounds/535.aiff
+quiet	2	7454
+amp	2	7454	64
+play	2	7454	/sounds/535.aiff
+quiet	2	7457
+amp	2	7457	64
+play	2	7457	/sounds/535.aiff
+quiet	2	7460
+amp	2	7460	64
+play	2	7460	/sounds/535.aiff
+quiet	2	7463
+amp	2	7463	64
+play	2	7463	/sounds/535.aiff
+quiet	2	7466
+amp	2	7466	64
+play	2	7466	/sounds/535.aiff
+quiet	2	7469
+amp	2	7469	64
+play	2	7469	/sounds/535.aiff
+quiet	2	7472
+amp	2	7472	64
+play	2	7472	/sounds/535.aiff
+quiet	2	7475
+amp	2	7475	64
+play	2	7475	/sounds/535.aiff
+quiet	2	7478
+amp	2	7478	64
+play	2	7478	/sounds/535.aiff
+quiet	2	7481
+amp	2	7481	64
+play	2	7481	/sounds/535.aiff
+quiet	2	7484
+amp	2	7484	64
+play	2	7484	/sounds/535.aiff
+quiet	2	7485
+amp	2	7485	51
+play	2	7485	/sounds/561.aiff
+quiet	2	7487
+amp	2	7487	64
+play	2	7487	/sounds/535.aiff
+quiet	2	7490
+amp	2	7490	64
+play	2	7490	/sounds/535.aiff
+quiet	2	7493
+amp	2	7493	64
+play	2	7493	/sounds/535.aiff
+quiet	2	7496
+amp	2	7496	64
+play	2	7496	/sounds/535.aiff
+quiet	2	7499
+amp	2	7499	64
+play	2	7499	/sounds/535.aiff
+quiet	2	7499
+amp	2	7499	128
+play	2	7499	/sounds/510.aiff
+quiet	1	7502
+amp	1	7502	64
+play	1	7502	/sounds/535.aiff
+quiet	1	7505
+amp	1	7505	64
+play	1	7505	/sounds/535.aiff
+quiet	1	7508
+amp	1	7508	64
+play	1	7508	/sounds/535.aiff
+quiet	1	7511
+amp	1	7511	64
+play	1	7511	/sounds/535.aiff
+quiet	1	7514
+amp	1	7514	64
+play	1	7514	/sounds/535.aiff
+quiet	1	7517
+amp	1	7517	64
+play	1	7517	/sounds/535.aiff
+quiet	1	7520
+amp	1	7520	64
+play	1	7520	/sounds/535.aiff
+quiet	1	7523
+amp	1	7523	64
+play	1	7523	/sounds/535.aiff
+quiet	1	7526
+amp	1	7526	64
+play	1	7526	/sounds/535.aiff
+quiet	1	7529
+amp	1	7529	64
+play	1	7529	/sounds/535.aiff
+quiet	1	7532
+amp	1	7532	64
+play	1	7532	/sounds/535.aiff
+quiet	1	7535
+amp	1	7535	64
+play	1	7535	/sounds/535.aiff
+quiet	1	7538
+amp	1	7538	64
+play	1	7538	/sounds/535.aiff
+quiet	1	7541
+amp	1	7541	64
+play	1	7541	/sounds/535.aiff
+quiet	1	7544
+amp	1	7544	64
+play	1	7544	/sounds/535.aiff
+quiet	1	7547
+amp	1	7547	64
+play	1	7547	/sounds/535.aiff
+quiet	1	7550
+amp	1	7550	64
+play	1	7550	/sounds/535.aiff
+quiet	1	7553
+amp	1	7553	64
+play	1	7553	/sounds/535.aiff
+quiet	1	7785
+amp	1	7785	255
+play	1	7785	/sounds/518.aiff
+quiet	2	7833
+amp	2	7833	140
+play	2	7833	/sounds/518.aiff
+quiet	0	7851
+amp	0	7851	128
+play	0	7851	/sounds/509.aiff
+quiet	1	7860
+amp	1	7860	255
+play	1	7860	/sounds/518.aiff
+quiet	0	7914
+amp	0	7914	128
+play	0	7914	/sounds/509.aiff
+quiet	0	7965
+amp	0	7965	232
+play	0	7965	/sounds/561.aiff
+quiet	2	7985
+amp	2	7985	128
+play	2	7985	/sounds/510.aiff
+quiet	2	8079
+amp	2	8079	202
+play	2	8079	/sounds/522.aiff
+quiet	1	8079
+amp	1	8079	202
+play	1	8079	/sounds/519.aiff
+quiet	0	8085
+amp	0	8085	255
+play	0	8085	/sounds/502.aiff
+quiet	1	8088
+amp	1	8088	255
+play	1	8088	/sounds/500.aiff
+quiet	2	8091
+amp	2	8091	255
+play	2	8091	/sounds/550.aiff
+quiet	2	8094
+amp	2	8094	205
+play	2	8094	/sounds/519.aiff
+quiet	2	8097
+amp	2	8097	255
+play	2	8097	/sounds/550.aiff
+quiet	1	8097
+amp	1	8097	255
+play	1	8097	/sounds/500.aiff
+quiet	2	8097
+amp	2	8097	255
+play	2	8097	/sounds/503.aiff
+quiet	2	8097
+amp	2	8097	255
+play	2	8097	/sounds/503.aiff
+quiet	0	8100
+amp	0	8100	255
+play	0	8100	/sounds/502.aiff
+quiet	2	8103
+amp	2	8103	255
+play	2	8103	/sounds/503.aiff
+quiet	1	8106
+amp	1	8106	255
+play	1	8106	/sounds/500.aiff
+quiet	0	8124
+amp	0	8124	211
+play	0	8124	/sounds/519.aiff
+quiet	0	8139
+amp	0	8139	215
+play	0	8139	/sounds/519.aiff
+quiet	1	8142
+amp	1	8142	215
+play	1	8142	/sounds/523.aiff
+quiet	0	8145
+amp	0	8145	255
+play	0	8145	/sounds/550.aiff
+quiet	1	8151
+amp	1	8151	255
+play	1	8151	/sounds/550.aiff
+quiet	0	8154
+amp	0	8154	219
+play	0	8154	/sounds/519.aiff
+quiet	0	8157
+amp	0	8157	255
+play	0	8157	/sounds/550.aiff
+quiet	2	8160
+amp	2	8160	255
+play	2	8160	/sounds/503.aiff
+quiet	1	8163
+amp	1	8163	255
+play	1	8163	/sounds/550.aiff
+quiet	0	8163
+amp	0	8163	255
+play	0	8163	/sounds/552.aiff
+quiet	0	8166
+amp	0	8166	255
+play	0	8166	/sounds/552.aiff
+quiet	1	8169
+amp	1	8169	228
+play	1	8169	/sounds/519.aiff
+quiet	1	8169
+amp	1	8169	255
+play	1	8169	/sounds/550.aiff
+quiet	0	8172
+amp	0	8172	255
+play	0	8172	/sounds/552.aiff
+quiet	1	8178
+amp	1	8178	255
+play	1	8178	/sounds/553.aiff
+quiet	0	8181
+amp	0	8181	255
+play	0	8181	/sounds/552.aiff
+quiet	2	8184
+amp	2	8184	241
+play	2	8184	/sounds/519.aiff
+quiet	2	8202
+amp	2	8202	255
+play	2	8202	/sounds/519.aiff
+quiet	1	8202
+amp	1	8202	255
+play	1	8202	/sounds/500.aiff
+quiet	0	8202
+amp	0	8202	255
+play	0	8202	/sounds/501.aiff
+quiet	0	8205
+amp	0	8205	255
+play	0	8205	/sounds/525.aiff
+quiet	1	8217
+amp	1	8217	255
+play	1	8217	/sounds/522.aiff
+quiet	2	8217
+amp	2	8217	255
+play	2	8217	/sounds/519.aiff
+quiet	2	8232
+amp	2	8232	255
+play	2	8232	/sounds/519.aiff
+quiet	1	8238
+amp	1	8238	255
+play	1	8238	/sounds/550.aiff
+quiet	1	8238
+amp	1	8238	255
+play	1	8238	/sounds/552.aiff
+quiet	2	8244
+amp	2	8244	255
+play	2	8244	/sounds/500.aiff
+quiet	1	8244
+amp	1	8244	255
+play	1	8244	/sounds/552.aiff
+quiet	2	8256
+amp	2	8256	255
+play	2	8256	/sounds/550.aiff
+quiet	1	8262
+amp	1	8262	255
+play	1	8262	/sounds/550.aiff
+quiet	1	8262
+amp	1	8262	255
+play	1	8262	/sounds/515.aiff
+quiet	2	8262
+amp	2	8262	255
+play	2	8262	/sounds/552.aiff
+quiet	0	8268
+amp	0	8268	255
+play	0	8268	/sounds/550.aiff
+quiet	0	8277
+amp	0	8277	255
+play	0	8277	/sounds/553.aiff
+quiet	2	8280
+amp	2	8280	255
+play	2	8280	/sounds/519.aiff
+quiet	2	8292
+amp	2	8292	255
+play	2	8292	/sounds/503.aiff
+quiet	0	8313
+amp	0	8313	255
+play	0	8313	/sounds/501.aiff
+quiet	3	8325

@@ -1,0 +1,1 @@
+\i SHIP DATA:\i\b41Type:\tEngineer Pod\b42Mass:\t1.097\b41Shield:\t800\b42Light Drive:\t0\b41Max Vel:\t3.000\b42Thrust:\t0.156\b41Turn:\t1.000\i WEAPON 2 DATA:\i\b41Type:\tRepulser\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t450\b41Damage:\t30

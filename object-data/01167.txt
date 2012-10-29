@@ -1,0 +1,1 @@
+\i SHIP DATA:\i\b41Type:\tGunship\b42Mass:\t1.199\b41Shield:\t3000\b42Light Drive:\t5120\b41Max Vel:\t5.000\b42Thrust:\t0.066\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tRapid Magneto\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t300\b41Damage:\t50\i WEAPON 2 DATA:\i\b41Type:\tLaser Turret\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t450\b41Damage:\t15

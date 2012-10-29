@@ -1,0 +1,1 @@
+\i SHIP DATA:\i\b41Type:\tCargo Ship\b42Mass:\t1.097\b41Shield:\t250\b42Light Drive:\t0\b41Max Vel:\t3.000\b42Thrust:\t0.156\b41Turn:\t1.000

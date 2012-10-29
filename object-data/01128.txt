@@ -1,0 +1,1 @@
+\i SHIP DATA:\i\b41Type:\tTractor Tug\b42Mass:\t1.199\b41Shield:\t700\b42Light Drive:\t0\b41Max Vel:\t2.000\b42Thrust:\t0.179\b41Turn:\t1.000

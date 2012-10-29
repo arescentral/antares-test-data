@@ -1,0 +1,1 @@
+\i OBJECT DATA:\i\b41Type:\tLarge Explosion\b42Mass:\t0.000\b41Shield:\t1000\b42Light Drive:\t0\b41Max Vel:\t20.000\b42Thrust:\t0.000\b41Turn:\t0.000
