@@ -1,1 +1,8 @@
-\i OBJECT DATA:\i\b41Type:\tAsteroid\b42Mass:\t10.000\b41Shield:\t10000\b42Light Drive:\t0\b41Max Vel:\t3.000\b42Thrust:\t0.000\b41Turn:\t-0.003
+\i OBJECT DATA:\i
+\b41Type:\tAsteroid
+\b42Mass:\t10.000
+\b41Shield:\t10000
+\b42Light Drive:\t0
+\b41Max Vel:\t3.000
+\b42Thrust:\t0.000
+\b41Turn:\t-0.003

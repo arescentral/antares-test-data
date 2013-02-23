@@ -1,1 +1,14 @@
-\i SHIP DATA:\i\b41Type:\tTransport\b42Mass:\t1.097\b41Shield:\t250\b42Light Drive:\t0\b41Max Vel:\t3.000\b42Thrust:\t0.156\b41Turn:\t1.000\i WEAPON 3 DATA:\i\b41Type:\tStealth Field\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t0\b41Damage:\t-
+\i SHIP DATA:\i
+\b41Type:\tTransport
+\b42Mass:\t1.097
+\b41Shield:\t250
+\b42Light Drive:\t0
+\b41Max Vel:\t3.000
+\b42Thrust:\t0.156
+\b41Turn:\t1.000
+\i WEAPON 3 DATA:\i
+\b41Type:\tStealth Field
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t0
+\b41Damage:\t-

@@ -1,1 +1,26 @@
-\i SHIP DATA:\i\b41Type:\tHeavy Destroyer\b42Mass:\t1.449\b41Shield:\t2000\b42Light Drive:\t10240\b41Max Vel:\t4.500\b42Thrust:\t0.078\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tFullerene Gun\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t900\b41Damage:\t200\i WEAPON 2 DATA:\i\b41Type:\tLepton Beam Cannon\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t400\b41Damage:\t80\i WEAPON 3 DATA:\i\b41Type:\tC Missile Launch\b42Guided:\tYES\b41Autotarget:\tNO\b42Range:\t1440\b41Damage:\t200
+\i SHIP DATA:\i
+\b41Type:\tHeavy Destroyer
+\b42Mass:\t1.449
+\b41Shield:\t2000
+\b42Light Drive:\t10240
+\b41Max Vel:\t4.500
+\b42Thrust:\t0.078
+\b41Turn:\t1.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tFullerene Gun
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t900
+\b41Damage:\t200
+\i WEAPON 2 DATA:\i
+\b41Type:\tLepton Beam Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t400
+\b41Damage:\t80
+\i WEAPON 3 DATA:\i
+\b41Type:\tC Missile Launch
+\b42Guided:\tYES
+\b41Autotarget:\tNO
+\b42Range:\t1440
+\b41Damage:\t200

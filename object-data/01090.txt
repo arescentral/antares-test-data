@@ -1,1 +1,20 @@
-\i SHIP DATA:\i\b41Type:\tBattlecruiser\b42Mass:\t2.500\b41Shield:\t6500\b42Light Drive:\t10240\b41Max Vel:\t4.000\b42Thrust:\t0.019\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tTwin Pulse Cannon\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t520\b41Damage:\t100\i WEAPON 2 DATA:\i\b41Type:\tZ Beam Cannon\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t520\b41Damage:\t30
+\i SHIP DATA:\i
+\b41Type:\tBattlecruiser
+\b42Mass:\t2.500
+\b41Shield:\t6500
+\b42Light Drive:\t10240
+\b41Max Vel:\t4.000
+\b42Thrust:\t0.019
+\b41Turn:\t1.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tTwin Pulse Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tYES
+\b42Range:\t520
+\b41Damage:\t100
+\i WEAPON 2 DATA:\i
+\b41Type:\tZ Beam Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tYES
+\b42Range:\t520
+\b41Damage:\t30

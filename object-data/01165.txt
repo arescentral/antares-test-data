@@ -1,1 +1,20 @@
-\i SHIP DATA:\i\b41Type:\tCruiser\b42Mass:\t1.000\b41Shield:\t1000\b42Light Drive:\t5120\b41Max Vel:\t5.000\b42Thrust:\t0.078\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tMagneto Pulse Gun\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t300\b41Damage:\t50\i WEAPON 2 DATA:\i\b41Type:\tLaser Cannon\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t225\b41Damage:\t15
+\i SHIP DATA:\i
+\b41Type:\tCruiser
+\b42Mass:\t1.000
+\b41Shield:\t1000
+\b42Light Drive:\t5120
+\b41Max Vel:\t5.000
+\b42Thrust:\t0.078
+\b41Turn:\t1.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tMagneto Pulse Gun
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t300
+\b41Damage:\t50
+\i WEAPON 2 DATA:\i
+\b41Type:\tLaser Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t225
+\b41Damage:\t15

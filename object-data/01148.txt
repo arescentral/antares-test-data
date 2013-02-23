@@ -1,1 +1,14 @@
-\i SHIP DATA:\i\b41Type:\tFighter\b42Mass:\t0.796\b41Shield:\t600\b42Light Drive:\t0\b41Max Vel:\t6.000\b42Thrust:\t0.097\b41Turn:\t1.000\i WEAPON 2 DATA:\i\b41Type:\tASB Beam Cannon\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t600\b41Damage:\t80
+\i SHIP DATA:\i
+\b41Type:\tFighter
+\b42Mass:\t0.796
+\b41Shield:\t600
+\b42Light Drive:\t0
+\b41Max Vel:\t6.000
+\b42Thrust:\t0.097
+\b41Turn:\t1.000
+\i WEAPON 2 DATA:\i
+\b41Type:\tASB Beam Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t600
+\b41Damage:\t80

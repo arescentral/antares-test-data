@@ -1,1 +1,20 @@
-\i SHIP DATA:\i\b41Type:\tCruiser\b42Mass:\t1.000\b41Shield:\t1000\b42Light Drive:\t10240\b41Max Vel:\t5.000\b42Thrust:\t0.156\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tF Pulse Reactor\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t280\b41Damage:\t100\i WEAPON 2 DATA:\i\b41Type:\tP-K Beam Cannon\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t225\b41Damage:\t30
+\i SHIP DATA:\i
+\b41Type:\tCruiser
+\b42Mass:\t1.000
+\b41Shield:\t1000
+\b42Light Drive:\t10240
+\b41Max Vel:\t5.000
+\b42Thrust:\t0.156
+\b41Turn:\t1.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tF Pulse Reactor
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t280
+\b41Damage:\t100
+\i WEAPON 2 DATA:\i
+\b41Type:\tP-K Beam Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t225
+\b41Damage:\t30

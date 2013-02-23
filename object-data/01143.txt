@@ -1,1 +1,26 @@
-\i SHIP DATA:\i\b41Type:\tCruiser\b42Mass:\t1.000\b41Shield:\t1500\b42Light Drive:\t12800\b41Max Vel:\t7.500\b42Thrust:\t0.156\b41Turn:\t1.000\i WEAPON 1 DATA:\i\b41Type:\tInasa Pulse Gun\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t900\b41Damage:\t200\i WEAPON 2 DATA:\i\b41Type:\tASB Beam Cannon\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t600\b41Damage:\t80\i WEAPON 3 DATA:\i\b41Type:\tHolo Generator\b42Guided:\tNO\b41Autotarget:\tNO\b42Range:\t900\b41Damage:\t-
+\i SHIP DATA:\i
+\b41Type:\tCruiser
+\b42Mass:\t1.000
+\b41Shield:\t1500
+\b42Light Drive:\t12800
+\b41Max Vel:\t7.500
+\b42Thrust:\t0.156
+\b41Turn:\t1.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tInasa Pulse Gun
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t900
+\b41Damage:\t200
+\i WEAPON 2 DATA:\i
+\b41Type:\tASB Beam Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t600
+\b41Damage:\t80
+\i WEAPON 3 DATA:\i
+\b41Type:\tHolo Generator
+\b42Guided:\tNO
+\b41Autotarget:\tNO
+\b42Range:\t900
+\b41Damage:\t-

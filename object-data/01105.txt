@@ -1,1 +1,26 @@
-\i SHIP DATA:\i\b41Type:\tBunker Station\b42Mass:\t0.000\b41Shield:\t5000\b42Light Drive:\t0\b41Max Vel:\t0.000\b42Thrust:\t0.000\b41Turn:\t0.000\i WEAPON 1 DATA:\i\b41Type:\tProtoPulse Cannon\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t520\b41Damage:\t100\i WEAPON 2 DATA:\i\b41Type:\tRepulser\b42Guided:\tNO\b41Autotarget:\tYES\b42Range:\t450\b41Damage:\t30\i WEAPON 3 DATA:\i\b41Type:\tC Missile Launch\b42Guided:\tYES\b41Autotarget:\tNO\b42Range:\t1440\b41Damage:\t200
+\i SHIP DATA:\i
+\b41Type:\tBunker Station
+\b42Mass:\t0.000
+\b41Shield:\t5000
+\b42Light Drive:\t0
+\b41Max Vel:\t0.000
+\b42Thrust:\t0.000
+\b41Turn:\t0.000
+\i WEAPON 1 DATA:\i
+\b41Type:\tProtoPulse Cannon
+\b42Guided:\tNO
+\b41Autotarget:\tYES
+\b42Range:\t520
+\b41Damage:\t100
+\i WEAPON 2 DATA:\i
+\b41Type:\tRepulser
+\b42Guided:\tNO
+\b41Autotarget:\tYES
+\b42Range:\t450
+\b41Damage:\t30
+\i WEAPON 3 DATA:\i
+\b41Type:\tC Missile Launch
+\b42Guided:\tYES
+\b41Autotarget:\tNO
+\b42Range:\t1440
+\b41Damage:\t200
