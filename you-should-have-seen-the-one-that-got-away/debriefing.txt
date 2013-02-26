@@ -1,0 +1,7 @@
+You succeeded in capturing the Beta Pictoris System, and you forced the enemy Gate Ship to withdraw.
+
+\b82 \f82 TIME\t \f82 \b8e YOU\t\b8b PAR\t
+\b8e \f82 TIME\t \f8e \b81 14:01\t\f8b 13:00
+\b8b \f82 LOSSES\t \f8e \b81 32\t\f8b 35
+\b88 \f82 KILLS\t \f8e \b81 65\t\f8b 50
+\b85 \f82 SCORE\t \f8e \b81 107\t\f8b 100
