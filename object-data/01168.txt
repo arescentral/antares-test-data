@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tCarrier
-\b42Mass:\t2.000
+\b42Mass:\t2.0
 \b41Shield:\t5000
 \b42Light Drive:\t5120
-\b41Max Vel:\t3.000
-\b42Thrust:\t0.007
-\b41Turn:\t1.000
+\b41Max Vel:\t3.0
+\b42Thrust:\t0.008
+\b41Turn:\t1.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tRapid Magneto
 \b42Guided:\tNO

@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tOutpost Station
-\b42Mass:\t0.000
+\b42Mass:\t0.0
 \b41Shield:\t5000
 \b42Light Drive:\t0
-\b41Max Vel:\t0.000
-\b42Thrust:\t0.000
-\b41Turn:\t0.000
+\b41Max Vel:\t0.0
+\b42Thrust:\t0.0
+\b41Turn:\t0.0
 \i WEAPON 2 DATA:\i
 \b41Type:\tRepulser
 \b42Guided:\tNO

@@ -1,8 +1,8 @@
 \i OBJECT DATA:\i
 \b41Type:\tEscape Pod
-\b42Mass:\t0.097
+\b42Mass:\t0.098
 \b41Shield:\t250
 \b42Light Drive:\t0
-\b41Max Vel:\t1.500
-\b42Thrust:\t0.000
-\b41Turn:\t0.000
+\b41Max Vel:\t1.5
+\b42Thrust:\t0.0
+\b41Turn:\t0.0

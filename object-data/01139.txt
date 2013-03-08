@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tGunship
-\b42Mass:\t1.398
+\b42Mass:\t1.4
 \b41Shield:\t3700
 \b42Light Drive:\t10240
-\b41Max Vel:\t5.000
-\b42Thrust:\t0.097
-\b41Turn:\t1.000
+\b41Max Vel:\t5.0
+\b42Thrust:\t0.098
+\b41Turn:\t1.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tPlasma Ball
 \b42Guided:\tNO

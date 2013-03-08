@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tFighter
-\b42Mass:\t0.796
+\b42Mass:\t0.797
 \b41Shield:\t100
 \b42Light Drive:\t0
-\b41Max Vel:\t6.000
-\b42Thrust:\t0.097
-\b41Turn:\t1.000
+\b41Max Vel:\t6.0
+\b42Thrust:\t0.098
+\b41Turn:\t1.0
 \i WEAPON 2 DATA:\i
 \b41Type:\tP-K Beam Cannon
 \b42Guided:\tNO

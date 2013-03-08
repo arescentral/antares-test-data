@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tCruiser
-\b42Mass:\t1.000
+\b42Mass:\t1.0
 \b41Shield:\t1500
 \b42Light Drive:\t10240
-\b41Max Vel:\t5.000
+\b41Max Vel:\t5.0
 \b42Thrust:\t0.156
-\b41Turn:\t1.000
+\b41Turn:\t1.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tAntimatter Pulse Reactor
 \b42Guided:\tNO

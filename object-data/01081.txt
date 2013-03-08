@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tAstrominer
-\b42Mass:\t1.199
+\b42Mass:\t1.2
 \b41Shield:\t700
 \b42Light Drive:\t10240
-\b41Max Vel:\t4.000
-\b42Thrust:\t0.148
-\b41Turn:\t1.000
+\b41Max Vel:\t4.0
+\b42Thrust:\t0.15
+\b41Turn:\t1.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tLightwave Cannon
 \b42Guided:\tNO

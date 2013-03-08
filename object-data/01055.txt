@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tDefense Drone
-\b42Mass:\t1.000
+\b42Mass:\t1.0
 \b41Shield:\t1500
 \b42Light Drive:\t0
-\b41Max Vel:\t0.347
-\b42Thrust:\t0.046
-\b41Turn:\t0.000
+\b41Max Vel:\t0.348
+\b42Thrust:\t0.047
+\b41Turn:\t0.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tRap F Pulse React
 \b42Guided:\tNO

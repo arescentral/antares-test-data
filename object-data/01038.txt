@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tCruiser
-\b42Mass:\t0.898
+\b42Mass:\t0.9
 \b41Shield:\t650
 \b42Light Drive:\t10240
-\b41Max Vel:\t3.500
+\b41Max Vel:\t3.5
 \b42Thrust:\t0.156
-\b41Turn:\t1.000
+\b41Turn:\t1.0
 \i WEAPON 2 DATA:\i
 \b41Type:\tConcsv Pellet Gun
 \b42Guided:\tNO

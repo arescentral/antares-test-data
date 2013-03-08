@@ -1,11 +1,11 @@
 \i SHIP DATA:\i
 \b41Type:\tBattleship
-\b42Mass:\t2.500
+\b42Mass:\t2.5
 \b41Shield:\t6500
 \b42Light Drive:\t10240
-\b41Max Vel:\t4.000
-\b42Thrust:\t0.019
-\b41Turn:\t1.000
+\b41Max Vel:\t4.0
+\b42Thrust:\t0.02
+\b41Turn:\t1.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tR-Plasma Launcher
 \b42Guided:\tYES
