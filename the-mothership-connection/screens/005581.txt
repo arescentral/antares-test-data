@@ -137,9 +137,9 @@ line	204	125	210	139	489048
 	210	139			204020
 draw	0	0	128	480	/pictures/501.png
 	608		640		/pictures/512.png
-tint	102	159	110	172	ff7f00	/font/5001/30
-	108		116			
-	114		122			/font/5001/35
+tint	102	159	108	171	ff7f00	/fonts/computer/30
+	108		114			
+	114		120			/fonts/computer/35
 line	614	456	614	359	007fff
 		359	622		
 	622			456	00488f
@@ -282,68 +282,68 @@ point	54	57	007000
 	50	59	
 rect	12	320	121	440	001000
 line	12	330	119	330	009000
-tint	15	320	23	333	00ff00	/font/5001/4d
-	21		29			/font/5001/41
-	27		35			/font/5001/49
-	33		41			/font/5001/4e
-	39		47			/font/5001/20
-	45		53			/font/5001/4d
-	51		59			/font/5001/45
-	57		65			/font/5001/4e
-	63		71			/font/5001/55
+tint	15	320	21	332	00ff00	/fonts/computer/4d
+	21		27			/fonts/computer/41
+	27		33			/fonts/computer/49
+	33		39			/fonts/computer/4e
+	39		45			/fonts/computer/20
+	45		51			/fonts/computer/4d
+	51		57			/fonts/computer/45
+	57		63			/fonts/computer/4e
+	63		69			/fonts/computer/55
 line	12	343	12	332	009000
 		332	120		
 	120			343	005000
 		343	12		
 rect	13	333	120	343	007000
-tint	15	332	23	345	00ff00	/font/5001/3c
-	21		29			/font/5001/42
-	27		35			/font/5001/75
-	33		41			/font/5001/69
-	39		47			/font/5001/6c
-	45		53			/font/5001/64
-	51		59			/font/5001/3e
-	15	344	23	357		/font/5001/3c
-	21		29			/font/5001/53
-	27		35			/font/5001/70
-	33		41			/font/5001/65
-	39		47			/font/5001/63
-	45		53			/font/5001/69
-	51		59			/font/5001/61
-	57		65			/font/5001/6c
-	63		71			/font/5001/20
-	69		77			/font/5001/4f
-	75		83			/font/5001/72
-	81		89			/font/5001/64
-	87		95			/font/5001/65
-	93		101			/font/5001/72
-	99		107			/font/5001/73
-	105		113			/font/5001/3e
-	15	356	23	369		/font/5001/3c
-	21		29			/font/5001/4d
-	27		35			/font/5001/65
-	33		41			/font/5001/73
-	39		47			
-	45		53			/font/5001/61
-	51		59			/font/5001/67
-	57		65			/font/5001/65
-	63		71			/font/5001/3e
-	15	368	23	381		/font/5001/3c
-	21		29			/font/5001/4d
-	27		35			/font/5001/69
-	33		41			/font/5001/73
-	39		47			
-	45		53			/font/5001/69
-	51		59			/font/5001/6f
-	57		65			/font/5001/6e
-	63		71			/font/5001/20
-	69		77			/font/5001/53
-	75		83			/font/5001/74
-	81		89			/font/5001/61
-	87		95			/font/5001/74
-	93		101			/font/5001/75
-	99		107			/font/5001/73
-	105		113			/font/5001/3e
+tint	15	332	21	344	00ff00	/fonts/computer/3c
+	21		27			/fonts/computer/42
+	27		33			/fonts/computer/75
+	33		39			/fonts/computer/69
+	39		45			/fonts/computer/6c
+	45		51			/fonts/computer/64
+	51		57			/fonts/computer/3e
+	15	344	21	356		/fonts/computer/3c
+	21		27			/fonts/computer/53
+	27		33			/fonts/computer/70
+	33		39			/fonts/computer/65
+	39		45			/fonts/computer/63
+	45		51			/fonts/computer/69
+	51		57			/fonts/computer/61
+	57		63			/fonts/computer/6c
+	63		69			/fonts/computer/20
+	69		75			/fonts/computer/4f
+	75		81			/fonts/computer/72
+	81		87			/fonts/computer/64
+	87		93			/fonts/computer/65
+	93		99			/fonts/computer/72
+	99		105			/fonts/computer/73
+	105		111			/fonts/computer/3e
+	15	356	21	368		/fonts/computer/3c
+	21		27			/fonts/computer/4d
+	27		33			/fonts/computer/65
+	33		39			/fonts/computer/73
+	39		45			
+	45		51			/fonts/computer/61
+	51		57			/fonts/computer/67
+	57		63			/fonts/computer/65
+	63		69			/fonts/computer/3e
+	15	368	21	380		/fonts/computer/3c
+	21		27			/fonts/computer/4d
+	27		33			/fonts/computer/69
+	33		39			/fonts/computer/73
+	39		45			
+	45		51			/fonts/computer/69
+	51		57			/fonts/computer/6f
+	57		63			/fonts/computer/6e
+	63		69			/fonts/computer/20
+	69		75			/fonts/computer/53
+	75		81			/fonts/computer/74
+	81		87			/fonts/computer/61
+	87		93			/fonts/computer/74
+	93		99			/fonts/computer/75
+	99		105			/fonts/computer/73
+	105		111			/fonts/computer/3e
 line	12	438	119	438	009000
 rect	16	450	114	475	001010
 line	17	461	17	450	00c0c0
@@ -351,29 +351,29 @@ line	17	461	17	450	00c0c0
 	43			461	007070
 		461	17		
 rect	18	451	43	461	009090
-tint	19	450	27	463	00ffff	/font/5001/52
-	25		33			/font/5001/47
-	31		39			/font/5001/48
-	37		45			/font/5001/54
-	43		51			/font/5001/20
-	49		57			/font/5001/53
-	55		63			/font/5001/65
-	61		69			/font/5001/6c
-	67		75			/font/5001/65
-	73		81			/font/5001/63
-	79		87			/font/5001/74
+tint	19	450	25	462	00ffff	/fonts/computer/52
+	25		31			/fonts/computer/47
+	31		37			/fonts/computer/48
+	37		43			/fonts/computer/54
+	43		49			/fonts/computer/20
+	49		55			/fonts/computer/53
+	55		61			/fonts/computer/65
+	61		67			/fonts/computer/6c
+	67		73			/fonts/computer/65
+	73		79			/fonts/computer/63
+	79		85			/fonts/computer/74
 line	12	191	12	180	ffff00
 		180	120		
 	120			191	909000
 		191	12		
 rect	13	181	120	191	c0c000
-tint	15	180	23	193	000000	/font/5001/43
-	21		29			/font/5001/4f
-	27		35			/font/5001/4e
-	33		41			/font/5001/54
-	39		47			/font/5001/52
-	45		53			/font/5001/4f
-	51		59			/font/5001/4c
+tint	15	180	21	192	000000	/fonts/computer/43
+	21		27			/fonts/computer/4f
+	27		33			/fonts/computer/4e
+	33		39			/fonts/computer/54
+	39		45			/fonts/computer/52
+	45		51			/fonts/computer/4f
+	51		57			/fonts/computer/4c
 line	14	204	35	204	489048
 			14	205	
 	35		35		
@@ -385,12 +385,12 @@ line	14	204	35	204	489048
 	120			263	00488f
 		263	12		
 rect	13	253	120	263	0060c0
-tint	15	252	23	265	000000	/font/5001/54
-	21		29			/font/5001/41
-	27		35			/font/5001/52
-	33		41			/font/5001/47
-	39		47			/font/5001/45
-	45		53			/font/5001/54
+tint	15	252	21	264	000000	/fonts/computer/54
+	21		27			/fonts/computer/41
+	27		33			/fonts/computer/52
+	33		39			/fonts/computer/47
+	39		45			/fonts/computer/45
+	45		51			/fonts/computer/54
 line	14	276	35	276	489048
 			14	277	
 	35		35		
