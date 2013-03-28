@@ -313,7 +313,7 @@ tint	234	310	250	323	080808	/font/5002/52
 	369		385			/font/5002/74
 	373		389			/font/5002/72
 	377		393			/font/5002/6f
-draw	0	245	178	456	/pict/508
-		0	640	245	/pict/509
-	460	245		456	/pict/511
-	0	456		480	/pict/510
+draw	0	245	178	456	/pictures/508.png
+		0	640	245	/pictures/509.png
+	460	245		456	/pictures/511.png
+	0	456		480	/pictures/510.png

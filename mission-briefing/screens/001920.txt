@@ -129,10 +129,10 @@ tint	249	435	257	447	080808	/fonts/button/52
 	331		339			/fonts/button/65
 	339		346			/fonts/button/78
 	346		350			/fonts/button/74
-draw	2	0	35	476	/pict/504
-	35		607	28	/pict/505
-	607		642	476	/pict/506
-	35	456	607		/pict/507
+draw	2	0	35	476	/pictures/504.png
+	35		607	28	/pictures/505.png
+	607		642	476	/pictures/506.png
+	35	456	607		/pictures/507.png
 rect	39	31	52	34	787561
 	590		603		
 	52		590	33	
@@ -870,7 +870,7 @@ rect	332	75	346	88	909048
 			562	232	
 	562		563	364	101008
 	550	363			
-draw	347	97	547	197	/pict/
+draw	347	97	547	197	/pictures/1166.png
 tint	350	202	359	214	ffff7f	/fonts/button/41
 	359		362			/fonts/button/6c
 	362		370			/fonts/button/70
@@ -980,4 +980,4 @@ tint	350	202	359	214	ffff7f	/fonts/button/41
 	459		463			/fonts/button/72
 	463		469			/fonts/button/73
 	469		473			/fonts/button/2e
-draw	347	258	547	358	/pict/
+draw	347	258	547	358	/pictures/1165.png

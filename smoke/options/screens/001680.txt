@@ -526,10 +526,10 @@ tint	47	351	63	364	fff9cf	/font/5005/54
 	516		532			/font/5005/64
 	523		539			/font/5005/2e
 	49	313	65	326	ff7f00	/font/5005/20
-draw	2	0	35	476	/pict/504
-	35		607	28	/pict/505
-	607		642	476	/pict/506
-	35	456	607		/pict/507
+draw	2	0	35	476	/pictures/504.png
+	35		607	28	/pictures/505.png
+	607		642	476	/pictures/506.png
+	35	456	607		/pictures/507.png
 rect	95	89	98	92	009090
 	303		306		
 	98		303	91	

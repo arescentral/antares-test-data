@@ -313,8 +313,8 @@ tint	234	310	242	322	080808	/fonts/button/52
 	369		373			/fonts/button/74
 	373		377			/fonts/button/72
 	377		385			/fonts/button/6f
-draw	0	245	178	456	/pict/508
-		0	640	245	/pict/509
-	460	245		456	/pict/511
-	0	456		480	/pict/510
+draw	0	245	178	456	/pictures/508.png
+		0	640	245	/pictures/509.png
+	460	245		456	/pictures/511.png
+	0	456		480	/pictures/510.png
 rect	0	0	640	480	000000fa
