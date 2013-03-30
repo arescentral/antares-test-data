@@ -126,3 +126,4 @@ tint	257	115	264	135	7fff7f	/fonts/title/4d
 	355		362			/fonts/title/73
 rect	226	227	430	244	387038
 			226		60c060
+draw	320	240	332	250	/sprites/500.SMIV/0

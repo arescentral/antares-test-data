@@ -317,3 +317,4 @@ draw	0	245	178	456	/pictures/508.png
 		0	640	245	/pictures/509.png
 	460	245		456	/pictures/511.png
 	0	456		480	/pictures/510.png
+	320	240	332	250	/sprites/500.SMIV/0

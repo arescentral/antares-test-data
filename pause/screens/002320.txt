@@ -1023,3 +1023,4 @@ tint	256	270	263	282	100810	/fonts/button/53
 	422		425			/fonts/button/69
 	425		433			/fonts/button/61
 	433		436			/fonts/button/6c
+draw	320	240	332	250	/sprites/500.SMIV/0

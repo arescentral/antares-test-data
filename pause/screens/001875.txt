@@ -344,3 +344,4 @@ tint	70	153	77	173	00ffff	/fonts/title/4d
 	154		161			
 	161		168			/fonts/title/6e
 	168		175			/fonts/title/73
+draw	320	240	332	250	/sprites/500.SMIV/0
