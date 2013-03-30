@@ -24887,4 +24887,7 @@ play	0	50367	/sounds/518.aiff
 quiet	1	50368
 amp	1	50368	128
 play	1	50368	/sounds/510.aiff
+quiet	0	50496
+quiet	1	50496
+quiet	2	50496
 quiet	3	50496

@@ -3320,4 +3320,7 @@ play	1	13383	/sounds/506.aiff
 quiet	1	13752
 amp	1	13752	236
 play	1	13752	/sounds/503.aiff
+quiet	0	13860
+quiet	1	13860
+quiet	2	13860
 quiet	3	13860

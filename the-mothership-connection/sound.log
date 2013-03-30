@@ -5456,4 +5456,7 @@ play	0	22080	/sounds/513.aiff
 quiet	0	22113
 amp	0	22113	255
 play	0	22113	/sounds/513.aiff
+quiet	0	22500
+quiet	1	22500
+quiet	2	22500
 quiet	3	22500

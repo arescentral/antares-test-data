@@ -370,6 +370,9 @@ play	0	2200	/sounds/535.aiff
 quiet	0	2320
 amp	0	2320	192
 play	0	2320	/sounds/507.aiff
+quiet	0	2380
+quiet	1	2380
+quiet	2	2380
 quiet	3	2380
 amp	3	2380	255
 loop	3	2380	/music/4001.mp3

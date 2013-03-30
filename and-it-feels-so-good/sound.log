@@ -9449,4 +9449,7 @@ play	1	40296	/sounds/503.aiff
 quiet	1	40313
 amp	1	40313	128
 play	1	40313	/sounds/510.aiff
+quiet	0	40500
+quiet	1	40500
+quiet	2	40500
 quiet	3	40500

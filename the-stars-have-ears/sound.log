@@ -1835,4 +1835,7 @@ play	2	8292	/sounds/503.aiff
 quiet	0	8313
 amp	0	8313	255
 play	0	8313	/sounds/501.aiff
+quiet	0	8325
+quiet	1	8325
+quiet	2	8325
 quiet	3	8325

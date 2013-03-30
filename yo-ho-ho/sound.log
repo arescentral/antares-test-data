@@ -3107,4 +3107,7 @@ play	2	10761	/sounds/512.aiff
 quiet	1	10764
 amp	1	10764	255
 play	1	10764	/sounds/519.aiff
+quiet	0	10764
+quiet	1	10764
+quiet	2	10764
 quiet	3	10764

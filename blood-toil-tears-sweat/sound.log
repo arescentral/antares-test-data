@@ -10433,4 +10433,7 @@ play	1	16134	/sounds/525.aiff
 quiet	1	16260
 amp	1	16260	128
 play	1	16260	/sounds/525.aiff
+quiet	0	16290
+quiet	1	16290
+quiet	2	16290
 quiet	3	16290

@@ -4562,4 +4562,7 @@ play	1	10572	/sounds/509.aiff
 quiet	0	10665
 amp	0	10665	128
 play	0	10665	/sounds/525.aiff
+quiet	0	10710
+quiet	1	10710
+quiet	2	10710
 quiet	3	10710

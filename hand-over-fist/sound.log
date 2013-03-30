@@ -6458,4 +6458,7 @@ play	1	22428	/sounds/509.aiff
 quiet	1	22437
 amp	1	22437	128
 play	1	22437	/sounds/509.aiff
+quiet	0	22950
+quiet	1	22950
+quiet	2	22950
 quiet	3	22950

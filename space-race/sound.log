@@ -6701,4 +6701,7 @@ play	0	10038	/sounds/509.aiff
 quiet	0	10053
 amp	0	10053	128
 play	0	10053	/sounds/509.aiff
+quiet	0	10140
+quiet	1	10140
+quiet	2	10140
 quiet	3	10140
