@@ -1,103 +1,103 @@
 quiet	3	0
 amp	3	0	255
-loop	3	0	/music/4001.mp3
+loop	3	0	/music/4001
 quiet	0	960
 amp	0	960	192
-play	0	960	/sounds/507.aiff
+play	0	960	/sounds/507
 quiet	0	1080
 amp	0	1080	192
-play	0	1080	/sounds/507.aiff
+play	0	1080	/sounds/507
 quiet	3	1200
 amp	3	1200	255
-loop	3	1200	/music/3000.mp3
+loop	3	1200	/music/3000
 quiet	1	1202
 amp	1	1202	64
-play	1	1202	/sounds/535.aiff
+play	1	1202	/sounds/535
 quiet	1	1205
 amp	1	1205	64
-play	1	1205	/sounds/535.aiff
+play	1	1205	/sounds/535
 quiet	1	1208
 amp	1	1208	64
-play	1	1208	/sounds/535.aiff
+play	1	1208	/sounds/535
 quiet	1	1211
 amp	1	1211	64
-play	1	1211	/sounds/535.aiff
+play	1	1211	/sounds/535
 quiet	1	1214
 amp	1	1214	64
-play	1	1214	/sounds/535.aiff
+play	1	1214	/sounds/535
 quiet	1	1217
 amp	1	1217	64
-play	1	1217	/sounds/535.aiff
+play	1	1217	/sounds/535
 quiet	1	1220
 amp	1	1220	64
-play	1	1220	/sounds/535.aiff
+play	1	1220	/sounds/535
 quiet	1	1223
 amp	1	1223	64
-play	1	1223	/sounds/535.aiff
+play	1	1223	/sounds/535
 quiet	1	1226
 amp	1	1226	64
-play	1	1226	/sounds/535.aiff
+play	1	1226	/sounds/535
 quiet	1	1229
 amp	1	1229	64
-play	1	1229	/sounds/535.aiff
+play	1	1229	/sounds/535
 quiet	1	1232
 amp	1	1232	64
-play	1	1232	/sounds/535.aiff
+play	1	1232	/sounds/535
 quiet	1	1235
 amp	1	1235	64
-play	1	1235	/sounds/535.aiff
+play	1	1235	/sounds/535
 quiet	1	1238
 amp	1	1238	64
-play	1	1238	/sounds/535.aiff
+play	1	1238	/sounds/535
 quiet	1	1241
 amp	1	1241	64
-play	1	1241	/sounds/535.aiff
+play	1	1241	/sounds/535
 quiet	1	1244
 amp	1	1244	64
-play	1	1244	/sounds/535.aiff
+play	1	1244	/sounds/535
 quiet	1	1247
 amp	1	1247	64
-play	1	1247	/sounds/535.aiff
+play	1	1247	/sounds/535
 quiet	1	1250
 amp	1	1250	64
-play	1	1250	/sounds/535.aiff
+play	1	1250	/sounds/535
 quiet	1	1253
 amp	1	1253	64
-play	1	1253	/sounds/535.aiff
+play	1	1253	/sounds/535
 quiet	1	1256
 amp	1	1256	64
-play	1	1256	/sounds/535.aiff
+play	1	1256	/sounds/535
 quiet	1	1259
 amp	1	1259	64
-play	1	1259	/sounds/535.aiff
+play	1	1259	/sounds/535
 quiet	0	1380
 amp	0	1380	192
-play	0	1380	/sounds/507.aiff
+play	0	1380	/sounds/507
 quiet	0	1500
 amp	0	1500	192
-play	0	1500	/sounds/507.aiff
+play	0	1500	/sounds/507
 quiet	0	1620
 amp	0	1620	192
-play	0	1620	/sounds/507.aiff
+play	0	1620	/sounds/507
 quiet	0	1740
 amp	0	1740	192
-play	0	1740	/sounds/507.aiff
+play	0	1740	/sounds/507
 quiet	0	1860
 amp	0	1860	192
-play	0	1860	/sounds/507.aiff
+play	0	1860	/sounds/507
 quiet	0	1980
 amp	0	1980	192
-play	0	1980	/sounds/507.aiff
+play	0	1980	/sounds/507
 quiet	0	2100
 amp	0	2100	192
-play	0	2100	/sounds/507.aiff
+play	0	2100	/sounds/507
 quiet	0	2220
 amp	0	2220	192
-play	0	2220	/sounds/507.aiff
+play	0	2220	/sounds/507
 quiet	3	2460
 quiet	3	2460
 amp	3	2460	255
-loop	3	2460	/music/4001.mp3
+loop	3	2460	/music/4001
 quiet	0	2520
 amp	0	2520	192
-play	0	2520	/sounds/507.aiff
+play	0	2520	/sounds/507
