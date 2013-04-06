@@ -125,7 +125,7 @@ point	152	61	b0b0b0
 	561	432	b0b0b0
 line	368	0	368	480	005000
 	128	240	608	240	
-draw	357	229	377	247	/sprites/501.SMIV/9
+draw	358	230	378	248	/sprites/501.SMIV/9
 dither	200	50	262	67	003030
 tint	204	54	211	65	000000	/fonts/tactical/31
 	211		218			/fonts/tactical/3a

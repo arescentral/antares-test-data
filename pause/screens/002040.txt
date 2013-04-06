@@ -125,7 +125,7 @@ point	152	61	b0b0b0
 	561	432	b0b0b0
 line	368	0	368	480	005000
 	128	240	608	240	
-draw	357	229	377	247	/sprites/501.SMIV/9
+draw	358	230	378	248	/sprites/501.SMIV/9
 dither	200	50	262	67	003030
 tint	204	54	211	65	000000	/fonts/tactical/31
 	211		218			/fonts/tactical/3a
@@ -511,44 +511,3 @@ line	14	276	35	276	489048
 	136	387	104	375	001830
 		386		374	007fff
 		385		373	
-	287	228	448	228	005000
-		230		230	
-		232		232	
-		234		234	
-		236		236	
-		238		238	
-		240		240	
-		242		242	
-		244		244	
-		246		246	
-		248		248	
-		250		250	
-		252		252	
-		226		226	00e000
-			287	227	
-	448		448		
-	287	253		253	
-			287	252	
-	448		448		
-tint	291	230	298	250	00e000	/fonts/title/3e
-	298		305			/fonts/title/20
-	305		312			/fonts/title/43
-	312		319			/fonts/title/41
-	319		326			/fonts/title/50
-	326		333			/fonts/title/53
-	333		340			/fonts/title/20
-	340		347			/fonts/title/4c
-	347		354			/fonts/title/4f
-	354		361			/fonts/title/43
-	361		368			/fonts/title/4b
-	368		375			/fonts/title/20
-	375		382			/fonts/title/2d
-	382		389			/fonts/title/20
-	389		396			/fonts/title/50
-	396		403			/fonts/title/41
-	403		410			/fonts/title/55
-	410		417			/fonts/title/53
-	417		424			/fonts/title/45
-	424		431			/fonts/title/44
-	431		438			/fonts/title/20
-	438		445			/fonts/title/3c
