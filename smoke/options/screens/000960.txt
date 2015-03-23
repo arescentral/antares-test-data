@@ -33,21 +33,21 @@ rect	0	0	640	480	000000
 	269		270	269	a0a050
 	208	268			
 	271	258	428		707038
-tint	235	258	251	271	101008	/font/5002/53
-	302		318		e0e070	
-	309		325			/font/5002/74
-	313		329			/font/5002/61
-	321		337			/font/5002/72
-	325		341			/font/5002/74
-	329		345			/font/5002/20
-	332		348			/font/5002/4e
-	340		356			/font/5002/65
-	348		364			/font/5002/77
-	357		373			/font/5002/20
-	360		376			/font/5002/47
-	369		385			/font/5002/61
-	377		393			/font/5002/6d
-	388		404			/font/5002/65
+tint	235	258	242	270	101008	/fonts/button/53
+	302		309		e0e070	
+	309		313			/fonts/button/74
+	313		321			/fonts/button/61
+	321		325			/fonts/button/72
+	325		329			/fonts/button/74
+	329		332			/fonts/button/20
+	332		340			/fonts/button/4e
+	340		348			/fonts/button/65
+	348		357			/fonts/button/77
+	357		360			/fonts/button/20
+	360		369			/fonts/button/47
+	369		377			/fonts/button/61
+	377		388			/fonts/button/6d
+	388		396			/fonts/button/65
 rect	192	279	205	282	003000
 	430		443		
 	205		430	281	
@@ -82,25 +82,25 @@ rect	192	279	205	282	003000
 	269		270	295	001000
 	208	294			
 	271	284	428		007000
-tint	234	284	250	297	003000	/font/5002/4e
-	291		307		002000	/font/5002/53
-	298		314			/font/5002/74
-	302		318			/font/5002/61
-	310		326			/font/5002/72
-	314		330			/font/5002/74
-	318		334			/font/5002/20
-	321		337			/font/5002/4e
-	329		345			/font/5002/65
-	337		353			/font/5002/74
-	341		357			/font/5002/77
-	350		366			/font/5002/6f
-	358		374			/font/5002/72
-	362		378			/font/5002/6b
-	368		384			/font/5002/20
-	371		387			/font/5002/47
-	380		396			/font/5002/61
-	388		404			/font/5002/6d
-	399		415			/font/5002/65
+tint	234	284	242	296	003000	/fonts/button/4e
+	291		298		002000	/fonts/button/53
+	298		302			/fonts/button/74
+	302		310			/fonts/button/61
+	310		314			/fonts/button/72
+	314		318			/fonts/button/74
+	318		321			/fonts/button/20
+	321		329			/fonts/button/4e
+	329		337			/fonts/button/65
+	337		341			/fonts/button/74
+	341		350			/fonts/button/77
+	350		358			/fonts/button/6f
+	358		362			/fonts/button/72
+	362		368			/fonts/button/6b
+	368		371			/fonts/button/20
+	371		380			/fonts/button/47
+	380		388			/fonts/button/61
+	388		399			/fonts/button/6d
+	399		407			/fonts/button/65
 rect	192	368	205	371	489048
 	430		443		
 	205		430	370	
@@ -135,14 +135,14 @@ rect	192	368	205	371	489048
 	269		270	384	50a050
 	208	383			
 	271	373	428		60c060
-tint	234	373	250	386	081008	/font/5002/4f
-	327		343			
-	336		352			/font/5002/70
-	344		360			/font/5002/74
-	348		364			/font/5002/69
-	351		367			/font/5002/6f
-	359		375			/font/5002/6e
-	366		382			/font/5002/73
+tint	234	373	243	385	081008	/fonts/button/4f
+	327		336			
+	336		344			/fonts/button/70
+	344		348			/fonts/button/74
+	348		351			/fonts/button/69
+	351		359			/fonts/button/6f
+	359		366			/fonts/button/6e
+	366		372			/fonts/button/73
 rect	192	428	205	431	904848
 	430		443		
 	205		430	430	
@@ -177,11 +177,11 @@ rect	192	428	205	431	904848
 	269		270	444	a05050
 	208	443			
 	271	433	428		703838
-tint	234	433	250	446	100808	/font/5002/51
-	338		354		e07070	
-	347		363			/font/5002/75
-	354		370			/font/5002/69
-	357		373			/font/5002/74
+tint	234	433	243	445	100808	/fonts/button/51
+	338		347		e07070	
+	347		354			/fonts/button/75
+	354		357			/fonts/button/69
+	357		361			/fonts/button/74
 rect	192	394	205	397	96927a
 	430		443		
 	205		430	396	
@@ -216,17 +216,17 @@ rect	192	394	205	397	96927a
 	269		270	410	a5a186
 	208	409			
 	271	399	428		787561
-tint	234	399	250	412	1e1d18	/font/5002/41
-	316		332		e1dcb7	
-	325		341			/font/5002/62
-	333		349			/font/5002/6f
-	341		357			/font/5002/75
-	348		364			/font/5002/74
-	352		368			/font/5002/20
-	355		371			/font/5002/41
-	364		380			/font/5002/72
-	368		384			/font/5002/65
-	376		392			/font/5002/73
+tint	234	399	243	411	1e1d18	/fonts/button/41
+	316		325		e1dcb7	
+	325		333			/fonts/button/62
+	333		341			/fonts/button/6f
+	341		348			/fonts/button/75
+	348		352			/fonts/button/74
+	352		355			/fonts/button/20
+	355		364			/fonts/button/41
+	364		368			/fonts/button/72
+	368		376			/fonts/button/65
+	376		382			/fonts/button/73
 rect	192	331	205	334	96927a
 	430		443		
 	205		430	333	
@@ -261,11 +261,11 @@ rect	192	331	205	334	96927a
 	269		270	347	a5a186
 	208	346			
 	271	336	428		787561
-tint	234	336	250	349	1e1d18	/font/5002/44
-	332		348		e1dcb7	
-	340		356			/font/5002/65
-	348		364			/font/5002/6d
-	359		375			/font/5002/6f
+tint	234	336	242	348	1e1d18	/fonts/button/44
+	332		340		e1dcb7	
+	340		348			/fonts/button/65
+	348		359			/fonts/button/6d
+	359		367			/fonts/button/6f
 rect	192	305	205	308	808080
 	430		443		
 	205		430	307	
@@ -300,19 +300,19 @@ rect	192	305	205	308	808080
 	269		270	321	909090
 	208	320			
 	271	310	428		606060
-tint	234	310	250	323	080808	/font/5002/52
-	314		330		d0d0d0	
-	322		338			/font/5002/65
-	330		346			/font/5002/70
-	338		354			/font/5002/6c
-	341		357			/font/5002/61
-	349		365			/font/5002/79
-	356		372			/font/5002/20
-	359		375			/font/5002/49
-	362		378			/font/5002/6e
-	369		385			/font/5002/74
-	373		389			/font/5002/72
-	377		393			/font/5002/6f
+tint	234	310	242	322	080808	/fonts/button/52
+	314		322		d0d0d0	
+	322		330			/fonts/button/65
+	330		338			/fonts/button/70
+	338		341			/fonts/button/6c
+	341		349			/fonts/button/61
+	349		356			/fonts/button/79
+	356		359			/fonts/button/20
+	359		362			/fonts/button/49
+	362		369			/fonts/button/6e
+	369		373			/fonts/button/74
+	373		377			/fonts/button/72
+	377		385			/fonts/button/6f
 draw	0	245	178	456	/pictures/508.png
 		0	640	245	/pictures/509.png
 	460	245		456	/pictures/511.png
