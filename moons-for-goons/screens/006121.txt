@@ -1,0 +1,625 @@
+line	249	450	259	438	808080
+	555	357	569	339	b0b0b0
+	412	465	422	453	808080
+	152	253	172	230	d0d0d0
+	191	116	201	104	808080
+	468	185	478	174	
+	582	232	592	221	
+	289	247	299	236	
+	562	197	572	185	
+	237	475	247	463	
+	233	290	248	273	b0b0b0
+	201	435	211	423	808080
+	118	342	128	330	
+	572	385	582	374	
+	307	49	321	31	b0b0b0
+	518	359	528	347	808080
+	132	368	147	351	b0b0b0
+	260	402	275	384	
+	349	123	368	100	d0d0d0
+	339	164	349	152	808080
+	297	244	307	233	
+	440	51	450	39	
+	379	495	398	471	d0d0d0
+	494	161	504	149	808080
+	289	107	304	89	b0b0b0
+	158	64	178	40	d0d0d0
+	120	275	130	263	808080
+	298	233	318	210	d0d0d0
+	470	381	485	363	b0b0b0
+	285	177	300	160	
+	311	76	321	64	808080
+	355	115	370	98	b0b0b0
+	581	380	596	362	
+	558	58	572	40	
+	157	239	172	222	
+	381	207	391	195	808080
+	237	172	256	148	d0d0d0
+	215	244	225	232	808080
+	440	325	450	313	
+	381	128	396	111	b0b0b0
+	387	425	402	408	
+	390	177	400	165	808080
+	175	163	195	140	d0d0d0
+	576	232	586	221	808080
+	176	460	191	443	b0b0b0
+	253	165	273	142	d0d0d0
+	404	420	419	402	b0b0b0
+	584	20	604	-4	d0d0d0
+	515	313	525	301	808080
+	309	326	319	314	
+	228	397	243	380	b0b0b0
+	143	32	157	14	
+		246	152	234	808080
+	375	270	385	258	
+	247	380	267	356	d0d0d0
+	429	455	439	443	808080
+	519	84	529	72	
+	174	196	193	172	d0d0d0
+	517	255	527	243	808080
+	240	57	255	40	b0b0b0
+	184	127	199	110	
+	492	247	502	235	808080
+	337	335	347	323	
+	251	127	261	115	
+	555	412	565	400	
+	488	315	503	297	b0b0b0
+	422	80	432	68	808080
+	234	90	254	67	d0d0d0
+	576	87	596	63	
+	552	426	562	414	808080
+	394	276	403	265	
+	582	23	597	5	b0b0b0
+	441	450	451	438	808080
+	280	203	295	185	b0b0b0
+	147	480	157	468	808080
+	438	408	448	396	
+	428	282	438	270	
+	311	103	326	85	b0b0b0
+	437	478	447	466	808080
+	428	417	442	399	b0b0b0
+	214	301	229	284	
+	179	170	189	158	808080
+	292	16	307	-2	b0b0b0
+	254	205	269	187	
+	301	293	321	270	d0d0d0
+	314	157	324	145	808080
+	531	25	546	7	b0b0b0
+	421	92	441	68	d0d0d0
+	217	151	237	127	
+	142	194	151	182	808080
+	477	486	496	463	d0d0d0
+	282	170	301	146	
+	447	434	467	411	
+	168	27	188	3	
+	263	138	273	126	808080
+	316	241	326	229	
+	479	391	489	379	
+	123	465	137	448	b0b0b0
+	125	482	135	470	808080
+	382	280	401	256	d0d0d0
+	444	335	464	311	
+	266	282	276	270	808080
+	492	388	502	376	
+	234	478	249	461	b0b0b0
+	158	311	172	294	
+	339	395	358	371	d0d0d0
+	519	378	539	354	
+	580	180	594	162	b0b0b0
+	389	74	404	57	
+	233	463	243	451	808080
+	440	389	450	377	
+	378	101	388	89	
+	369	59	384	42	b0b0b0
+	514	384	524	372	808080
+	549	42	559	31	
+	517	79	527	67	
+	381	410	391	398	
+	472	216	487	199	b0b0b0
+	303	367	318	350	
+	358	154	378	131	d0d0d0
+	195	61	205	49	808080
+	128	28	148	4	d0d0d0
+	233	472	243	460	808080
+	338	0	338	415	000050
+	128	272	608	272	005000
+draw	355	231	379	252	/sprites/501.SMIV/3
+dither	200	50	269	67	003030
+tint	204	54	211	65	000000	/fonts/tactical/31
+	211		218			/fonts/tactical/3a
+	218		225			/fonts/tactical/31
+	225		232			/fonts/tactical/36
+	232		239			/fonts/tactical/20
+	239		246			/fonts/tactical/5a
+	246		253			/fonts/tactical/6f
+	253		260			
+	260		267			/fonts/tactical/6d
+	203	53	210	64	00ffff	/fonts/tactical/31
+	210		217			/fonts/tactical/3a
+	217		224			/fonts/tactical/31
+	224		231			/fonts/tactical/36
+	231		238			/fonts/tactical/20
+	238		245			/fonts/tactical/5a
+	245		252			/fonts/tactical/6f
+	252		259			
+	259		266			/fonts/tactical/6d
+rect	128	415	608	480	007fff
+		416		479	000810
+	132	420	139	431	
+tint	132	420	139	431	007fff	/fonts/tactical/59
+rect	139	420	146	431	000810
+tint	139	420	146	431	007fff	/fonts/tactical/6f
+rect	146	420	153	431	000810
+tint	146	420	153	431	007fff	/fonts/tactical/75
+rect	153	420	160	431	000810
+tint	153	420	160	431	007fff	/fonts/tactical/2019
+rect	160	420	167	431	000810
+tint	160	420	167	431	007fff	/fonts/tactical/72
+rect	167	420	174	431	000810
+tint	167	420	174	431	007fff	/fonts/tactical/65
+rect	174	420	181	431	000810
+tint	174	420	181	431	007fff	/fonts/tactical/20
+rect	181	420	188	431	000810
+tint	181	420	188	431	007fff	/fonts/tactical/61
+rect	188	420	195	431	000810
+tint	188	420	195	431	007fff	/fonts/tactical/6c
+rect	195	420	202	431	000810
+tint	195	420	202	431	007fff	/fonts/tactical/6d
+rect	202	420	209	431	000810
+tint	202	420	209	431	007fff	/fonts/tactical/6f
+rect	209	420	216	431	000810
+tint	209	420	216	431	007fff	/fonts/tactical/73
+rect	216	420	223	431	000810
+tint	216	420	223	431	007fff	/fonts/tactical/74
+rect	223	420	230	431	000810
+tint	223	420	230	431	007fff	/fonts/tactical/20
+rect	230	420	237	431	000810
+tint	230	420	237	431	007fff	/fonts/tactical/64
+rect	237	420	244	431	000810
+tint	237	420	244	431	007fff	/fonts/tactical/6f
+rect	244	420	251	431	000810
+tint	244	420	251	431	007fff	/fonts/tactical/6e
+rect	251	420	258	431	000810
+tint	251	420	258	431	007fff	/fonts/tactical/65
+rect	258	420	265	431	000810
+tint	258	420	265	431	007fff	/fonts/tactical/20
+rect	265	420	272	431	000810
+tint	265	420	272	431	007fff	/fonts/tactical/77
+rect	272	420	279	431	000810
+tint	272	420	279	431	007fff	/fonts/tactical/69
+rect	279	420	286	431	000810
+tint	279	420	286	431	007fff	/fonts/tactical/74
+rect	286	420	293	431	000810
+tint	286	420	293	431	007fff	/fonts/tactical/68
+rect	293	420	300	431	000810
+tint	293	420	300	431	007fff	/fonts/tactical/20
+rect	300	420	307	431	000810
+tint	300	420	307	431	007fff	/fonts/tactical/79
+rect	307	420	314	431	000810
+tint	307	420	314	431	007fff	/fonts/tactical/6f
+rect	314	420	321	431	000810
+tint	314	420	321	431	007fff	/fonts/tactical/75
+rect	321	420	328	431	000810
+tint	321	420	328	431	007fff	/fonts/tactical/72
+rect	328	420	335	431	000810
+tint	328	420	335	431	007fff	/fonts/tactical/20
+rect	335	420	342	431	000810
+tint	335	420	342	431	007fff	/fonts/tactical/66
+rect	342	420	349	431	000810
+tint	342	420	349	431	007fff	/fonts/tactical/69
+rect	349	420	356	431	000810
+tint	349	420	356	431	007fff	/fonts/tactical/72
+rect	356	420	363	431	000810
+tint	356	420	363	431	007fff	/fonts/tactical/73
+rect	363	420	370	431	000810
+tint	363	420	370	431	007fff	/fonts/tactical/74
+rect	370	420	377	431	000810
+tint	370	420	377	431	007fff	/fonts/tactical/20
+rect	377	420	384	431	000810
+tint	377	420	384	431	007fff	/fonts/tactical/6c
+rect	384	420	391	431	000810
+tint	384	420	391	431	007fff	/fonts/tactical/65
+rect	391	420	398	431	000810
+tint	391	420	398	431	007fff	/fonts/tactical/73
+rect	398	420	405	431	000810
+tint	398	420	405	431	007fff	/fonts/tactical/73
+rect	405	420	412	431	000810
+tint	405	420	412	431	007fff	/fonts/tactical/6f
+rect	412	420	419	431	000810
+tint	412	420	419	431	007fff	/fonts/tactical/6e
+rect	419	420	426	431	000810
+tint	419	420	426	431	007fff	/fonts/tactical/2e
+rect	426	420	433	431	000810
+tint	426	420	433	431	007fff	/fonts/tactical/20
+rect	433	420	440	431	000810
+tint	433	420	440	431	007fff	/fonts/tactical/41
+rect	440	420	447	431	000810
+tint	440	420	447	431	007fff	/fonts/tactical/6c
+rect	447	420	454	431	000810
+tint	447	420	454	431	007fff	/fonts/tactical/6c
+rect	454	420	461	431	000810
+tint	454	420	461	431	007fff	/fonts/tactical/20
+rect	461	420	468	431	000810
+tint	461	420	468	431	007fff	/fonts/tactical/79
+rect	468	420	475	431	000810
+tint	468	420	475	431	007fff	/fonts/tactical/6f
+rect	475	420	482	431	000810
+tint	475	420	482	431	007fff	/fonts/tactical/75
+rect	482	420	489	431	000810
+tint	482	420	489	431	007fff	/fonts/tactical/20
+rect	489	420	496	431	000810
+tint	489	420	496	431	007fff	/fonts/tactical/6e
+rect	496	420	503	431	000810
+tint	496	420	503	431	007fff	/fonts/tactical/65
+rect	503	420	510	431	000810
+tint	503	420	510	431	007fff	/fonts/tactical/65
+rect	510	420	517	431	000810
+tint	510	420	517	431	007fff	/fonts/tactical/64
+rect	517	420	524	431	000810
+tint	517	420	524	431	007fff	/fonts/tactical/20
+rect	524	420	531	431	000810
+tint	524	420	531	431	007fff	/fonts/tactical/74
+rect	531	420	538	431	000810
+tint	531	420	538	431	007fff	/fonts/tactical/6f
+rect	538	420	545	431	000810
+tint	538	420	545	431	007fff	/fonts/tactical/20
+rect	545	420	552	431	000810
+tint	545	420	552	431	007fff	/fonts/tactical/64
+rect	552	420	559	431	000810
+tint	552	420	559	431	007fff	/fonts/tactical/6f
+rect	559	420	566	431	000810
+tint	559	420	566	431	007fff	/fonts/tactical/20
+rect	566	420	573	431	000810
+tint	566	420	573	431	007fff	/fonts/tactical/6e
+rect	573	420	580	431	000810
+tint	573	420	580	431	007fff	/fonts/tactical/6f
+rect	580	420	587	431	000810
+tint	580	420	587	431	007fff	/fonts/tactical/77
+rect	587	420	594	431	000810
+tint	587	420	594	431	007fff	/fonts/tactical/20
+rect	132	431	139	442	000810
+tint	132	431	139	442	007fff	/fonts/tactical/69
+rect	139	431	146	442	000810
+tint	139	431	146	442	007fff	/fonts/tactical/73
+rect	146	431	153	442	000810
+tint	146	431	153	442	007fff	/fonts/tactical/20
+rect	153	431	160	442	000810
+tint	153	431	160	442	007fff	/fonts/tactical/66
+rect	160	431	167	442	000810
+tint	160	431	167	442	007fff	/fonts/tactical/69
+rect	167	431	174	442	000810
+tint	167	431	174	442	007fff	/fonts/tactical/6e
+rect	174	431	181	442	000810
+tint	174	431	181	442	007fff	/fonts/tactical/64
+rect	181	431	188	442	000810
+tint	181	431	188	442	007fff	/fonts/tactical/20
+rect	188	431	195	442	000810
+tint	188	431	195	442	007fff	/fonts/tactical/61
+rect	195	431	202	442	000810
+tint	195	431	202	442	007fff	/fonts/tactical/6e
+rect	202	431	209	442	000810
+tint	202	431	209	442	007fff	/fonts/tactical/64
+rect	209	431	216	442	000810
+tint	209	431	216	442	007fff	/fonts/tactical/20
+rect	216	431	223	442	000810
+tint	216	431	223	442	007fff	/fonts/tactical/64
+rect	223	431	230	442	000810
+tint	223	431	230	442	007fff	/fonts/tactical/65
+rect	230	431	237	442	000810
+tint	230	431	237	442	007fff	/fonts/tactical/73
+rect	237	431	244	442	000810
+tint	237	431	244	442	007fff	/fonts/tactical/74
+rect	244	431	251	442	000810
+tint	244	431	251	442	007fff	/fonts/tactical/72
+rect	251	431	258	442	000810
+tint	251	431	258	442	007fff	/fonts/tactical/6f
+rect	258	431	266	442	007fff
+line	489	82	475	87	489048
+			487	97	
+	475	87			204020
+draw	0	0	128	480	/pictures/501.png
+	608		640		/pictures/512.png
+tint	29	159	35	171	ff0000	/fonts/computer/30
+	35		41			/fonts/computer/34
+	41		47			/fonts/computer/36
+line	614	456	614	359	007fff
+		359	622		
+	622			456	00488f
+		456	614		
+rect	615	360	622	456	0070e0
+line	614	277	614	231	909048
+		231	622		
+	622			277	505028
+		277	614		
+rect	615	232	622	277	707038
+line	614	328	614	278	ffff7f
+		278	622		
+	622			328	909048
+		328	614		
+rect	615	279	622	328	e0e070
+line	614	200	614	103	ff7f7f
+		103	622		
+	622			200	904848
+		200	614		
+rect	615	104	622	200	e07070
+line	618	8	629	8	90488f
+			618	9	
+	629		629		
+	618	36		36	
+			618	35	
+	629		629		
+rect	620	10	628	35	703870
+		35			c060c0
+	634	49	636	52	183018
+		53		56	
+		57		60	
+		61		64	
+		65		68	
+		69		72	
+		73		76	
+		77		80	
+		81		84	
+		85		88	
+		89		92	
+		93		96	
+		97		100	
+		101		104	
+		105		108	
+		109		112	
+		113		116	
+		117		120	
+		121		124	
+		125		128	
+		129		132	
+		133		136	
+		137		140	
+		141		144	
+		145		148	
+		149		152	
+		153		156	
+		157		160	
+		161		164	
+		165		168	
+		169		172	
+		173		176	
+		177		180	
+		181		184	
+		185		188	
+		189		192	
+		193		196	
+		197		200	
+		201		204	
+		205		208	
+		209		212	
+		213		216	
+		217		220	
+		221		224	
+		225		228	
+		229		232	
+		233		236	
+		237		240	
+		241		244	
+		245		248	
+		249		252	
+		253		256	
+		257		260	
+		261		264	
+		265		268	
+		269		272	
+		273		276	
+		277		280	
+		281		284	
+		285		288	
+		289		292	
+		293		296	
+		297		300	
+		301		304	
+		305		308	
+		309		312	
+		313		316	
+		317		320	
+		321		324	
+		325		328	
+		329		332	
+		333		336	
+		337		340	
+		341		344	
+		345		348	
+		349		352	
+		353		356	
+		357		360	
+		361		364	
+		365		368	
+		369		372	
+		373		376	
+		377		380	
+		381		384	
+		385		388	
+		389		392	
+		393		396	
+		397		400	
+		401		404	
+		405		408	
+		409		412	
+		413		416	
+		417		420	
+		421		424	
+		425		428	
+		429		432	
+		433		436	
+		437		440	
+		441		444	
+		445		448	
+	621	52	631	56	303000
+		57		61	
+		62		66	
+		67		71	
+		72		76	
+		77		81	
+		82		86	
+	7	7	115	115	00ff00
+	8	8	114	114	001000
+	55	55	67	67	003000
+point	108	74	00e000
+rect	12	320	121	440	001000
+line	12	330	119	330	009000
+tint	15	320	21	332	00ff00	/fonts/computer/4d
+	21		27			/fonts/computer/45
+	27		33			/fonts/computer/53
+	33		39			
+	39		45			/fonts/computer/41
+	45		51			/fonts/computer/47
+	51		57			/fonts/computer/45
+	57		63			/fonts/computer/53
+line	12	343	12	332	009000
+		332	120		
+	120			343	005000
+		343	12		
+rect	13	333	120	343	007000
+tint	15	332	21	344	00ff00	/fonts/computer/4e
+	21		27			/fonts/computer/65
+	27		33			/fonts/computer/78
+	33		39			/fonts/computer/74
+	39		45			/fonts/computer/20
+	45		51			/fonts/computer/50
+	51		57			/fonts/computer/61
+	57		63			/fonts/computer/67
+	63		69			/fonts/computer/65
+	69		75			/fonts/computer/2f
+	75		81			/fonts/computer/43
+	81		87			/fonts/computer/6c
+	87		93			/fonts/computer/65
+	93		99			/fonts/computer/61
+	99		105			/fonts/computer/72
+	15	344	21	356		/fonts/computer/50
+	21		27			/fonts/computer/72
+	27		33			/fonts/computer/65
+	33		39			/fonts/computer/76
+	39		45			/fonts/computer/69
+	45		51			/fonts/computer/6f
+	51		57			/fonts/computer/75
+	57		63			/fonts/computer/73
+	63		69			/fonts/computer/20
+	69		75			/fonts/computer/50
+	75		81			/fonts/computer/61
+	81		87			/fonts/computer/67
+	87		93			/fonts/computer/65
+	15	356	21	368		/fonts/computer/4c
+	21		27			/fonts/computer/61
+	27		33			/fonts/computer/73
+	33		39			/fonts/computer/74
+	39		45			/fonts/computer/20
+	45		51			/fonts/computer/4d
+	51		57			/fonts/computer/65
+	57		63			/fonts/computer/73
+	63		69			
+	69		75			/fonts/computer/61
+	75		81			/fonts/computer/67
+	81		87			/fonts/computer/65
+line	12	438	119	438	009000
+rect	16	450	114	475	001010
+line	17	461	17	450	00c0c0
+		450	43		
+	43			461	007070
+		461	17		
+rect	18	451	43	461	009090
+tint	19	450	25	462	00ffff	/fonts/computer/52
+	25		31			/fonts/computer/47
+	31		37			/fonts/computer/48
+	37		43			/fonts/computer/54
+	43		49			/fonts/computer/20
+	49		55			/fonts/computer/45
+	55		61			/fonts/computer/78
+	61		67			/fonts/computer/65
+	67		73			/fonts/computer/63
+	73		79			/fonts/computer/75
+	79		85			/fonts/computer/74
+	85		91			/fonts/computer/65
+line	17	473	17	462	00c0c0
+		462	43		
+	43			473	007070
+		473	17		
+rect	18	463	43	473	009090
+tint	19	462	25	474	00ffff	/fonts/computer/4c
+	25		31			/fonts/computer/45
+	31		37			/fonts/computer/46
+	37		43			/fonts/computer/54
+	43		49			/fonts/computer/20
+	49		55			/fonts/computer/4d
+	55		61			/fonts/computer/61
+	61		67			/fonts/computer/69
+	67		73			/fonts/computer/6e
+	73		79			/fonts/computer/20
+	79		85			/fonts/computer/4d
+	85		91			/fonts/computer/65
+	91		97			/fonts/computer/6e
+	97		103			/fonts/computer/75
+line	12	191	12	180	ffff00
+		180	120		
+	120			191	909000
+		191	12		
+rect	13	181	120	191	c0c000
+tint	15	180	21	192	000000	/fonts/computer/43
+	21		27			/fonts/computer/4f
+	27		33			/fonts/computer/4e
+	33		39			/fonts/computer/54
+	39		45			/fonts/computer/52
+	45		51			/fonts/computer/4f
+	51		57			/fonts/computer/4c
+	15	192	21	204	7fff7f	/fonts/computer/53
+	21		27			/fonts/computer/69
+	27		33			/fonts/computer/6d
+	33		39			/fonts/computer/75
+	39		45			/fonts/computer/6c
+	45		51			/fonts/computer/61
+	51		57			/fonts/computer/74
+	57		63			/fonts/computer/65
+	63		69			/fonts/computer/64
+	69		75			/fonts/computer/20
+	75		81			/fonts/computer/50
+	81		87			/fonts/computer/6c
+	87		93			/fonts/computer/61
+	93		99			/fonts/computer/6e
+	99		105			/fonts/computer/65
+	105		111			/fonts/computer/74
+draw	16	207	34	224	/sprites/1001.SMIV/0
+line	14	204	35	204	489048
+			14	205	
+	35		35		
+	14	225		225	
+			14	224	
+	35		35		
+	12	263	12	252	007fff
+		252	120		
+	120			263	00488f
+		263	12		
+rect	13	253	120	263	0060c0
+tint	15	252	21	264	000000	/fonts/computer/54
+	21		27			/fonts/computer/41
+	27		33			/fonts/computer/52
+	33		39			/fonts/computer/47
+	39		45			/fonts/computer/45
+	45		51			/fonts/computer/54
+	15	264	21	276	7fff7f	/fonts/computer/53
+	21		27			/fonts/computer/69
+	27		33			/fonts/computer/6d
+	33		39			/fonts/computer/75
+	39		45			/fonts/computer/6c
+	45		51			/fonts/computer/61
+	51		57			/fonts/computer/74
+	57		63			/fonts/computer/65
+	63		69			/fonts/computer/64
+	69		75			/fonts/computer/20
+	75		81			/fonts/computer/50
+	81		87			/fonts/computer/6c
+	87		93			/fonts/computer/61
+	93		99			/fonts/computer/6e
+	99		105			/fonts/computer/65
+	105		111			/fonts/computer/74
+draw	16	279	34	296	/sprites/1001.SMIV/0
+line	14	276	35	276	489048
+			14	277	
+	35		35		
+	14	297		297	
+			14	296	
+	35		35		

@@ -1,0 +1,6014 @@
+quiet	3	0
+amp	3	0	255
+loop	3	0	/music/3000
+quiet	3	0
+quiet	3	0
+amp	3	0	215
+loop	3	0	/music/5000
+quiet	0	1
+amp	0	1	128
+play	0	1	/sounds/510
+quiet	0	51
+amp	0	51	255
+play	0	51	/sounds/526
+quiet	1	75
+amp	1	75	255
+play	1	75	/sounds/527
+quiet	2	92
+amp	2	92	64
+play	2	92	/sounds/535
+quiet	2	95
+amp	2	95	64
+play	2	95	/sounds/535
+quiet	2	98
+amp	2	98	64
+play	2	98	/sounds/535
+quiet	2	99
+amp	2	99	255
+play	2	99	/sounds/528
+quiet	0	101
+amp	0	101	64
+play	0	101	/sounds/535
+quiet	0	104
+amp	0	104	64
+play	0	104	/sounds/535
+quiet	0	107
+amp	0	107	64
+play	0	107	/sounds/535
+quiet	0	110
+amp	0	110	64
+play	0	110	/sounds/535
+quiet	0	113
+amp	0	113	64
+play	0	113	/sounds/535
+quiet	0	116
+amp	0	116	64
+play	0	116	/sounds/535
+quiet	0	119
+amp	0	119	64
+play	0	119	/sounds/535
+quiet	0	122
+amp	0	122	64
+play	0	122	/sounds/535
+quiet	0	125
+amp	0	125	64
+play	0	125	/sounds/535
+quiet	0	126
+amp	0	126	255
+play	0	126	/sounds/529
+quiet	1	128
+amp	1	128	64
+play	1	128	/sounds/535
+quiet	1	131
+amp	1	131	64
+play	1	131	/sounds/535
+quiet	1	134
+amp	1	134	64
+play	1	134	/sounds/535
+quiet	1	137
+amp	1	137	64
+play	1	137	/sounds/535
+quiet	1	140
+amp	1	140	64
+play	1	140	/sounds/535
+quiet	1	143
+amp	1	143	64
+play	1	143	/sounds/535
+quiet	1	146
+amp	1	146	64
+play	1	146	/sounds/535
+quiet	1	149
+amp	1	149	64
+play	1	149	/sounds/535
+quiet	1	150
+amp	1	150	255
+play	1	150	/sounds/517
+quiet	2	152
+amp	2	152	64
+play	2	152	/sounds/535
+quiet	2	155
+amp	2	155	64
+play	2	155	/sounds/535
+quiet	2	158
+amp	2	158	64
+play	2	158	/sounds/535
+quiet	2	161
+amp	2	161	64
+play	2	161	/sounds/535
+quiet	2	164
+amp	2	164	64
+play	2	164	/sounds/535
+quiet	2	167
+amp	2	167	64
+play	2	167	/sounds/535
+quiet	2	170
+amp	2	170	64
+play	2	170	/sounds/535
+quiet	2	173
+amp	2	173	64
+play	2	173	/sounds/535
+quiet	2	176
+amp	2	176	64
+play	2	176	/sounds/535
+quiet	2	179
+amp	2	179	64
+play	2	179	/sounds/535
+quiet	2	182
+amp	2	182	64
+play	2	182	/sounds/535
+quiet	2	185
+amp	2	185	64
+play	2	185	/sounds/535
+quiet	2	188
+amp	2	188	64
+play	2	188	/sounds/535
+quiet	2	191
+amp	2	191	64
+play	2	191	/sounds/535
+quiet	2	194
+amp	2	194	64
+play	2	194	/sounds/535
+quiet	2	197
+amp	2	197	64
+play	2	197	/sounds/535
+quiet	2	200
+amp	2	200	64
+play	2	200	/sounds/535
+quiet	2	203
+amp	2	203	64
+play	2	203	/sounds/535
+quiet	2	206
+amp	2	206	64
+play	2	206	/sounds/535
+quiet	2	209
+amp	2	209	64
+play	2	209	/sounds/535
+quiet	2	212
+amp	2	212	64
+play	2	212	/sounds/535
+quiet	2	215
+amp	2	215	64
+play	2	215	/sounds/535
+quiet	2	218
+amp	2	218	64
+play	2	218	/sounds/535
+quiet	2	221
+amp	2	221	64
+play	2	221	/sounds/535
+quiet	2	224
+amp	2	224	64
+play	2	224	/sounds/535
+quiet	2	227
+amp	2	227	64
+play	2	227	/sounds/535
+quiet	2	230
+amp	2	230	64
+play	2	230	/sounds/535
+quiet	2	233
+amp	2	233	64
+play	2	233	/sounds/535
+quiet	2	236
+amp	2	236	64
+play	2	236	/sounds/535
+quiet	2	239
+amp	2	239	64
+play	2	239	/sounds/535
+quiet	2	242
+amp	2	242	64
+play	2	242	/sounds/535
+quiet	2	245
+amp	2	245	64
+play	2	245	/sounds/535
+quiet	2	248
+amp	2	248	64
+play	2	248	/sounds/535
+quiet	2	251
+amp	2	251	64
+play	2	251	/sounds/535
+quiet	2	254
+amp	2	254	64
+play	2	254	/sounds/535
+quiet	2	257
+amp	2	257	64
+play	2	257	/sounds/535
+quiet	2	260
+amp	2	260	64
+play	2	260	/sounds/535
+quiet	2	263
+amp	2	263	64
+play	2	263	/sounds/535
+quiet	2	266
+amp	2	266	64
+play	2	266	/sounds/535
+quiet	2	269
+amp	2	269	64
+play	2	269	/sounds/535
+quiet	2	272
+amp	2	272	64
+play	2	272	/sounds/535
+quiet	2	275
+amp	2	275	64
+play	2	275	/sounds/535
+quiet	2	278
+amp	2	278	64
+play	2	278	/sounds/535
+quiet	2	281
+amp	2	281	64
+play	2	281	/sounds/535
+quiet	2	284
+amp	2	284	64
+play	2	284	/sounds/535
+quiet	2	287
+amp	2	287	64
+play	2	287	/sounds/535
+quiet	2	290
+amp	2	290	64
+play	2	290	/sounds/535
+quiet	2	293
+amp	2	293	64
+play	2	293	/sounds/535
+quiet	2	296
+amp	2	296	64
+play	2	296	/sounds/535
+quiet	2	299
+amp	2	299	64
+play	2	299	/sounds/535
+quiet	2	302
+amp	2	302	64
+play	2	302	/sounds/535
+quiet	2	305
+amp	2	305	64
+play	2	305	/sounds/535
+quiet	2	308
+amp	2	308	64
+play	2	308	/sounds/535
+quiet	2	311
+amp	2	311	64
+play	2	311	/sounds/535
+quiet	2	314
+amp	2	314	64
+play	2	314	/sounds/535
+quiet	2	317
+amp	2	317	64
+play	2	317	/sounds/535
+quiet	2	320
+amp	2	320	64
+play	2	320	/sounds/535
+quiet	2	323
+amp	2	323	64
+play	2	323	/sounds/535
+quiet	2	326
+amp	2	326	64
+play	2	326	/sounds/535
+quiet	2	327
+amp	2	327	255
+play	2	327	/sounds/540
+quiet	0	327
+amp	0	327	255
+play	0	327	/sounds/539
+quiet	1	329
+amp	1	329	64
+play	1	329	/sounds/535
+quiet	1	332
+amp	1	332	64
+play	1	332	/sounds/535
+quiet	1	335
+amp	1	335	64
+play	1	335	/sounds/535
+quiet	1	338
+amp	1	338	64
+play	1	338	/sounds/535
+quiet	1	341
+amp	1	341	64
+play	1	341	/sounds/535
+quiet	2	342
+amp	2	342	255
+play	2	342	/sounds/540
+quiet	1	344
+amp	1	344	64
+play	1	344	/sounds/535
+quiet	1	347
+amp	1	347	64
+play	1	347	/sounds/535
+quiet	0	348
+amp	0	348	255
+play	0	348	/sounds/539
+quiet	1	350
+amp	1	350	64
+play	1	350	/sounds/535
+quiet	1	353
+amp	1	353	64
+play	1	353	/sounds/535
+quiet	1	356
+amp	1	356	64
+play	1	356	/sounds/535
+quiet	2	357
+amp	2	357	255
+play	2	357	/sounds/540
+quiet	1	359
+amp	1	359	64
+play	1	359	/sounds/535
+quiet	1	360
+amp	1	360	255
+play	1	360	/sounds/518
+quiet	0	362
+amp	0	362	64
+play	0	362	/sounds/535
+quiet	0	365
+amp	0	365	64
+play	0	365	/sounds/535
+quiet	0	368
+amp	0	368	64
+play	0	368	/sounds/535
+quiet	0	369
+amp	0	369	255
+play	0	369	/sounds/539
+quiet	2	371
+amp	2	371	64
+play	2	371	/sounds/535
+quiet	2	372
+amp	2	372	255
+play	2	372	/sounds/540
+quiet	0	380
+amp	0	380	64
+play	0	380	/sounds/535
+quiet	0	383
+amp	0	383	64
+play	0	383	/sounds/535
+quiet	0	386
+amp	0	386	64
+play	0	386	/sounds/535
+quiet	2	387
+amp	2	387	255
+play	2	387	/sounds/540
+quiet	0	389
+amp	0	389	64
+play	0	389	/sounds/535
+quiet	0	390
+amp	0	390	255
+play	0	390	/sounds/539
+quiet	1	392
+amp	1	392	64
+play	1	392	/sounds/535
+quiet	1	395
+amp	1	395	64
+play	1	395	/sounds/535
+quiet	1	398
+amp	1	398	64
+play	1	398	/sounds/535
+quiet	1	401
+amp	1	401	64
+play	1	401	/sounds/535
+quiet	1	402
+amp	1	402	173
+play	1	402	/sounds/533
+quiet	2	402
+amp	2	402	255
+play	2	402	/sounds/540
+quiet	0	404
+amp	0	404	64
+play	0	404	/sounds/535
+quiet	0	407
+amp	0	407	64
+play	0	407	/sounds/535
+quiet	0	410
+amp	0	410	64
+play	0	410	/sounds/535
+quiet	0	411
+amp	0	411	255
+play	0	411	/sounds/539
+quiet	2	413
+amp	2	413	64
+play	2	413	/sounds/535
+quiet	2	416
+amp	2	416	64
+play	2	416	/sounds/535
+quiet	1	417
+amp	1	417	255
+play	1	417	/sounds/540
+quiet	2	419
+amp	2	419	64
+play	2	419	/sounds/535
+quiet	2	422
+amp	2	422	64
+play	2	422	/sounds/535
+quiet	1	432
+amp	1	432	255
+play	1	432	/sounds/540
+quiet	0	432
+amp	0	432	255
+play	0	432	/sounds/539
+quiet	1	447
+amp	1	447	255
+play	1	447	/sounds/540
+quiet	0	453
+amp	0	453	255
+play	0	453	/sounds/539
+quiet	2	457
+amp	2	457	128
+play	2	457	/sounds/510
+quiet	1	462
+amp	1	462	255
+play	1	462	/sounds/540
+quiet	2	465
+amp	2	465	239
+play	2	465	/sounds/532
+quiet	0	474
+amp	0	474	235
+play	0	474	/sounds/533
+quiet	0	474
+amp	0	474	255
+play	0	474	/sounds/539
+quiet	2	474
+amp	2	474	246
+play	2	474	/sounds/532
+quiet	1	477
+amp	1	477	255
+play	1	477	/sounds/540
+quiet	2	486
+amp	2	486	246
+play	2	486	/sounds/532
+quiet	1	492
+amp	1	492	255
+play	1	492	/sounds/540
+quiet	0	495
+amp	0	495	255
+play	0	495	/sounds/539
+quiet	0	501
+amp	0	501	245
+play	0	501	/sounds/532
+quiet	1	507
+amp	1	507	255
+play	1	507	/sounds/540
+quiet	0	516
+amp	0	516	255
+play	0	516	/sounds/539
+quiet	0	519
+amp	0	519	240
+play	0	519	/sounds/532
+quiet	1	522
+amp	1	522	255
+play	1	522	/sounds/540
+quiet	1	537
+amp	1	537	255
+play	1	537	/sounds/540
+quiet	0	537
+amp	0	537	255
+play	0	537	/sounds/539
+quiet	0	537
+amp	0	537	234
+play	0	537	/sounds/532
+quiet	2	546
+amp	2	546	229
+play	2	546	/sounds/533
+quiet	1	552
+amp	1	552	255
+play	1	552	/sounds/540
+quiet	1	555
+amp	1	555	227
+play	1	555	/sounds/532
+quiet	0	555
+amp	0	555	255
+play	0	555	/sounds/532
+quiet	1	558
+amp	1	558	255
+play	1	558	/sounds/539
+quiet	2	567
+amp	2	567	255
+play	2	567	/sounds/540
+quiet	1	570
+amp	1	570	227
+play	1	570	/sounds/532
+quiet	1	570
+amp	1	570	255
+play	1	570	/sounds/503
+quiet	2	579
+amp	2	579	255
+play	2	579	/sounds/539
+quiet	0	579
+amp	0	579	255
+play	0	579	/sounds/532
+quiet	0	594
+amp	0	594	255
+play	0	594	/sounds/532
+quiet	2	597
+amp	2	597	255
+play	2	597	/sounds/540
+quiet	1	600
+amp	1	600	255
+play	1	600	/sounds/539
+quiet	1	600
+amp	1	600	229
+play	1	600	/sounds/532
+quiet	2	612
+amp	2	612	255
+play	2	612	/sounds/540
+quiet	1	621
+amp	1	621	255
+play	1	621	/sounds/539
+quiet	0	621
+amp	0	621	255
+play	0	621	/sounds/532
+quiet	2	627
+amp	2	627	255
+play	2	627	/sounds/540
+quiet	0	636
+amp	0	636	255
+play	0	636	/sounds/532
+quiet	2	642
+amp	2	642	255
+play	2	642	/sounds/540
+quiet	1	642
+amp	1	642	255
+play	1	642	/sounds/539
+quiet	1	642
+amp	1	642	246
+play	1	642	/sounds/532
+quiet	2	657
+amp	2	657	255
+play	2	657	/sounds/540
+quiet	1	663
+amp	1	663	255
+play	1	663	/sounds/539
+quiet	2	672
+amp	2	672	255
+play	2	672	/sounds/540
+quiet	1	672
+amp	1	672	244
+play	1	672	/sounds/532
+quiet	1	684
+amp	1	684	255
+play	1	684	/sounds/539
+quiet	2	687
+amp	2	687	255
+play	2	687	/sounds/540
+quiet	2	702
+amp	2	702	255
+play	2	702	/sounds/540
+quiet	1	705
+amp	1	705	255
+play	1	705	/sounds/539
+quiet	2	717
+amp	2	717	255
+play	2	717	/sounds/540
+quiet	1	726
+amp	1	726	255
+play	1	726	/sounds/539
+quiet	2	732
+amp	2	732	255
+play	2	732	/sounds/540
+quiet	2	747
+amp	2	747	255
+play	2	747	/sounds/540
+quiet	1	747
+amp	1	747	255
+play	1	747	/sounds/539
+quiet	2	762
+amp	2	762	255
+play	2	762	/sounds/540
+quiet	0	765
+amp	0	765	255
+play	0	765	/sounds/532
+quiet	1	768
+amp	1	768	255
+play	1	768	/sounds/539
+quiet	2	774
+amp	2	774	255
+play	2	774	/sounds/503
+quiet	0	777
+amp	0	777	255
+play	0	777	/sounds/532
+quiet	1	789
+amp	1	789	255
+play	1	789	/sounds/539
+quiet	0	792
+amp	0	792	255
+play	0	792	/sounds/532
+quiet	2	795
+amp	2	795	255
+play	2	795	/sounds/503
+quiet	1	807
+amp	1	807	255
+play	1	807	/sounds/540
+quiet	0	807
+amp	0	807	255
+play	0	807	/sounds/532
+quiet	2	816
+amp	2	816	255
+play	2	816	/sounds/503
+quiet	1	822
+amp	1	822	255
+play	1	822	/sounds/540
+quiet	1	837
+amp	1	837	255
+play	1	837	/sounds/540
+quiet	2	837
+amp	2	837	255
+play	2	837	/sounds/503
+quiet	0	840
+amp	0	840	255
+play	0	840	/sounds/532
+quiet	1	852
+amp	1	852	255
+play	1	852	/sounds/540
+quiet	0	852
+amp	0	852	255
+play	0	852	/sounds/532
+quiet	1	867
+amp	1	867	255
+play	1	867	/sounds/540
+quiet	2	873
+amp	2	873	255
+play	2	873	/sounds/539
+quiet	1	882
+amp	1	882	255
+play	1	882	/sounds/540
+quiet	2	894
+amp	2	894	255
+play	2	894	/sounds/539
+quiet	1	897
+amp	1	897	255
+play	1	897	/sounds/540
+quiet	1	912
+amp	1	912	255
+play	1	912	/sounds/540
+quiet	0	912
+amp	0	912	255
+play	0	912	/sounds/532
+quiet	2	915
+amp	2	915	255
+play	2	915	/sounds/539
+quiet	1	927
+amp	1	927	255
+play	1	927	/sounds/540
+quiet	2	936
+amp	2	936	255
+play	2	936	/sounds/539
+quiet	0	936
+amp	0	936	255
+play	0	936	/sounds/532
+quiet	1	942
+amp	1	942	255
+play	1	942	/sounds/533
+quiet	0	948
+amp	0	948	255
+play	0	948	/sounds/532
+quiet	2	954
+amp	2	954	255
+play	2	954	/sounds/503
+quiet	0	966
+amp	0	966	255
+play	0	966	/sounds/532
+quiet	1	972
+amp	1	972	255
+play	1	972	/sounds/540
+quiet	2	975
+amp	2	975	255
+play	2	975	/sounds/503
+quiet	0	978
+amp	0	978	255
+play	0	978	/sounds/532
+quiet	1	987
+amp	1	987	255
+play	1	987	/sounds/540
+quiet	0	990
+amp	0	990	255
+play	0	990	/sounds/532
+quiet	2	996
+amp	2	996	255
+play	2	996	/sounds/503
+quiet	1	999
+amp	1	999	255
+play	1	999	/sounds/539
+quiet	0	1008
+amp	0	1008	255
+play	0	1008	/sounds/532
+quiet	1	1014
+amp	1	1014	255
+play	1	1014	/sounds/533
+quiet	2	1017
+amp	2	1017	255
+play	2	1017	/sounds/540
+quiet	0	1026
+amp	0	1026	255
+play	0	1026	/sounds/532
+quiet	2	1032
+amp	2	1032	255
+play	2	1032	/sounds/540
+quiet	1	1041
+amp	1	1041	255
+play	1	1041	/sounds/539
+quiet	2	1047
+amp	2	1047	255
+play	2	1047	/sounds/540
+quiet	1	1053
+amp	1	1053	255
+play	1	1053	/sounds/537
+quiet	0	1053
+amp	0	1053	255
+play	0	1053	/sounds/532
+quiet	2	1062
+amp	2	1062	255
+play	2	1062	/sounds/540
+quiet	0	1071
+amp	0	1071	255
+play	0	1071	/sounds/532
+quiet	2	1077
+amp	2	1077	255
+play	2	1077	/sounds/540
+quiet	1	1083
+amp	1	1083	255
+play	1	1083	/sounds/539
+quiet	0	1086
+amp	0	1086	255
+play	0	1086	/sounds/532
+quiet	2	1092
+amp	2	1092	255
+play	2	1092	/sounds/540
+quiet	1	1095
+amp	1	1095	255
+play	1	1095	/sounds/564
+quiet	2	1104
+amp	2	1104	255
+play	2	1104	/sounds/539
+quiet	0	1119
+amp	0	1119	255
+play	0	1119	/sounds/532
+quiet	2	1122
+amp	2	1122	255
+play	2	1122	/sounds/540
+quiet	1	1125
+amp	1	1125	255
+play	1	1125	/sounds/564
+quiet	0	1131
+amp	0	1131	255
+play	0	1131	/sounds/532
+quiet	2	1134
+amp	2	1134	255
+play	2	1134	/sounds/503
+quiet	2	1137
+amp	2	1137	255
+play	2	1137	/sounds/503
+quiet	0	1146
+amp	0	1146	255
+play	0	1146	/sounds/532
+quiet	2	1146
+amp	2	1146	255
+play	2	1146	/sounds/503
+quiet	1	1155
+amp	1	1155	255
+play	1	1155	/sounds/564
+quiet	2	1158
+amp	2	1158	255
+play	2	1158	/sounds/503
+quiet	0	1161
+amp	0	1161	255
+play	0	1161	/sounds/532
+quiet	2	1182
+amp	2	1182	255
+play	2	1182	/sounds/537
+quiet	1	1185
+amp	1	1185	255
+play	1	1185	/sounds/564
+quiet	1	1194
+amp	1	1194	255
+play	1	1194	/sounds/515
+quiet	0	1194
+amp	0	1194	255
+play	0	1194	/sounds/532
+quiet	2	1197
+amp	2	1197	255
+play	2	1197	/sounds/540
+quiet	2	1209
+amp	2	1209	255
+play	2	1209	/sounds/539
+quiet	1	1224
+amp	1	1224	255
+play	1	1224	/sounds/537
+quiet	2	1227
+amp	2	1227	255
+play	2	1227	/sounds/540
+quiet	0	1230
+amp	0	1230	255
+play	0	1230	/sounds/539
+quiet	1	1236
+amp	1	1236	255
+play	1	1236	/sounds/537
+quiet	0	1239
+amp	0	1239	255
+play	0	1239	/sounds/532
+quiet	1	1245
+amp	1	1245	255
+play	1	1245	/sounds/537
+quiet	2	1254
+amp	2	1254	255
+play	2	1254	/sounds/503
+quiet	1	1257
+amp	1	1257	255
+play	1	1257	/sounds/537
+quiet	1	1266
+amp	1	1266	255
+play	1	1266	/sounds/537
+quiet	1	1278
+amp	1	1278	255
+play	1	1278	/sounds/537
+quiet	0	1281
+amp	0	1281	255
+play	0	1281	/sounds/527
+quiet	2	1281
+amp	2	1281	255
+play	2	1281	/sounds/514
+quiet	2	1281
+amp	2	1281	255
+play	2	1281	/sounds/514
+quiet	2	1281
+amp	2	1281	255
+play	2	1281	/sounds/514
+quiet	2	1284
+amp	2	1284	255
+play	2	1284	/sounds/514
+quiet	2	1287
+amp	2	1287	255
+play	2	1287	/sounds/514
+quiet	2	1287
+amp	2	1287	255
+play	2	1287	/sounds/514
+quiet	2	1287
+amp	2	1287	255
+play	2	1287	/sounds/514
+quiet	1	1290
+amp	1	1290	255
+play	1	1290	/sounds/503
+quiet	2	1290
+amp	2	1290	255
+play	2	1290	/sounds/514
+quiet	2	1302
+amp	2	1302	255
+play	2	1302	/sounds/537
+quiet	1	1302
+amp	1	1302	255
+play	1	1302	/sounds/503
+quiet	1	1302
+amp	1	1302	255
+play	1	1302	/sounds/503
+quiet	0	1305
+amp	0	1305	255
+play	0	1305	/sounds/528
+quiet	2	1332
+amp	2	1332	255
+play	2	1332	/sounds/529
+quiet	1	1356
+amp	1	1356	255
+play	1	1356	/sounds/517
+quiet	0	1389
+amp	0	1389	128
+play	0	1389	/sounds/509
+quiet	0	1398
+amp	0	1398	128
+play	0	1398	/sounds/509
+quiet	2	1409
+amp	2	1409	128
+play	2	1409	/sounds/510
+quiet	0	1473
+amp	0	1473	128
+play	0	1473	/sounds/509
+quiet	0	1482
+amp	0	1482	128
+play	0	1482	/sounds/509
+quiet	0	1494
+amp	0	1494	4
+play	0	1494	/sounds/512
+quiet	2	1497
+amp	2	1497	4
+play	2	1497	/sounds/519
+quiet	0	1497
+amp	0	1497	25
+play	0	1497	/sounds/533
+quiet	0	1500
+amp	0	1500	49
+play	0	1500	/sounds/514
+quiet	0	1503
+amp	0	1503	68
+play	0	1503	/sounds/512
+quiet	0	1509
+amp	0	1509	255
+play	0	1509	/sounds/540
+quiet	2	1509
+amp	2	1509	255
+play	2	1509	/sounds/539
+quiet	1	1512
+amp	1	1512	110
+play	1	1512	/sounds/519
+quiet	1	1512
+amp	1	1512	129
+play	1	1512	/sounds/512
+quiet	1	1521
+amp	1	1521	183
+play	1	1521	/sounds/512
+quiet	0	1524
+amp	0	1524	183
+play	0	1524	/sounds/519
+quiet	0	1524
+amp	0	1524	255
+play	0	1524	/sounds/540
+quiet	1	1530
+amp	1	1530	231
+play	1	1530	/sounds/512
+quiet	2	1530
+amp	2	1530	255
+play	2	1530	/sounds/539
+quiet	1	1533
+amp	1	1533	255
+play	1	1533	/sounds/537
+quiet	0	1536
+amp	0	1536	241
+play	0	1536	/sounds/537
+quiet	0	1536
+amp	0	1536	244
+play	0	1536	/sounds/519
+quiet	0	1539
+amp	0	1539	255
+play	0	1539	/sounds/512
+quiet	2	1542
+amp	2	1542	255
+play	2	1542	/sounds/503
+quiet	1	1548
+amp	1	1548	255
+play	1	1548	/sounds/519
+quiet	0	1548
+amp	0	1548	255
+play	0	1548	/sounds/512
+quiet	0	1560
+amp	0	1560	175
+play	0	1560	/sounds/537
+quiet	0	1560
+amp	0	1560	226
+play	0	1560	/sounds/519
+quiet	1	1566
+amp	1	1566	192
+play	1	1566	/sounds/512
+quiet	2	1578
+amp	2	1578	168
+play	2	1578	/sounds/519
+quiet	0	1578
+amp	0	1578	162
+play	0	1578	/sounds/512
+quiet	1	1578
+amp	1	1578	162
+play	1	1578	/sounds/533
+quiet	0	1590
+amp	0	1590	146
+play	0	1590	/sounds/519
+quiet	2	1596
+amp	2	1596	140
+play	2	1596	/sounds/512
+quiet	0	1602
+amp	0	1602	139
+play	0	1602	/sounds/519
+quiet	0	1614
+amp	0	1614	142
+play	0	1614	/sounds/519
+quiet	2	1614
+amp	2	1614	145
+play	2	1614	/sounds/512
+quiet	1	1614
+amp	1	1614	119
+play	1	1614	/sounds/503
+quiet	1	1620
+amp	1	1620	122
+play	1	1620	/sounds/519
+quiet	1	1620
+amp	1	1620	124
+play	1	1620	/sounds/512
+quiet	0	1626
+amp	0	1626	255
+play	0	1626	/sounds/518
+quiet	2	1626
+amp	2	1626	124
+play	2	1626	/sounds/503
+quiet	1	1629
+amp	1	1629	129
+play	1	1629	/sounds/512
+quiet	2	1632
+amp	2	1632	129
+play	2	1632	/sounds/519
+quiet	1	1638
+amp	1	1638	135
+play	1	1638	/sounds/512
+quiet	2	1644
+amp	2	1644	138
+play	2	1644	/sounds/519
+quiet	1	1647
+amp	1	1647	144
+play	1	1647	/sounds/512
+quiet	2	1656
+amp	2	1656	149
+play	2	1656	/sounds/519
+quiet	1	1656
+amp	1	1656	151
+play	1	1656	/sounds/512
+quiet	1	1659
+amp	1	1659	255
+play	1	1659	/sounds/540
+quiet	2	1659
+amp	2	1659	255
+play	2	1659	/sounds/539
+quiet	0	1659
+amp	0	1659	149
+play	0	1659	/sounds/501
+quiet	0	1659
+amp	0	1659	151
+play	0	1659	/sounds/503
+quiet	1	1674
+amp	1	1674	255
+play	1	1674	/sounds/540
+quiet	2	1680
+amp	2	1680	255
+play	2	1680	/sounds/539
+quiet	1	1689
+amp	1	1689	255
+play	1	1689	/sounds/540
+quiet	0	1695
+amp	0	1695	126
+play	0	1695	/sounds/537
+quiet	0	1698
+amp	0	1698	221
+play	0	1698	/sounds/519
+quiet	0	1698
+amp	0	1698	224
+play	0	1698	/sounds/512
+quiet	2	1698
+amp	2	1698	224
+play	2	1698	/sounds/533
+quiet	0	1701
+amp	0	1701	255
+play	0	1701	/sounds/539
+quiet	1	1701
+amp	1	1701	127
+play	1	1701	/sounds/503
+quiet	1	1701
+amp	1	1701	186
+play	1	1701	/sounds/514
+quiet	1	1704
+amp	1	1704	255
+play	1	1704	/sounds/540
+quiet	2	1707
+amp	2	1707	230
+play	2	1707	/sounds/512
+quiet	2	1716
+amp	2	1716	236
+play	2	1716	/sounds/512
+quiet	0	1716
+amp	0	1716	197
+play	0	1716	/sounds/503
+quiet	0	1719
+amp	0	1719	211
+play	0	1719	/sounds/512
+quiet	1	1719
+amp	1	1719	255
+play	1	1719	/sounds/540
+quiet	0	1722
+amp	0	1722	237
+play	0	1722	/sounds/519
+quiet	0	1722
+amp	0	1722	255
+play	0	1722	/sounds/539
+quiet	2	1728
+amp	2	1728	203
+play	2	1728	/sounds/537
+quiet	2	1728
+amp	2	1728	220
+play	2	1728	/sounds/512
+quiet	2	1734
+amp	2	1734	223
+play	2	1734	/sounds/519
+quiet	1	1734
+amp	1	1734	255
+play	1	1734	/sounds/540
+quiet	2	1737
+amp	2	1737	229
+play	2	1737	/sounds/512
+quiet	2	1740
+amp	2	1740	246
+play	2	1740	/sounds/519
+quiet	2	1740
+amp	2	1740	248
+play	2	1740	/sounds/512
+quiet	0	1740
+amp	0	1740	217
+play	0	1740	/sounds/501
+quiet	0	1743
+amp	0	1743	255
+play	0	1743	/sounds/539
+quiet	1	1746
+amp	1	1746	234
+play	1	1746	/sounds/519
+quiet	1	1746
+amp	1	1746	237
+play	1	1746	/sounds/512
+quiet	1	1749
+amp	1	1749	251
+play	1	1749	/sounds/512
+quiet	1	1749
+amp	1	1749	255
+play	1	1749	/sounds/540
+quiet	2	1752
+amp	2	1752	211
+play	2	1752	/sounds/503
+quiet	1	1764
+amp	1	1764	255
+play	1	1764	/sounds/540
+quiet	0	1764
+amp	0	1764	255
+play	0	1764	/sounds/539
+quiet	2	1776
+amp	2	1776	128
+play	2	1776	/sounds/510
+quiet	1	1779
+amp	1	1779	255
+play	1	1779	/sounds/540
+quiet	0	1785
+amp	0	1785	255
+play	0	1785	/sounds/539
+quiet	2	1788
+amp	2	1788	212
+play	2	1788	/sounds/503
+quiet	2	1791
+amp	2	1791	227
+play	2	1791	/sounds/537
+quiet	2	1791
+amp	2	1791	255
+play	2	1791	/sounds/514
+quiet	1	1794
+amp	1	1794	255
+play	1	1794	/sounds/540
+quiet	0	1794
+amp	0	1794	222
+play	0	1794	/sounds/532
+quiet	0	1806
+amp	0	1806	255
+play	0	1806	/sounds/519
+quiet	2	1806
+amp	2	1806	255
+play	2	1806	/sounds/533
+quiet	1	1806
+amp	1	1806	255
+play	1	1806	/sounds/539
+quiet	0	1818
+amp	0	1818	255
+play	0	1818	/sounds/519
+quiet	1	1824
+amp	1	1824	255
+play	1	1824	/sounds/540
+quiet	0	1830
+amp	0	1830	255
+play	0	1830	/sounds/519
+quiet	2	1830
+amp	2	1830	255
+play	2	1830	/sounds/533
+quiet	0	1836
+amp	0	1836	255
+play	0	1836	/sounds/519
+quiet	1	1836
+amp	1	1836	255
+play	1	1836	/sounds/512
+quiet	0	1842
+amp	0	1842	255
+play	0	1842	/sounds/519
+quiet	1	1845
+amp	1	1845	255
+play	1	1845	/sounds/512
+quiet	0	1848
+amp	0	1848	255
+play	0	1848	/sounds/519
+quiet	0	1854
+amp	0	1854	255
+play	0	1854	/sounds/519
+quiet	1	1854
+amp	1	1854	255
+play	1	1854	/sounds/512
+quiet	0	1860
+amp	0	1860	255
+play	0	1860	/sounds/519
+quiet	1	1863
+amp	1	1863	255
+play	1	1863	/sounds/512
+quiet	0	1866
+amp	0	1866	255
+play	0	1866	/sounds/532
+quiet	2	1869
+amp	2	1869	255
+play	2	1869	/sounds/540
+quiet	1	1872
+amp	1	1872	255
+play	1	1872	/sounds/512
+quiet	2	1884
+amp	2	1884	255
+play	2	1884	/sounds/519
+quiet	1	1884
+amp	1	1884	255
+play	1	1884	/sounds/540
+quiet	2	1896
+amp	2	1896	255
+play	2	1896	/sounds/519
+quiet	1	1899
+amp	1	1899	255
+play	1	1899	/sounds/540
+quiet	0	1911
+amp	0	1911	255
+play	0	1911	/sounds/539
+quiet	2	1911
+amp	2	1911	255
+play	2	1911	/sounds/514
+quiet	1	1914
+amp	1	1914	255
+play	1	1914	/sounds/540
+quiet	1	1929
+amp	1	1929	255
+play	1	1929	/sounds/540
+quiet	0	1932
+amp	0	1932	255
+play	0	1932	/sounds/539
+quiet	0	1935
+amp	0	1935	255
+play	0	1935	/sounds/532
+quiet	1	1944
+amp	1	1944	255
+play	1	1944	/sounds/540
+quiet	2	1950
+amp	2	1950	255
+play	2	1950	/sounds/501
+quiet	0	1950
+amp	0	1950	255
+play	0	1950	/sounds/532
+quiet	1	1959
+amp	1	1959	255
+play	1	1959	/sounds/540
+quiet	1	1974
+amp	1	1974	255
+play	1	1974	/sounds/540
+quiet	2	1974
+amp	2	1974	255
+play	2	1974	/sounds/539
+quiet	0	2088
+amp	0	2088	255
+play	0	2088	/sounds/514
+quiet	1	2141
+amp	1	2141	128
+play	1	2141	/sounds/510
+quiet	2	2432
+amp	2	2432	64
+play	2	2432	/sounds/535
+quiet	2	2435
+amp	2	2435	64
+play	2	2435	/sounds/535
+quiet	2	2438
+amp	2	2438	64
+play	2	2438	/sounds/535
+quiet	2	2441
+amp	2	2441	64
+play	2	2441	/sounds/535
+quiet	2	2444
+amp	2	2444	64
+play	2	2444	/sounds/535
+quiet	2	2447
+amp	2	2447	64
+play	2	2447	/sounds/535
+quiet	2	2450
+amp	2	2450	64
+play	2	2450	/sounds/535
+quiet	2	2453
+amp	2	2453	64
+play	2	2453	/sounds/535
+quiet	2	2456
+amp	2	2456	64
+play	2	2456	/sounds/535
+quiet	2	2459
+amp	2	2459	64
+play	2	2459	/sounds/535
+quiet	2	2462
+amp	2	2462	64
+play	2	2462	/sounds/535
+quiet	2	2465
+amp	2	2465	64
+play	2	2465	/sounds/535
+quiet	2	2468
+amp	2	2468	64
+play	2	2468	/sounds/535
+quiet	2	2471
+amp	2	2471	64
+play	2	2471	/sounds/535
+quiet	2	2474
+amp	2	2474	64
+play	2	2474	/sounds/535
+quiet	2	2477
+amp	2	2477	64
+play	2	2477	/sounds/535
+quiet	2	2480
+amp	2	2480	64
+play	2	2480	/sounds/535
+quiet	2	2483
+amp	2	2483	64
+play	2	2483	/sounds/535
+quiet	2	2486
+amp	2	2486	64
+play	2	2486	/sounds/535
+quiet	2	2489
+amp	2	2489	64
+play	2	2489	/sounds/535
+quiet	2	2492
+amp	2	2492	64
+play	2	2492	/sounds/535
+quiet	2	2495
+amp	2	2495	64
+play	2	2495	/sounds/535
+quiet	2	2498
+amp	2	2498	64
+play	2	2498	/sounds/535
+quiet	2	2501
+amp	2	2501	64
+play	2	2501	/sounds/535
+quiet	2	2504
+amp	2	2504	64
+play	2	2504	/sounds/535
+quiet	2	2507
+amp	2	2507	64
+play	2	2507	/sounds/535
+quiet	2	2510
+amp	2	2510	64
+play	2	2510	/sounds/535
+quiet	2	2513
+amp	2	2513	64
+play	2	2513	/sounds/535
+quiet	2	2516
+amp	2	2516	64
+play	2	2516	/sounds/535
+quiet	1	2517
+amp	1	2517	255
+play	1	2517	/sounds/540
+quiet	2	2517
+amp	2	2517	255
+play	2	2517	/sounds/539
+quiet	0	2519
+amp	0	2519	64
+play	0	2519	/sounds/535
+quiet	0	2522
+amp	0	2522	64
+play	0	2522	/sounds/535
+quiet	0	2525
+amp	0	2525	64
+play	0	2525	/sounds/535
+quiet	0	2528
+amp	0	2528	64
+play	0	2528	/sounds/535
+quiet	0	2531
+amp	0	2531	64
+play	0	2531	/sounds/535
+quiet	1	2532
+amp	1	2532	255
+play	1	2532	/sounds/540
+quiet	0	2534
+amp	0	2534	64
+play	0	2534	/sounds/535
+quiet	0	2537
+amp	0	2537	64
+play	0	2537	/sounds/535
+quiet	2	2538
+amp	2	2538	255
+play	2	2538	/sounds/539
+quiet	0	2540
+amp	0	2540	64
+play	0	2540	/sounds/535
+quiet	0	2543
+amp	0	2543	64
+play	0	2543	/sounds/535
+quiet	0	2546
+amp	0	2546	64
+play	0	2546	/sounds/535
+quiet	1	2547
+amp	1	2547	255
+play	1	2547	/sounds/540
+quiet	0	2549
+amp	0	2549	64
+play	0	2549	/sounds/535
+quiet	0	2552
+amp	0	2552	64
+play	0	2552	/sounds/535
+quiet	0	2555
+amp	0	2555	64
+play	0	2555	/sounds/535
+quiet	0	2558
+amp	0	2558	64
+play	0	2558	/sounds/535
+quiet	2	2559
+amp	2	2559	255
+play	2	2559	/sounds/539
+quiet	0	2561
+amp	0	2561	64
+play	0	2561	/sounds/535
+quiet	1	2562
+amp	1	2562	255
+play	1	2562	/sounds/540
+quiet	0	2564
+amp	0	2564	64
+play	0	2564	/sounds/535
+quiet	0	2567
+amp	0	2567	64
+play	0	2567	/sounds/535
+quiet	0	2570
+amp	0	2570	64
+play	0	2570	/sounds/535
+quiet	0	2573
+amp	0	2573	64
+play	0	2573	/sounds/535
+quiet	0	2574
+amp	0	2574	245
+play	0	2574	/sounds/537
+quiet	2	2576
+amp	2	2576	64
+play	2	2576	/sounds/535
+quiet	1	2577
+amp	1	2577	255
+play	1	2577	/sounds/540
+quiet	2	2579
+amp	2	2579	64
+play	2	2579	/sounds/535
+quiet	0	2580
+amp	0	2580	255
+play	0	2580	/sounds/539
+quiet	2	2582
+amp	2	2582	64
+play	2	2582	/sounds/535
+quiet	2	2583
+amp	2	2583	255
+play	2	2583	/sounds/537
+quiet	1	2588
+amp	1	2588	64
+play	1	2588	/sounds/535
+quiet	1	2591
+amp	1	2591	64
+play	1	2591	/sounds/535
+quiet	1	2592
+amp	1	2592	255
+play	1	2592	/sounds/540
+quiet	0	2594
+amp	0	2594	64
+play	0	2594	/sounds/535
+quiet	0	2597
+amp	0	2597	64
+play	0	2597	/sounds/535
+quiet	0	2598
+amp	0	2598	255
+play	0	2598	/sounds/532
+quiet	2	2600
+amp	2	2600	64
+play	2	2600	/sounds/535
+quiet	2	2601
+amp	2	2601	255
+play	2	2601	/sounds/539
+quiet	1	2603
+amp	1	2603	64
+play	1	2603	/sounds/535
+quiet	1	2606
+amp	1	2606	64
+play	1	2606	/sounds/535
+quiet	1	2607
+amp	1	2607	255
+play	1	2607	/sounds/540
+quiet	2	2612
+amp	2	2612	64
+play	2	2612	/sounds/535
+quiet	2	2613
+amp	2	2613	255
+play	2	2613	/sounds/503
+quiet	1	2618
+amp	1	2618	64
+play	1	2618	/sounds/535
+quiet	1	2621
+amp	1	2621	64
+play	1	2621	/sounds/535
+quiet	1	2622
+amp	1	2622	255
+play	1	2622	/sounds/540
+quiet	0	2630
+amp	0	2630	64
+play	0	2630	/sounds/535
+quiet	0	2633
+amp	0	2633	64
+play	0	2633	/sounds/535
+quiet	0	2636
+amp	0	2636	64
+play	0	2636	/sounds/535
+quiet	1	2637
+amp	1	2637	255
+play	1	2637	/sounds/540
+quiet	0	2639
+amp	0	2639	64
+play	0	2639	/sounds/535
+quiet	0	2642
+amp	0	2642	64
+play	0	2642	/sounds/535
+quiet	0	2643
+amp	0	2643	255
+play	0	2643	/sounds/539
+quiet	2	2645
+amp	2	2645	64
+play	2	2645	/sounds/535
+quiet	2	2648
+amp	2	2648	64
+play	2	2648	/sounds/535
+quiet	2	2651
+amp	2	2651	64
+play	2	2651	/sounds/535
+quiet	2	2654
+amp	2	2654	64
+play	2	2654	/sounds/535
+quiet	2	2657
+amp	2	2657	64
+play	2	2657	/sounds/535
+quiet	2	2660
+amp	2	2660	64
+play	2	2660	/sounds/535
+quiet	2	2663
+amp	2	2663	64
+play	2	2663	/sounds/535
+quiet	2	2666
+amp	2	2666	64
+play	2	2666	/sounds/535
+quiet	2	2669
+amp	2	2669	64
+play	2	2669	/sounds/535
+quiet	2	2672
+amp	2	2672	64
+play	2	2672	/sounds/535
+quiet	2	2675
+amp	2	2675	64
+play	2	2675	/sounds/535
+quiet	2	2678
+amp	2	2678	64
+play	2	2678	/sounds/535
+quiet	2	2679
+amp	2	2679	255
+play	2	2679	/sounds/526
+quiet	1	2679
+amp	1	2679	128
+play	1	2679	/sounds/509
+quiet	0	2681
+amp	0	2681	64
+play	0	2681	/sounds/535
+quiet	0	2684
+amp	0	2684	64
+play	0	2684	/sounds/535
+quiet	0	2687
+amp	0	2687	64
+play	0	2687	/sounds/535
+quiet	1	2688
+amp	1	2688	128
+play	1	2688	/sounds/509
+quiet	0	2690
+amp	0	2690	64
+play	0	2690	/sounds/535
+quiet	0	2693
+amp	0	2693	64
+play	0	2693	/sounds/535
+quiet	0	2694
+amp	0	2694	247
+play	0	2694	/sounds/537
+quiet	2	2702
+amp	2	2702	64
+play	2	2702	/sounds/535
+quiet	0	2703
+amp	0	2703	255
+play	0	2703	/sounds/527
+quiet	2	2705
+amp	2	2705	64
+play	2	2705	/sounds/535
+quiet	2	2708
+amp	2	2708	64
+play	2	2708	/sounds/535
+quiet	2	2711
+amp	2	2711	64
+play	2	2711	/sounds/535
+quiet	2	2714
+amp	2	2714	64
+play	2	2714	/sounds/535
+quiet	1	2715
+amp	1	2715	230
+play	1	2715	/sounds/537
+quiet	2	2717
+amp	2	2717	64
+play	2	2717	/sounds/535
+quiet	2	2720
+amp	2	2720	64
+play	2	2720	/sounds/535
+quiet	2	2722
+amp	2	2722	128
+play	2	2722	/sounds/510
+quiet	0	2726
+amp	0	2726	64
+play	0	2726	/sounds/535
+quiet	0	2727
+amp	0	2727	255
+play	0	2727	/sounds/528
+quiet	1	2729
+amp	1	2729	64
+play	1	2729	/sounds/535
+quiet	1	2732
+amp	1	2732	64
+play	1	2732	/sounds/535
+quiet	1	2735
+amp	1	2735	64
+play	1	2735	/sounds/535
+quiet	1	2738
+amp	1	2738	64
+play	1	2738	/sounds/535
+quiet	1	2741
+amp	1	2741	64
+play	1	2741	/sounds/535
+quiet	1	2744
+amp	1	2744	64
+play	1	2744	/sounds/535
+quiet	1	2747
+amp	1	2747	64
+play	1	2747	/sounds/535
+quiet	1	2750
+amp	1	2750	64
+play	1	2750	/sounds/535
+quiet	1	2753
+amp	1	2753	64
+play	1	2753	/sounds/535
+quiet	1	2754
+amp	1	2754	255
+play	1	2754	/sounds/529
+quiet	2	2756
+amp	2	2756	64
+play	2	2756	/sounds/535
+quiet	2	2759
+amp	2	2759	64
+play	2	2759	/sounds/535
+quiet	2	2762
+amp	2	2762	64
+play	2	2762	/sounds/535
+quiet	2	2765
+amp	2	2765	64
+play	2	2765	/sounds/535
+quiet	2	2768
+amp	2	2768	64
+play	2	2768	/sounds/535
+quiet	2	2771
+amp	2	2771	64
+play	2	2771	/sounds/535
+quiet	2	2774
+amp	2	2774	64
+play	2	2774	/sounds/535
+quiet	2	2777
+amp	2	2777	64
+play	2	2777	/sounds/535
+quiet	2	2778
+amp	2	2778	255
+play	2	2778	/sounds/517
+quiet	0	2780
+amp	0	2780	64
+play	0	2780	/sounds/535
+quiet	0	2783
+amp	0	2783	64
+play	0	2783	/sounds/535
+quiet	0	2786
+amp	0	2786	64
+play	0	2786	/sounds/535
+quiet	0	2789
+amp	0	2789	64
+play	0	2789	/sounds/535
+quiet	0	2792
+amp	0	2792	64
+play	0	2792	/sounds/535
+quiet	0	2795
+amp	0	2795	64
+play	0	2795	/sounds/535
+quiet	0	2798
+amp	0	2798	64
+play	0	2798	/sounds/535
+quiet	0	2801
+amp	0	2801	64
+play	0	2801	/sounds/535
+quiet	0	2804
+amp	0	2804	64
+play	0	2804	/sounds/535
+quiet	0	2807
+amp	0	2807	64
+play	0	2807	/sounds/535
+quiet	0	2810
+amp	0	2810	64
+play	0	2810	/sounds/535
+quiet	0	2813
+amp	0	2813	64
+play	0	2813	/sounds/535
+quiet	0	2816
+amp	0	2816	64
+play	0	2816	/sounds/535
+quiet	0	2819
+amp	0	2819	64
+play	0	2819	/sounds/535
+quiet	0	2822
+amp	0	2822	64
+play	0	2822	/sounds/535
+quiet	0	2825
+amp	0	2825	64
+play	0	2825	/sounds/535
+quiet	0	2828
+amp	0	2828	64
+play	0	2828	/sounds/535
+quiet	0	2831
+amp	0	2831	64
+play	0	2831	/sounds/535
+quiet	0	2834
+amp	0	2834	64
+play	0	2834	/sounds/535
+quiet	0	2837
+amp	0	2837	64
+play	0	2837	/sounds/535
+quiet	0	2840
+amp	0	2840	64
+play	0	2840	/sounds/535
+quiet	0	2841
+amp	0	2841	128
+play	0	2841	/sounds/509
+quiet	1	2843
+amp	1	2843	64
+play	1	2843	/sounds/535
+quiet	1	2846
+amp	1	2846	64
+play	1	2846	/sounds/535
+quiet	1	2849
+amp	1	2849	64
+play	1	2849	/sounds/535
+quiet	1	2852
+amp	1	2852	64
+play	1	2852	/sounds/535
+quiet	0	2853
+amp	0	2853	128
+play	0	2853	/sounds/509
+quiet	1	2855
+amp	1	2855	64
+play	1	2855	/sounds/535
+quiet	1	2858
+amp	1	2858	64
+play	1	2858	/sounds/535
+quiet	1	2861
+amp	1	2861	64
+play	1	2861	/sounds/535
+quiet	1	2864
+amp	1	2864	64
+play	1	2864	/sounds/535
+quiet	1	2867
+amp	1	2867	64
+play	1	2867	/sounds/535
+quiet	1	2870
+amp	1	2870	64
+play	1	2870	/sounds/535
+quiet	1	2873
+amp	1	2873	64
+play	1	2873	/sounds/535
+quiet	0	2937
+amp	0	2937	255
+play	0	2937	/sounds/518
+quiet	1	3030
+amp	1	3030	255
+play	1	3030	/sounds/539
+quiet	2	3033
+amp	2	3033	255
+play	2	3033	/sounds/540
+quiet	0	3045
+amp	0	3045	207
+play	0	3045	/sounds/538
+quiet	2	3048
+amp	2	3048	255
+play	2	3048	/sounds/540
+quiet	1	3051
+amp	1	3051	204
+play	1	3051	/sounds/538
+quiet	0	3051
+amp	0	3051	255
+play	0	3051	/sounds/539
+quiet	1	3060
+amp	1	3060	219
+play	1	3060	/sounds/538
+quiet	2	3063
+amp	2	3063	255
+play	2	3063	/sounds/540
+quiet	0	3072
+amp	0	3072	255
+play	0	3072	/sounds/539
+quiet	1	3075
+amp	1	3075	231
+play	1	3075	/sounds/538
+quiet	1	3075
+amp	1	3075	232
+play	1	3075	/sounds/538
+quiet	1	3075
+amp	1	3075	243
+play	1	3075	/sounds/532
+quiet	2	3078
+amp	2	3078	255
+play	2	3078	/sounds/540
+quiet	1	3084
+amp	1	3084	255
+play	1	3084	/sounds/532
+quiet	0	3090
+amp	0	3090	252
+play	0	3090	/sounds/537
+quiet	2	3090
+amp	2	3090	247
+play	2	3090	/sounds/538
+quiet	0	3093
+amp	0	3093	255
+play	0	3093	/sounds/540
+quiet	2	3093
+amp	2	3093	255
+play	2	3093	/sounds/539
+quiet	1	3096
+amp	1	3096	255
+play	1	3096	/sounds/532
+quiet	0	3108
+amp	0	3108	255
+play	0	3108	/sounds/540
+quiet	1	3111
+amp	1	3111	255
+play	1	3111	/sounds/532
+quiet	2	3114
+amp	2	3114	255
+play	2	3114	/sounds/539
+quiet	0	3123
+amp	0	3123	255
+play	0	3123	/sounds/538
+quiet	2	3135
+amp	2	3135	255
+play	2	3135	/sounds/539
+quiet	0	3138
+amp	0	3138	255
+play	0	3138	/sounds/538
+quiet	1	3144
+amp	1	3144	255
+play	1	3144	/sounds/537
+quiet	2	3153
+amp	2	3153	255
+play	2	3153	/sounds/540
+quiet	0	3156
+amp	0	3156	255
+play	0	3156	/sounds/539
+quiet	2	3168
+amp	2	3168	255
+play	2	3168	/sounds/540
+quiet	0	3168
+amp	0	3168	255
+play	0	3168	/sounds/532
+quiet	1	3177
+amp	1	3177	255
+play	1	3177	/sounds/539
+quiet	2	3183
+amp	2	3183	255
+play	2	3183	/sounds/540
+quiet	0	3186
+amp	0	3186	255
+play	0	3186	/sounds/532
+quiet	0	3192
+amp	0	3192	255
+play	0	3192	/sounds/532
+quiet	1	3195
+amp	1	3195	255
+play	1	3195	/sounds/503
+quiet	2	3198
+amp	2	3198	255
+play	2	3198	/sounds/540
+quiet	0	3201
+amp	0	3201	255
+play	0	3201	/sounds/532
+quiet	1	3210
+amp	1	3210	255
+play	1	3210	/sounds/503
+quiet	2	3213
+amp	2	3213	255
+play	2	3213	/sounds/540
+quiet	0	3213
+amp	0	3213	255
+play	0	3213	/sounds/532
+quiet	0	3219
+amp	0	3219	255
+play	0	3219	/sounds/532
+quiet	1	3222
+amp	1	3222	255
+play	1	3222	/sounds/503
+quiet	2	3228
+amp	2	3228	255
+play	2	3228	/sounds/540
+quiet	0	3228
+amp	0	3228	255
+play	0	3228	/sounds/532
+quiet	2	3240
+amp	2	3240	255
+play	2	3240	/sounds/539
+quiet	1	3240
+amp	1	3240	255
+play	1	3240	/sounds/503
+quiet	0	3243
+amp	0	3243	255
+play	0	3243	/sounds/532
+quiet	2	3258
+amp	2	3258	255
+play	2	3258	/sounds/540
+quiet	1	3261
+amp	1	3261	255
+play	1	3261	/sounds/539
+quiet	2	3273
+amp	2	3273	232
+play	2	3273	/sounds/538
+quiet	2	3273
+amp	2	3273	255
+play	2	3273	/sounds/540
+quiet	1	3282
+amp	1	3282	255
+play	1	3282	/sounds/539
+quiet	2	3288
+amp	2	3288	255
+play	2	3288	/sounds/540
+quiet	2	3303
+amp	2	3303	255
+play	2	3303	/sounds/540
+quiet	1	3303
+amp	1	3303	255
+play	1	3303	/sounds/539
+quiet	0	3306
+amp	0	3306	228
+play	0	3306	/sounds/538
+quiet	2	3318
+amp	2	3318	255
+play	2	3318	/sounds/540
+quiet	1	3324
+amp	1	3324	255
+play	1	3324	/sounds/539
+quiet	2	3333
+amp	2	3333	255
+play	2	3333	/sounds/540
+quiet	0	3339
+amp	0	3339	234
+play	0	3339	/sounds/532
+quiet	1	3345
+amp	1	3345	255
+play	1	3345	/sounds/539
+quiet	2	3348
+amp	2	3348	255
+play	2	3348	/sounds/540
+quiet	2	3363
+amp	2	3363	255
+play	2	3363	/sounds/540
+quiet	1	3363
+amp	1	3363	201
+play	1	3363	/sounds/532
+quiet	0	3366
+amp	0	3366	255
+play	0	3366	/sounds/539
+quiet	2	3378
+amp	2	3378	255
+play	2	3378	/sounds/540
+quiet	1	3381
+amp	1	3381	213
+play	1	3381	/sounds/538
+quiet	0	3387
+amp	0	3387	255
+play	0	3387	/sounds/539
+quiet	2	3393
+amp	2	3393	255
+play	2	3393	/sounds/540
+quiet	1	3397
+amp	1	3397	128
+play	1	3397	/sounds/510
+quiet	1	3405
+amp	1	3405	214
+play	1	3405	/sounds/538
+quiet	2	3408
+amp	2	3408	255
+play	2	3408	/sounds/540
+quiet	0	3408
+amp	0	3408	255
+play	0	3408	/sounds/539
+quiet	2	3423
+amp	2	3423	255
+play	2	3423	/sounds/540
+quiet	1	3429
+amp	1	3429	225
+play	1	3429	/sounds/538
+quiet	0	3429
+amp	0	3429	255
+play	0	3429	/sounds/539
+quiet	2	3438
+amp	2	3438	255
+play	2	3438	/sounds/540
+quiet	0	3446
+amp	0	3446	128
+play	0	3446	/sounds/510
+quiet	0	3450
+amp	0	3450	244
+play	0	3450	/sounds/537
+quiet	0	3450
+amp	0	3450	255
+play	0	3450	/sounds/539
+quiet	1	3453
+amp	1	3453	247
+play	1	3453	/sounds/538
+quiet	2	3453
+amp	2	3453	255
+play	2	3453	/sounds/540
+quiet	2	3468
+amp	2	3468	255
+play	2	3468	/sounds/540
+quiet	1	3471
+amp	1	3471	255
+play	1	3471	/sounds/537
+quiet	0	3471
+amp	0	3471	255
+play	0	3471	/sounds/539
+quiet	0	3477
+amp	0	3477	255
+play	0	3477	/sounds/532
+quiet	2	3483
+amp	2	3483	255
+play	2	3483	/sounds/540
+quiet	1	3486
+amp	1	3486	255
+play	1	3486	/sounds/503
+quiet	1	3489
+amp	1	3489	255
+play	1	3489	/sounds/503
+quiet	2	3498
+amp	2	3498	255
+play	2	3498	/sounds/540
+quiet	2	3513
+amp	2	3513	255
+play	2	3513	/sounds/540
+quiet	0	3513
+amp	0	3513	255
+play	0	3513	/sounds/539
+quiet	2	3528
+amp	2	3528	255
+play	2	3528	/sounds/540
+quiet	0	3534
+amp	0	3534	255
+play	0	3534	/sounds/539
+quiet	2	3543
+amp	2	3543	255
+play	2	3543	/sounds/540
+quiet	0	3555
+amp	0	3555	255
+play	0	3555	/sounds/539
+quiet	1	3558
+amp	1	3558	209
+play	1	3558	/sounds/538
+quiet	2	3558
+amp	2	3558	255
+play	2	3558	/sounds/540
+quiet	1	3564
+amp	1	3564	241
+play	1	3564	/sounds/532
+quiet	0	3573
+amp	0	3573	232
+play	0	3573	/sounds/538
+quiet	2	3573
+amp	2	3573	255
+play	2	3573	/sounds/540
+quiet	0	3576
+amp	0	3576	255
+play	0	3576	/sounds/537
+quiet	1	3576
+amp	1	3576	255
+play	1	3576	/sounds/539
+quiet	0	3585
+amp	0	3585	255
+play	0	3585	/sounds/532
+quiet	2	3588
+amp	2	3588	255
+play	2	3588	/sounds/538
+quiet	1	3588
+amp	1	3588	255
+play	1	3588	/sounds/540
+quiet	0	3591
+amp	0	3591	255
+play	0	3591	/sounds/532
+quiet	1	3600
+amp	1	3600	255
+play	1	3600	/sounds/537
+quiet	0	3600
+amp	0	3600	255
+play	0	3600	/sounds/532
+quiet	2	3600
+amp	2	3600	255
+play	2	3600	/sounds/503
+quiet	2	3606
+amp	2	3606	255
+play	2	3606	/sounds/503
+quiet	0	3609
+amp	0	3609	255
+play	0	3609	/sounds/532
+quiet	2	3615
+amp	2	3615	255
+play	2	3615	/sounds/503
+quiet	1	3618
+amp	1	3618	255
+play	1	3618	/sounds/540
+quiet	0	3621
+amp	0	3621	255
+play	0	3621	/sounds/532
+quiet	2	3630
+amp	2	3630	255
+play	2	3630	/sounds/503
+quiet	1	3633
+amp	1	3633	255
+play	1	3633	/sounds/540
+quiet	0	3633
+amp	0	3633	255
+play	0	3633	/sounds/532
+quiet	0	3645
+amp	0	3645	255
+play	0	3645	/sounds/532
+quiet	2	3645
+amp	2	3645	255
+play	2	3645	/sounds/503
+quiet	1	3648
+amp	1	3648	255
+play	1	3648	/sounds/540
+quiet	1	3660
+amp	1	3660	255
+play	1	3660	/sounds/539
+quiet	0	3663
+amp	0	3663	255
+play	0	3663	/sounds/532
+quiet	2	3678
+amp	2	3678	255
+play	2	3678	/sounds/540
+quiet	1	3681
+amp	1	3681	255
+play	1	3681	/sounds/539
+quiet	0	3687
+amp	0	3687	255
+play	0	3687	/sounds/532
+quiet	2	3693
+amp	2	3693	255
+play	2	3693	/sounds/540
+quiet	0	3699
+amp	0	3699	255
+play	0	3699	/sounds/532
+quiet	1	3699
+amp	1	3699	255
+play	1	3699	/sounds/503
+quiet	2	3708
+amp	2	3708	255
+play	2	3708	/sounds/540
+quiet	0	3714
+amp	0	3714	255
+play	0	3714	/sounds/532
+quiet	1	3720
+amp	1	3720	255
+play	1	3720	/sounds/503
+quiet	2	3723
+amp	2	3723	255
+play	2	3723	/sounds/540
+quiet	0	3729
+amp	0	3729	255
+play	0	3729	/sounds/532
+quiet	2	3735
+amp	2	3735	255
+play	2	3735	/sounds/538
+quiet	1	3738
+amp	1	3738	255
+play	1	3738	/sounds/503
+quiet	0	3741
+amp	0	3741	255
+play	0	3741	/sounds/532
+quiet	2	3750
+amp	2	3750	255
+play	2	3750	/sounds/538
+quiet	0	3750
+amp	0	3750	255
+play	0	3750	/sounds/532
+quiet	1	3753
+amp	1	3753	255
+play	1	3753	/sounds/503
+quiet	2	3756
+amp	2	3756	255
+play	2	3756	/sounds/538
+quiet	0	3759
+amp	0	3759	255
+play	0	3759	/sounds/532
+quiet	1	3762
+amp	1	3762	255
+play	1	3762	/sounds/503
+quiet	2	3765
+amp	2	3765	255
+play	2	3765	/sounds/538
+quiet	1	3765
+amp	1	3765	255
+play	1	3765	/sounds/503
+quiet	0	3768
+amp	0	3768	255
+play	0	3768	/sounds/532
+quiet	2	3777
+amp	2	3777	255
+play	2	3777	/sounds/537
+quiet	1	3783
+amp	1	3783	255
+play	1	3783	/sounds/503
+quiet	2	3786
+amp	2	3786	255
+play	2	3786	/sounds/537
+quiet	0	3786
+amp	0	3786	255
+play	0	3786	/sounds/525
+quiet	1	3786
+amp	1	3786	255
+play	1	3786	/sounds/532
+quiet	2	3798
+amp	2	3798	255
+play	2	3798	/sounds/537
+quiet	1	3798
+amp	1	3798	255
+play	1	3798	/sounds/532
+quiet	2	3810
+amp	2	3810	255
+play	2	3810	/sounds/538
+quiet	1	3813
+amp	1	3813	255
+play	1	3813	/sounds/532
+quiet	2	3825
+amp	2	3825	255
+play	2	3825	/sounds/538
+quiet	1	3828
+amp	1	3828	255
+play	1	3828	/sounds/532
+quiet	2	3843
+amp	2	3843	255
+play	2	3843	/sounds/540
+quiet	0	3849
+amp	0	3849	255
+play	0	3849	/sounds/539
+quiet	2	3858
+amp	2	3858	255
+play	2	3858	/sounds/540
+quiet	1	3867
+amp	1	3867	255
+play	1	3867	/sounds/538
+quiet	0	3873
+amp	0	3873	255
+play	0	3873	/sounds/537
+quiet	2	3882
+amp	2	3882	253
+play	2	3882	/sounds/538
+quiet	1	3891
+amp	1	3891	243
+play	1	3891	/sounds/538
+quiet	0	3891
+amp	0	3891	243
+play	0	3891	/sounds/537
+quiet	0	3894
+amp	0	3894	246
+play	0	3894	/sounds/537
+quiet	1	3897
+amp	1	3897	244
+play	1	3897	/sounds/538
+quiet	2	3912
+amp	2	3912	239
+play	2	3912	/sounds/538
+quiet	0	3912
+amp	0	3912	128
+play	0	3912	/sounds/525
+quiet	0	3915
+amp	0	3915	227
+play	0	3915	/sounds/538
+quiet	0	3915
+amp	0	3915	238
+play	0	3915	/sounds/537
+quiet	1	3927
+amp	1	3927	235
+play	1	3927	/sounds/538
+quiet	2	3939
+amp	2	3939	220
+play	2	3939	/sounds/538
+quiet	2	3942
+amp	2	3942	232
+play	2	3942	/sounds/538
+quiet	0	3954
+amp	0	3954	136
+play	0	3954	/sounds/518
+quiet	1	3954
+amp	1	3954	131
+play	1	3954	/sounds/518
+quiet	0	3960
+amp	0	3960	255
+play	0	3960	/sounds/540
+quiet	1	3960
+amp	1	3960	255
+play	1	3960	/sounds/539
+quiet	0	3975
+amp	0	3975	255
+play	0	3975	/sounds/540
+quiet	1	3981
+amp	1	3981	255
+play	1	3981	/sounds/539
+quiet	0	3990
+amp	0	3990	255
+play	0	3990	/sounds/540
+quiet	2	4002
+amp	2	4002	242
+play	2	4002	/sounds/537
+quiet	1	4002
+amp	1	4002	213
+play	1	4002	/sounds/538
+quiet	0	4002
+amp	0	4002	199
+play	0	4002	/sounds/519
+quiet	0	4002
+amp	0	4002	203
+play	0	4002	/sounds/512
+quiet	0	4002
+amp	0	4002	255
+play	0	4002	/sounds/539
+quiet	1	4005
+amp	1	4005	255
+play	1	4005	/sounds/540
+quiet	0	4014
+amp	0	4014	215
+play	0	4014	/sounds/519
+quiet	2	4017
+amp	2	4017	209
+play	2	4017	/sounds/538
+quiet	0	4020
+amp	0	4020	227
+play	0	4020	/sounds/512
+quiet	1	4020
+amp	1	4020	255
+play	1	4020	/sounds/540
+quiet	0	4020
+amp	0	4020	255
+play	0	4020	/sounds/503
+quiet	2	4023
+amp	2	4023	255
+play	2	4023	/sounds/539
+quiet	0	4029
+amp	0	4029	224
+play	0	4029	/sounds/532
+quiet	0	4032
+amp	0	4032	225
+play	0	4032	/sounds/538
+quiet	1	4035
+amp	1	4035	255
+play	1	4035	/sounds/540
+quiet	0	4038
+amp	0	4038	245
+play	0	4038	/sounds/519
+quiet	0	4038
+amp	0	4038	248
+play	0	4038	/sounds/512
+quiet	2	4038
+amp	2	4038	128
+play	2	4038	/sounds/525
+quiet	2	4041
+amp	2	4041	203
+play	2	4041	/sounds/538
+quiet	2	4047
+amp	2	4047	214
+play	2	4047	/sounds/532
+quiet	1	4056
+amp	1	4056	208
+play	1	4056	/sounds/538
+quiet	0	4056
+amp	0	4056	199
+play	0	4056	/sounds/538
+quiet	0	4062
+amp	0	4062	255
+play	0	4062	/sounds/537
+quiet	1	4071
+amp	1	4071	199
+play	1	4071	/sounds/538
+quiet	0	4092
+amp	0	4092	197
+play	0	4092	/sounds/538
+quiet	2	4092
+amp	2	4092	197
+play	2	4092	/sounds/537
+quiet	0	4125
+amp	0	4125	255
+play	0	4125	/sounds/519
+quiet	1	4125
+amp	1	4125	255
+play	1	4125	/sounds/533
+quiet	2	4131
+amp	2	4131	209
+play	2	4131	/sounds/532
+quiet	2	4137
+amp	2	4137	248
+play	2	4137	/sounds/537
+quiet	0	4137
+amp	0	4137	255
+play	0	4137	/sounds/519
+quiet	0	4158
+amp	0	4158	229
+play	0	4158	/sounds/537
+quiet	2	4164
+amp	2	4164	128
+play	2	4164	/sounds/525
+quiet	1	4174
+amp	1	4174	128
+play	1	4174	/sounds/510
+quiet	0	4209
+amp	0	4209	128
+play	0	4209	/sounds/509
+quiet	0	4269
+amp	0	4269	255
+play	0	4269	/sounds/540
+quiet	1	4269
+amp	1	4269	255
+play	1	4269	/sounds/539
+quiet	2	4272
+amp	2	4272	243
+play	2	4272	/sounds/537
+quiet	0	4281
+amp	0	4281	191
+play	0	4281	/sounds/532
+quiet	0	4284
+amp	0	4284	255
+play	0	4284	/sounds/540
+quiet	1	4290
+amp	1	4290	255
+play	1	4290	/sounds/539
+quiet	2	4290
+amp	2	4290	128
+play	2	4290	/sounds/525
+quiet	2	4293
+amp	2	4293	244
+play	2	4293	/sounds/537
+quiet	0	4299
+amp	0	4299	255
+play	0	4299	/sounds/540
+quiet	2	4305
+amp	2	4305	255
+play	2	4305	/sounds/503
+quiet	1	4311
+amp	1	4311	255
+play	1	4311	/sounds/539
+quiet	0	4311
+amp	0	4311	255
+play	0	4311	/sounds/532
+quiet	0	4320
+amp	0	4320	255
+play	0	4320	/sounds/532
+quiet	1	4329
+amp	1	4329	255
+play	1	4329	/sounds/540
+quiet	0	4329
+amp	0	4329	255
+play	0	4329	/sounds/532
+quiet	2	4332
+amp	2	4332	255
+play	2	4332	/sounds/539
+quiet	0	4338
+amp	0	4338	255
+play	0	4338	/sounds/532
+quiet	1	4344
+amp	1	4344	255
+play	1	4344	/sounds/540
+quiet	2	4350
+amp	2	4350	179
+play	2	4350	/sounds/538
+quiet	0	4350
+amp	0	4350	255
+play	0	4350	/sounds/532
+quiet	2	4350
+amp	2	4350	255
+play	2	4350	/sounds/503
+quiet	1	4359
+amp	1	4359	255
+play	1	4359	/sounds/540
+quiet	0	4359
+amp	0	4359	255
+play	0	4359	/sounds/532
+quiet	2	4362
+amp	2	4362	255
+play	2	4362	/sounds/503
+quiet	1	4371
+amp	1	4371	255
+play	1	4371	/sounds/538
+quiet	2	4371
+amp	2	4371	255
+play	2	4371	/sounds/503
+quiet	0	4371
+amp	0	4371	255
+play	0	4371	/sounds/532
+quiet	2	4377
+amp	2	4377	255
+play	2	4377	/sounds/503
+quiet	2	4380
+amp	2	4380	255
+play	2	4380	/sounds/503
+quiet	0	4380
+amp	0	4380	255
+play	0	4380	/sounds/532
+quiet	2	4380
+amp	2	4380	255
+play	2	4380	/sounds/503
+quiet	1	4386
+amp	1	4386	247
+play	1	4386	/sounds/503
+quiet	1	4386
+amp	1	4386	249
+play	1	4386	/sounds/503
+quiet	1	4389
+amp	1	4389	255
+play	1	4389	/sounds/519
+quiet	0	4389
+amp	0	4389	255
+play	0	4389	/sounds/532
+quiet	2	4395
+amp	2	4395	255
+play	2	4395	/sounds/503
+quiet	1	4401
+amp	1	4401	190
+play	1	4401	/sounds/537
+quiet	1	4404
+amp	1	4404	255
+play	1	4404	/sounds/540
+quiet	0	4404
+amp	0	4404	255
+play	0	4404	/sounds/532
+quiet	1	4416
+amp	1	4416	255
+play	1	4416	/sounds/539
+quiet	2	4416
+amp	2	4416	128
+play	2	4416	/sounds/525
+quiet	2	4416
+amp	2	4416	234
+play	2	4416	/sounds/503
+quiet	2	4419
+amp	2	4419	255
+play	2	4419	/sounds/540
+quiet	1	4431
+amp	1	4431	225
+play	1	4431	/sounds/503
+quiet	2	4431
+amp	2	4431	222
+play	2	4431	/sounds/503
+quiet	0	4431
+amp	0	4431	255
+play	0	4431	/sounds/532
+quiet	1	4434
+amp	1	4434	255
+play	1	4434	/sounds/540
+quiet	2	4437
+amp	2	4437	255
+play	2	4437	/sounds/539
+quiet	1	4446
+amp	1	4446	162
+play	1	4446	/sounds/537
+quiet	1	4446
+amp	1	4446	255
+play	1	4446	/sounds/503
+quiet	2	4449
+amp	2	4449	220
+play	2	4449	/sounds/519
+quiet	2	4449
+amp	2	4449	255
+play	2	4449	/sounds/540
+quiet	0	4449
+amp	0	4449	255
+play	0	4449	/sounds/532
+quiet	2	4461
+amp	2	4461	217
+play	2	4461	/sounds/519
+quiet	2	4464
+amp	2	4464	225
+play	2	4464	/sounds/537
+quiet	2	4464
+amp	2	4464	255
+play	2	4464	/sounds/540
+quiet	0	4464
+amp	0	4464	255
+play	0	4464	/sounds/532
+quiet	1	4467
+amp	1	4467	166
+play	1	4467	/sounds/537
+quiet	1	4473
+amp	1	4473	255
+play	1	4473	/sounds/503
+quiet	2	4479
+amp	2	4479	255
+play	2	4479	/sounds/540
+quiet	0	4485
+amp	0	4485	255
+play	0	4485	/sounds/532
+quiet	2	4491
+amp	2	4491	208
+play	2	4491	/sounds/538
+quiet	2	4494
+amp	2	4494	255
+play	2	4494	/sounds/540
+quiet	1	4494
+amp	1	4494	255
+play	1	4494	/sounds/503
+quiet	0	4497
+amp	0	4497	255
+play	0	4497	/sounds/532
+quiet	2	4506
+amp	2	4506	206
+play	2	4506	/sounds/538
+quiet	2	4509
+amp	2	4509	255
+play	2	4509	/sounds/540
+quiet	0	4512
+amp	0	4512	255
+play	0	4512	/sounds/532
+quiet	1	4515
+amp	1	4515	228
+play	1	4515	/sounds/503
+quiet	1	4515
+amp	1	4515	255
+play	1	4515	/sounds/503
+quiet	2	4521
+amp	2	4521	206
+play	2	4521	/sounds/538
+quiet	2	4521
+amp	2	4521	255
+play	2	4521	/sounds/539
+quiet	1	4524
+amp	1	4524	236
+play	1	4524	/sounds/515
+quiet	0	4524
+amp	0	4524	255
+play	0	4524	/sounds/532
+quiet	1	4530
+amp	1	4530	255
+play	1	4530	/sounds/503
+quiet	2	4533
+amp	2	4533	236
+play	2	4533	/sounds/503
+quiet	0	4536
+amp	0	4536	255
+play	0	4536	/sounds/532
+quiet	2	4539
+amp	2	4539	255
+play	2	4539	/sounds/540
+quiet	0	4548
+amp	0	4548	255
+play	0	4548	/sounds/532
+quiet	1	4551
+amp	1	4551	255
+play	1	4551	/sounds/503
+quiet	2	4554
+amp	2	4554	255
+play	2	4554	/sounds/540
+quiet	0	4563
+amp	0	4563	255
+play	0	4563	/sounds/532
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4566
+amp	2	4566	236
+play	2	4566	/sounds/503
+quiet	2	4569
+amp	2	4569	255
+play	2	4569	/sounds/540
+quiet	1	4569
+amp	1	4569	255
+play	1	4569	/sounds/503
+quiet	0	4575
+amp	0	4575	255
+play	0	4575	/sounds/532
+quiet	2	4584
+amp	2	4584	255
+play	2	4584	/sounds/540
+quiet	0	4587
+amp	0	4587	255
+play	0	4587	/sounds/532
+quiet	1	4587
+amp	1	4587	255
+play	1	4587	/sounds/503
+quiet	2	4596
+amp	2	4596	251
+play	2	4596	/sounds/503
+quiet	2	4599
+amp	2	4599	255
+play	2	4599	/sounds/540
+quiet	0	4602
+amp	0	4602	255
+play	0	4602	/sounds/532
+quiet	1	4608
+amp	1	4608	255
+play	1	4608	/sounds/503
+quiet	2	4614
+amp	2	4614	192
+play	2	4614	/sounds/519
+quiet	2	4614
+amp	2	4614	255
+play	2	4614	/sounds/540
+quiet	0	4617
+amp	0	4617	255
+play	0	4617	/sounds/532
+quiet	2	4626
+amp	2	4626	255
+play	2	4626	/sounds/539
+quiet	1	4629
+amp	1	4629	255
+play	1	4629	/sounds/540
+quiet	0	4632
+amp	0	4632	255
+play	0	4632	/sounds/532
+quiet	1	4644
+amp	1	4644	255
+play	1	4644	/sounds/540
+quiet	2	4647
+amp	2	4647	234
+play	2	4647	/sounds/538
+quiet	2	4647
+amp	2	4647	255
+play	2	4647	/sounds/539
+quiet	0	4647
+amp	0	4647	255
+play	0	4647	/sounds/532
+quiet	1	4659
+amp	1	4659	255
+play	1	4659	/sounds/540
+quiet	2	4662
+amp	2	4662	238
+play	2	4662	/sounds/538
+quiet	0	4662
+amp	0	4662	255
+play	0	4662	/sounds/532
+quiet	2	4668
+amp	2	4668	255
+play	2	4668	/sounds/539
+quiet	1	4671
+amp	1	4671	255
+play	1	4671	/sounds/503
+quiet	0	4677
+amp	0	4677	255
+play	0	4677	/sounds/532
+quiet	2	4683
+amp	2	4683	188
+play	2	4683	/sounds/519
+quiet	2	4683
+amp	2	4683	189
+play	2	4683	/sounds/533
+quiet	2	4689
+amp	2	4689	255
+play	2	4689	/sounds/540
+quiet	1	4692
+amp	1	4692	255
+play	1	4692	/sounds/515
+quiet	0	4692
+amp	0	4692	255
+play	0	4692	/sounds/532
+quiet	2	4704
+amp	2	4704	255
+play	2	4704	/sounds/540
+quiet	0	4716
+amp	0	4716	255
+play	0	4716	/sounds/532
+quiet	2	4719
+amp	2	4719	199
+play	2	4719	/sounds/519
+quiet	2	4719
+amp	2	4719	255
+play	2	4719	/sounds/540
+quiet	2	4731
+amp	2	4731	229
+play	2	4731	/sounds/538
+quiet	2	4731
+amp	2	4731	255
+play	2	4731	/sounds/539
+quiet	2	4746
+amp	2	4746	231
+play	2	4746	/sounds/538
+quiet	2	4752
+amp	2	4752	233
+play	2	4752	/sounds/537
+quiet	2	4758
+amp	2	4758	255
+play	2	4758	/sounds/537
+quiet	0	4758
+amp	0	4758	118
+play	0	4758	/sounds/538
+quiet	0	4761
+amp	0	4761	236
+play	0	4761	/sounds/538
+quiet	0	4770
+amp	0	4770	255
+play	0	4770	/sounds/540
+quiet	1	4770
+amp	1	4770	255
+play	1	4770	/sounds/539
+quiet	2	4770
+amp	2	4770	255
+play	2	4770	/sounds/501
+quiet	0	4785
+amp	0	4785	255
+play	0	4785	/sounds/540
+quiet	1	4791
+amp	1	4791	255
+play	1	4791	/sounds/539
+quiet	2	4794
+amp	2	4794	128
+play	2	4794	/sounds/525
+quiet	0	4800
+amp	0	4800	255
+play	0	4800	/sounds/540
+quiet	2	4809
+amp	2	4809	158
+play	2	4809	/sounds/538
+quiet	1	4812
+amp	1	4812	255
+play	1	4812	/sounds/539
+quiet	2	4812
+amp	2	4812	253
+play	2	4812	/sounds/532
+quiet	0	4815
+amp	0	4815	255
+play	0	4815	/sounds/540
+quiet	0	4830
+amp	0	4830	255
+play	0	4830	/sounds/540
+quiet	1	4833
+amp	1	4833	255
+play	1	4833	/sounds/539
+quiet	0	4845
+amp	0	4845	255
+play	0	4845	/sounds/540
+quiet	2	4848
+amp	2	4848	255
+play	2	4848	/sounds/519
+quiet	1	4848
+amp	1	4848	255
+play	1	4848	/sounds/512
+quiet	1	4857
+amp	1	4857	255
+play	1	4857	/sounds/512
+quiet	2	4860
+amp	2	4860	255
+play	2	4860	/sounds/519
+quiet	0	4860
+amp	0	4860	255
+play	0	4860	/sounds/540
+quiet	1	4866
+amp	1	4866	255
+play	1	4866	/sounds/512
+quiet	0	4872
+amp	0	4872	255
+play	0	4872	/sounds/503
+quiet	2	4875
+amp	2	4875	255
+play	2	4875	/sounds/538
+quiet	2	4890
+amp	2	4890	255
+play	2	4890	/sounds/538
+quiet	1	4890
+amp	1	4890	255
+play	1	4890	/sounds/540
+quiet	0	4893
+amp	0	4893	255
+play	0	4893	/sounds/532
+quiet	1	4902
+amp	1	4902	255
+play	1	4902	/sounds/503
+quiet	2	4905
+amp	2	4905	255
+play	2	4905	/sounds/538
+quiet	1	4914
+amp	1	4914	255
+play	1	4914	/sounds/503
+quiet	2	4917
+amp	2	4917	255
+play	2	4917	/sounds/537
+quiet	1	4929
+amp	1	4929	255
+play	1	4929	/sounds/503
+quiet	0	4932
+amp	0	4932	255
+play	0	4932	/sounds/532
+quiet	2	4935
+amp	2	4935	255
+play	2	4935	/sounds/538
+quiet	2	4950
+amp	2	4950	255
+play	2	4950	/sounds/540
+quiet	1	4950
+amp	1	4950	255
+play	1	4950	/sounds/503
+quiet	2	4965
+amp	2	4965	255
+play	2	4965	/sounds/540
+quiet	1	4965
+amp	1	4965	255
+play	1	4965	/sounds/503
+quiet	1	4965
+amp	1	4965	255
+play	1	4965	/sounds/515
+quiet	0	4965
+amp	0	4965	255
+play	0	4965	/sounds/532
+quiet	2	4980
+amp	2	4980	255
+play	2	4980	/sounds/540
+quiet	2	4995
+amp	2	4995	255
+play	2	4995	/sounds/540
+quiet	0	5001
+amp	0	5001	255
+play	0	5001	/sounds/539
+quiet	2	5010
+amp	2	5010	255
+play	2	5010	/sounds/540
+quiet	0	5022
+amp	0	5022	255
+play	0	5022	/sounds/539
+quiet	2	5025
+amp	2	5025	255
+play	2	5025	/sounds/540
+quiet	0	5028
+amp	0	5028	255
+play	0	5028	/sounds/532
+quiet	2	5040
+amp	2	5040	255
+play	2	5040	/sounds/540
+quiet	1	5043
+amp	1	5043	255
+play	1	5043	/sounds/539
+quiet	0	5046
+amp	0	5046	255
+play	0	5046	/sounds/532
+quiet	2	5055
+amp	2	5055	255
+play	2	5055	/sounds/540
+quiet	1	5064
+amp	1	5064	255
+play	1	5064	/sounds/539
+quiet	2	5070
+amp	2	5070	255
+play	2	5070	/sounds/540
+quiet	0	5082
+amp	0	5082	255
+play	0	5082	/sounds/532
+quiet	2	5085
+amp	2	5085	255
+play	2	5085	/sounds/540
+quiet	1	5085
+amp	1	5085	255
+play	1	5085	/sounds/539
+quiet	2	5100
+amp	2	5100	255
+play	2	5100	/sounds/540
+quiet	0	5100
+amp	0	5100	255
+play	0	5100	/sounds/532
+quiet	0	5103
+amp	0	5103	255
+play	0	5103	/sounds/532
+quiet	1	5106
+amp	1	5106	255
+play	1	5106	/sounds/539
+quiet	2	5115
+amp	2	5115	255
+play	2	5115	/sounds/540
+quiet	1	5127
+amp	1	5127	255
+play	1	5127	/sounds/539
+quiet	2	5130
+amp	2	5130	255
+play	2	5130	/sounds/540
+quiet	0	5134
+amp	0	5134	64
+play	0	5134	/sounds/535
+quiet	0	5137
+amp	0	5137	64
+play	0	5137	/sounds/535
+quiet	0	5140
+amp	0	5140	64
+play	0	5140	/sounds/535
+quiet	0	5143
+amp	0	5143	64
+play	0	5143	/sounds/535
+quiet	2	5145
+amp	2	5145	255
+play	2	5145	/sounds/540
+quiet	0	5146
+amp	0	5146	64
+play	0	5146	/sounds/535
+quiet	1	5148
+amp	1	5148	255
+play	1	5148	/sounds/539
+quiet	0	5149
+amp	0	5149	64
+play	0	5149	/sounds/535
+quiet	0	5152
+amp	0	5152	64
+play	0	5152	/sounds/535
+quiet	0	5155
+amp	0	5155	64
+play	0	5155	/sounds/535
+quiet	0	5158
+amp	0	5158	64
+play	0	5158	/sounds/535
+quiet	2	5160
+amp	2	5160	255
+play	2	5160	/sounds/540
+quiet	0	5161
+amp	0	5161	64
+play	0	5161	/sounds/535
+quiet	0	5163
+amp	0	5163	255
+play	0	5163	/sounds/532
+quiet	1	5164
+amp	1	5164	64
+play	1	5164	/sounds/535
+quiet	1	5167
+amp	1	5167	64
+play	1	5167	/sounds/535
+quiet	1	5169
+amp	1	5169	255
+play	1	5169	/sounds/539
+quiet	2	5172
+amp	2	5172	128
+play	2	5172	/sounds/525
+quiet	2	5175
+amp	2	5175	255
+play	2	5175	/sounds/540
+quiet	1	5182
+amp	1	5182	64
+play	1	5182	/sounds/535
+quiet	1	5185
+amp	1	5185	64
+play	1	5185	/sounds/535
+quiet	1	5188
+amp	1	5188	64
+play	1	5188	/sounds/535
+quiet	2	5190
+amp	2	5190	255
+play	2	5190	/sounds/540
+quiet	1	5190
+amp	1	5190	255
+play	1	5190	/sounds/539
+quiet	0	5194
+amp	0	5194	64
+play	0	5194	/sounds/535
+quiet	0	5197
+amp	0	5197	64
+play	0	5197	/sounds/535
+quiet	0	5199
+amp	0	5199	255
+play	0	5199	/sounds/537
+quiet	1	5203
+amp	1	5203	64
+play	1	5203	/sounds/535
+quiet	2	5205
+amp	2	5205	255
+play	2	5205	/sounds/540
+quiet	1	5206
+amp	1	5206	64
+play	1	5206	/sounds/535
+quiet	1	5209
+amp	1	5209	64
+play	1	5209	/sounds/535
+quiet	1	5211
+amp	1	5211	255
+play	1	5211	/sounds/539
+quiet	0	5212
+amp	0	5212	64
+play	0	5212	/sounds/535
+quiet	0	5214
+amp	0	5214	255
+play	0	5214	/sounds/503
+quiet	2	5218
+amp	2	5218	64
+play	2	5218	/sounds/535
+quiet	2	5220
+amp	2	5220	255
+play	2	5220	/sounds/540
+quiet	1	5224
+amp	1	5224	64
+play	1	5224	/sounds/535
+quiet	1	5227
+amp	1	5227	64
+play	1	5227	/sounds/535
+quiet	1	5230
+amp	1	5230	64
+play	1	5230	/sounds/535
+quiet	1	5232
+amp	1	5232	255
+play	1	5232	/sounds/539
+quiet	2	5233
+amp	2	5233	64
+play	2	5233	/sounds/535
+quiet	2	5235
+amp	2	5235	255
+play	2	5235	/sounds/540
+quiet	0	5236
+amp	0	5236	64
+play	0	5236	/sounds/535
+quiet	0	5239
+amp	0	5239	64
+play	0	5239	/sounds/535
+quiet	0	5242
+amp	0	5242	64
+play	0	5242	/sounds/535
+quiet	0	5245
+amp	0	5245	64
+play	0	5245	/sounds/535
+quiet	0	5248
+amp	0	5248	64
+play	0	5248	/sounds/535
+quiet	2	5250
+amp	2	5250	255
+play	2	5250	/sounds/540
+quiet	0	5251
+amp	0	5251	64
+play	0	5251	/sounds/535
+quiet	0	5253
+amp	0	5253	255
+play	0	5253	/sounds/537
+quiet	1	5253
+amp	1	5253	255
+play	1	5253	/sounds/539
+quiet	2	5263
+amp	2	5263	64
+play	2	5263	/sounds/535
+quiet	2	5265
+amp	2	5265	255
+play	2	5265	/sounds/540
+quiet	0	5265
+amp	0	5265	255
+play	0	5265	/sounds/503
+quiet	1	5266
+amp	1	5266	64
+play	1	5266	/sounds/535
+quiet	1	5268
+amp	1	5268	255
+play	1	5268	/sounds/532
+quiet	2	5278
+amp	2	5278	64
+play	2	5278	/sounds/535
+quiet	2	5280
+amp	2	5280	255
+play	2	5280	/sounds/540
+quiet	0	5287
+amp	0	5287	64
+play	0	5287	/sounds/535
+quiet	0	5290
+amp	0	5290	64
+play	0	5290	/sounds/535
+quiet	0	5293
+amp	0	5293	64
+play	0	5293	/sounds/535
+quiet	2	5295
+amp	2	5295	255
+play	2	5295	/sounds/540
+quiet	0	5295
+amp	0	5295	255
+play	0	5295	/sounds/539
+quiet	1	5299
+amp	1	5299	64
+play	1	5299	/sounds/535
+quiet	1	5301
+amp	1	5301	255
+play	1	5301	/sounds/519
+quiet	0	5301
+amp	0	5301	255
+play	0	5301	/sounds/532
+quiet	2	5308
+amp	2	5308	64
+play	2	5308	/sounds/535
+quiet	2	5310
+amp	2	5310	255
+play	2	5310	/sounds/540
+quiet	1	5314
+amp	1	5314	64
+play	1	5314	/sounds/535
+quiet	1	5316
+amp	1	5316	255
+play	1	5316	/sounds/539
+quiet	2	5323
+amp	2	5323	64
+play	2	5323	/sounds/535
+quiet	2	5325
+amp	2	5325	255
+play	2	5325	/sounds/540
+quiet	1	5329
+amp	1	5329	64
+play	1	5329	/sounds/535
+quiet	1	5332
+amp	1	5332	64
+play	1	5332	/sounds/535
+quiet	1	5335
+amp	1	5335	64
+play	1	5335	/sounds/535
+quiet	1	5337
+amp	1	5337	255
+play	1	5337	/sounds/519
+quiet	0	5337
+amp	0	5337	255
+play	0	5337	/sounds/512
+quiet	2	5337
+amp	2	5337	255
+play	2	5337	/sounds/539
+quiet	0	5346
+amp	0	5346	255
+play	0	5346	/sounds/512
+quiet	1	5349
+amp	1	5349	255
+play	1	5349	/sounds/519
+quiet	2	5349
+amp	2	5349	255
+play	2	5349	/sounds/503
+quiet	0	5355
+amp	0	5355	255
+play	0	5355	/sounds/512
+quiet	1	5361
+amp	1	5361	255
+play	1	5361	/sounds/519
+quiet	0	5364
+amp	0	5364	255
+play	0	5364	/sounds/512
+quiet	2	5370
+amp	2	5370	255
+play	2	5370	/sounds/540
+quiet	1	5373
+amp	1	5373	255
+play	1	5373	/sounds/519
+quiet	0	5373
+amp	0	5373	255
+play	0	5373	/sounds/512
+quiet	0	5379
+amp	0	5379	255
+play	0	5379	/sounds/532
+quiet	2	5382
+amp	2	5382	255
+play	2	5382	/sounds/503
+quiet	1	5385
+amp	1	5385	255
+play	1	5385	/sounds/540
+quiet	1	5400
+amp	1	5400	255
+play	1	5400	/sounds/540
+quiet	2	5409
+amp	2	5409	255
+play	2	5409	/sounds/501
+quiet	0	5409
+amp	0	5409	255
+play	0	5409	/sounds/532
+quiet	1	5415
+amp	1	5415	255
+play	1	5415	/sounds/540
+quiet	1	5430
+amp	1	5430	255
+play	1	5430	/sounds/540
+quiet	2	5442
+amp	2	5442	255
+play	2	5442	/sounds/539
+quiet	0	5442
+amp	0	5442	255
+play	0	5442	/sounds/532
+quiet	1	5445
+amp	1	5445	255
+play	1	5445	/sounds/540
+quiet	1	5460
+amp	1	5460	255
+play	1	5460	/sounds/540
+quiet	2	5463
+amp	2	5463	255
+play	2	5463	/sounds/539
+quiet	1	5469
+amp	1	5469	255
+play	1	5469	/sounds/515
+quiet	0	5469
+amp	0	5469	255
+play	0	5469	/sounds/532
+quiet	2	5475
+amp	2	5475	255
+play	2	5475	/sounds/540
+quiet	2	5490
+amp	2	5490	255
+play	2	5490	/sounds/540
+quiet	2	5505
+amp	2	5505	255
+play	2	5505	/sounds/540
+quiet	0	5505
+amp	0	5505	255
+play	0	5505	/sounds/539
+quiet	0	5550
+amp	0	5550	128
+play	0	5550	/sounds/525
+quiet	2	5577
+amp	2	5577	128
+play	2	5577	/sounds/509
+quiet	1	5578
+amp	1	5578	128
+play	1	5578	/sounds/510
+quiet	2	5586
+amp	2	5586	128
+play	2	5586	/sounds/509
+quiet	0	5586
+amp	0	5586	255
+play	0	5586	/sounds/514
+quiet	1	5588
+amp	1	5588	128
+play	1	5588	/sounds/510
+quiet	1	5594
+amp	1	5594	128
+play	1	5594	/sounds/510
+quiet	1	5676
+amp	1	5676	128
+play	1	5676	/sounds/525
+quiet	1	5697
+amp	1	5697	247
+play	1	5697	/sounds/503
+quiet	2	5766
+amp	2	5766	192
+play	2	5766	/sounds/507
+quiet	2	5802
+amp	2	5802	128
+play	2	5802	/sounds/525
+quiet	2	5856
+amp	2	5856	192
+play	2	5856	/sounds/507
+quiet	2	5928
+amp	2	5928	128
+play	2	5928	/sounds/525
+quiet	0	5940
+amp	0	5940	128
+play	0	5940	/sounds/506
+quiet	0	5973
+amp	0	5973	3
+play	0	5973	/sounds/503
+quiet	0	5982
+amp	0	5982	192
+play	0	5982	/sounds/507
+quiet	1	6009
+amp	1	6009	128
+play	1	6009	/sounds/506
+quiet	0	6012
+amp	0	6012	192
+play	0	6012	/sounds/507
+quiet	1	6021
+amp	1	6021	128
+play	1	6021	/sounds/506
+quiet	0	6024
+amp	0	6024	192
+play	0	6024	/sounds/507
+quiet	1	6033
+amp	1	6033	128
+play	1	6033	/sounds/506
+quiet	0	6036
+amp	0	6036	192
+play	0	6036	/sounds/507
+quiet	1	6042
+amp	1	6042	128
+play	1	6042	/sounds/506
+quiet	0	6045
+amp	0	6045	192
+play	0	6045	/sounds/507
+quiet	1	6054
+amp	1	6054	128
+play	1	6054	/sounds/506
+quiet	2	6054
+amp	2	6054	128
+play	2	6054	/sounds/525
+quiet	0	6057
+amp	0	6057	192
+play	0	6057	/sounds/507
+quiet	1	6063
+amp	1	6063	128
+play	1	6063	/sounds/506
+quiet	0	6069
+amp	0	6069	192
+play	0	6069	/sounds/507
+quiet	0	6072
+amp	0	6072	211
+play	0	6072	/sounds/518
+quiet	1	6075
+amp	1	6075	128
+play	1	6075	/sounds/506
+quiet	1	6081
+amp	1	6081	192
+play	1	6081	/sounds/507
+quiet	1	6093
+amp	1	6093	192
+play	1	6093	/sounds/507
+quiet	0	6102
+amp	0	6102	128
+play	0	6102	/sounds/506
+quiet	1	6105
+amp	1	6105	192
+play	1	6105	/sounds/507
+quiet	0	6111
+amp	0	6111	128
+play	0	6111	/sounds/506
+quiet	2	6132
+amp	2	6132	128
+play	2	6132	/sounds/510
+quiet	0	6162
+amp	0	6162	255
+play	0	6162	/sounds/540
+quiet	1	6162
+amp	1	6162	255
+play	1	6162	/sounds/539
+quiet	0	6177
+amp	0	6177	255
+play	0	6177	/sounds/540
+quiet	2	6180
+amp	2	6180	128
+play	2	6180	/sounds/525
+quiet	1	6183
+amp	1	6183	255
+play	1	6183	/sounds/539
+quiet	0	6192
+amp	0	6192	255
+play	0	6192	/sounds/540
+quiet	1	6204
+amp	1	6204	255
+play	1	6204	/sounds/539
+quiet	0	6207
+amp	0	6207	255
+play	0	6207	/sounds/540
+quiet	2	6219
+amp	2	6219	236
+play	2	6219	/sounds/532
+quiet	0	6222
+amp	0	6222	255
+play	0	6222	/sounds/540
+quiet	1	6225
+amp	1	6225	255
+play	1	6225	/sounds/539
+quiet	0	6237
+amp	0	6237	255
+play	0	6237	/sounds/540
+quiet	1	6246
+amp	1	6246	255
+play	1	6246	/sounds/539
+quiet	0	6252
+amp	0	6252	255
+play	0	6252	/sounds/540
+quiet	0	6267
+amp	0	6267	255
+play	0	6267	/sounds/540
+quiet	1	6267
+amp	1	6267	255
+play	1	6267	/sounds/539
+quiet	0	6282
+amp	0	6282	255
+play	0	6282	/sounds/540
+quiet	0	6282
+amp	0	6282	233
+play	0	6282	/sounds/532
+quiet	1	6288
+amp	1	6288	255
+play	1	6288	/sounds/539
+quiet	0	6297
+amp	0	6297	255
+play	0	6297	/sounds/540
+quiet	2	6306
+amp	2	6306	128
+play	2	6306	/sounds/525
+quiet	1	6309
+amp	1	6309	255
+play	1	6309	/sounds/539
+quiet	0	6312
+amp	0	6312	255
+play	0	6312	/sounds/540
+quiet	0	6327
+amp	0	6327	255
+play	0	6327	/sounds/540
+quiet	1	6330
+amp	1	6330	255
+play	1	6330	/sounds/539
+quiet	0	6342
+amp	0	6342	255
+play	0	6342	/sounds/540
+quiet	2	6342
+amp	2	6342	233
+play	2	6342	/sounds/532
+quiet	1	6351
+amp	1	6351	255
+play	1	6351	/sounds/539
+quiet	0	6357
+amp	0	6357	255
+play	0	6357	/sounds/540
+quiet	2	6357
+amp	2	6357	233
+play	2	6357	/sounds/532
+quiet	1	6372
+amp	1	6372	225
+play	1	6372	/sounds/533
+quiet	0	6372
+amp	0	6372	255
+play	0	6372	/sounds/540
+quiet	1	6372
+amp	1	6372	255
+play	1	6372	/sounds/539
+quiet	2	6372
+amp	2	6372	233
+play	2	6372	/sounds/532
+quiet	0	6387
+amp	0	6387	255
+play	0	6387	/sounds/540
+quiet	2	6387
+amp	2	6387	233
+play	2	6387	/sounds/532
+quiet	1	6393
+amp	1	6393	255
+play	1	6393	/sounds/539
+quiet	0	6402
+amp	0	6402	255
+play	0	6402	/sounds/540
+quiet	0	6405
+amp	0	6405	226
+play	0	6405	/sounds/532
+quiet	1	6414
+amp	1	6414	255
+play	1	6414	/sounds/539
+quiet	0	6417
+amp	0	6417	255
+play	0	6417	/sounds/540
+quiet	0	6432
+amp	0	6432	255
+play	0	6432	/sounds/540
+quiet	2	6432
+amp	2	6432	128
+play	2	6432	/sounds/525
+quiet	1	6435
+amp	1	6435	255
+play	1	6435	/sounds/539
+quiet	2	6444
+amp	2	6444	222
+play	2	6444	/sounds/533
+quiet	0	6447
+amp	0	6447	255
+play	0	6447	/sounds/540
+quiet	1	6456
+amp	1	6456	255
+play	1	6456	/sounds/539
+quiet	0	6462
+amp	0	6462	255
+play	0	6462	/sounds/540
+quiet	0	6477
+amp	0	6477	255
+play	0	6477	/sounds/540
+quiet	1	6477
+amp	1	6477	255
+play	1	6477	/sounds/539
+quiet	0	6492
+amp	0	6492	255
+play	0	6492	/sounds/540
+quiet	2	6492
+amp	2	6492	238
+play	2	6492	/sounds/532
+quiet	1	6498
+amp	1	6498	255
+play	1	6498	/sounds/539
+quiet	0	6507
+amp	0	6507	255
+play	0	6507	/sounds/540
+quiet	0	6510
+amp	0	6510	232
+play	0	6510	/sounds/532
+quiet	0	6516
+amp	0	6516	234
+play	0	6516	/sounds/533
+quiet	0	6516
+amp	0	6516	255
+play	0	6516	/sounds/503
+quiet	1	6519
+amp	1	6519	255
+play	1	6519	/sounds/539
+quiet	2	6522
+amp	2	6522	255
+play	2	6522	/sounds/540
+quiet	0	6525
+amp	0	6525	232
+play	0	6525	/sounds/532
+quiet	2	6537
+amp	2	6537	255
+play	2	6537	/sounds/540
+quiet	0	6537
+amp	0	6537	238
+play	0	6537	/sounds/532
+quiet	1	6540
+amp	1	6540	255
+play	1	6540	/sounds/539
+quiet	2	6552
+amp	2	6552	255
+play	2	6552	/sounds/540
+quiet	0	6552
+amp	0	6552	238
+play	0	6552	/sounds/532
+quiet	1	6558
+amp	1	6558	128
+play	1	6558	/sounds/525
+quiet	0	6561
+amp	0	6561	255
+play	0	6561	/sounds/539
+quiet	2	6567
+amp	2	6567	255
+play	2	6567	/sounds/540
+quiet	2	6582
+amp	2	6582	255
+play	2	6582	/sounds/540
+quiet	0	6582
+amp	0	6582	255
+play	0	6582	/sounds/539
+quiet	0	6594
+amp	0	6594	78
+play	0	6594	/sounds/518
+quiet	2	6597
+amp	2	6597	255
+play	2	6597	/sounds/540
+quiet	0	6597
+amp	0	6597	238
+play	0	6597	/sounds/532
+quiet	0	6603
+amp	0	6603	255
+play	0	6603	/sounds/539
+quiet	1	6606
+amp	1	6606	239
+play	1	6606	/sounds/533
+quiet	2	6609
+amp	2	6609	94
+play	2	6609	/sounds/533
+quiet	1	6612
+amp	1	6612	255
+play	1	6612	/sounds/540
+quiet	2	6612
+amp	2	6612	255
+play	2	6612	/sounds/532
+quiet	0	6624
+amp	0	6624	255
+play	0	6624	/sounds/539
+quiet	1	6627
+amp	1	6627	163
+play	1	6627	/sounds/519
+quiet	1	6627
+amp	1	6627	164
+play	1	6627	/sounds/533
+quiet	1	6627
+amp	1	6627	255
+play	1	6627	/sounds/540
+quiet	0	6627
+amp	0	6627	238
+play	0	6627	/sounds/532
+quiet	1	6639
+amp	1	6639	167
+play	1	6639	/sounds/519
+quiet	0	6642
+amp	0	6642	255
+play	0	6642	/sounds/540
+quiet	1	6645
+amp	1	6645	255
+play	1	6645	/sounds/539
+quiet	2	6648
+amp	2	6648	76
+play	2	6648	/sounds/533
+quiet	2	6648
+amp	2	6648	205
+play	2	6648	/sounds/538
+quiet	0	6657
+amp	0	6657	255
+play	0	6657	/sounds/540
+quiet	1	6666
+amp	1	6666	81
+play	1	6666	/sounds/533
+quiet	1	6666
+amp	1	6666	255
+play	1	6666	/sounds/539
+quiet	2	6666
+amp	2	6666	233
+play	2	6666	/sounds/503
+quiet	0	6672
+amp	0	6672	218
+play	0	6672	/sounds/538
+quiet	0	6672
+amp	0	6672	255
+play	0	6672	/sounds/540
+quiet	2	6672
+amp	2	6672	237
+play	2	6672	/sounds/532
+quiet	2	6675
+amp	2	6675	239
+play	2	6675	/sounds/503
+quiet	1	6681
+amp	1	6681	149
+play	1	6681	/sounds/533
+quiet	1	6681
+amp	1	6681	243
+play	1	6681	/sounds/564
+quiet	2	6681
+amp	2	6681	243
+play	2	6681	/sounds/520
+quiet	0	6684
+amp	0	6684	128
+play	0	6684	/sounds/525
+quiet	0	6684
+amp	0	6684	222
+play	0	6684	/sounds/503
+quiet	0	6687
+amp	0	6687	255
+play	0	6687	/sounds/540
+quiet	1	6687
+amp	1	6687	255
+play	1	6687	/sounds/539
+quiet	0	6687
+amp	0	6687	236
+play	0	6687	/sounds/532
+quiet	0	6696
+amp	0	6696	249
+play	0	6696	/sounds/532
+quiet	1	6699
+amp	1	6699	208
+play	1	6699	/sounds/533
+quiet	0	6699
+amp	0	6699	255
+play	0	6699	/sounds/515
+quiet	1	6699
+amp	1	6699	255
+play	1	6699	/sounds/503
+quiet	2	6702
+amp	2	6702	210
+play	2	6702	/sounds/512
+quiet	2	6702
+amp	2	6702	232
+play	2	6702	/sounds/503
+quiet	2	6705
+amp	2	6705	255
+play	2	6705	/sounds/532
+quiet	1	6711
+amp	1	6711	250
+play	1	6711	/sounds/532
+quiet	1	6717
+amp	1	6717	255
+play	1	6717	/sounds/503
+quiet	1	6729
+amp	1	6729	255
+play	1	6729	/sounds/503
+quiet	2	6738
+amp	2	6738	146
+play	2	6738	/sounds/533
+quiet	2	6741
+amp	2	6741	244
+play	2	6741	/sounds/564
+quiet	2	6744
+amp	2	6744	247
+play	2	6744	/sounds/503
+quiet	2	6747
+amp	2	6747	247
+play	2	6747	/sounds/503
+quiet	1	6750
+amp	1	6750	222
+play	1	6750	/sounds/537
+quiet	1	6759
+amp	1	6759	242
+play	1	6759	/sounds/532
+quiet	0	6765
+amp	0	6765	219
+play	0	6765	/sounds/503
+quiet	2	6771
+amp	2	6771	172
+play	2	6771	/sounds/519
+quiet	2	6774
+amp	2	6774	205
+play	2	6774	/sounds/519
+quiet	2	6774
+amp	2	6774	205
+play	2	6774	/sounds/519
+quiet	0	6783
+amp	0	6783	243
+play	0	6783	/sounds/564
+quiet	1	6783
+amp	1	6783	243
+play	1	6783	/sounds/520
+quiet	0	6783
+amp	0	6783	255
+play	0	6783	/sounds/514
+quiet	2	6786
+amp	2	6786	224
+play	2	6786	/sounds/503
+quiet	1	6789
+amp	1	6789	255
+play	1	6789	/sounds/538
+quiet	2	6789
+amp	2	6789	255
+play	2	6789	/sounds/537
+quiet	0	6792
+amp	0	6792	237
+play	0	6792	/sounds/532
+quiet	1	6801
+amp	1	6801	194
+play	1	6801	/sounds/519
+quiet	1	6801
+amp	1	6801	215
+play	1	6801	/sounds/519
+quiet	1	6801
+amp	1	6801	215
+play	1	6801	/sounds/519
+quiet	2	6801
+amp	2	6801	192
+play	2	6801	/sounds/507
+quiet	2	6807
+amp	2	6807	202
+play	2	6807	/sounds/512
+quiet	1	6807
+amp	1	6807	236
+play	1	6807	/sounds/503
+quiet	1	6810
+amp	1	6810	238
+play	1	6810	/sounds/503
+quiet	2	6813
+amp	2	6813	204
+play	2	6813	/sounds/519
+quiet	0	6813
+amp	0	6813	239
+play	0	6813	/sounds/564
+quiet	2	6813
+amp	2	6813	238
+play	2	6813	/sounds/532
+quiet	1	6816
+amp	1	6816	239
+play	1	6816	/sounds/537
+quiet	0	6822
+amp	0	6822	255
+play	0	6822	/sounds/503
+quiet	0	6822
+amp	0	6822	255
+play	0	6822	/sounds/503
+quiet	1	6825
+amp	1	6825	255
+play	1	6825	/sounds/519
+quiet	2	6825
+amp	2	6825	255
+play	2	6825	/sounds/512
+quiet	0	6825
+amp	0	6825	255
+play	0	6825	/sounds/532
+quiet	1	6828
+amp	1	6828	255
+play	1	6828	/sounds/519
+quiet	1	6828
+amp	1	6828	255
+play	1	6828	/sounds/519
+quiet	2	6834
+amp	2	6834	255
+play	2	6834	/sounds/512
+quiet	1	6837
+amp	1	6837	255
+play	1	6837	/sounds/519
+quiet	2	6846
+amp	2	6846	255
+play	2	6846	/sounds/503
+quiet	1	6849
+amp	1	6849	255
+play	1	6849	/sounds/519
+quiet	2	6849
+amp	2	6849	255
+play	2	6849	/sounds/503
+quiet	1	6855
+amp	1	6855	255
+play	1	6855	/sounds/519
+quiet	1	6855
+amp	1	6855	255
+play	1	6855	/sounds/519
+quiet	2	6855
+amp	2	6855	255
+play	2	6855	/sounds/503
+quiet	0	6858
+amp	0	6858	255
+play	0	6858	/sounds/512
+quiet	1	6861
+amp	1	6861	255
+play	1	6861	/sounds/519
+quiet	2	6861
+amp	2	6861	255
+play	2	6861	/sounds/503
+quiet	0	6867
+amp	0	6867	255
+play	0	6867	/sounds/512
+quiet	0	6867
+amp	0	6867	255
+play	0	6867	/sounds/515
+quiet	2	6867
+amp	2	6867	255
+play	2	6867	/sounds/503
+quiet	2	6870
+amp	2	6870	255
+play	2	6870	/sounds/503
+quiet	1	6873
+amp	1	6873	255
+play	1	6873	/sounds/519
+quiet	1	6882
+amp	1	6882	255
+play	1	6882	/sounds/519
+quiet	1	6882
+amp	1	6882	255
+play	1	6882	/sounds/519
+quiet	1	6888
+amp	1	6888	255
+play	1	6888	/sounds/532
+quiet	0	6897
+amp	0	6897	255
+play	0	6897	/sounds/514
+quiet	0	6897
+amp	0	6897	255
+play	0	6897	/sounds/514
+quiet	0	6897
+amp	0	6897	255
+play	0	6897	/sounds/514
+quiet	0	6897
+amp	0	6897	255
+play	0	6897	/sounds/514
+quiet	0	6897
+amp	0	6897	255
+play	0	6897	/sounds/514
+quiet	0	6900
+amp	0	6900	255
+play	0	6900	/sounds/514
+quiet	0	6900
+amp	0	6900	255
+play	0	6900	/sounds/514
+quiet	0	6900
+amp	0	6900	255
+play	0	6900	/sounds/514
+quiet	0	6900
+amp	0	6900	255
+play	0	6900	/sounds/514
+quiet	0	6900
+amp	0	6900	255
+play	0	6900	/sounds/514
+quiet	1	6903
+amp	1	6903	255
+play	1	6903	/sounds/532
+quiet	0	6903
+amp	0	6903	255
+play	0	6903	/sounds/514
+quiet	2	6909
+amp	2	6909	255
+play	2	6909	/sounds/519
+quiet	2	6909
+amp	2	6909	255
+play	2	6909	/sounds/519
+quiet	0	6918
+amp	0	6918	224
+play	0	6918	/sounds/519
+quiet	0	6918
+amp	0	6918	224
+play	0	6918	/sounds/519
+quiet	0	6930
+amp	0	6930	255
+play	0	6930	/sounds/538
+quiet	2	6930
+amp	2	6930	255
+play	2	6930	/sounds/537
+quiet	1	6936
+amp	1	6936	255
+play	1	6936	/sounds/519
+quiet	1	6936
+amp	1	6936	255
+play	1	6936	/sounds/519
+quiet	2	6942
+amp	2	6942	255
+play	2	6942	/sounds/537
+quiet	0	6945
+amp	0	6945	211
+play	0	6945	/sounds/519
+quiet	0	6945
+amp	0	6945	211
+play	0	6945	/sounds/519
+quiet	1	6948
+amp	1	6948	211
+play	1	6948	/sounds/520
+quiet	0	6951
+amp	0	6951	255
+play	0	6951	/sounds/532
+quiet	1	6954
+amp	1	6954	255
+play	1	6954	/sounds/519
+quiet	2	6954
+amp	2	6954	255
+play	2	6954	/sounds/512
+quiet	0	6954
+amp	0	6954	255
+play	0	6954	/sounds/532
+quiet	1	6963
+amp	1	6963	255
+play	1	6963	/sounds/519
+quiet	1	6963
+amp	1	6963	255
+play	1	6963	/sounds/519
+quiet	2	6963
+amp	2	6963	255
+play	2	6963	/sounds/512
+quiet	1	6966
+amp	1	6966	255
+play	1	6966	/sounds/519
+quiet	2	6972
+amp	2	6972	255
+play	2	6972	/sounds/512
+quiet	1	6978
+amp	1	6978	255
+play	1	6978	/sounds/519
+quiet	2	6981
+amp	2	6981	255
+play	2	6981	/sounds/512
+quiet	0	6987
+amp	0	6987	255
+play	0	6987	/sounds/503
+quiet	1	6990
+amp	1	6990	255
+play	1	6990	/sounds/519
+quiet	2	6990
+amp	2	6990	255
+play	2	6990	/sounds/512
+quiet	2	6999
+amp	2	6999	255
+play	2	6999	/sounds/512
+quiet	1	7002
+amp	1	7002	255
+play	1	7002	/sounds/519
+quiet	0	7005
+amp	0	7005	255
+play	0	7005	/sounds/503
+quiet	2	7008
+amp	2	7008	255
+play	2	7008	/sounds/512
+quiet	1	7014
+amp	1	7014	255
+play	1	7014	/sounds/519
+quiet	2	7017
+amp	2	7017	255
+play	2	7017	/sounds/512
+quiet	1	7026
+amp	1	7026	255
+play	1	7026	/sounds/519
+quiet	2	7026
+amp	2	7026	255
+play	2	7026	/sounds/512
+quiet	1	7026
+amp	1	7026	255
+play	1	7026	/sounds/519
+quiet	1	7026
+amp	1	7026	255
+play	1	7026	/sounds/519
+quiet	0	7030
+amp	0	7030	128
+play	0	7030	/sounds/510
+quiet	0	7032
+amp	0	7032	236
+play	0	7032	/sounds/538
+quiet	2	7035
+amp	2	7035	255
+play	2	7035	/sounds/512
+quiet	1	7038
+amp	1	7038	191
+play	1	7038	/sounds/537
+quiet	0	7038
+amp	0	7038	255
+play	0	7038	/sounds/519
+quiet	2	7044
+amp	2	7044	255
+play	2	7044	/sounds/512
+quiet	1	7044
+amp	1	7044	245
+play	1	7044	/sounds/503
+quiet	0	7050
+amp	0	7050	255
+play	0	7050	/sounds/519
+quiet	1	7050
+amp	1	7050	250
+play	1	7050	/sounds/533
+quiet	2	7053
+amp	2	7053	255
+play	2	7053	/sounds/512
+quiet	0	7062
+amp	0	7062	255
+play	0	7062	/sounds/519
+quiet	2	7062
+amp	2	7062	255
+play	2	7062	/sounds/512
+quiet	1	7062
+amp	1	7062	255
+play	1	7062	/sounds/533
+quiet	0	7074
+amp	0	7074	221
+play	0	7074	/sounds/537
+quiet	2	7077
+amp	2	7077	194
+play	2	7077	/sounds/514
+quiet	0	7077
+amp	0	7077	225
+play	0	7077	/sounds/503
+quiet	2	7077
+amp	2	7077	221
+play	2	7077	/sounds/503
+quiet	0	7080
+amp	0	7080	252
+play	0	7080	/sounds/519
+quiet	0	7080
+amp	0	7080	252
+play	0	7080	/sounds/519
+quiet	2	7083
+amp	2	7083	226
+play	2	7083	/sounds/515
+quiet	0	7095
+amp	0	7095	179
+play	0	7095	/sounds/537
+quiet	0	7101
+amp	0	7101	218
+play	0	7101	/sounds/514
+quiet	0	7104
+amp	0	7104	255
+play	0	7104	/sounds/519
+quiet	2	7104
+amp	2	7104	255
+play	2	7104	/sounds/512
+quiet	1	7104
+amp	1	7104	218
+play	1	7104	/sounds/514
+quiet	1	7104
+amp	1	7104	218
+play	1	7104	/sounds/514
+quiet	0	7107
+amp	0	7107	255
+play	0	7107	/sounds/519
+quiet	0	7107
+amp	0	7107	255
+play	0	7107	/sounds/519
+quiet	1	7107
+amp	1	7107	220
+play	1	7107	/sounds/503
+quiet	0	7110
+amp	0	7110	175
+play	0	7110	/sounds/532
+quiet	1	7110
+amp	1	7110	221
+play	1	7110	/sounds/503
+quiet	2	7113
+amp	2	7113	255
+play	2	7113	/sounds/512
+quiet	0	7116
+amp	0	7116	176
+play	0	7116	/sounds/537
+quiet	0	7116
+amp	0	7116	255
+play	0	7116	/sounds/519
+quiet	0	7116
+amp	0	7116	214
+play	0	7116	/sounds/532
+quiet	0	7116
+amp	0	7116	219
+play	0	7116	/sounds/503
+quiet	2	7122
+amp	2	7122	255
+play	2	7122	/sounds/512
+quiet	0	7122
+amp	0	7122	220
+play	0	7122	/sounds/503
+quiet	0	7128
+amp	0	7128	255
+play	0	7128	/sounds/519
+quiet	2	7131
+amp	2	7131	255
+play	2	7131	/sounds/512
+quiet	0	7134
+amp	0	7134	255
+play	0	7134	/sounds/519
+quiet	0	7134
+amp	0	7134	255
+play	0	7134	/sounds/519
+quiet	1	7134
+amp	1	7134	193
+play	1	7134	/sounds/520
+quiet	1	7137
+amp	1	7137	218
+play	1	7137	/sounds/538
+quiet	0	7140
+amp	0	7140	255
+play	0	7140	/sounds/519
+quiet	2	7140
+amp	2	7140	255
+play	2	7140	/sounds/512
+quiet	1	7143
+amp	1	7143	224
+play	1	7143	/sounds/503
+quiet	2	7149
+amp	2	7149	255
+play	2	7149	/sounds/512
+quiet	0	7152
+amp	0	7152	255
+play	0	7152	/sounds/519
+quiet	2	7152
+amp	2	7152	255
+play	2	7152	/sounds/512
+quiet	1	7152
+amp	1	7152	255
+play	1	7152	/sounds/533
+quiet	0	7152
+amp	0	7152	255
+play	0	7152	/sounds/519
+quiet	2	7158
+amp	2	7158	255
+play	2	7158	/sounds/512
+quiet	0	7158
+amp	0	7158	223
+play	0	7158	/sounds/532
+quiet	2	7161
+amp	2	7161	255
+play	2	7161	/sounds/512
+quiet	0	7161
+amp	0	7161	255
+play	0	7161	/sounds/519
+quiet	0	7161
+amp	0	7161	255
+play	0	7161	/sounds/519
+quiet	0	7161
+amp	0	7161	169
+play	0	7161	/sounds/532
+quiet	0	7164
+amp	0	7164	255
+play	0	7164	/sounds/519
+quiet	0	7164
+amp	0	7164	255
+play	0	7164	/sounds/519
+quiet	2	7167
+amp	2	7167	255
+play	2	7167	/sounds/512
+quiet	2	7170
+amp	2	7170	255
+play	2	7170	/sounds/512
+quiet	1	7170
+amp	1	7170	255
+play	1	7170	/sounds/533
+quiet	0	7176
+amp	0	7176	232
+play	0	7176	/sounds/537
+quiet	0	7176
+amp	0	7176	255
+play	0	7176	/sounds/519
+quiet	2	7176
+amp	2	7176	255
+play	2	7176	/sounds/512
+quiet	2	7185
+amp	2	7185	255
+play	2	7185	/sounds/512
+quiet	0	7188
+amp	0	7188	255
+play	0	7188	/sounds/519
+quiet	0	7188
+amp	0	7188	255
+play	0	7188	/sounds/519
+quiet	0	7188
+amp	0	7188	255
+play	0	7188	/sounds/519
+quiet	2	7194
+amp	2	7194	255
+play	2	7194	/sounds/512
+quiet	0	7200
+amp	0	7200	255
+play	0	7200	/sounds/519
+quiet	2	7203
+amp	2	7203	255
+play	2	7203	/sounds/512
+quiet	1	7206
+amp	1	7206	203
+play	1	7206	/sounds/519
+quiet	1	7206
+amp	1	7206	203
+play	1	7206	/sounds/519
+quiet	1	7206
+amp	1	7206	249
+play	1	7206	/sounds/503
+quiet	1	7206
+amp	1	7206	255
+play	1	7206	/sounds/503
+quiet	0	7209
+amp	0	7209	157
+play	0	7209	/sounds/532
+quiet	0	7212
+amp	0	7212	255
+play	0	7212	/sounds/537
+quiet	2	7212
+amp	2	7212	255
+play	2	7212	/sounds/512
+quiet	1	7215
+amp	1	7215	255
+play	1	7215	/sounds/503
+quiet	2	7221
+amp	2	7221	255
+play	2	7221	/sounds/512
+quiet	0	7224
+amp	0	7224	255
+play	0	7224	/sounds/519
+quiet	0	7227
+amp	0	7227	255
+play	0	7227	/sounds/519
+quiet	2	7227
+amp	2	7227	255
+play	2	7227	/sounds/512
+quiet	1	7227
+amp	1	7227	255
+play	1	7227	/sounds/503
+quiet	2	7230
+amp	2	7230	255
+play	2	7230	/sounds/512
+quiet	1	7233
+amp	1	7233	255
+play	1	7233	/sounds/503
+quiet	2	7236
+amp	2	7236	255
+play	2	7236	/sounds/512
+quiet	0	7236
+amp	0	7236	255
+play	0	7236	/sounds/519
+quiet	0	7239
+amp	0	7239	255
+play	0	7239	/sounds/519
+quiet	2	7239
+amp	2	7239	255
+play	2	7239	/sounds/512
+quiet	1	7239
+amp	1	7239	255
+play	1	7239	/sounds/503
+quiet	0	7242
+amp	0	7242	255
+play	0	7242	/sounds/519
+quiet	0	7242
+amp	0	7242	255
+play	0	7242	/sounds/519
+quiet	1	7245
+amp	1	7245	255
+play	1	7245	/sounds/503
+quiet	1	7245
+amp	1	7245	255
+play	1	7245	/sounds/503
+quiet	1	7245
+amp	1	7245	255
+play	1	7245	/sounds/503
+quiet	0	7248
+amp	0	7248	255
+play	0	7248	/sounds/519
+quiet	2	7248
+amp	2	7248	255
+play	2	7248	/sounds/512
+quiet	0	7248
+amp	0	7248	227
+play	0	7248	/sounds/532
+quiet	0	7254
+amp	0	7254	255
+play	0	7254	/sounds/537
+quiet	1	7254
+amp	1	7254	255
+play	1	7254	/sounds/503
+quiet	2	7257
+amp	2	7257	255
+play	2	7257	/sounds/512
+quiet	1	7260
+amp	1	7260	255
+play	1	7260	/sounds/503
+quiet	2	7266
+amp	2	7266	255
+play	2	7266	/sounds/512
+quiet	0	7266
+amp	0	7266	115
+play	0	7266	/sounds/519
+quiet	0	7266
+amp	0	7266	115
+play	0	7266	/sounds/519
+quiet	0	7269
+amp	0	7269	255
+play	0	7269	/sounds/519
+quiet	0	7269
+amp	0	7269	255
+play	0	7269	/sounds/519
+quiet	0	7272
+amp	0	7272	255
+play	0	7272	/sounds/519
+quiet	2	7275
+amp	2	7275	255
+play	2	7275	/sounds/512
+quiet	1	7281
+amp	1	7281	255
+play	1	7281	/sounds/503
+quiet	0	7284
+amp	0	7284	255
+play	0	7284	/sounds/519
+quiet	2	7284
+amp	2	7284	255
+play	2	7284	/sounds/512
+quiet	0	7293
+amp	0	7293	255
+play	0	7293	/sounds/519
+quiet	2	7293
+amp	2	7293	255
+play	2	7293	/sounds/512
+quiet	2	7293
+amp	2	7293	255
+play	2	7293	/sounds/512
+quiet	0	7296
+amp	0	7296	255
+play	0	7296	/sounds/519
+quiet	0	7296
+amp	0	7296	255
+play	0	7296	/sounds/519
+quiet	0	7296
+amp	0	7296	255
+play	0	7296	/sounds/519
+quiet	1	7299
+amp	1	7299	255
+play	1	7299	/sounds/503
+quiet	2	7302
+amp	2	7302	255
+play	2	7302	/sounds/512
+quiet	0	7308
+amp	0	7308	255
+play	0	7308	/sounds/519
+quiet	2	7311
+amp	2	7311	255
+play	2	7311	/sounds/512
+quiet	1	7311
+amp	1	7311	255
+play	1	7311	/sounds/503
+quiet	0	7320
+amp	0	7320	255
+play	0	7320	/sounds/519
+quiet	2	7320
+amp	2	7320	255
+play	2	7320	/sounds/512
+quiet	0	7323
+amp	0	7323	255
+play	0	7323	/sounds/519
+quiet	0	7323
+amp	0	7323	255
+play	0	7323	/sounds/519
+quiet	1	7323
+amp	1	7323	255
+play	1	7323	/sounds/503
+quiet	2	7329
+amp	2	7329	255
+play	2	7329	/sounds/512
+quiet	0	7332
+amp	0	7332	255
+play	0	7332	/sounds/519
+quiet	1	7335
+amp	1	7335	255
+play	1	7335	/sounds/503
+quiet	2	7338
+amp	2	7338	255
+play	2	7338	/sounds/512
+quiet	0	7344
+amp	0	7344	255
+play	0	7344	/sounds/519
+quiet	2	7347
+amp	2	7347	255
+play	2	7347	/sounds/512
+quiet	1	7347
+amp	1	7347	255
+play	1	7347	/sounds/503
+quiet	0	7350
+amp	0	7350	255
+play	0	7350	/sounds/519
+quiet	0	7350
+amp	0	7350	255
+play	0	7350	/sounds/519
+quiet	0	7356
+amp	0	7356	255
+play	0	7356	/sounds/519
+quiet	2	7356
+amp	2	7356	255
+play	2	7356	/sounds/512
+quiet	1	7356
+amp	1	7356	255
+play	1	7356	/sounds/503
+quiet	1	7359
+amp	1	7359	255
+play	1	7359	/sounds/503
+quiet	1	7359
+amp	1	7359	255
+play	1	7359	/sounds/503
+quiet	1	7362
+amp	1	7362	255
+play	1	7362	/sounds/503
+quiet	2	7365
+amp	2	7365	255
+play	2	7365	/sounds/512
+quiet	1	7365
+amp	1	7365	255
+play	1	7365	/sounds/503
+quiet	0	7368
+amp	0	7368	255
+play	0	7368	/sounds/519
+quiet	1	7368
+amp	1	7368	255
+play	1	7368	/sounds/503
+quiet	1	7371
+amp	1	7371	255
+play	1	7371	/sounds/503
+quiet	2	7374
+amp	2	7374	255
+play	2	7374	/sounds/512
+quiet	0	7377
+amp	0	7377	255
+play	0	7377	/sounds/519
+quiet	0	7377
+amp	0	7377	255
+play	0	7377	/sounds/519
+quiet	0	7380
+amp	0	7380	255
+play	0	7380	/sounds/519
+quiet	2	7383
+amp	2	7383	255
+play	2	7383	/sounds/512
+quiet	0	7392
+amp	0	7392	211
+play	0	7392	/sounds/519
+quiet	0	7392
+amp	0	7392	212
+play	0	7392	/sounds/512
+quiet	1	7392
+amp	1	7392	212
+play	1	7392	/sounds/533
+quiet	0	7392
+amp	0	7392	255
+play	0	7392	/sounds/519
+quiet	2	7392
+amp	2	7392	255
+play	2	7392	/sounds/512
+quiet	0	7395
+amp	0	7395	255
+play	0	7395	/sounds/519
+quiet	0	7395
+amp	0	7395	255
+play	0	7395	/sounds/519
+quiet	1	7401
+amp	1	7401	215
+play	1	7401	/sounds/512
+quiet	1	7401
+amp	1	7401	255
+play	1	7401	/sounds/512
+quiet	2	7404
+amp	2	7404	215
+play	2	7404	/sounds/519
+quiet	0	7404
+amp	0	7404	255
+play	0	7404	/sounds/519
+quiet	0	7404
+amp	0	7404	255
+play	0	7404	/sounds/519
+quiet	0	7404
+amp	0	7404	255
+play	0	7404	/sounds/519
+quiet	2	7404
+amp	2	7404	255
+play	2	7404	/sounds/538
+quiet	0	7404
+amp	0	7404	143
+play	0	7404	/sounds/515
+quiet	0	7410
+amp	0	7410	255
+play	0	7410	/sounds/519
+quiet	1	7410
+amp	1	7410	255
+play	1	7410	/sounds/512
+quiet	1	7410
+amp	1	7410	255
+play	1	7410	/sounds/512
+quiet	2	7416
+amp	2	7416	219
+play	2	7416	/sounds/519
+quiet	0	7416
+amp	0	7416	255
+play	0	7416	/sounds/519
+quiet	1	7419
+amp	1	7419	255
+play	1	7419	/sounds/512
+quiet	1	7419
+amp	1	7419	255
+play	1	7419	/sounds/512
+quiet	2	7419
+amp	2	7419	251
+play	2	7419	/sounds/503
+quiet	0	7422
+amp	0	7422	255
+play	0	7422	/sounds/519
+quiet	0	7422
+amp	0	7422	255
+play	0	7422	/sounds/519
+quiet	0	7422
+amp	0	7422	255
+play	0	7422	/sounds/519
+quiet	0	7422
+amp	0	7422	135
+play	0	7422	/sounds/515
+quiet	0	7425
+amp	0	7425	255
+play	0	7425	/sounds/533
+quiet	1	7428
+amp	1	7428	255
+play	1	7428	/sounds/512
+quiet	2	7428
+amp	2	7428	255
+play	2	7428	/sounds/519
+quiet	1	7428
+amp	1	7428	255
+play	1	7428	/sounds/512
+quiet	0	7428
+amp	0	7428	255
+play	0	7428	/sounds/532
+quiet	2	7431
+amp	2	7431	255
+play	2	7431	/sounds/519
+quiet	2	7431
+amp	2	7431	255
+play	2	7431	/sounds/519
+quiet	1	7437
+amp	1	7437	255
+play	1	7437	/sounds/512
+quiet	2	7440
+amp	2	7440	255
+play	2	7440	/sounds/519
+quiet	1	7446
+amp	1	7446	255
+play	1	7446	/sounds/512
+quiet	2	7449
+amp	2	7449	255
+play	2	7449	/sounds/519
+quiet	2	7449
+amp	2	7449	255
+play	2	7449	/sounds/519
+quiet	2	7452
+amp	2	7452	255
+play	2	7452	/sounds/519
+quiet	1	7455
+amp	1	7455	255
+play	1	7455	/sounds/512
+quiet	2	7458
+amp	2	7458	255
+play	2	7458	/sounds/519
+quiet	1	7458
+amp	1	7458	255
+play	1	7458	/sounds/512
+quiet	2	7458
+amp	2	7458	255
+play	2	7458	/sounds/519
+quiet	2	7458
+amp	2	7458	255
+play	2	7458	/sounds/519
+quiet	0	7461
+amp	0	7461	239
+play	0	7461	/sounds/503
+quiet	0	7464
+amp	0	7464	247
+play	0	7464	/sounds/537
+quiet	2	7464
+amp	2	7464	255
+play	2	7464	/sounds/519
+quiet	1	7464
+amp	1	7464	255
+play	1	7464	/sounds/512
+quiet	0	7464
+amp	0	7464	255
+play	0	7464	/sounds/503
+quiet	1	7467
+amp	1	7467	255
+play	1	7467	/sounds/512
+quiet	2	7470
+amp	2	7470	255
+play	2	7470	/sounds/519
+quiet	0	7470
+amp	0	7470	255
+play	0	7470	/sounds/503
+quiet	1	7473
+amp	1	7473	255
+play	1	7473	/sounds/512
+quiet	2	7476
+amp	2	7476	255
+play	2	7476	/sounds/519
+quiet	1	7482
+amp	1	7482	255
+play	1	7482	/sounds/512
+quiet	0	7482
+amp	0	7482	255
+play	0	7482	/sounds/503
+quiet	2	7485
+amp	2	7485	255
+play	2	7485	/sounds/519
+quiet	2	7485
+amp	2	7485	255
+play	2	7485	/sounds/519
+quiet	2	7488
+amp	2	7488	255
+play	2	7488	/sounds/519
+quiet	1	7491
+amp	1	7491	255
+play	1	7491	/sounds/512
+quiet	2	7500
+amp	2	7500	255
+play	2	7500	/sounds/519
+quiet	1	7500
+amp	1	7500	255
+play	1	7500	/sounds/512
+quiet	0	7503
+amp	0	7503	241
+play	0	7503	/sounds/564
+quiet	1	7509
+amp	1	7509	255
+play	1	7509	/sounds/512
+quiet	0	7509
+amp	0	7509	252
+play	0	7509	/sounds/503
+quiet	0	7509
+amp	0	7509	253
+play	0	7509	/sounds/503
+quiet	2	7512
+amp	2	7512	255
+play	2	7512	/sounds/519
+quiet	2	7512
+amp	2	7512	255
+play	2	7512	/sounds/519
+quiet	2	7512
+amp	2	7512	255
+play	2	7512	/sounds/519
+quiet	0	7515
+amp	0	7515	255
+play	0	7515	/sounds/537
+quiet	1	7518
+amp	1	7518	255
+play	1	7518	/sounds/512
+quiet	2	7524
+amp	2	7524	236
+play	2	7524	/sounds/512
+quiet	2	7524
+amp	2	7524	255
+play	2	7524	/sounds/519
+quiet	1	7527
+amp	1	7527	255
+play	1	7527	/sounds/512
+quiet	0	7533
+amp	0	7533	234
+play	0	7533	/sounds/519
+quiet	0	7533
+amp	0	7533	248
+play	0	7533	/sounds/564
+quiet	0	7536
+amp	0	7536	255
+play	0	7536	/sounds/537
+quiet	2	7536
+amp	2	7536	255
+play	2	7536	/sounds/519
+quiet	1	7536
+amp	1	7536	255
+play	1	7536	/sounds/512
+quiet	1	7545
+amp	1	7545	255
+play	1	7545	/sounds/512
+quiet	2	7548
+amp	2	7548	255
+play	2	7548	/sounds/519
+quiet	0	7551
+amp	0	7551	225
+play	0	7551	/sounds/512
+quiet	0	7554
+amp	0	7554	255
+play	0	7554	/sounds/512
+quiet	1	7557
+amp	1	7557	255
+play	1	7557	/sounds/537
+quiet	2	7560
+amp	2	7560	255
+play	2	7560	/sounds/519
+quiet	0	7563
+amp	0	7563	255
+play	0	7563	/sounds/512
+quiet	1	7569
+amp	1	7569	180
+play	1	7569	/sounds/503
+quiet	2	7572
+amp	2	7572	255
+play	2	7572	/sounds/519
+quiet	0	7572
+amp	0	7572	255
+play	0	7572	/sounds/512
+quiet	1	7578
+amp	1	7578	255
+play	1	7578	/sounds/537
+quiet	0	7581
+amp	0	7581	255
+play	0	7581	/sounds/512
+quiet	2	7584
+amp	2	7584	149
+play	2	7584	/sounds/537
+quiet	2	7584
+amp	2	7584	255
+play	2	7584	/sounds/519
+quiet	0	7590
+amp	0	7590	255
+play	0	7590	/sounds/512
+quiet	1	7590
+amp	1	7590	168
+play	1	7590	/sounds/519
+quiet	1	7590
+amp	1	7590	168
+play	1	7590	/sounds/519
+quiet	1	7590
+amp	1	7590	255
+play	1	7590	/sounds/538
+quiet	2	7596
+amp	2	7596	255
+play	2	7596	/sounds/519
+quiet	0	7599
+amp	0	7599	255
+play	0	7599	/sounds/512
+quiet	1	7605
+amp	1	7605	159
+play	1	7605	/sounds/537
+quiet	1	7605
+amp	1	7605	255
+play	1	7605	/sounds/538
+quiet	2	7608
+amp	2	7608	255
+play	2	7608	/sounds/519
+quiet	0	7608
+amp	0	7608	255
+play	0	7608	/sounds/512
+quiet	1	7608
+amp	1	7608	255
+play	1	7608	/sounds/538
+quiet	0	7617
+amp	0	7617	255
+play	0	7617	/sounds/512
+quiet	2	7620
+amp	2	7620	255
+play	2	7620	/sounds/519
+quiet	1	7620
+amp	1	7620	222
+play	1	7620	/sounds/519
+quiet	1	7620
+amp	1	7620	222
+play	1	7620	/sounds/519
+quiet	1	7620
+amp	1	7620	255
+play	1	7620	/sounds/503
+quiet	1	7623
+amp	1	7623	255
+play	1	7623	/sounds/503
+quiet	0	7626
+amp	0	7626	255
+play	0	7626	/sounds/512
+quiet	2	7632
+amp	2	7632	255
+play	2	7632	/sounds/519
+quiet	1	7632
+amp	1	7632	255
+play	1	7632	/sounds/503
+quiet	1	7632
+amp	1	7632	255
+play	1	7632	/sounds/503
+quiet	0	7635
+amp	0	7635	255
+play	0	7635	/sounds/512
+quiet	1	7641
+amp	1	7641	255
+play	1	7641	/sounds/503
+quiet	2	7644
+amp	2	7644	200
+play	2	7644	/sounds/500
+quiet	2	7644
+amp	2	7644	255
+play	2	7644	/sounds/519
+quiet	0	7644
+amp	0	7644	255
+play	0	7644	/sounds/512
+quiet	0	7653
+amp	0	7653	255
+play	0	7653	/sounds/512
+quiet	1	7653
+amp	1	7653	255
+play	1	7653	/sounds/503
+quiet	2	7656
+amp	2	7656	252
+play	2	7656	/sounds/537
+quiet	2	7656
+amp	2	7656	255
+play	2	7656	/sounds/519
+quiet	1	7659
+amp	1	7659	255
+play	1	7659	/sounds/503
+quiet	0	7662
+amp	0	7662	255
+play	0	7662	/sounds/512
+quiet	1	7662
+amp	1	7662	255
+play	1	7662	/sounds/503
+quiet	2	7668
+amp	2	7668	132
+play	2	7668	/sounds/500
+quiet	2	7668
+amp	2	7668	255
+play	2	7668	/sounds/519
+quiet	1	7668
+amp	1	7668	255
+play	1	7668	/sounds/503
+quiet	0	7671
+amp	0	7671	255
+play	0	7671	/sounds/512
+quiet	1	7674
+amp	1	7674	255
+play	1	7674	/sounds/503
+quiet	1	7674
+amp	1	7674	255
+play	1	7674	/sounds/503
+quiet	0	7677
+amp	0	7677	213
+play	0	7677	/sounds/532
+quiet	2	7680
+amp	2	7680	255
+play	2	7680	/sounds/519
+quiet	0	7680
+amp	0	7680	255
+play	0	7680	/sounds/512
+quiet	1	7683
+amp	1	7683	255
+play	1	7683	/sounds/503
+quiet	0	7689
+amp	0	7689	255
+play	0	7689	/sounds/512
+quiet	2	7692
+amp	2	7692	226
+play	2	7692	/sounds/512
+quiet	2	7692
+amp	2	7692	255
+play	2	7692	/sounds/519
+quiet	0	7698
+amp	0	7698	255
+play	0	7698	/sounds/512
+quiet	1	7698
+amp	1	7698	255
+play	1	7698	/sounds/503
+quiet	1	7701
+amp	1	7701	255
+play	1	7701	/sounds/503
+quiet	2	7704
+amp	2	7704	255
+play	2	7704	/sounds/519
+quiet	1	7704
+amp	1	7704	255
+play	1	7704	/sounds/503
+quiet	0	7707
+amp	0	7707	255
+play	0	7707	/sounds/512
+quiet	1	7713
+amp	1	7713	255
+play	1	7713	/sounds/503
+quiet	2	7716
+amp	2	7716	206
+play	2	7716	/sounds/537
+quiet	2	7716
+amp	2	7716	255
+play	2	7716	/sounds/519
+quiet	0	7716
+amp	0	7716	255
+play	0	7716	/sounds/512
+quiet	1	7719
+amp	1	7719	255
+play	1	7719	/sounds/503
+quiet	1	7719
+amp	1	7719	255
+play	1	7719	/sounds/503
+quiet	0	7725
+amp	0	7725	255
+play	0	7725	/sounds/512
+quiet	2	7728
+amp	2	7728	255
+play	2	7728	/sounds/519
+quiet	1	7728
+amp	1	7728	255
+play	1	7728	/sounds/503
+quiet	0	7734
+amp	0	7734	255
+play	0	7734	/sounds/512
+quiet	1	7734
+amp	1	7734	255
+play	1	7734	/sounds/503
+quiet	1	7737
+amp	1	7737	255
+play	1	7737	/sounds/503
+quiet	2	7740
+amp	2	7740	255
+play	2	7740	/sounds/519
+quiet	1	7740
+amp	1	7740	255
+play	1	7740	/sounds/503
+quiet	0	7743
+amp	0	7743	255
+play	0	7743	/sounds/512
+quiet	1	7749
+amp	1	7749	255
+play	1	7749	/sounds/503
+quiet	1	7749
+amp	1	7749	255
+play	1	7749	/sounds/503
+quiet	2	7752
+amp	2	7752	255
+play	2	7752	/sounds/519
+quiet	0	7752
+amp	0	7752	255
+play	0	7752	/sounds/512
+quiet	1	7752
+amp	1	7752	255
+play	1	7752	/sounds/503
+quiet	1	7758
+amp	1	7758	255
+play	1	7758	/sounds/503
+quiet	0	7761
+amp	0	7761	255
+play	0	7761	/sounds/512
+quiet	2	7764
+amp	2	7764	255
+play	2	7764	/sounds/519
+quiet	1	7764
+amp	1	7764	255
+play	1	7764	/sounds/503
+quiet	1	7764
+amp	1	7764	255
+play	1	7764	/sounds/503
+quiet	1	7767
+amp	1	7767	255
+play	1	7767	/sounds/503
+quiet	0	7770
+amp	0	7770	255
+play	0	7770	/sounds/512
+quiet	1	7773
+amp	1	7773	255
+play	1	7773	/sounds/503
+quiet	2	7776
+amp	2	7776	255
+play	2	7776	/sounds/519
+quiet	1	7776
+amp	1	7776	255
+play	1	7776	/sounds/503
+quiet	0	7779
+amp	0	7779	255
+play	0	7779	/sounds/512
+quiet	1	7779
+amp	1	7779	255
+play	1	7779	/sounds/503
+quiet	2	7788
+amp	2	7788	206
+play	2	7788	/sounds/500
+quiet	2	7788
+amp	2	7788	255
+play	2	7788	/sounds/519
+quiet	0	7788
+amp	0	7788	255
+play	0	7788	/sounds/512
+quiet	1	7788
+amp	1	7788	255
+play	1	7788	/sounds/503
+quiet	1	7788
+amp	1	7788	255
+play	1	7788	/sounds/503
+quiet	1	7794
+amp	1	7794	255
+play	1	7794	/sounds/503
+quiet	1	7794
+amp	1	7794	255
+play	1	7794	/sounds/503
+quiet	0	7797
+amp	0	7797	255
+play	0	7797	/sounds/512
+quiet	1	7797
+amp	1	7797	255
+play	1	7797	/sounds/503
+quiet	2	7800
+amp	2	7800	255
+play	2	7800	/sounds/519
+quiet	1	7803
+amp	1	7803	255
+play	1	7803	/sounds/503
+quiet	0	7806
+amp	0	7806	255
+play	0	7806	/sounds/512
+quiet	1	7806
+amp	1	7806	255
+play	1	7806	/sounds/503
+quiet	1	7809
+amp	1	7809	255
+play	1	7809	/sounds/503
+quiet	2	7812
+amp	2	7812	64
+play	2	7812	/sounds/500
+quiet	2	7812
+amp	2	7812	255
+play	2	7812	/sounds/519
+quiet	1	7812
+amp	1	7812	255
+play	1	7812	/sounds/503
+quiet	0	7815
+amp	0	7815	255
+play	0	7815	/sounds/512
+quiet	2	7824
+amp	2	7824	255
+play	2	7824	/sounds/537
+quiet	0	7824
+amp	0	7824	255
+play	0	7824	/sounds/512
+quiet	2	7827
+amp	2	7827	255
+play	2	7827	/sounds/537
+quiet	0	7833
+amp	0	7833	255
+play	0	7833	/sounds/512
+quiet	1	7836
+amp	1	7836	255
+play	1	7836	/sounds/519
+quiet	2	7839
+amp	2	7839	244
+play	2	7839	/sounds/537
+quiet	2	7839
+amp	2	7839	255
+play	2	7839	/sounds/503
+quiet	0	7842
+amp	0	7842	255
+play	0	7842	/sounds/512
+quiet	1	7848
+amp	1	7848	255
+play	1	7848	/sounds/519
+quiet	0	7851
+amp	0	7851	255
+play	0	7851	/sounds/512
+quiet	1	7860
+amp	1	7860	255
+play	1	7860	/sounds/519
+quiet	0	7860
+amp	0	7860	255
+play	0	7860	/sounds/512
+quiet	2	7869
+amp	2	7869	193
+play	2	7869	/sounds/537
+quiet	0	7869
+amp	0	7869	255
+play	0	7869	/sounds/512
+quiet	1	7872
+amp	1	7872	255
+play	1	7872	/sounds/519
+quiet	2	7872
+amp	2	7872	255
+play	2	7872	/sounds/503
+quiet	0	7872
+amp	0	7872	103
+play	0	7872	/sounds/532
+quiet	0	7878
+amp	0	7878	204
+play	0	7878	/sounds/500
+quiet	0	7878
+amp	0	7878	255
+play	0	7878	/sounds/512
+quiet	1	7884
+amp	1	7884	255
+play	1	7884	/sounds/519
+quiet	0	7887
+amp	0	7887	255
+play	0	7887	/sounds/515
+quiet	2	7887
+amp	2	7887	255
+play	2	7887	/sounds/503
+quiet	1	7899
+amp	1	7899	210
+play	1	7899	/sounds/500
+quiet	1	7902
+amp	1	7902	212
+play	1	7902	/sounds/503
+quiet	2	7908
+amp	2	7908	99
+play	2	7908	/sounds/519
+quiet	2	7908
+amp	2	7908	99
+play	2	7908	/sounds/519
+quiet	1	7908
+amp	1	7908	255
+play	1	7908	/sounds/503
+quiet	2	7914
+amp	2	7914	200
+play	2	7914	/sounds/564
+quiet	2	7920
+amp	2	7920	211
+play	2	7920	/sounds/500
+quiet	2	7923
+amp	2	7923	255
+play	2	7923	/sounds/512
+quiet	2	7932
+amp	2	7932	255
+play	2	7932	/sounds/512
+quiet	1	7932
+amp	1	7932	94
+play	1	7932	/sounds/520
+quiet	1	7932
+amp	1	7932	193
+play	1	7932	/sounds/503
+quiet	1	7932
+amp	1	7932	89
+play	1	7932	/sounds/532
+quiet	1	7935
+amp	1	7935	93
+play	1	7935	/sounds/519
+quiet	1	7935
+amp	1	7935	93
+play	1	7935	/sounds/519
+quiet	1	7938
+amp	1	7938	255
+play	1	7938	/sounds/519
+quiet	2	7941
+amp	2	7941	255
+play	2	7941	/sounds/512
+quiet	1	7950
+amp	1	7950	255
+play	1	7950	/sounds/519
+quiet	2	7950
+amp	2	7950	255
+play	2	7950	/sounds/512
+quiet	0	7950
+amp	0	7950	127
+play	0	7950	/sounds/519
+quiet	0	7950
+amp	0	7950	127
+play	0	7950	/sounds/519
+quiet	0	7956
+amp	0	7956	255
+play	0	7956	/sounds/537
+quiet	2	7959
+amp	2	7959	255
+play	2	7959	/sounds/512
+quiet	1	7962
+amp	1	7962	213
+play	1	7962	/sounds/537
+quiet	1	7962
+amp	1	7962	252
+play	1	7962	/sounds/537
+quiet	0	7971
+amp	0	7971	134
+play	0	7971	/sounds/537
+quiet	0	7971
+amp	0	7971	156
+play	0	7971	/sounds/503
+quiet	0	7974
+amp	0	7974	186
+play	0	7974	/sounds/519
+quiet	2	7974
+amp	2	7974	155
+play	2	7974	/sounds/503
+quiet	1	7977
+amp	1	7977	123
+play	1	7977	/sounds/519
+quiet	1	7977
+amp	1	7977	123
+play	1	7977	/sounds/519
+quiet	1	7977
+amp	1	7977	154
+play	1	7977	/sounds/503
+quiet	1	7977
+amp	1	7977	169
+play	1	7977	/sounds/503
+quiet	0	7980
+amp	0	7980	255
+play	0	7980	/sounds/519
+quiet	1	7980
+amp	1	7980	255
+play	1	7980	/sounds/512
+quiet	2	7980
+amp	2	7980	157
+play	2	7980	/sounds/501
+quiet	1	7989
+amp	1	7989	255
+play	1	7989	/sounds/512
+quiet	2	7989
+amp	2	7989	169
+play	2	7989	/sounds/564
+quiet	0	7992
+amp	0	7992	255
+play	0	7992	/sounds/519
+quiet	1	7998
+amp	1	7998	255
+play	1	7998	/sounds/512
+quiet	0	7998
+amp	0	7998	165
+play	0	7998	/sounds/515
+quiet	1	7998
+amp	1	7998	157
+play	1	7998	/sounds/532
+quiet	0	8004
+amp	0	8004	255
+play	0	8004	/sounds/519
+quiet	1	8007
+amp	1	8007	255
+play	1	8007	/sounds/512
+quiet	0	8016
+amp	0	8016	255
+play	0	8016	/sounds/519
+quiet	1	8016
+amp	1	8016	255
+play	1	8016	/sounds/512
+quiet	2	8022
+amp	2	8022	255
+play	2	8022	/sounds/537
+quiet	0	8028
+amp	0	8028	215
+play	0	8028	/sounds/500
+quiet	1	8031
+amp	1	8031	120
+play	1	8031	/sounds/519
+quiet	1	8031
+amp	1	8031	120
+play	1	8031	/sounds/519
+quiet	1	8034
+amp	1	8034	131
+play	1	8034	/sounds/537
+quiet	1	8046
+amp	1	8046	215
+play	1	8046	/sounds/537
+quiet	2	8046
+amp	2	8046	61
+play	2	8046	/sounds/514
+quiet	0	8052
+amp	0	8052	58
+play	0	8052	/sounds/519
+quiet	0	8052
+amp	0	8052	58
+play	0	8052	/sounds/519
+quiet	0	8055
+amp	0	8055	136
+play	0	8055	/sounds/537
+quiet	0	8058
+amp	0	8058	255
+play	0	8058	/sounds/537
+quiet	2	8058
+amp	2	8058	118
+play	2	8058	/sounds/519
+quiet	2	8058
+amp	2	8058	118
+play	2	8058	/sounds/519
+quiet	1	8058
+amp	1	8058	217
+play	1	8058	/sounds/503
+quiet	0	8070
+amp	0	8070	91
+play	0	8070	/sounds/537
+quiet	0	8070
+amp	0	8070	98
+play	0	8070	/sounds/503
+quiet	2	8076
+amp	2	8076	96
+play	2	8076	/sounds/537
+quiet	2	8076
+amp	2	8076	143
+play	2	8076	/sounds/537
+quiet	0	8079
+amp	0	8079	154
+play	0	8079	/sounds/519
+quiet	2	8079
+amp	2	8079	152
+play	2	8079	/sounds/533
+quiet	1	8079
+amp	1	8079	50
+play	1	8079	/sounds/519
+quiet	1	8079
+amp	1	8079	50
+play	1	8079	/sounds/519
+quiet	1	8079
+amp	1	8079	91
+play	1	8079	/sounds/503
+quiet	0	8082
+amp	0	8082	216
+play	0	8082	/sounds/537
+quiet	1	8085
+amp	1	8085	119
+play	1	8085	/sounds/519
+quiet	1	8085
+amp	1	8085	119
+play	1	8085	/sounds/519
+quiet	1	8091
+amp	1	8091	148
+play	1	8091	/sounds/519
+quiet	0	8097
+amp	0	8097	65
+play	0	8097	/sounds/503
+quiet	0	8103
+amp	0	8103	140
+play	0	8103	/sounds/519
+quiet	1	8106
+amp	1	8106	42
+play	1	8106	/sounds/519
+quiet	1	8106
+amp	1	8106	42
+play	1	8106	/sounds/519
+quiet	1	8106
+amp	1	8106	80
+play	1	8106	/sounds/503
+quiet	0	8115
+amp	0	8115	232
+play	0	8115	/sounds/500
+quiet	1	8115
+amp	1	8115	130
+play	1	8115	/sounds/519
+quiet	2	8127
+amp	2	8127	119
+play	2	8127	/sounds/519
+quiet	1	8133
+amp	1	8133	210
+play	1	8133	/sounds/537
+quiet	0	8133
+amp	0	8133	31
+play	0	8133	/sounds/519
+quiet	0	8133
+amp	0	8133	31
+play	0	8133	/sounds/519
+quiet	0	8133
+amp	0	8133	32
+play	0	8133	/sounds/520
+quiet	0	8136
+amp	0	8136	229
+play	0	8136	/sounds/500
+quiet	2	8139
+amp	2	8139	108
+play	2	8139	/sounds/519
+quiet	2	8139
+amp	2	8139	255
+play	2	8139	/sounds/519
+quiet	0	8139
+amp	0	8139	255
+play	0	8139	/sounds/512
+quiet	1	8145
+amp	1	8145	231
+play	1	8145	/sounds/537
+quiet	0	8148
+amp	0	8148	255
+play	0	8148	/sounds/512
+quiet	2	8151
+amp	2	8151	96
+play	2	8151	/sounds/519
+quiet	2	8151
+amp	2	8151	255
+play	2	8151	/sounds/519
+quiet	0	8157
+amp	0	8157	255
+play	0	8157	/sounds/512
+quiet	1	8160
+amp	1	8160	16
+play	1	8160	/sounds/519
+quiet	1	8160
+amp	1	8160	16
+play	1	8160	/sounds/519
+quiet	1	8163
+amp	1	8163	85
+play	1	8163	/sounds/519
+quiet	1	8163
+amp	1	8163	255
+play	1	8163	/sounds/519
+quiet	2	8166
+amp	2	8166	223
+play	2	8166	/sounds/537
+quiet	0	8166
+amp	0	8166	255
+play	0	8166	/sounds/512
+quiet	1	8175
+amp	1	8175	75
+play	1	8175	/sounds/519
+quiet	1	8175
+amp	1	8175	255
+play	1	8175	/sounds/519
+quiet	0	8175
+amp	0	8175	255
+play	0	8175	/sounds/512
+quiet	2	8178
+amp	2	8178	20
+play	2	8178	/sounds/501
+quiet	2	8178
+amp	2	8178	22
+play	2	8178	/sounds/532
+quiet	2	8184
+amp	2	8184	47
+play	2	8184	/sounds/537
+quiet	0	8184
+amp	0	8184	255
+play	0	8184	/sounds/512
+quiet	2	8187
+amp	2	8187	214
+play	2	8187	/sounds/537
+quiet	1	8187
+amp	1	8187	64
+play	1	8187	/sounds/519
+quiet	1	8187
+amp	1	8187	255
+play	1	8187	/sounds/519
+quiet	0	8193
+amp	0	8193	255
+play	0	8193	/sounds/512
+quiet	1	8199
+amp	1	8199	53
+play	1	8199	/sounds/519
+quiet	1	8199
+amp	1	8199	255
+play	1	8199	/sounds/519
+quiet	2	8202
+amp	2	8202	10
+play	2	8202	/sounds/500
+quiet	2	8202
+amp	2	8202	49
+play	2	8202	/sounds/512
+quiet	0	8202
+amp	0	8202	255
+play	0	8202	/sounds/512
+quiet	2	8208
+amp	2	8208	204
+play	2	8208	/sounds/537
+quiet	2	8208
+amp	2	8208	236
+play	2	8208	/sounds/503
+quiet	1	8211
+amp	1	8211	44
+play	1	8211	/sounds/519
+quiet	1	8211
+amp	1	8211	255
+play	1	8211	/sounds/519
+quiet	0	8211
+amp	0	8211	255
+play	0	8211	/sounds/512
+quiet	0	8220
+amp	0	8220	255
+play	0	8220	/sounds/512
+quiet	1	8223
+amp	1	8223	255
+play	1	8223	/sounds/519
+quiet	2	8229
+amp	2	8229	140
+play	2	8229	/sounds/537
+quiet	0	8229
+amp	0	8229	255
+play	0	8229	/sounds/512
+quiet	2	8229
+amp	2	8229	236
+play	2	8229	/sounds/503
+quiet	1	8235
+amp	1	8235	15
+play	1	8235	/sounds/500
+quiet	1	8235
+amp	1	8235	255
+play	1	8235	/sounds/519
+quiet	0	8238
+amp	0	8238	255
+play	0	8238	/sounds/512
+quiet	1	8247
+amp	1	8247	255
+play	1	8247	/sounds/519
+quiet	0	8247
+amp	0	8247	255
+play	0	8247	/sounds/512
+quiet	2	8250
+amp	2	8250	119
+play	2	8250	/sounds/537
+quiet	0	8256
+amp	0	8256	255
+play	0	8256	/sounds/512
+quiet	2	8259
+amp	2	8259	159
+play	2	8259	/sounds/537
+quiet	1	8259
+amp	1	8259	5
+play	1	8259	/sounds/519
+quiet	1	8259
+amp	1	8259	255
+play	1	8259	/sounds/519
+quiet	2	8265
+amp	2	8265	168
+play	2	8265	/sounds/537
+quiet	0	8265
+amp	0	8265	255
+play	0	8265	/sounds/512
+quiet	1	8271
+amp	1	8271	255
+play	1	8271	/sounds/519
+quiet	0	8274
+amp	0	8274	255
+play	0	8274	/sounds/512
+quiet	2	8277
+amp	2	8277	232
+play	2	8277	/sounds/515
+quiet	2	8277
+amp	2	8277	235
+play	2	8277	/sounds/503
+quiet	1	8283
+amp	1	8283	255
+play	1	8283	/sounds/519
+quiet	0	8283
+amp	0	8283	255
+play	0	8283	/sounds/512
+quiet	0	8295
+amp	0	8295	105
+play	0	8295	/sounds/500
+quiet	1	8298
+amp	1	8298	36
+play	1	8298	/sounds/533
+quiet	0	8316
+amp	0	8316	125
+play	0	8316	/sounds/514
+quiet	1	8322
+amp	1	8322	90
+play	1	8322	/sounds/500
+quiet	2	8325
+amp	2	8325	78
+play	2	8325	/sounds/537
+quiet	2	8328
+amp	2	8328	119
+play	2	8328	/sounds/537
+quiet	0	8334
+amp	0	8334	52
+play	0	8334	/sounds/512
+quiet	1	8337
+amp	1	8337	52
+play	1	8337	/sounds/519
+quiet	0	8340
+amp	0	8340	111
+play	0	8340	/sounds/537
+quiet	2	8343
+amp	2	8343	47
+play	2	8343	/sounds/512
+quiet	1	8352
+amp	1	8352	69
+play	1	8352	/sounds/503
+quiet	0	8358
+amp	0	8358	42
+play	0	8358	/sounds/519
+quiet	2	8358
+amp	2	8358	41
+play	2	8358	/sounds/512
+quiet	0	8358
+amp	0	8358	255
+play	0	8358	/sounds/526
+quiet	2	8370
+amp	2	8370	38
+play	2	8370	/sounds/519
+quiet	1	8373
+amp	1	8373	90
+play	1	8373	/sounds/537
+quiet	0	8382
+amp	0	8382	33
+play	0	8382	/sounds/519
+quiet	0	8382
+amp	0	8382	255
+play	0	8382	/sounds/527
+quiet	2	8382
+amp	2	8382	80
+play	2	8382	/sounds/503
+quiet	1	8385
+amp	1	8385	31
+play	1	8385	/sounds/512
+quiet	1	8388
+amp	1	8388	62
+play	1	8388	/sounds/503
+quiet	1	8406
+amp	1	8406	255
+play	1	8406	/sounds/528
+quiet	2	8406
+amp	2	8406	255
+play	2	8406	/sounds/514
+quiet	0	8412
+amp	0	8412	59
+play	0	8412	/sounds/500
+quiet	0	8424
+amp	0	8424	69
+play	0	8424	/sounds/537
+quiet	2	8430
+amp	2	8430	52
+play	2	8430	/sounds/537
+quiet	0	8433
+amp	0	8433	255
+play	0	8433	/sounds/529
+quiet	2	8436
+amp	2	8436	56
+play	2	8436	/sounds/501
+quiet	1	8436
+amp	1	8436	56
+play	1	8436	/sounds/503
+quiet	0	8454
+amp	0	8454	55
+play	0	8454	/sounds/514
+quiet	0	8457
+amp	0	8457	255
+play	0	8457	/sounds/517
+quiet	1	8460
+amp	1	8460	35
+play	1	8460	/sounds/503
+quiet	1	8481
+amp	1	8481	104
+play	1	8481	/sounds/537
+quiet	2	8484
+amp	2	8484	97
+play	2	8484	/sounds/519
+quiet	2	8484
+amp	2	8484	97
+play	2	8484	/sounds/519
+quiet	0	8484
+amp	0	8484	82
+play	0	8484	/sounds/520
+quiet	0	8487
+amp	0	8487	159
+play	0	8487	/sounds/503
+quiet	1	8505
+amp	1	8505	137
+play	1	8505	/sounds/503
+quiet	0	8505
+amp	0	8505	204
+play	0	8505	/sounds/503
+quiet	2	8511
+amp	2	8511	231
+play	2	8511	/sounds/519
+quiet	2	8511
+amp	2	8511	231
+play	2	8511	/sounds/519
+quiet	1	8517
+amp	1	8517	146
+play	1	8517	/sounds/519
+quiet	0	8523
+amp	0	8523	255
+play	0	8523	/sounds/503
+quiet	1	8526
+amp	1	8526	188
+play	1	8526	/sounds/533
+quiet	1	8529
+amp	1	8529	255
+play	1	8529	/sounds/537
+quiet	2	8529
+amp	2	8529	188
+play	2	8529	/sounds/519
+quiet	2	8538
+amp	2	8538	255
+play	2	8538	/sounds/519
+quiet	2	8538
+amp	2	8538	255
+play	2	8538	/sounds/519
+quiet	2	8538
+amp	2	8538	255
+play	2	8538	/sounds/519
+quiet	1	8541
+amp	1	8541	227
+play	1	8541	/sounds/519
+quiet	1	8547
+amp	1	8547	239
+play	1	8547	/sounds/512
+quiet	0	8550
+amp	0	8550	239
+play	0	8550	/sounds/519
+quiet	2	8550
+amp	2	8550	232
+play	2	8550	/sounds/533
+quiet	0	8553
+amp	0	8553	255
+play	0	8553	/sounds/519
+quiet	1	8553
+amp	1	8553	244
+play	1	8553	/sounds/503
+quiet	0	8565
+amp	0	8565	255
+play	0	8565	/sounds/519
+quiet	2	8571
+amp	2	8571	234
+play	2	8571	/sounds/537
+quiet	1	8574
+amp	1	8574	255
+play	1	8574	/sounds/512
+quiet	0	8577
+amp	0	8577	255
+play	0	8577	/sounds/519
+quiet	2	8583
+amp	2	8583	65
+play	2	8583	/sounds/537
+quiet	1	8583
+amp	1	8583	255
+play	1	8583	/sounds/512
+quiet	2	8592
+amp	2	8592	196
+play	2	8592	/sounds/519
+quiet	2	8592
+amp	2	8592	196
+play	2	8592	/sounds/519
+quiet	2	8592
+amp	2	8592	218
+play	2	8592	/sounds/501
+quiet	2	8592
+amp	2	8592	220
+play	2	8592	/sounds/503
+quiet	2	8595
+amp	2	8595	255
+play	2	8595	/sounds/503
+quiet	0	8595
+amp	0	8595	184
+play	0	8595	/sounds/501
+quiet	0	8595
+amp	0	8595	183
+play	0	8595	/sounds/532
+quiet	0	8601
+amp	0	8601	255
+play	0	8601	/sounds/518
+quiet	1	8607
+amp	1	8607	128
+play	1	8607	/sounds/509
+quiet	1	8616
+amp	1	8616	128
+play	1	8616	/sounds/509
+quiet	1	8622
+amp	1	8622	181
+play	1	8622	/sounds/514
+quiet	2	8625
+amp	2	8625	61
+play	2	8625	/sounds/537
+quiet	2	8625
+amp	2	8625	128
+play	2	8625	/sounds/509
+quiet	0	8628
+amp	0	8628	128
+play	0	8628	/sounds/510
+quiet	2	8655
+amp	2	8655	128
+play	2	8655	/sounds/509
+quiet	0	8667
+amp	0	8667	155
+play	0	8667	/sounds/514
+quiet	2	8706
+amp	2	8706	143
+play	2	8706	/sounds/514
+quiet	1	8708
+amp	1	8708	128
+play	1	8708	/sounds/510
+quiet	1	8724
+amp	1	8724	65
+play	1	8724	/sounds/537
+quiet	1	8730
+amp	1	8730	132
+play	1	8730	/sounds/519
+quiet	1	8730
+amp	1	8730	132
+play	1	8730	/sounds/519
+quiet	0	8742
+amp	0	8742	199
+play	0	8742	/sounds/533
+quiet	2	8745
+amp	2	8745	68
+play	2	8745	/sounds/537
+quiet	2	8751
+amp	2	8751	89
+play	2	8751	/sounds/500
+quiet	0	8754
+amp	0	8754	255
+play	0	8754	/sounds/533
+quiet	2	8757
+amp	2	8757	120
+play	2	8757	/sounds/519
+quiet	2	8757
+amp	2	8757	120
+play	2	8757	/sounds/519
+quiet	1	8766
+amp	1	8766	69
+play	1	8766	/sounds/537
+quiet	1	8772
+amp	1	8772	78
+play	1	8772	/sounds/500
+quiet	1	8784
+amp	1	8784	114
+play	1	8784	/sounds/519
+quiet	1	8784
+amp	1	8784	114
+play	1	8784	/sounds/519
+quiet	2	8784
+amp	2	8784	73
+play	2	8784	/sounds/503
+quiet	2	8790
+amp	2	8790	113
+play	2	8790	/sounds/520
+quiet	2	8793
+amp	2	8793	73
+play	2	8793	/sounds/500
+quiet	2	8802
+amp	2	8802	113
+play	2	8802	/sounds/533
+quiet	1	8811
+amp	1	8811	114
+play	1	8811	/sounds/519
+quiet	1	8811
+amp	1	8811	114
+play	1	8811	/sounds/519
+quiet	2	8814
+amp	2	8814	160
+play	2	8814	/sounds/533
+quiet	2	8826
+amp	2	8826	235
+play	2	8826	/sounds/533
+quiet	1	8838
+amp	1	8838	121
+play	1	8838	/sounds/519
+quiet	1	8838
+amp	1	8838	121
+play	1	8838	/sounds/519
+quiet	0	8841
+amp	0	8841	93
+play	0	8841	/sounds/537
+quiet	0	8844
+amp	0	8844	94
+play	0	8844	/sounds/503
+quiet	0	8844
+amp	0	8844	94
+play	0	8844	/sounds/503
+quiet	0	8853
+amp	0	8853	107
+play	0	8853	/sounds/519
+quiet	1	8853
+amp	1	8853	107
+play	1	8853	/sounds/512
+quiet	0	8856
+amp	0	8856	98
+play	0	8856	/sounds/532
+quiet	0	8856
+amp	0	8856	102
+play	0	8856	/sounds/503
+quiet	2	8859
+amp	2	8859	77
+play	2	8859	/sounds/519
+quiet	1	8862
+amp	1	8862	109
+play	1	8862	/sounds/512
+quiet	2	8865
+amp	2	8865	109
+play	2	8865	/sounds/519
+quiet	2	8865
+amp	2	8865	135
+play	2	8865	/sounds/519
+quiet	2	8865
+amp	2	8865	135
+play	2	8865	/sounds/519
+quiet	2	8865
+amp	2	8865	163
+play	2	8865	/sounds/519
+quiet	2	8865
+amp	2	8865	163
+play	2	8865	/sounds/519
+quiet	0	8868
+amp	0	8868	112
+play	0	8868	/sounds/500
+quiet	1	8871
+amp	1	8871	113
+play	1	8871	/sounds/512
+quiet	0	8874
+amp	0	8874	140
+play	0	8874	/sounds/533
+quiet	0	8874
+amp	0	8874	246
+play	0	8874	/sounds/520
+quiet	1	8904
+amp	1	8904	129
+play	1	8904	/sounds/514
+quiet	0	9090
+quiet	1	9090
+quiet	2	9090
+quiet	3	9090

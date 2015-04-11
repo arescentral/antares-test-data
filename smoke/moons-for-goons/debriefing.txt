@@ -1,0 +1,7 @@
+Good work. You completed the first tutorial.
+
+\b82 \f82 TIME\t \f82 \b8e YOU\t\b8b PAR\t
+\b8e \f82 TIME\t \f8e \b81 2:16\t\f8b 2:00
+\b8b \f82 LOSSES\t \f8e \b81 0\t\f8b 0
+\b88 \f82 KILLS\t \f8e \b81 2\t\f8b 9
+\b85 \f82 SCORE\t \f8e \b81 73\t\f8b 100

@@ -1,0 +1,7 @@
+You decimated the Audemedon fleet and destroyed the jumpstream inhibitor.
+
+\b82 \f82 TIME\t \f82 \b8e YOU\t\b8b PAR\t
+\b8e \f82 TIME\t \f8e \b81 2:31\t\f8b 3:30
+\b8b \f82 LOSSES\t \f8e \b81 9\t\f8b 23
+\b88 \f82 KILLS\t \f8e \b81 26\t\f8b 42
+\b85 \f82 SCORE\t \f8e \b81 142\t\f8b 100
