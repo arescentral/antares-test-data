@@ -18,14 +18,14 @@ rect	0	0	640	480	000000
 	212	249		250	285028
 	445	246			
 	226	205	287	217	183018
-tint	227	205	233	217	60c060	/fonts/button/4c
-	233		241			/fonts/button/6f
-	241		249			/fonts/button/61
-	249		257			/fonts/button/64
-	257		260			/fonts/button/69
-	260		267			/fonts/button/6e
-	267		275			/fonts/button/67
-	275		286			/fonts/button/2026
+crop	227	205	233	217	192	48	60c060	/fonts/button
+	233		241		240	72		
+	241		249		16			
+	249		257		64			
+	257		260		144			
+	260		267		224			
+	267		275		112			
+	275		286		144	144		
 rect	211	205	225	218	489048
 			212		58b058
 			224	206	
@@ -73,57 +73,57 @@ rect	211	205	225	218	489048
 	445		446	245	081008
 	433	244			
 	257	91	264	113	7fff7f
-tint	257	93	264	113	000000	/fonts/title/20
+crop	257	93	264	113	0	40	000000	/fonts/title
 rect	264	91	271	113	7fff7f
-tint	264	93	271	113	000000	/fonts/title/54
+crop	264	93	271	113	32	100	000000	/fonts/title
 rect	271	91	278	113	7fff7f
-tint	271	93	278	113	000000	/fonts/title/75
+crop	271	93	278	113	40	140	000000	/fonts/title
 rect	278	91	285	113	7fff7f
-tint	278	93	285	113	000000	/fonts/title/74
+crop	278	93	285	113	32	140	000000	/fonts/title
 rect	285	91	292	113	7fff7f
-tint	285	93	292	113	000000	/fonts/title/6f
+crop	285	93	292	113	120	120	000000	/fonts/title
 rect	292	91	299	113	7fff7f
-tint	292	93	299	113	000000	/fonts/title/72
+crop	292	93	299	113	16	140	000000	/fonts/title
 rect	299	91	306	113	7fff7f
-tint	299	93	306	113	000000	/fonts/title/69
+crop	299	93	306	113	72	120	000000	/fonts/title
 rect	306	91	313	113	7fff7f
-tint	306	93	313	113	000000	/fonts/title/61
+crop	306	93	313	113	8	120	000000	/fonts/title
 rect	313	91	320	113	7fff7f
-tint	313	93	320	113	000000	/fonts/title/6c
+crop	313	93	320	113	96	120	000000	/fonts/title
 rect	320	91	327	113	7fff7f
-tint	320	93	327	113	000000	/fonts/title/20
+crop	320	93	327	113	0	40	000000	/fonts/title
 rect	327	91	334	113	7fff7f
-tint	327	93	334	113	000000	/fonts/title/4c
+crop	327	93	334	113	96	80	000000	/fonts/title
 rect	334	91	341	113	7fff7f
-tint	334	93	341	113	000000	/fonts/title/65
+crop	334	93	341	113	40	120	000000	/fonts/title
 rect	341	91	348	113	7fff7f
-tint	341	93	348	113	000000	/fonts/title/73
+crop	341	93	348	113	24	140	000000	/fonts/title
 rect	348	91	355	113	7fff7f
-tint	348	93	355	113	000000	/fonts/title/73
+crop	348	93	355	113	24	140	000000	/fonts/title
 rect	355	91	362	113	7fff7f
-tint	355	93	362	113	000000	/fonts/title/6f
+crop	355	93	362	113	120	120	000000	/fonts/title
 rect	362	91	369	113	7fff7f
-tint	362	93	369	113	000000	/fonts/title/6e
+crop	362	93	369	113	112	120	000000	/fonts/title
 rect	369	91	376	113	7fff7f
-tint	369	93	376	113	000000	/fonts/title/20
+crop	369	93	376	113	0	40	000000	/fonts/title
 rect	376	91	383	113	7fff7f
-tint	376	93	383	113	000000	/fonts/title/31
+crop	376	93	383	113	8	60	000000	/fonts/title
 rect	383	91	383	113	7fff7f
-tint	257	115	264	135	7fff7f	/fonts/title/4d
-	264		271			/fonts/title/6f
-	271		278			
-	278		285			/fonts/title/6e
-	285		292			/fonts/title/73
-	292		299			/fonts/title/20
-	299		306			/fonts/title/66
-	306		313			/fonts/title/6f
-	313		320			/fonts/title/72
-	320		327			/fonts/title/20
-	327		334			/fonts/title/47
-	334		341			/fonts/title/6f
-	341		348			
-	348		355			/fonts/title/6e
-	355		362			/fonts/title/73
+crop	257	115	264	135	104	80	7fff7f	/fonts/title
+	264		271		120	120		
+	271		278					
+	278		285		112			
+	285		292		24	140		
+	292		299		0	40		
+	299		306		48	120		
+	306		313		120			
+	313		320		16	140		
+	320		327		0	40		
+	327		334		56	80		
+	334		341		120	120		
+	341		348					
+	348		355		112			
+	355		362		24	140		
 rect	226	227	430	244	387038
 			226		60c060
 draw	320	240	332	250	/sprites/500.SMIV/0

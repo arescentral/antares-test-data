@@ -33,14 +33,14 @@ rect	0	0	640	480	000000
 	508		509	446	50a050
 	447	445			
 	510	435	587		387038
-tint	462	435	470	447	081008	/fonts/button/52
-	470		477			/fonts/button/54
-	477		485			/fonts/button/52
-	485		493			/fonts/button/4e
-	533		541		70e070	/fonts/button/44
-	541		549			/fonts/button/6f
-	549		556			/fonts/button/6e
-	556		564			/fonts/button/65
+crop	462	435	470	447	32	60	081008	/fonts/button
+	470		477		64			
+	477		485		32			
+	485		493		224	48		
+	533		541		64		70e070	
+	541		549		240	72		
+	549		556		224			
+	556		564		80			
 rect	39	430	52	433	808080
 	197		210		
 	52		197	432	
@@ -75,18 +75,18 @@ rect	39	430	52	433	808080
 	116		117	446	909090
 	55	445			
 	118	435	195		606060
-tint	73	435	79	447	080808	/fonts/button/4c
-	79		85			/fonts/button/45
-	85		91			/fonts/button/46
-	91		98			/fonts/button/54
-	131		138		d0d0d0	/fonts/button/50
-	138		142			/fonts/button/72
-	142		150			/fonts/button/65
-	150		157			/fonts/button/76
-	157		160			/fonts/button/69
-	160		168			/fonts/button/6f
-	168		175			/fonts/button/75
-	175		181			/fonts/button/73
+crop	73	435	79	447	192	48	080808	/fonts/button
+	79		85		80			
+	85		91		96			
+	91		98		64	60		
+	131		138		0		d0d0d0	
+	138		142		32	84		
+	142		150		80	72		
+	150		157		96	84		
+	157		160		144	72		
+	160		168		240			
+	168		175		80	84		
+	175		181		48			
 rect	219	430	232	433	808080
 	377		390		
 	232		377	432	
@@ -121,14 +121,14 @@ rect	219	430	232	433	808080
 	296		297	446	909090
 	235	445			
 	298	435	375		606060
-tint	249	435	257	447	080808	/fonts/button/52
-	257		266			/fonts/button/47
-	266		274			/fonts/button/48
-	274		281			/fonts/button/54
-	323		331		d0d0d0	/fonts/button/4e
-	331		339			/fonts/button/65
-	339		346			/fonts/button/78
-	346		350			/fonts/button/74
+crop	249	435	257	447	32	60	080808	/fonts/button
+	257		266		112	48		
+	266		274		128			
+	274		281		64	60		
+	323		331		224	48	d0d0d0	
+	331		339		80	72		
+	339		346		128	84		
+	346		350		64			
 draw	2	0	35	476	/pictures/504.png
 	35		607	28	/pictures/505.png
 	607		642	476	/pictures/506.png
@@ -152,22 +152,22 @@ rect	39	31	52	34	787561
 	40	424		425	5a5849
 	602	421			
 	54	36	152	48	3c3a30
-tint	55	36	66	48	c3be9f	/fonts/button/4d
-	66		69			/fonts/button/69
-	69		75			/fonts/button/73
-	75		81			
-	81		84			/fonts/button/69
-	84		92			/fonts/button/6f
-	92		99			/fonts/button/6e
-	99		102			/fonts/button/20
-	102		111			/fonts/button/41
-	111		118			/fonts/button/6e
-	118		126			/fonts/button/61
-	126		129			/fonts/button/6c
-	129		136			/fonts/button/79
-	136		142			/fonts/button/73
-	142		145			/fonts/button/69
-	145		151			/fonts/button/73
+crop	55	36	66	48	208	48	c3be9f	/fonts/button
+	66		69		144	72		
+	69		75		48	84		
+	75		81					
+	81		84		144	72		
+	84		92		240			
+	92		99		224			
+	99		102		0	24		
+	102		111		16	48		
+	111		118		224	72		
+	118		126		16			
+	126		129		192			
+	129		136		144	84		
+	136		142		48			
+	142		145		144	72		
+	145		151		48	84		
 rect	39	36	53	49	96927a
 			40		b4b092
 			52	37	
@@ -808,23 +808,23 @@ rect	332	174	563	410	000000
 	333	409		410	505028
 	562	406			
 	347	179	452	191	303018
-tint	348	179	355	191	c0c060	/fonts/button/50
-	355		363			/fonts/button/6f
-	363		372			/fonts/button/77
-	372		380			/fonts/button/65
-	380		384			/fonts/button/72
-	384		387			/fonts/button/20
-	387		394			/fonts/button/53
-	394		398			/fonts/button/74
-	398		406			/fonts/button/61
-	406		410			/fonts/button/74
-	410		413			/fonts/button/69
-	413		421			/fonts/button/6f
-	421		428			/fonts/button/6e
-	428		431			/fonts/button/20
-	431		438			/fonts/button/42
-	438		445			/fonts/button/50
-	445		451			/fonts/button/31
+crop	348	179	355	191	0	60	c0c060	/fonts/button
+	355		363		240	72		
+	363		372		112	84		
+	372		380		80	72		
+	380		384		32	84		
+	384		387		0	24		
+	387		394		48	60		
+	394		398		64	84		
+	398		406		16	72		
+	406		410		64	84		
+	410		413		144	72		
+	413		421		240			
+	421		428		224			
+	428		431		0	24		
+	431		438		32	48		
+	438		445		0	60		
+	445		451		16	36		
 rect	332	179	346	192	909048
 			333		b0b058
 			345	180	
@@ -872,195 +872,195 @@ rect	332	179	346	192	909048
 	562		563	405	101008
 	550	404			
 draw	347	201	547	301	/pictures/1115.png
-tint	350	306	357	318	ffff7f	/fonts/button/54
-	357		364			/fonts/button/68
-	364		372			/fonts/button/65
-	372		375			/fonts/button/20
-	375		382			/fonts/button/68
-	382		389			/fonts/button/75
-	389		400			/fonts/button/6d
-	400		408			/fonts/button/61
-	408		415			/fonts/button/6e
-	415		421			/fonts/button/73
-	421		424			/fonts/button/20
-	424		432			/fonts/button/61
-	432		435			/fonts/button/6c
-	435		441			/fonts/button/73
-	441		449			/fonts/button/6f
-	449		452			/fonts/button/20
-	452		459			/fonts/button/68
-	459		467			/fonts/button/61
-	467		474			/fonts/button/76
-	474		482			/fonts/button/65
-	482		485			/fonts/button/20
-	485		493			/fonts/button/61
-	493		496			/fonts/button/20
-	496		504			/fonts/button/70
-	504		512			/fonts/button/6f
-	512		521			/fonts/button/77
-	521		529			/fonts/button/65
-	529		533			/fonts/button/72
-	533		536			/fonts/button/20
-	350	320	356	332		/fonts/button/73
-	356		360			/fonts/button/74
-	360		368			/fonts/button/61
-	368		372			/fonts/button/74
-	372		375			/fonts/button/69
-	375		383			/fonts/button/6f
-	383		390			/fonts/button/6e
-	390		394			/fonts/button/2c
-	394		397			/fonts/button/20
-	397		404			/fonts/button/42
-	404		411			/fonts/button/50
-	411		416			/fonts/button/2d
-	416		422			/fonts/button/31
-	422		426			/fonts/button/2c
-	426		429			/fonts/button/20
-	429		438			/fonts/button/77
-	438		445			/fonts/button/68
-	445		448			/fonts/button/69
-	448		456			/fonts/button/63
-	456		463			/fonts/button/68
-	463		466			/fonts/button/20
-	466		475			/fonts/button/77
-	475		478			/fonts/button/69
-	478		481			/fonts/button/6c
-	481		484			
-	484		487			/fonts/button/20
-	487		495			/fonts/button/67
-	495		503			/fonts/button/65
-	503		510			/fonts/button/6e
-	510		518			/fonts/button/65
-	518		522			/fonts/button/72
-	522		530			/fonts/button/61
-	530		534			/fonts/button/74
-	534		542			/fonts/button/65
-	542		545			/fonts/button/20
-	350	334	354	346		/fonts/button/72
-	354		362			/fonts/button/65
-	362		368			/fonts/button/73
-	368		376			/fonts/button/6f
-	376		383			/fonts/button/75
-	383		387			/fonts/button/72
-	387		395			/fonts/button/63
-	395		403			/fonts/button/65
-	403		409			/fonts/button/73
-	409		412			/fonts/button/20
-	412		416			/fonts/button/66
-	416		424			/fonts/button/6f
-	424		428			/fonts/button/72
-	428		431			/fonts/button/20
-	431		438			/fonts/button/79
-	438		446			/fonts/button/6f
-	446		453			/fonts/button/75
-	453		457			/fonts/button/2e
-	457		460			/fonts/button/20
-	460		467			/fonts/button/50
-	467		471			/fonts/button/72
-	471		479			/fonts/button/6f
-	479		483			/fonts/button/74
-	483		491			/fonts/button/65
-	491		499			/fonts/button/63
-	499		503			/fonts/button/74
-	503		506			/fonts/button/20
-	506		510			/fonts/button/74
-	510		517			/fonts/button/68
-	517		520			/fonts/button/69
-	520		526			/fonts/button/73
-	526		529			/fonts/button/20
-	350	348	356	360		/fonts/button/73
-	356		360			/fonts/button/74
-	360		368			/fonts/button/61
-	368		372			/fonts/button/74
-	372		375			/fonts/button/69
-	375		383			/fonts/button/6f
-	383		390			/fonts/button/6e
-	390		394			/fonts/button/2e
-	394		397			/fonts/button/20
-	397		400			/fonts/button/49
-	400		404			/fonts/button/66
-	404		407			/fonts/button/20
-	407		411			/fonts/button/74
-	411		418			/fonts/button/68
-	418		426			/fonts/button/65
-	426		429			/fonts/button/20
-	429		437			/fonts/button/43
-	437		445			/fonts/button/61
-	445		452			/fonts/button/6e
-	452		456			/fonts/button/74
-	456		463			/fonts/button/68
-	463		471			/fonts/button/61
-	471		475			/fonts/button/72
-	475		483			/fonts/button/61
-	483		490			/fonts/button/6e
-	490		496			/fonts/button/73
-	496		499			/fonts/button/20
-	350	362	358	374		/fonts/button/64
-	358		366			/fonts/button/65
-	366		372			/fonts/button/73
-	372		376			/fonts/button/74
-	376		380			/fonts/button/72
-	380		388			/fonts/button/6f
-	388		395			/fonts/button/79
-	395		398			/fonts/button/20
-	398		402			/fonts/button/74
-	402		409			/fonts/button/68
-	409		412			/fonts/button/69
-	412		418			/fonts/button/73
-	418		421			/fonts/button/20
-	421		429			/fonts/button/70
-	429		437			/fonts/button/6f
-	437		446			/fonts/button/77
-	446		454			/fonts/button/65
-	454		458			/fonts/button/72
-	458		461			/fonts/button/20
-	461		467			/fonts/button/73
-	467		471			/fonts/button/74
-	471		479			/fonts/button/61
-	479		483			/fonts/button/74
-	483		486			/fonts/button/69
-	486		494			/fonts/button/6f
-	494		501			/fonts/button/6e
-	501		505			/fonts/button/2c
-	505		508			/fonts/button/20
-	508		515			/fonts/button/79
-	515		523			/fonts/button/6f
-	523		530			/fonts/button/75
-	530		533			/fonts/button/20
-	350	376	359	388		/fonts/button/77
-	359		367			/fonts/button/6f
-	367		374			/fonts/button/6e
-	374		379			/fonts/button/2019
-	379		383			/fonts/button/74
-	383		386			/fonts/button/20
-	386		394			/fonts/button/62
-	394		402			/fonts/button/65
-	402		405			/fonts/button/20
-	405		413			/fonts/button/61
-	413		421			/fonts/button/62
-	421		424			/fonts/button/6c
-	424		432			/fonts/button/65
-	432		435			/fonts/button/20
-	435		439			/fonts/button/74
-	439		447			/fonts/button/6f
-	447		450			/fonts/button/20
-	450		458			/fonts/button/62
-	458		465			/fonts/button/75
-	465		468			/fonts/button/69
-	468		471			/fonts/button/6c
-	471		479			/fonts/button/64
-	479		482			/fonts/button/20
-	482		490			/fonts/button/61
-	490		496			/fonts/button/73
-	496		499			/fonts/button/20
-	499		510			/fonts/button/6d
-	510		518			/fonts/button/61
-	518		525			/fonts/button/6e
-	525		532			/fonts/button/79
-	532		535			/fonts/button/20
-	350	390	356	402		/fonts/button/73
-	356		363			/fonts/button/68
-	363		366			/fonts/button/69
-	366		374			/fonts/button/70
-	374		380			/fonts/button/73
-	380		384			/fonts/button/2e
+crop	350	306	357	318	64	60	ffff7f	/fonts/button
+	357		364		128	72		
+	364		372		80			
+	372		375		0	24		
+	375		382		128	72		
+	382		389		80	84		
+	389		400		208	72		
+	400		408		16			
+	408		415		224			
+	415		421		48	84		
+	421		424		0	24		
+	424		432		16	72		
+	432		435		192			
+	435		441		48	84		
+	441		449		240	72		
+	449		452		0	24		
+	452		459		128	72		
+	459		467		16			
+	467		474		96	84		
+	474		482		80	72		
+	482		485		0	24		
+	485		493		16	72		
+	493		496		0	24		
+	496		504			84		
+	504		512		240	72		
+	512		521		112	84		
+	521		529		80	72		
+	529		533		32	84		
+	533		536		0	24		
+	350	320	356	332	48	84		
+	356		360		64			
+	360		368		16	72		
+	368		372		64	84		
+	372		375		144	72		
+	375		383		240			
+	383		390		224			
+	390		394		192	24		
+	394		397		0			
+	397		404		32	48		
+	404		411		0	60		
+	411		416		208	24		
+	416		422		16	36		
+	422		426		192	24		
+	426		429		0			
+	429		438		112	84		
+	438		445		128	72		
+	445		448		144			
+	448		456		48			
+	456		463		128			
+	463		466		0	24		
+	466		475		112	84		
+	475		478		144	72		
+	478		481		192			
+	481		484					
+	484		487		0	24		
+	487		495		112	72		
+	495		503		80			
+	503		510		224			
+	510		518		80			
+	518		522		32	84		
+	522		530		16	72		
+	530		534		64	84		
+	534		542		80	72		
+	542		545		0	24		
+	350	334	354	346	32	84		
+	354		362		80	72		
+	362		368		48	84		
+	368		376		240	72		
+	376		383		80	84		
+	383		387		32			
+	387		395		48	72		
+	395		403		80			
+	403		409		48	84		
+	409		412		0	24		
+	412		416		96	72		
+	416		424		240			
+	424		428		32	84		
+	428		431		0	24		
+	431		438		144	84		
+	438		446		240	72		
+	446		453		80	84		
+	453		457		224	24		
+	457		460		0			
+	460		467			60		
+	467		471		32	84		
+	471		479		240	72		
+	479		483		64	84		
+	483		491		80	72		
+	491		499		48			
+	499		503		64	84		
+	503		506		0	24		
+	506		510		64	84		
+	510		517		128	72		
+	517		520		144			
+	520		526		48	84		
+	526		529		0	24		
+	350	348	356	360	48	84		
+	356		360		64			
+	360		368		16	72		
+	368		372		64	84		
+	372		375		144	72		
+	375		383		240			
+	383		390		224			
+	390		394			24		
+	394		397		0			
+	397		400		144	48		
+	400		404		96	72		
+	404		407		0	24		
+	407		411		64	84		
+	411		418		128	72		
+	418		426		80			
+	426		429		0	24		
+	429		437		48	48		
+	437		445		16	72		
+	445		452		224			
+	452		456		64	84		
+	456		463		128	72		
+	463		471		16			
+	471		475		32	84		
+	475		483		16	72		
+	483		490		224			
+	490		496		48	84		
+	496		499		0	24		
+	350	362	358	374	64	72		
+	358		366		80			
+	366		372		48	84		
+	372		376		64			
+	376		380		32			
+	380		388		240	72		
+	388		395		144	84		
+	395		398		0	24		
+	398		402		64	84		
+	402		409		128	72		
+	409		412		144			
+	412		418		48	84		
+	418		421		0	24		
+	421		429			84		
+	429		437		240	72		
+	437		446		112	84		
+	446		454		80	72		
+	454		458		32	84		
+	458		461		0	24		
+	461		467		48	84		
+	467		471		64			
+	471		479		16	72		
+	479		483		64	84		
+	483		486		144	72		
+	486		494		240			
+	494		501		224			
+	501		505		192	24		
+	505		508		0			
+	508		515		144	84		
+	515		523		240	72		
+	523		530		80	84		
+	530		533		0	24		
+	350	376	359	388	112	84		
+	359		367		240	72		
+	367		374		224			
+	374		379		80	156		
+	379		383		64	84		
+	383		386		0	24		
+	386		394		32	72		
+	394		402		80			
+	402		405		0	24		
+	405		413		16	72		
+	413		421		32			
+	421		424		192			
+	424		432		80			
+	432		435		0	24		
+	435		439		64	84		
+	439		447		240	72		
+	447		450		0	24		
+	450		458		32	72		
+	458		465		80	84		
+	465		468		144	72		
+	468		471		192			
+	471		479		64			
+	479		482		0	24		
+	482		490		16	72		
+	490		496		48	84		
+	496		499		0	24		
+	499		510		208	72		
+	510		518		16			
+	518		525		224			
+	525		532		144	84		
+	532		535		0	24		
+	350	390	356	402	48	84		
+	356		363		128	72		
+	363		366		144			
+	366		374		0	84		
+	374		380		48			
+	380		384		224	24		

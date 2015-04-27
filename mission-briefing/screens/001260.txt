@@ -18,14 +18,14 @@ rect	0	0	640	480	000000
 	212	249		250	285028
 	445	246			
 	226	205	287	217	183018
-tint	227	205	233	217	60c060	/fonts/button/4c
-	233		241			/fonts/button/6f
-	241		249			/fonts/button/61
-	249		257			/fonts/button/64
-	257		260			/fonts/button/69
-	260		267			/fonts/button/6e
-	267		275			/fonts/button/67
-	275		286			/fonts/button/2026
+crop	227	205	233	217	192	48	60c060	/fonts/button
+	233		241		240	72		
+	241		249		16			
+	249		257		64			
+	257		260		144			
+	260		267		224			
+	267		275		112			
+	275		286		144	144		
 rect	211	205	225	218	489048
 			212		58b058
 			224	206	
@@ -73,71 +73,71 @@ rect	211	205	225	218	489048
 	445		446	245	081008
 	433	244			
 	173	91	180	113	7fff7f
-tint	173	93	180	113	000000	/fonts/title/20
+crop	173	93	180	113	0	40	000000	/fonts/title
 rect	180	91	187	113	7fff7f
-tint	180	93	187	113	000000	/fonts/title/43
+crop	180	93	187	113	24	80	000000	/fonts/title
 rect	187	91	194	113	7fff7f
-tint	187	93	194	113	000000	/fonts/title/68
+crop	187	93	194	113	64	120	000000	/fonts/title
 rect	194	91	201	113	7fff7f
-tint	194	93	201	113	000000	/fonts/title/61
+crop	194	93	201	113	8	120	000000	/fonts/title
 rect	201	91	208	113	7fff7f
-tint	201	93	208	113	000000	/fonts/title/70
+crop	201	93	208	113	0	140	000000	/fonts/title
 rect	208	91	215	113	7fff7f
-tint	208	93	215	113	000000	/fonts/title/74
+crop	208	93	215	113	32	140	000000	/fonts/title
 rect	215	91	222	113	7fff7f
-tint	215	93	222	113	000000	/fonts/title/65
+crop	215	93	222	113	40	120	000000	/fonts/title
 rect	222	91	229	113	7fff7f
-tint	222	93	229	113	000000	/fonts/title/72
+crop	222	93	229	113	16	140	000000	/fonts/title
 rect	229	91	236	113	7fff7f
-tint	229	93	236	113	000000	/fonts/title/20
+crop	229	93	236	113	0	40	000000	/fonts/title
 rect	236	91	243	113	7fff7f
-tint	236	93	243	113	000000	/fonts/title/31
+crop	236	93	243	113	8	60	000000	/fonts/title
 rect	243	91	250	113	7fff7f
-tint	243	93	250	113	000000	/fonts/title/39
+crop	243	93	250	113	72	60	000000	/fonts/title
 rect	250	91	257	113	7fff7f
-tint	250	93	257	113	000000	/fonts/title/20
+crop	250	93	257	113	0	40	000000	/fonts/title
 rect	257	91	467	113	7fff7f
-tint	173	115	180	135	7fff7f	/fonts/title/59
-	180		187			/fonts/title/6f
-	187		194			/fonts/title/75
-	194		201			/fonts/title/20
-	201		208			/fonts/title/53
-	208		215			/fonts/title/68
-	215		222			/fonts/title/6f
-	222		229			/fonts/title/75
-	229		236			/fonts/title/6c
-	236		243			/fonts/title/64
-	243		250			/fonts/title/20
-	250		257			/fonts/title/48
-	257		264			/fonts/title/61
-	264		271			/fonts/title/76
-	271		278			/fonts/title/65
-	278		285			/fonts/title/20
-	285		292			/fonts/title/53
-	292		299			/fonts/title/65
-	299		306			
-	306		313			/fonts/title/6e
-	313		320			/fonts/title/20
-	320		327			/fonts/title/74
-	327		334			/fonts/title/68
-	334		341			/fonts/title/65
-	341		348			/fonts/title/20
-	348		355			/fonts/title/4f
-	355		362			/fonts/title/6e
-	362		369			/fonts/title/65
-	369		376			/fonts/title/20
-	376		383			/fonts/title/74
-	383		390			/fonts/title/68
-	390		397			/fonts/title/61
-	397		404			/fonts/title/74
-	404		411			/fonts/title/20
-	411		418			/fonts/title/47
-	418		425			/fonts/title/6f
-	425		432			/fonts/title/74
-	432		439			/fonts/title/20
-	439		446			/fonts/title/41
-	446		453			/fonts/title/77
-	453		460			/fonts/title/61
-	460		467			/fonts/title/79
+crop	173	115	180	135	72	100	7fff7f	/fonts/title
+	180		187		120	120		
+	187		194		40	140		
+	194		201		0	40		
+	201		208		24	100		
+	208		215		64	120		
+	215		222		120			
+	222		229		40	140		
+	229		236		96	120		
+	236		243		32			
+	243		250		0	40		
+	250		257		64	80		
+	257		264		8	120		
+	264		271		48	140		
+	271		278		40	120		
+	278		285		0	40		
+	285		292		24	100		
+	292		299		40	120		
+	299		306					
+	306		313		112			
+	313		320		0	40		
+	320		327		32	140		
+	327		334		64	120		
+	334		341		40			
+	341		348		0	40		
+	348		355		120	80		
+	355		362		112	120		
+	362		369		40			
+	369		376		0	40		
+	376		383		32	140		
+	383		390		64	120		
+	390		397		8			
+	397		404		32	140		
+	404		411		0	40		
+	411		418		56	80		
+	418		425		120	120		
+	425		432		32	140		
+	432		439		0	40		
+	439		446		8	80		
+	446		453		56	140		
+	453		460		8	120		
+	460		467		72	140		
 rect	226	227	430	244	387038
 			226		60c060

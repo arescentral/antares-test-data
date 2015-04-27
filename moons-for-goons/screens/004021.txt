@@ -118,95 +118,95 @@ line	342	71	313	66	b0b0b0
 	128	58	608	58	
 draw	355	229	387	256	/sprites/501.SMIV/19
 dither	277	231	598	325	001830
-tint	281	235	288	246	000000	/fonts/tactical/57
-	288		295			/fonts/tactical/61
-	295		302			/fonts/tactical/72
-	302		309			/fonts/tactical/70
-	309		316			/fonts/tactical/69
-	316		323			/fonts/tactical/6e
-	323		330			/fonts/tactical/67
-	330		337			/fonts/tactical/20
-	337		344			/fonts/tactical/64
-	344		351			/fonts/tactical/72
-	351		358			/fonts/tactical/61
-	358		365			/fonts/tactical/69
-	365		372			/fonts/tactical/6e
-	372		379			/fonts/tactical/73
-	379		386			/fonts/tactical/20
-	386		393			/fonts/tactical/65
-	393		400			/fonts/tactical/6e
-	400		407			/fonts/tactical/65
-	407		414			/fonts/tactical/72
-	414		421			/fonts/tactical/67
-	421		428			/fonts/tactical/79
-	428		435			/fonts/tactical/20
-	435		442			/fonts/tactical/66
-	442		449			/fonts/tactical/72
-	449		456			/fonts/tactical/6f
-	456		463			/fonts/tactical/6d
-	279	233	286	244		/fonts/tactical/57
-	286		293			/fonts/tactical/61
-	293		300			/fonts/tactical/72
-	300		307			/fonts/tactical/70
-	307		314			/fonts/tactical/69
-	314		321			/fonts/tactical/6e
-	321		328			/fonts/tactical/67
-	328		335			/fonts/tactical/20
-	335		342			/fonts/tactical/64
-	342		349			/fonts/tactical/72
-	349		356			/fonts/tactical/61
-	356		363			/fonts/tactical/69
-	363		370			/fonts/tactical/6e
-	370		377			/fonts/tactical/73
-	377		384			/fonts/tactical/20
-	384		391			/fonts/tactical/65
-	391		398			/fonts/tactical/6e
-	398		405			/fonts/tactical/65
-	405		412			/fonts/tactical/72
-	412		419			/fonts/tactical/67
-	419		426			/fonts/tactical/79
-	426		433			/fonts/tactical/20
-	433		440			/fonts/tactical/66
-	440		447			/fonts/tactical/72
-	447		454			/fonts/tactical/6f
-	454		461			/fonts/tactical/6d
-	280	234	287	245	007fff	/fonts/tactical/57
-	287		294			/fonts/tactical/61
-	294		301			/fonts/tactical/72
-	301		308			/fonts/tactical/70
-	308		315			/fonts/tactical/69
-	315		322			/fonts/tactical/6e
-	322		329			/fonts/tactical/67
-	329		336			/fonts/tactical/20
-	336		343			/fonts/tactical/64
-	343		350			/fonts/tactical/72
-	350		357			/fonts/tactical/61
-	357		364			/fonts/tactical/69
-	364		371			/fonts/tactical/6e
-	371		378			/fonts/tactical/73
-	378		385			/fonts/tactical/20
-	385		392			/fonts/tactical/65
-	392		399			/fonts/tactical/6e
-	399		406			/fonts/tactical/65
-	406		413			/fonts/tactical/72
-	413		420			/fonts/tactical/67
-	420		427			/fonts/tactical/79
-	427		434			/fonts/tactical/20
-	434		441			/fonts/tactical/66
-	441		448			/fonts/tactical/72
-	448		455			/fonts/tactical/6f
-	455		462			/fonts/tactical/6d
-	281	246	288	257	000000	/fonts/tactical/79
-	279	244	286	255		
-	280	245	287	256	007fff	
+crop	281	235	288	246	56	55	000000	/fonts/tactical
+	288		295		8	66		
+	295		302		16	77		
+	302		309		0			
+	309		316		72	66		
+	316		323		112			
+	323		330		56			
+	330		337		0	22		
+	337		344		32	66		
+	344		351		16	77		
+	351		358		8	66		
+	358		365		72			
+	365		372		112			
+	372		379		24	77		
+	379		386		0	22		
+	386		393		40	66		
+	393		400		112			
+	400		407		40			
+	407		414		16	77		
+	414		421		56	66		
+	421		428		72	77		
+	428		435		0	22		
+	435		442		48	66		
+	442		449		16	77		
+	449		456		120	66		
+	456		463		104			
+	279	233	286	244	56	55		
+	286		293		8	66		
+	293		300		16	77		
+	300		307		0			
+	307		314		72	66		
+	314		321		112			
+	321		328		56			
+	328		335		0	22		
+	335		342		32	66		
+	342		349		16	77		
+	349		356		8	66		
+	356		363		72			
+	363		370		112			
+	370		377		24	77		
+	377		384		0	22		
+	384		391		40	66		
+	391		398		112			
+	398		405		40			
+	405		412		16	77		
+	412		419		56	66		
+	419		426		72	77		
+	426		433		0	22		
+	433		440		48	66		
+	440		447		16	77		
+	447		454		120	66		
+	454		461		104			
+	280	234	287	245	56	55	007fff	
+	287		294		8	66		
+	294		301		16	77		
+	301		308		0			
+	308		315		72	66		
+	315		322		112			
+	322		329		56			
+	329		336		0	22		
+	336		343		32	66		
+	343		350		16	77		
+	350		357		8	66		
+	357		364		72			
+	364		371		112			
+	371		378		24	77		
+	378		385		0	22		
+	385		392		40	66		
+	392		399		112			
+	399		406		40			
+	406		413		16	77		
+	413		420		56	66		
+	420		427		72	77		
+	427		434		0	22		
+	434		441		48	66		
+	441		448		16	77		
+	448		455		120	66		
+	455		462		104			
+	281	246	288	257	72	77	000000	
+	279	244	286	255				
+	280	245	287	256			007fff	
 line	171	213	183	222	489048
 			185	208	
 	183	222			204020
 draw	0	0	128	480	/pictures/501.png
 	608		640		/pictures/512.png
-tint	29	159	35	171	ff0000	/fonts/computer/30
-	35		41			/fonts/computer/35
-	41		47			/fonts/computer/30
+crop	29	159	35	171	0	36	ff0000	/fonts/computer
+	35		41		40			
+	41		47		0			
 line	614	456	614	359	007fff
 		359	622		
 	622			456	00488f
@@ -339,59 +339,59 @@ rect	615	104	622	200	e07070
 	57	57	65	65	003000
 	12	320	121	440	001000
 line	12	330	119	330	009000
-tint	15	320	21	332	00ff00	/fonts/computer/4d
-	21		27			/fonts/computer/45
-	27		33			/fonts/computer/53
-	33		39			
-	39		45			/fonts/computer/41
-	45		51			/fonts/computer/47
-	51		57			/fonts/computer/45
-	57		63			/fonts/computer/53
+crop	15	320	21	332	104	48	00ff00	/fonts/computer
+	21		27		40			
+	27		33		24	60		
+	33		39					
+	39		45		8	48		
+	45		51		56			
+	51		57		40			
+	57		63		24	60		
 line	12	343	12	332	009000
 		332	120		
 	120			343	005000
 		343	12		
 rect	13	333	120	343	007000
-tint	15	332	21	344	00ff00	/fonts/computer/4e
-	21		27			/fonts/computer/65
-	27		33			/fonts/computer/78
-	33		39			/fonts/computer/74
-	39		45			/fonts/computer/20
-	45		51			/fonts/computer/50
-	51		57			/fonts/computer/61
-	57		63			/fonts/computer/67
-	63		69			/fonts/computer/65
-	69		75			/fonts/computer/2f
-	75		81			/fonts/computer/43
-	81		87			/fonts/computer/6c
-	87		93			/fonts/computer/65
-	93		99			/fonts/computer/61
-	99		105			/fonts/computer/72
-	15	344	21	356		/fonts/computer/50
-	21		27			/fonts/computer/72
-	27		33			/fonts/computer/65
-	33		39			/fonts/computer/76
-	39		45			/fonts/computer/69
-	45		51			/fonts/computer/6f
-	51		57			/fonts/computer/75
-	57		63			/fonts/computer/73
-	63		69			/fonts/computer/20
-	69		75			/fonts/computer/50
-	75		81			/fonts/computer/61
-	81		87			/fonts/computer/67
-	87		93			/fonts/computer/65
-	15	356	21	368		/fonts/computer/4c
-	21		27			/fonts/computer/61
-	27		33			/fonts/computer/73
-	33		39			/fonts/computer/74
-	39		45			/fonts/computer/20
-	45		51			/fonts/computer/4d
-	51		57			/fonts/computer/65
-	57		63			/fonts/computer/73
-	63		69			
-	69		75			/fonts/computer/61
-	75		81			/fonts/computer/67
-	81		87			/fonts/computer/65
+crop	15	332	21	344	112	48	00ff00	/fonts/computer
+	21		27		40	72		
+	27		33		64	84		
+	33		39		32			
+	39		45		0	24		
+	45		51			60		
+	51		57		8	72		
+	57		63		56			
+	63		69		40			
+	69		75		120	24		
+	75		81		24	48		
+	81		87		96	72		
+	87		93		40			
+	93		99		8			
+	99		105		16	84		
+	15	344	21	356	0	60		
+	21		27		16	84		
+	27		33		40	72		
+	33		39		48	84		
+	39		45		72	72		
+	45		51		120			
+	51		57		40	84		
+	57		63		24			
+	63		69		0	24		
+	69		75			60		
+	75		81		8	72		
+	81		87		56			
+	87		93		40			
+	15	356	21	368	96	48		
+	21		27		8	72		
+	27		33		24	84		
+	33		39		32			
+	39		45		0	24		
+	45		51		104	48		
+	51		57		40	72		
+	57		63		24	84		
+	63		69					
+	69		75		8	72		
+	75		81		56			
+	81		87		40			
 line	12	438	119	438	009000
 rect	16	450	114	475	001010
 line	17	461	17	450	00c0c0
@@ -399,49 +399,49 @@ line	17	461	17	450	00c0c0
 	43			461	007070
 		461	17		
 rect	18	451	43	461	009090
-tint	19	450	25	462	00ffff	/fonts/computer/52
-	25		31			/fonts/computer/47
-	31		37			/fonts/computer/48
-	37		43			/fonts/computer/54
-	43		49			/fonts/computer/20
-	49		55			/fonts/computer/45
-	55		61			/fonts/computer/78
-	61		67			/fonts/computer/65
-	67		73			/fonts/computer/63
-	73		79			/fonts/computer/75
-	79		85			/fonts/computer/74
-	85		91			/fonts/computer/65
+crop	19	450	25	462	16	60	00ffff	/fonts/computer
+	25		31		56	48		
+	31		37		64			
+	37		43		32	60		
+	43		49		0	24		
+	49		55		40	48		
+	55		61		64	84		
+	61		67		40	72		
+	67		73		24			
+	73		79		40	84		
+	79		85		32			
+	85		91		40	72		
 line	17	473	17	462	00c0c0
 		462	43		
 	43			473	007070
 		473	17		
 rect	18	463	43	473	009090
-tint	19	462	25	474	00ffff	/fonts/computer/4c
-	25		31			/fonts/computer/45
-	31		37			/fonts/computer/46
-	37		43			/fonts/computer/54
-	43		49			/fonts/computer/20
-	49		55			/fonts/computer/4d
-	55		61			/fonts/computer/61
-	61		67			/fonts/computer/69
-	67		73			/fonts/computer/6e
-	73		79			/fonts/computer/20
-	79		85			/fonts/computer/4d
-	85		91			/fonts/computer/65
-	91		97			/fonts/computer/6e
-	97		103			/fonts/computer/75
+crop	19	462	25	474	96	48	00ffff	/fonts/computer
+	25		31		40			
+	31		37		48			
+	37		43		32	60		
+	43		49		0	24		
+	49		55		104	48		
+	55		61		8	72		
+	61		67		72			
+	67		73		112			
+	73		79		0	24		
+	79		85		104	48		
+	85		91		40	72		
+	91		97		112			
+	97		103		40	84		
 line	12	191	12	180	ffff00
 		180	120		
 	120			191	909000
 		191	12		
 rect	13	181	120	191	c0c000
-tint	15	180	21	192	000000	/fonts/computer/43
-	21		27			/fonts/computer/4f
-	27		33			/fonts/computer/4e
-	33		39			/fonts/computer/54
-	39		45			/fonts/computer/52
-	45		51			/fonts/computer/4f
-	51		57			/fonts/computer/4c
+crop	15	180	21	192	24	48	000000	/fonts/computer
+	21		27		120			
+	27		33		112			
+	33		39		32	60		
+	39		45		16			
+	45		51		120	48		
+	51		57		96			
 line	14	204	35	204	489048
 			14	205	
 	35		35		
@@ -453,12 +453,12 @@ line	14	204	35	204	489048
 	120			263	00488f
 		263	12		
 rect	13	253	120	263	0060c0
-tint	15	252	21	264	000000	/fonts/computer/54
-	21		27			/fonts/computer/41
-	27		33			/fonts/computer/52
-	33		39			/fonts/computer/47
-	39		45			/fonts/computer/45
-	45		51			/fonts/computer/54
+crop	15	252	21	264	32	60	000000	/fonts/computer
+	21		27		8	48		
+	27		33		16	60		
+	33		39		56	48		
+	39		45		40			
+	45		51		32	60		
 line	14	276	35	276	489048
 			14	277	
 	35		35		

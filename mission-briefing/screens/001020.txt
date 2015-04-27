@@ -33,15 +33,15 @@ rect	0	0	640	480	000000
 	481		482	433	50a050
 	420	432			
 	483	422	560		387038
-tint	435	422	443	434	081008	/fonts/button/52
-	443		450			/fonts/button/54
-	450		458			/fonts/button/52
-	458		466			/fonts/button/4e
-	505		512		70e070	/fonts/button/42
-	512		520			/fonts/button/65
-	520		528			/fonts/button/67
-	528		531			/fonts/button/69
-	531		538			/fonts/button/6e
+crop	435	422	443	434	32	60	081008	/fonts/button
+	443		450		64			
+	450		458		32			
+	458		466		224	48		
+	505		512		32		70e070	
+	512		520		80	72		
+	520		528		112			
+	528		531		144			
+	531		538		224			
 rect	65	417	78	420	909000
 	223		236		
 	78		223	419	
@@ -76,15 +76,15 @@ rect	65	417	78	420	909000
 	142		143	433	a0a000
 	81	432			
 	144	422	221		707000
-tint	101	422	107	434	101000	/fonts/button/45
-	107		114			/fonts/button/53
-	114		122			/fonts/button/43
-	161		169		e0e000	
-	169		177			/fonts/button/61
-	177		184			/fonts/button/6e
-	184		192			/fonts/button/63
-	192		200			/fonts/button/65
-	200		203			/fonts/button/6c
+crop	101	422	107	434	80	48	101000	/fonts/button
+	107		114		48	60		
+	114		122			48		
+	161		169				e0e000	
+	169		177		16	72		
+	177		184		224			
+	184		192		48			
+	192		200		80			
+	200		203		192			
 rect	65	297	78	300	009090
 	223		236		
 	78		223	299	
@@ -119,18 +119,18 @@ rect	65	297	78	300	009090
 	142		143	313	00a0a0
 	81	312			
 	144	302	221		007070
-tint	99	302	105	314	001010	/fonts/button/4c
-	105		111			/fonts/button/45
-	111		117			/fonts/button/46
-	117		124			/fonts/button/54
-	157		164		00e0e0	/fonts/button/50
-	164		168			/fonts/button/72
-	168		176			/fonts/button/65
-	176		183			/fonts/button/76
-	183		186			/fonts/button/69
-	186		194			/fonts/button/6f
-	194		201			/fonts/button/75
-	201		207			/fonts/button/73
+crop	99	302	105	314	192	48	001010	/fonts/button
+	105		111		80			
+	111		117		96			
+	117		124		64	60		
+	157		164		0		00e0e0	
+	164		168		32	84		
+	168		176		80	72		
+	176		183		96	84		
+	183		186		144	72		
+	186		194		240			
+	194		201		80	84		
+	201		207		48			
 rect	404	297	417	300	003030
 	562		575		
 	417		562	299	
@@ -165,14 +165,14 @@ rect	404	297	417	300	003030
 	481		482	313	001010
 	420	312			
 	483	302	560		007070
-tint	434	302	442	314	003030	/fonts/button/52
-	442		451			/fonts/button/47
-	451		459			/fonts/button/48
-	459		466			/fonts/button/54
-	508		516		002020	/fonts/button/4e
-	516		524			/fonts/button/65
-	524		531			/fonts/button/78
-	531		535			/fonts/button/74
+crop	434	302	442	314	32	60	003030	/fonts/button
+	442		451		112	48		
+	451		459		128			
+	459		466		64	60		
+	508		516		224	48	002020	
+	516		524		80	72		
+	524		531		128	84		
+	531		535		64			
 rect	65	124	68	127	007070
 	573		576		
 	68		573	126	
@@ -234,18 +234,18 @@ rect	39	78	52	81	007070
 	40	351		352	005050
 	602	348			
 	54	83	129	95	003030
-tint	55	83	62	95	00c0c0	/fonts/button/53
-	62		70			/fonts/button/65
-	70		73			/fonts/button/6c
-	73		81			/fonts/button/65
-	81		89			/fonts/button/63
-	89		93			/fonts/button/74
-	93		96			/fonts/button/20
-	96		102			/fonts/button/4c
-	102		110			/fonts/button/65
-	110		117			/fonts/button/76
-	117		125			/fonts/button/65
-	125		128			/fonts/button/6c
+crop	55	83	62	95	48	60	00c0c0	/fonts/button
+	62		70		80	72		
+	70		73		192			
+	73		81		80			
+	81		89		48			
+	89		93		64	84		
+	93		96		0	24		
+	96		102		192	48		
+	102		110		80	72		
+	110		117		96	84		
+	117		125		80	72		
+	125		128		192			
 rect	39	83	53	96	009090
 			40		00b0b0
 			52	84	
@@ -293,69 +293,69 @@ rect	39	83	53	96	009090
 	602		603	347	001010
 	590	346			
 	70	129	77	151	00ffff
-tint	70	131	77	151	000000	/fonts/title/20
+crop	70	131	77	151	0	40	000000	/fonts/title
 rect	77	129	84	151	00ffff
-tint	77	131	84	151	000000	/fonts/title/43
+crop	77	131	84	151	24	80	000000	/fonts/title
 rect	84	129	91	151	00ffff
-tint	84	131	91	151	000000	/fonts/title/68
+crop	84	131	91	151	64	120	000000	/fonts/title
 rect	91	129	98	151	00ffff
-tint	91	131	98	151	000000	/fonts/title/61
+crop	91	131	98	151	8	120	000000	/fonts/title
 rect	98	129	105	151	00ffff
-tint	98	131	105	151	000000	/fonts/title/70
+crop	98	131	105	151	0	140	000000	/fonts/title
 rect	105	129	112	151	00ffff
-tint	105	131	112	151	000000	/fonts/title/74
+crop	105	131	112	151	32	140	000000	/fonts/title
 rect	112	129	119	151	00ffff
-tint	112	131	119	151	000000	/fonts/title/65
+crop	112	131	119	151	40	120	000000	/fonts/title
 rect	119	129	126	151	00ffff
-tint	119	131	126	151	000000	/fonts/title/72
+crop	119	131	126	151	16	140	000000	/fonts/title
 rect	126	129	133	151	00ffff
-tint	126	131	133	151	000000	/fonts/title/20
+crop	126	131	133	151	0	40	000000	/fonts/title
 rect	133	129	140	151	00ffff
-tint	133	131	140	151	000000	/fonts/title/31
+crop	133	131	140	151	8	60	000000	/fonts/title
 rect	140	129	147	151	00ffff
-tint	140	131	147	151	000000	/fonts/title/39
+crop	140	131	147	151	72	60	000000	/fonts/title
 rect	147	129	154	151	00ffff
-tint	147	131	154	151	000000	/fonts/title/20
+crop	147	131	154	151	0	40	000000	/fonts/title
 rect	154	129	570	151	00ffff
-tint	70	153	77	173	00ffff	/fonts/title/59
-	77		84			/fonts/title/6f
-	84		91			/fonts/title/75
-	91		98			/fonts/title/20
-	98		105			/fonts/title/53
-	105		112			/fonts/title/68
-	112		119			/fonts/title/6f
-	119		126			/fonts/title/75
-	126		133			/fonts/title/6c
-	133		140			/fonts/title/64
-	140		147			/fonts/title/20
-	147		154			/fonts/title/48
-	154		161			/fonts/title/61
-	161		168			/fonts/title/76
-	168		175			/fonts/title/65
-	175		182			/fonts/title/20
-	182		189			/fonts/title/53
-	189		196			/fonts/title/65
-	196		203			
-	203		210			/fonts/title/6e
-	210		217			/fonts/title/20
-	217		224			/fonts/title/74
-	224		231			/fonts/title/68
-	231		238			/fonts/title/65
-	238		245			/fonts/title/20
-	245		252			/fonts/title/4f
-	252		259			/fonts/title/6e
-	259		266			/fonts/title/65
-	266		273			/fonts/title/20
-	273		280			/fonts/title/74
-	280		287			/fonts/title/68
-	287		294			/fonts/title/61
-	294		301			/fonts/title/74
-	301		308			/fonts/title/20
-	308		315			/fonts/title/47
-	315		322			/fonts/title/6f
-	322		329			/fonts/title/74
-	329		336			/fonts/title/20
-	336		343			/fonts/title/41
-	343		350			/fonts/title/77
-	350		357			/fonts/title/61
-	357		364			/fonts/title/79
+crop	70	153	77	173	72	100	00ffff	/fonts/title
+	77		84		120	120		
+	84		91		40	140		
+	91		98		0	40		
+	98		105		24	100		
+	105		112		64	120		
+	112		119		120			
+	119		126		40	140		
+	126		133		96	120		
+	133		140		32			
+	140		147		0	40		
+	147		154		64	80		
+	154		161		8	120		
+	161		168		48	140		
+	168		175		40	120		
+	175		182		0	40		
+	182		189		24	100		
+	189		196		40	120		
+	196		203					
+	203		210		112			
+	210		217		0	40		
+	217		224		32	140		
+	224		231		64	120		
+	231		238		40			
+	238		245		0	40		
+	245		252		120	80		
+	252		259		112	120		
+	259		266		40			
+	266		273		0	40		
+	273		280		32	140		
+	280		287		64	120		
+	287		294		8			
+	294		301		32	140		
+	301		308		0	40		
+	308		315		56	80		
+	315		322		120	120		
+	322		329		32	140		
+	329		336		0	40		
+	336		343		8	80		
+	343		350		56	140		
+	350		357		8	120		
+	357		364		72	140		

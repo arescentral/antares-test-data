@@ -134,407 +134,407 @@ draw	353	224	380	257	/sprites/582.SMIV/14
 rect	128	382	608	480	007fff
 		383		479	000810
 	132	387	139	398	007fff
-tint	132	387	139	398	000810	/fonts/tactical/20
+crop	132	387	139	398	0	22	000810	/fonts/tactical
 rect	139	387	146	398	007fff
-tint	139	387	146	398	000810	/fonts/tactical/49
+crop	139	387	146	398	72	44	000810	/fonts/tactical
 rect	146	387	153	398	007fff
-tint	146	387	153	398	000810	/fonts/tactical/4e
+crop	146	387	153	398	112	44	000810	/fonts/tactical
 rect	153	387	160	398	007fff
-tint	153	387	160	398	000810	/fonts/tactical/43
+crop	153	387	160	398	24	44	000810	/fonts/tactical
 rect	160	387	167	398	007fff
-tint	160	387	167	398	000810	/fonts/tactical/4f
+crop	160	387	167	398	120	44	000810	/fonts/tactical
 rect	167	387	174	398	007fff
-tint	167	387	174	398	000810	/fonts/tactical/4d
+crop	167	387	174	398	104	44	000810	/fonts/tactical
 rect	174	387	181	398	007fff
-tint	174	387	181	398	000810	/fonts/tactical/49
+crop	174	387	181	398	72	44	000810	/fonts/tactical
 rect	181	387	188	398	007fff
-tint	181	387	188	398	000810	/fonts/tactical/4e
+crop	181	387	188	398	112	44	000810	/fonts/tactical
 rect	188	387	195	398	007fff
-tint	188	387	195	398	000810	/fonts/tactical/47
+crop	188	387	195	398	56	44	000810	/fonts/tactical
 rect	195	387	202	398	007fff
-tint	195	387	202	398	000810	/fonts/tactical/20
+crop	195	387	202	398	0	22	000810	/fonts/tactical
 rect	202	387	209	398	007fff
-tint	202	387	209	398	000810	/fonts/tactical/54
+crop	202	387	209	398	32	55	000810	/fonts/tactical
 rect	209	387	216	398	007fff
-tint	209	387	216	398	000810	/fonts/tactical/52
+crop	209	387	216	398	16	55	000810	/fonts/tactical
 rect	216	387	223	398	007fff
-tint	216	387	223	398	000810	/fonts/tactical/41
+crop	216	387	223	398	8	44	000810	/fonts/tactical
 rect	223	387	230	398	007fff
-tint	223	387	230	398	000810	/fonts/tactical/4e
+crop	223	387	230	398	112	44	000810	/fonts/tactical
 rect	230	387	237	398	007fff
-tint	230	387	237	398	000810	/fonts/tactical/53
+crop	230	387	237	398	24	55	000810	/fonts/tactical
 rect	237	387	244	398	007fff
-tint	237	387	244	398	000810	/fonts/tactical/4d
+crop	237	387	244	398	104	44	000810	/fonts/tactical
 rect	244	387	251	398	007fff
-tint	244	387	251	398	000810	/fonts/tactical/49
+crop	244	387	251	398	72	44	000810	/fonts/tactical
 rect	251	387	258	398	007fff
-tint	251	387	258	398	000810	/fonts/tactical/53
+crop	251	387	258	398	24	55	000810	/fonts/tactical
 rect	258	387	265	398	007fff
-tint	258	387	265	398	000810	/fonts/tactical/53
+crop	258	387	265	398	24	55	000810	/fonts/tactical
 rect	265	387	272	398	007fff
-tint	265	387	272	398	000810	/fonts/tactical/49
+crop	265	387	272	398	72	44	000810	/fonts/tactical
 rect	272	387	279	398	007fff
-tint	272	387	279	398	000810	/fonts/tactical/4f
+crop	272	387	279	398	120	44	000810	/fonts/tactical
 rect	279	387	286	398	007fff
-tint	279	387	286	398	000810	/fonts/tactical/4e
+crop	279	387	286	398	112	44	000810	/fonts/tactical
 rect	286	387	293	398	007fff
-tint	286	387	293	398	000810	/fonts/tactical/20
+crop	286	387	293	398	0	22	000810	/fonts/tactical
 rect	293	387	300	398	000810
-tint	293	387	300	398	007fff	/fonts/tactical/20
+crop	293	387	300	398	0	22	007fff	/fonts/tactical
 rect	300	387	307	398	000810
-tint	300	387	307	398	007fff	/fonts/tactical/53
+crop	300	387	307	398	24	55	007fff	/fonts/tactical
 rect	307	387	314	398	000810
-tint	307	387	314	398	007fff	/fonts/tactical/45
+crop	307	387	314	398	40	44	007fff	/fonts/tactical
 rect	314	387	321	398	000810
-tint	314	387	321	398	007fff	/fonts/tactical/43
+crop	314	387	321	398	24	44	007fff	/fonts/tactical
 rect	321	387	328	398	000810
-tint	321	387	328	398	007fff	/fonts/tactical/55
+crop	321	387	328	398	40	55	007fff	/fonts/tactical
 rect	328	387	335	398	000810
-tint	328	387	335	398	007fff	/fonts/tactical/52
+crop	328	387	335	398	16	55	007fff	/fonts/tactical
 rect	335	387	342	398	000810
-tint	335	387	342	398	007fff	/fonts/tactical/45
+crop	335	387	342	398	40	44	007fff	/fonts/tactical
 rect	342	387	349	398	000810
-tint	342	387	349	398	007fff	/fonts/tactical/20
+crop	342	387	349	398	0	22	007fff	/fonts/tactical
 rect	349	387	356	398	000810
-tint	349	387	356	398	007fff	/fonts/tactical/4b
+crop	349	387	356	398	88	44	007fff	/fonts/tactical
 rect	356	387	363	398	000810
-tint	356	387	363	398	007fff	/fonts/tactical/45
+crop	356	387	363	398	40	44	007fff	/fonts/tactical
 rect	363	387	370	398	000810
-tint	363	387	370	398	007fff	/fonts/tactical/59
+crop	363	387	370	398	72	55	007fff	/fonts/tactical
 rect	370	387	377	398	000810
-tint	370	387	377	398	007fff	/fonts/tactical/20
+crop	370	387	377	398	0	22	007fff	/fonts/tactical
 rect	377	387	384	398	000810
-tint	377	387	384	398	007fff	/fonts/tactical/4f
+crop	377	387	384	398	120	44	007fff	/fonts/tactical
 rect	384	387	391	398	000810
-tint	384	387	391	398	007fff	/fonts/tactical/4b
+crop	384	387	391	398	88	44	007fff	/fonts/tactical
 rect	391	387	398	398	000810
-tint	391	387	398	398	007fff	/fonts/tactical/20
+crop	391	387	398	398	0	22	007fff	/fonts/tactical
 rect	398	387	405	398	000810
-tint	398	387	405	398	007fff	/fonts/tactical/2d
+crop	398	387	405	398	104	22	007fff	/fonts/tactical
 rect	405	387	412	398	000810
-tint	405	387	412	398	007fff	/fonts/tactical/20
+crop	405	387	412	398	0	22	007fff	/fonts/tactical
 rect	412	387	419	398	000810
-tint	412	387	419	398	007fff	/fonts/tactical/4e
+crop	412	387	419	398	112	44	007fff	/fonts/tactical
 rect	419	387	426	398	000810
-tint	419	387	426	398	007fff	/fonts/tactical/57
+crop	419	387	426	398	56	55	007fff	/fonts/tactical
 rect	426	387	433	398	000810
-tint	426	387	433	398	007fff	/fonts/tactical/33
+crop	426	387	433	398	24	33	007fff	/fonts/tactical
 rect	433	387	440	398	000810
-tint	433	387	440	398	007fff	/fonts/tactical/20
+crop	433	387	440	398	0	22	007fff	/fonts/tactical
 rect	440	387	447	398	000810
-tint	440	387	447	398	007fff	/fonts/tactical/54
+crop	440	387	447	398	32	55	007fff	/fonts/tactical
 rect	447	387	454	398	000810
-tint	447	387	454	398	007fff	/fonts/tactical/49
+crop	447	387	454	398	72	44	007fff	/fonts/tactical
 rect	454	387	461	398	000810
-tint	454	387	461	398	007fff	/fonts/tactical/47
+crop	454	387	461	398	56	44	007fff	/fonts/tactical
 rect	461	387	468	398	000810
-tint	461	387	468	398	007fff	/fonts/tactical/48
+crop	461	387	468	398	64	44	007fff	/fonts/tactical
 rect	468	387	475	398	000810
-tint	468	387	475	398	007fff	/fonts/tactical/54
+crop	468	387	475	398	32	55	007fff	/fonts/tactical
 rect	475	387	482	398	000810
-tint	475	387	482	398	007fff	/fonts/tactical/20
+crop	475	387	482	398	0	22	007fff	/fonts/tactical
 rect	482	387	489	398	000810
-tint	482	387	489	398	007fff	/fonts/tactical/42
+crop	482	387	489	398	16	44	007fff	/fonts/tactical
 rect	489	387	496	398	000810
-tint	489	387	496	398	007fff	/fonts/tactical/45
+crop	489	387	496	398	40	44	007fff	/fonts/tactical
 rect	496	387	503	398	000810
-tint	496	387	503	398	007fff	/fonts/tactical/41
+crop	496	387	503	398	8	44	007fff	/fonts/tactical
 rect	503	387	510	398	000810
-tint	503	387	510	398	007fff	/fonts/tactical/4d
+crop	503	387	510	398	104	44	007fff	/fonts/tactical
 rect	510	387	604	398	000810
 	132	398	139	409	
-tint	132	398	139	409	007fff	/fonts/tactical/53
+crop	132	398	139	409	24	55	007fff	/fonts/tactical
 rect	139	398	146	409	000810
-tint	139	398	146	409	007fff	/fonts/tactical/4f
+crop	139	398	146	409	120	44	007fff	/fonts/tactical
 rect	146	398	153	409	000810
-tint	146	398	153	409	007fff	/fonts/tactical/55
+crop	146	398	153	409	40	55	007fff	/fonts/tactical
 rect	153	398	160	409	000810
-tint	153	398	160	409	007fff	/fonts/tactical/52
+crop	153	398	160	409	16	55	007fff	/fonts/tactical
 rect	160	398	167	409	000810
-tint	160	398	167	409	007fff	/fonts/tactical/43
+crop	160	398	167	409	24	44	007fff	/fonts/tactical
 rect	167	398	174	409	000810
-tint	167	398	174	409	007fff	/fonts/tactical/45
+crop	167	398	174	409	40	44	007fff	/fonts/tactical
 rect	174	398	181	409	000810
-tint	174	398	181	409	007fff	/fonts/tactical/3a
+crop	174	398	181	409	80	33	007fff	/fonts/tactical
 rect	181	398	188	409	000810
-tint	181	398	188	409	007fff	/fonts/tactical/20
+crop	181	398	188	409	0	22	007fff	/fonts/tactical
 rect	188	398	195	409	000810
-tint	188	398	195	409	007fff	/fonts/tactical/53
+crop	188	398	195	409	24	55	007fff	/fonts/tactical
 rect	195	398	202	409	000810
-tint	195	398	202	409	007fff	/fonts/tactical/63
+crop	195	398	202	409	24	66	007fff	/fonts/tactical
 rect	202	398	209	409	000810
-tint	202	398	209	409	007fff	/fonts/tactical/69
+crop	202	398	209	409	72	66	007fff	/fonts/tactical
 rect	209	398	216	409	000810
-tint	209	398	216	409	007fff	/fonts/tactical/65
+crop	209	398	216	409	40	66	007fff	/fonts/tactical
 rect	216	398	223	409	000810
-tint	216	398	223	409	007fff	/fonts/tactical/6e
+crop	216	398	223	409	112	66	007fff	/fonts/tactical
 rect	223	398	230	409	000810
-tint	223	398	230	409	007fff	/fonts/tactical/63
+crop	223	398	230	409	24	66	007fff	/fonts/tactical
 rect	230	398	237	409	000810
-tint	230	398	237	409	007fff	/fonts/tactical/65
+crop	230	398	237	409	40	66	007fff	/fonts/tactical
 rect	237	398	244	409	000810
-tint	237	398	244	409	007fff	/fonts/tactical/20
+crop	237	398	244	409	0	22	007fff	/fonts/tactical
 rect	244	398	251	409	000810
-tint	244	398	251	409	007fff	/fonts/tactical/56
+crop	244	398	251	409	48	55	007fff	/fonts/tactical
 rect	251	398	258	409	000810
-tint	251	398	258	409	007fff	/fonts/tactical/65
+crop	251	398	258	409	40	66	007fff	/fonts/tactical
 rect	258	398	265	409	000810
-tint	258	398	265	409	007fff	/fonts/tactical/73
+crop	258	398	265	409	24	77	007fff	/fonts/tactical
 rect	265	398	272	409	000810
-tint	265	398	272	409	007fff	/fonts/tactical/73
+crop	265	398	272	409	24	77	007fff	/fonts/tactical
 rect	272	398	279	409	000810
-tint	272	398	279	409	007fff	/fonts/tactical/65
+crop	272	398	279	409	40	66	007fff	/fonts/tactical
 rect	279	398	286	409	000810
-tint	279	398	286	409	007fff	/fonts/tactical/6c
+crop	279	398	286	409	96	66	007fff	/fonts/tactical
 rect	286	398	293	409	000810
-tint	286	398	293	409	007fff	/fonts/tactical/20
+crop	286	398	293	409	0	22	007fff	/fonts/tactical
 rect	293	398	300	409	000810
-tint	293	398	300	409	007fff	/fonts/tactical/55
+crop	293	398	300	409	40	55	007fff	/fonts/tactical
 rect	300	398	307	409	000810
-tint	300	398	307	409	007fff	/fonts/tactical/4e
+crop	300	398	307	409	112	44	007fff	/fonts/tactical
 rect	307	398	314	409	000810
-tint	307	398	314	409	007fff	/fonts/tactical/53
+crop	307	398	314	409	24	55	007fff	/fonts/tactical
 rect	314	398	321	409	000810
-tint	314	398	321	409	007fff	/fonts/tactical/20
+crop	314	398	321	409	0	22	007fff	/fonts/tactical
 rect	321	398	328	409	000810
-tint	321	398	328	409	007fff	/fonts/tactical/30
+crop	321	398	328	409	0	33	007fff	/fonts/tactical
 rect	328	398	335	409	000810
-tint	328	398	335	409	007fff	/fonts/tactical/39
+crop	328	398	335	409	72	33	007fff	/fonts/tactical
 rect	335	398	342	409	000810
-tint	335	398	342	409	007fff	/fonts/tactical/31
+crop	335	398	342	409	8	33	007fff	/fonts/tactical
 rect	342	398	349	409	000810
-tint	342	398	349	409	007fff	/fonts/tactical/37
+crop	342	398	349	409	56	33	007fff	/fonts/tactical
 rect	349	398	356	409	000810
-tint	349	398	356	409	007fff	/fonts/tactical/39
+crop	349	398	356	409	72	33	007fff	/fonts/tactical
 rect	356	398	363	409	000810
-tint	356	398	363	409	007fff	/fonts/tactical/39
+crop	356	398	363	409	72	33	007fff	/fonts/tactical
 rect	363	398	370	409	000810
-tint	363	398	370	409	007fff	/fonts/tactical/36
+crop	363	398	370	409	48	33	007fff	/fonts/tactical
 rect	370	398	604	409	000810
 	132	409	139	420	007fff
-tint	132	409	139	420	000810	/fonts/tactical/20
+crop	132	409	139	420	0	22	000810	/fonts/tactical
 rect	139	409	146	420	007fff
-tint	139	409	146	420	000810	/fonts/tactical/55
+crop	139	409	146	420	40	55	000810	/fonts/tactical
 rect	146	409	153	420	007fff
-tint	146	409	153	420	000810	/fonts/tactical/52
+crop	146	409	153	420	16	55	000810	/fonts/tactical
 rect	153	409	160	420	007fff
-tint	153	409	160	420	000810	/fonts/tactical/47
+crop	153	409	160	420	56	44	000810	/fonts/tactical
 rect	160	409	167	420	007fff
-tint	160	409	167	420	000810	/fonts/tactical/45
+crop	160	409	167	420	40	44	000810	/fonts/tactical
 rect	167	409	174	420	007fff
-tint	167	409	174	420	000810	/fonts/tactical/4e
+crop	167	409	174	420	112	44	000810	/fonts/tactical
 rect	174	409	181	420	007fff
-tint	174	409	181	420	000810	/fonts/tactical/54
+crop	174	409	181	420	32	55	000810	/fonts/tactical
 rect	181	409	188	420	007fff
-tint	181	409	188	420	000810	/fonts/tactical/20
+crop	181	409	188	420	0	22	000810	/fonts/tactical
 rect	188	409	195	420	000810
-tint	188	409	195	420	007fff	/fonts/tactical/20
+crop	188	409	195	420	0	22	007fff	/fonts/tactical
 rect	195	409	202	420	000810
-tint	195	409	202	420	007fff	/fonts/tactical/54
+crop	195	409	202	420	32	55	007fff	/fonts/tactical
 rect	202	409	209	420	000810
-tint	202	409	209	420	007fff	/fonts/tactical/68
+crop	202	409	209	420	64	66	007fff	/fonts/tactical
 rect	209	409	216	420	000810
-tint	209	409	216	420	007fff	/fonts/tactical/65
+crop	209	409	216	420	40	66	007fff	/fonts/tactical
 rect	216	409	223	420	000810
-tint	216	409	223	420	007fff	/fonts/tactical/20
+crop	216	409	223	420	0	22	007fff	/fonts/tactical
 rect	223	409	230	420	000810
-tint	223	409	230	420	007fff	/fonts/tactical/6d
+crop	223	409	230	420	104	66	007fff	/fonts/tactical
 rect	230	409	237	420	000810
-tint	230	409	237	420	007fff	/fonts/tactical/61
+crop	230	409	237	420	8	66	007fff	/fonts/tactical
 rect	237	409	244	420	000810
-tint	237	409	244	420	007fff	/fonts/tactical/73
+crop	237	409	244	420	24	77	007fff	/fonts/tactical
 rect	244	409	251	420	000810
-tint	244	409	251	420	007fff	/fonts/tactical/73
+crop	244	409	251	420	24	77	007fff	/fonts/tactical
 rect	251	409	258	420	000810
-tint	251	409	258	420	007fff	/fonts/tactical/69
+crop	251	409	258	420	72	66	007fff	/fonts/tactical
 rect	258	409	265	420	000810
-tint	258	409	265	420	007fff	/fonts/tactical/76
+crop	258	409	265	420	48	77	007fff	/fonts/tactical
 rect	265	409	272	420	000810
-tint	265	409	272	420	007fff	/fonts/tactical/65
+crop	265	409	272	420	40	66	007fff	/fonts/tactical
 rect	272	409	279	420	000810
-tint	272	409	279	420	007fff	/fonts/tactical/20
+crop	272	409	279	420	0	22	007fff	/fonts/tactical
 rect	279	409	286	420	000810
-tint	279	409	286	420	007fff	/fonts/tactical/6f
+crop	279	409	286	420	120	66	007fff	/fonts/tactical
 rect	286	409	293	420	000810
-tint	286	409	293	420	007fff	/fonts/tactical/62
+crop	286	409	293	420	16	66	007fff	/fonts/tactical
 rect	293	409	300	420	000810
-tint	293	409	300	420	007fff	/fonts/tactical/6a
+crop	293	409	300	420	80	66	007fff	/fonts/tactical
 rect	300	409	307	420	000810
-tint	300	409	307	420	007fff	/fonts/tactical/65
+crop	300	409	307	420	40	66	007fff	/fonts/tactical
 rect	307	409	314	420	000810
-tint	307	409	314	420	007fff	/fonts/tactical/63
+crop	307	409	314	420	24	66	007fff	/fonts/tactical
 rect	314	409	321	420	000810
-tint	314	409	321	420	007fff	/fonts/tactical/74
+crop	314	409	321	420	32	77	007fff	/fonts/tactical
 rect	321	409	328	420	000810
-tint	321	409	328	420	007fff	/fonts/tactical/20
+crop	321	409	328	420	0	22	007fff	/fonts/tactical
 rect	328	409	335	420	000810
-tint	328	409	335	420	007fff	/fonts/tactical/61
+crop	328	409	335	420	8	66	007fff	/fonts/tactical
 rect	335	409	342	420	000810
-tint	335	409	342	420	007fff	/fonts/tactical/70
+crop	335	409	342	420	0	77	007fff	/fonts/tactical
 rect	342	409	349	420	000810
-tint	342	409	349	420	007fff	/fonts/tactical/70
+crop	342	409	349	420	0	77	007fff	/fonts/tactical
 rect	349	409	356	420	000810
-tint	349	409	356	420	007fff	/fonts/tactical/65
+crop	349	409	356	420	40	66	007fff	/fonts/tactical
 rect	356	409	363	420	000810
-tint	356	409	363	420	007fff	/fonts/tactical/61
+crop	356	409	363	420	8	66	007fff	/fonts/tactical
 rect	363	409	370	420	000810
-tint	363	409	370	420	007fff	/fonts/tactical/72
+crop	363	409	370	420	16	77	007fff	/fonts/tactical
 rect	370	409	377	420	000810
-tint	370	409	377	420	007fff	/fonts/tactical/73
+crop	370	409	377	420	24	77	007fff	/fonts/tactical
 rect	377	409	384	420	000810
-tint	377	409	384	420	007fff	/fonts/tactical/20
+crop	377	409	384	420	0	22	007fff	/fonts/tactical
 rect	384	409	391	420	000810
-tint	384	409	391	420	007fff	/fonts/tactical/74
+crop	384	409	391	420	32	77	007fff	/fonts/tactical
 rect	391	409	398	420	000810
-tint	391	409	398	420	007fff	/fonts/tactical/6f
+crop	391	409	398	420	120	66	007fff	/fonts/tactical
 rect	398	409	405	420	000810
-tint	398	409	405	420	007fff	/fonts/tactical/20
+crop	398	409	405	420	0	22	007fff	/fonts/tactical
 rect	405	409	412	420	000810
-tint	405	409	412	420	007fff	/fonts/tactical/62
+crop	405	409	412	420	16	66	007fff	/fonts/tactical
 rect	412	409	419	420	000810
-tint	412	409	419	420	007fff	/fonts/tactical/65
+crop	412	409	419	420	40	66	007fff	/fonts/tactical
 rect	419	409	426	420	000810
-tint	419	409	426	420	007fff	/fonts/tactical/20
+crop	419	409	426	420	0	22	007fff	/fonts/tactical
 rect	426	409	433	420	000810
-tint	426	409	433	420	007fff	/fonts/tactical/61
+crop	426	409	433	420	8	66	007fff	/fonts/tactical
 rect	433	409	440	420	000810
-tint	433	409	440	420	007fff	/fonts/tactical/20
+crop	433	409	440	420	0	22	007fff	/fonts/tactical
 rect	440	409	447	420	000810
-tint	440	409	447	420	007fff	/fonts/tactical/6a
+crop	440	409	447	420	80	66	007fff	/fonts/tactical
 rect	447	409	454	420	000810
-tint	447	409	454	420	007fff	/fonts/tactical/75
+crop	447	409	454	420	40	77	007fff	/fonts/tactical
 rect	454	409	461	420	000810
-tint	454	409	461	420	007fff	/fonts/tactical/6d
+crop	454	409	461	420	104	66	007fff	/fonts/tactical
 rect	461	409	468	420	000810
-tint	461	409	468	420	007fff	/fonts/tactical/70
+crop	461	409	468	420	0	77	007fff	/fonts/tactical
 rect	468	409	475	420	000810
-tint	468	409	475	420	007fff	/fonts/tactical/20
+crop	468	409	475	420	0	22	007fff	/fonts/tactical
 rect	475	409	482	420	000810
-tint	475	409	482	420	007fff	/fonts/tactical/73
+crop	475	409	482	420	24	77	007fff	/fonts/tactical
 rect	482	409	489	420	000810
-tint	482	409	489	420	007fff	/fonts/tactical/74
+crop	482	409	489	420	32	77	007fff	/fonts/tactical
 rect	489	409	496	420	000810
-tint	489	409	496	420	007fff	/fonts/tactical/72
+crop	489	409	496	420	16	77	007fff	/fonts/tactical
 rect	496	409	503	420	000810
-tint	496	409	503	420	007fff	/fonts/tactical/65
+crop	496	409	503	420	40	66	007fff	/fonts/tactical
 rect	503	409	510	420	000810
-tint	503	409	510	420	007fff	/fonts/tactical/61
+crop	503	409	510	420	8	66	007fff	/fonts/tactical
 rect	510	409	517	420	000810
-tint	510	409	517	420	007fff	/fonts/tactical/6d
+crop	510	409	517	420	104	66	007fff	/fonts/tactical
 rect	517	409	524	420	000810
-tint	517	409	524	420	007fff	/fonts/tactical/20
+crop	517	409	524	420	0	22	007fff	/fonts/tactical
 rect	132	420	139	431	000810
-tint	132	420	139	431	007fff	/fonts/tactical/69
+crop	132	420	139	431	72	66	007fff	/fonts/tactical
 rect	139	420	146	431	000810
-tint	139	420	146	431	007fff	/fonts/tactical/6e
+crop	139	420	146	431	112	66	007fff	/fonts/tactical
 rect	146	420	153	431	000810
-tint	146	420	153	431	007fff	/fonts/tactical/68
+crop	146	420	153	431	64	66	007fff	/fonts/tactical
 rect	153	420	160	431	000810
-tint	153	420	160	431	007fff	/fonts/tactical/69
+crop	153	420	160	431	72	66	007fff	/fonts/tactical
 rect	160	420	167	431	000810
-tint	160	420	167	431	007fff	/fonts/tactical/62
+crop	160	420	167	431	16	66	007fff	/fonts/tactical
 rect	167	420	174	431	000810
-tint	167	420	174	431	007fff	/fonts/tactical/69
+crop	167	420	174	431	72	66	007fff	/fonts/tactical
 rect	174	420	181	431	000810
-tint	174	420	181	431	007fff	/fonts/tactical/74
+crop	174	420	181	431	32	77	007fff	/fonts/tactical
 rect	181	420	188	431	000810
-tint	181	420	188	431	007fff	/fonts/tactical/6f
+crop	181	420	188	431	120	66	007fff	/fonts/tactical
 rect	188	420	195	431	000810
-tint	188	420	195	431	007fff	/fonts/tactical/72
+crop	188	420	195	431	16	77	007fff	/fonts/tactical
 rect	195	420	202	431	000810
-tint	195	420	202	431	007fff	/fonts/tactical/2d
+crop	195	420	202	431	104	22	007fff	/fonts/tactical
 rect	202	420	209	431	000810
-tint	202	420	209	431	007fff	/fonts/tactical/2d
+crop	202	420	209	431	104	22	007fff	/fonts/tactical
 rect	209	420	216	431	000810
-tint	209	420	216	431	007fff	/fonts/tactical/69
+crop	209	420	216	431	72	66	007fff	/fonts/tactical
 rect	216	420	223	431	000810
-tint	216	420	223	431	007fff	/fonts/tactical/74
+crop	216	420	223	431	32	77	007fff	/fonts/tactical
 rect	223	420	230	431	000810
-tint	223	420	230	431	007fff	/fonts/tactical/20
+crop	223	420	230	431	0	22	007fff	/fonts/tactical
 rect	230	420	237	431	000810
-tint	230	420	237	431	007fff	/fonts/tactical/6f
+crop	230	420	237	431	120	66	007fff	/fonts/tactical
 rect	237	420	244	431	000810
-tint	237	420	244	431	007fff	/fonts/tactical/70
+crop	237	420	244	431	0	77	007fff	/fonts/tactical
 rect	244	420	251	431	000810
-tint	244	420	251	431	007fff	/fonts/tactical/65
+crop	244	420	251	431	40	66	007fff	/fonts/tactical
 rect	251	420	258	431	000810
-tint	251	420	258	431	007fff	/fonts/tactical/72
+crop	251	420	258	431	16	77	007fff	/fonts/tactical
 rect	258	420	265	431	000810
-tint	258	420	265	431	007fff	/fonts/tactical/61
+crop	258	420	265	431	8	66	007fff	/fonts/tactical
 rect	265	420	272	431	000810
-tint	265	420	272	431	007fff	/fonts/tactical/74
+crop	265	420	272	431	32	77	007fff	/fonts/tactical
 rect	272	420	279	431	000810
-tint	272	420	279	431	007fff	/fonts/tactical/65
+crop	272	420	279	431	40	66	007fff	/fonts/tactical
 rect	279	420	286	431	000810
-tint	279	420	286	431	007fff	/fonts/tactical/73
+crop	279	420	286	431	24	77	007fff	/fonts/tactical
 rect	286	420	293	431	000810
-tint	286	420	293	431	007fff	/fonts/tactical/20
+crop	286	420	293	431	0	22	007fff	/fonts/tactical
 rect	293	420	300	431	000810
-tint	293	420	300	431	007fff	/fonts/tactical/6f
+crop	293	420	300	431	120	66	007fff	/fonts/tactical
 rect	300	420	307	431	000810
-tint	300	420	307	431	007fff	/fonts/tactical/6e
+crop	300	420	307	431	112	66	007fff	/fonts/tactical
 rect	307	420	314	431	000810
-tint	307	420	314	431	007fff	/fonts/tactical/20
+crop	307	420	314	431	0	22	007fff	/fonts/tactical
 rect	314	420	321	431	000810
-tint	314	420	321	431	007fff	/fonts/tactical/74
+crop	314	420	321	431	32	77	007fff	/fonts/tactical
 rect	321	420	328	431	000810
-tint	321	420	328	431	007fff	/fonts/tactical/68
+crop	321	420	328	431	64	66	007fff	/fonts/tactical
 rect	328	420	335	431	000810
-tint	328	420	335	431	007fff	/fonts/tactical/65
+crop	328	420	335	431	40	66	007fff	/fonts/tactical
 rect	335	420	342	431	000810
-tint	335	420	342	431	007fff	/fonts/tactical/20
+crop	335	420	342	431	0	22	007fff	/fonts/tactical
 rect	342	420	349	431	000810
-tint	342	420	349	431	007fff	/fonts/tactical/4e
+crop	342	420	349	431	112	44	007fff	/fonts/tactical
 rect	349	420	356	431	000810
-tint	349	420	356	431	007fff	/fonts/tactical/57
+crop	349	420	356	431	56	55	007fff	/fonts/tactical
 rect	356	420	363	431	000810
-tint	356	420	363	431	007fff	/fonts/tactical/31
+crop	356	420	363	431	8	33	007fff	/fonts/tactical
 rect	363	420	370	431	000810
-tint	363	420	370	431	007fff	/fonts/tactical/20
+crop	363	420	370	431	0	22	007fff	/fonts/tactical
 rect	370	420	377	431	000810
-tint	370	420	377	431	007fff	/fonts/tactical/66
+crop	370	420	377	431	48	66	007fff	/fonts/tactical
 rect	377	420	384	431	000810
-tint	377	420	384	431	007fff	/fonts/tactical/72
+crop	377	420	384	431	16	77	007fff	/fonts/tactical
 rect	384	420	391	431	000810
-tint	384	420	391	431	007fff	/fonts/tactical/65
+crop	384	420	391	431	40	66	007fff	/fonts/tactical
 rect	391	420	398	431	000810
-tint	391	420	398	431	007fff	/fonts/tactical/71
+crop	391	420	398	431	8	77	007fff	/fonts/tactical
 rect	398	420	405	431	000810
-tint	398	420	405	431	007fff	/fonts/tactical/75
+crop	398	420	405	431	40	77	007fff	/fonts/tactical
 rect	405	420	412	431	000810
-tint	405	420	412	431	007fff	/fonts/tactical/65
+crop	405	420	412	431	40	66	007fff	/fonts/tactical
 rect	412	420	419	431	000810
-tint	412	420	419	431	007fff	/fonts/tactical/6e
+crop	412	420	419	431	112	66	007fff	/fonts/tactical
 rect	419	420	426	431	000810
-tint	419	420	426	431	007fff	/fonts/tactical/63
+crop	419	420	426	431	24	66	007fff	/fonts/tactical
 rect	426	420	433	431	000810
-tint	426	420	433	431	007fff	/fonts/tactical/79
+crop	426	420	433	431	72	77	007fff	/fonts/tactical
 rect	433	420	440	431	000810
-tint	433	420	440	431	007fff	/fonts/tactical/20
+crop	433	420	440	431	0	22	007fff	/fonts/tactical
 rect	440	420	447	431	000810
-tint	440	420	447	431	007fff	/fonts/tactical/74
+crop	440	420	447	431	32	77	007fff	/fonts/tactical
 rect	447	420	454	431	000810
-tint	447	420	454	431	007fff	/fonts/tactical/6f
+crop	447	420	454	431	120	66	007fff	/fonts/tactical
 rect	454	420	461	431	000810
-tint	454	420	461	431	007fff	/fonts/tactical/20
+crop	454	420	461	431	0	22	007fff	/fonts/tactical
 rect	461	420	468	431	000810
-tint	461	420	468	431	007fff	/fonts/tactical/64
+crop	461	420	468	431	32	66	007fff	/fonts/tactical
 rect	468	420	475	431	000810
-tint	468	420	475	431	007fff	/fonts/tactical/69
+crop	468	420	475	431	72	66	007fff	/fonts/tactical
 rect	475	420	482	431	000810
-tint	475	420	482	431	007fff	/fonts/tactical/73
+crop	475	420	482	431	24	77	007fff	/fonts/tactical
 rect	482	420	489	431	000810
-tint	482	420	489	431	007fff	/fonts/tactical/72
+crop	482	420	489	431	16	77	007fff	/fonts/tactical
 rect	489	420	496	431	000810
-tint	489	420	496	431	007fff	/fonts/tactical/75
+crop	489	420	496	431	40	77	007fff	/fonts/tactical
 rect	496	420	503	431	000810
-tint	496	420	503	431	007fff	/fonts/tactical/70
+crop	496	420	503	431	0	77	007fff	/fonts/tactical
 rect	503	420	510	431	000810
-tint	503	420	510	431	007fff	/fonts/tactical/74
+crop	503	420	510	431	32	77	007fff	/fonts/tactical
 rect	510	420	517	431	000810
-tint	510	420	517	431	007fff	/fonts/tactical/20
+crop	510	420	517	431	0	22	007fff	/fonts/tactical
 rect	517	420	524	431	000810
-tint	517	420	524	431	007fff	/fonts/tactical/74
+crop	517	420	524	431	32	77	007fff	/fonts/tactical
 rect	524	420	532	431	007fff
 line	262	408	276	401	489048
 			262	393	
@@ -691,68 +691,68 @@ point	61	64	00e000
 	59	61	
 rect	12	320	121	440	001000
 line	12	330	119	330	009000
-tint	15	320	21	332	00ff00	/fonts/computer/4d
-	21		27			/fonts/computer/41
-	27		33			/fonts/computer/49
-	33		39			/fonts/computer/4e
-	39		45			/fonts/computer/20
-	45		51			/fonts/computer/4d
-	51		57			/fonts/computer/45
-	57		63			/fonts/computer/4e
-	63		69			/fonts/computer/55
+crop	15	320	21	332	104	48	00ff00	/fonts/computer
+	21		27		8			
+	27		33		72			
+	33		39		112			
+	39		45		0	24		
+	45		51		104	48		
+	51		57		40			
+	57		63		112			
+	63		69		40	60		
 line	12	343	12	332	009000
 		332	120		
 	120			343	005000
 		343	12		
 rect	13	333	120	343	007000
-tint	15	332	21	344	00ff00	/fonts/computer/3c
-	21		27			/fonts/computer/42
-	27		33			/fonts/computer/75
-	33		39			/fonts/computer/69
-	39		45			/fonts/computer/6c
-	45		51			/fonts/computer/64
-	51		57			/fonts/computer/3e
-	15	344	21	356		/fonts/computer/3c
-	21		27			/fonts/computer/53
-	27		33			/fonts/computer/70
-	33		39			/fonts/computer/65
-	39		45			/fonts/computer/63
-	45		51			/fonts/computer/69
-	51		57			/fonts/computer/61
-	57		63			/fonts/computer/6c
-	63		69			/fonts/computer/20
-	69		75			/fonts/computer/4f
-	75		81			/fonts/computer/72
-	81		87			/fonts/computer/64
-	87		93			/fonts/computer/65
-	93		99			/fonts/computer/72
-	99		105			/fonts/computer/73
-	105		111			/fonts/computer/3e
-	15	356	21	368		/fonts/computer/3c
-	21		27			/fonts/computer/4d
-	27		33			/fonts/computer/65
-	33		39			/fonts/computer/73
-	39		45			
-	45		51			/fonts/computer/61
-	51		57			/fonts/computer/67
-	57		63			/fonts/computer/65
-	63		69			/fonts/computer/3e
-	15	368	21	380		/fonts/computer/3c
-	21		27			/fonts/computer/4d
-	27		33			/fonts/computer/69
-	33		39			/fonts/computer/73
-	39		45			
-	45		51			/fonts/computer/69
-	51		57			/fonts/computer/6f
-	57		63			/fonts/computer/6e
-	63		69			/fonts/computer/20
-	69		75			/fonts/computer/53
-	75		81			/fonts/computer/74
-	81		87			/fonts/computer/61
-	87		93			/fonts/computer/74
-	93		99			/fonts/computer/75
-	99		105			/fonts/computer/73
-	105		111			/fonts/computer/3e
+crop	15	332	21	344	96	36	00ff00	/fonts/computer
+	21		27		16	48		
+	27		33		40	84		
+	33		39		72	72		
+	39		45		96			
+	45		51		32			
+	51		57		112	36		
+	15	344	21	356	96			
+	21		27		24	60		
+	27		33		0	84		
+	33		39		40	72		
+	39		45		24			
+	45		51		72			
+	51		57		8			
+	57		63		96			
+	63		69		0	24		
+	69		75		120	48		
+	75		81		16	84		
+	81		87		32	72		
+	87		93		40			
+	93		99		16	84		
+	99		105		24			
+	105		111		112	36		
+	15	356	21	368	96			
+	21		27		104	48		
+	27		33		40	72		
+	33		39		24	84		
+	39		45					
+	45		51		8	72		
+	51		57		56			
+	57		63		40			
+	63		69		112	36		
+	15	368	21	380	96			
+	21		27		104	48		
+	27		33		72	72		
+	33		39		24	84		
+	39		45					
+	45		51		72	72		
+	51		57		120			
+	57		63		112			
+	63		69		0	24		
+	69		75		24	60		
+	75		81		32	84		
+	81		87		8	72		
+	87		93		32	84		
+	93		99		40			
+	99		105		24			
+	105		111		112	36		
 line	12	438	119	438	009000
 rect	16	450	114	475	001010
 line	17	461	17	450	00c0c0
@@ -760,29 +760,29 @@ line	17	461	17	450	00c0c0
 	43			461	007070
 		461	17		
 rect	18	451	43	461	009090
-tint	19	450	25	462	00ffff	/fonts/computer/52
-	25		31			/fonts/computer/47
-	31		37			/fonts/computer/48
-	37		43			/fonts/computer/54
-	43		49			/fonts/computer/20
-	49		55			/fonts/computer/53
-	55		61			/fonts/computer/65
-	61		67			/fonts/computer/6c
-	67		73			/fonts/computer/65
-	73		79			/fonts/computer/63
-	79		85			/fonts/computer/74
+crop	19	450	25	462	16	60	00ffff	/fonts/computer
+	25		31		56	48		
+	31		37		64			
+	37		43		32	60		
+	43		49		0	24		
+	49		55		24	60		
+	55		61		40	72		
+	61		67		96			
+	67		73		40			
+	73		79		24			
+	79		85		32	84		
 line	12	191	12	180	ffff00
 		180	120		
 	120			191	909000
 		191	12		
 rect	13	181	120	191	c0c000
-tint	15	180	21	192	000000	/fonts/computer/43
-	21		27			/fonts/computer/4f
-	27		33			/fonts/computer/4e
-	33		39			/fonts/computer/54
-	39		45			/fonts/computer/52
-	45		51			/fonts/computer/4f
-	51		57			/fonts/computer/4c
+crop	15	180	21	192	24	48	000000	/fonts/computer
+	21		27		120			
+	27		33		112			
+	33		39		32	60		
+	39		45		16			
+	45		51		120	48		
+	51		57		96			
 line	14	204	35	204	489048
 			14	205	
 	35		35		
@@ -794,20 +794,20 @@ line	14	204	35	204	489048
 	120			263	00488f
 		263	12		
 rect	13	253	120	263	0060c0
-tint	15	252	21	264	000000	/fonts/computer/54
-	21		27			/fonts/computer/41
-	27		33			/fonts/computer/52
-	33		39			/fonts/computer/47
-	39		45			/fonts/computer/45
-	45		51			/fonts/computer/54
-	15	264	21	276	7fff7f	/fonts/computer/52
-	21		27			/fonts/computer/45
-	27		33			/fonts/computer/53
-	33		39			/fonts/computer/45
-	39		45			/fonts/computer/41
-	45		51			/fonts/computer/52
-	51		57			/fonts/computer/43
-	57		63			/fonts/computer/48
+crop	15	252	21	264	32	60	000000	/fonts/computer
+	21		27		8	48		
+	27		33		16	60		
+	33		39		56	48		
+	39		45		40			
+	45		51		32	60		
+	15	264	21	276	16		7fff7f	
+	21		27		40	48		
+	27		33		24	60		
+	33		39		40	48		
+	39		45		8			
+	45		51		16	60		
+	51		57		24	48		
+	57		63		64			
 draw	16	281	34	294	/sprites/585.SMIV/0
 line	14	276	35	276	489048
 			14	277	
