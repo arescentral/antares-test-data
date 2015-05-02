@@ -165,37 +165,37 @@ line	367	141	363	141	7fff7f
 	417	147	418	146	007fff
 	482	155	487	155	
 	539	146	541	147	
-draw	361	236	377	243	/sprites/652.SMIV/17
-static	434	119	438	123	ffffff	5	/sprites/651.SMIV/12
-draw	359	253	365	257	/sprites/651.SMIV/3
-static	390	175	396	178	ffffff	25	/sprites/651.SMIV/19
-draw	444	129	448	132	/sprites/512.SMIV/20
-	543	143	556	153	/sprites/579.SMIV/21
-	478	313	480	314	/sprites/513.SMIV/19
-	421	133	431	141	/sprites/578.SMIV/15
-static	321	124	339	161	ffffff	19	/sprites/649.SMIV/0
-draw	621	151	625	154	/sprites/507.SMIV/1
-	533	119	537	123	/sprites/507.SMIV/5
-	634	22	638	25	/sprites/507.SMIV/1
-	606	154	610	157	/sprites/507.SMIV/13
-	637	51	640	54	/sprites/507.SMIV/12
-	546	80	550	83	/sprites/507.SMIV/9
-	555	84	558	87	/sprites/507.SMIV/12
-	610	95	613	98	/sprites/507.SMIV/20
-		94			/sprites/507.SMIV/19
-		95			/sprites/507.SMIV/20
-					
-	609				/sprites/507.SMIV/22
-	610		614		/sprites/507.SMIV/21
-	504	129	509	135	/sprites/580.SMIV/0
-	383	177	385	179	/sprites/554.SMIV/1
-	442	153	449	157	/sprites/580.SMIV/1
-	395	166	400	170	/sprites/517.SMIV/1
-	400	163	404	167	/sprites/504.SMIV/2
-	401	160	405	164	/sprites/554.SMIV/6
-	319	123	325	128	/sprites/504.SMIV/9
+crop	361	236	377	243	338	104	ffffff	/sprites/...
+static	434	119	438	123	ffffff	5	/sprites/...
+crop	359	253	365	257	81	3	ffffff	/sprites/...
+static	390	175	396	178	ffffff	25	/sprites/...
+crop	444	129	448	132	38	61	ffffff	/sprites/...
+	543	143	556	153	201	158		
+	478	313	480	314	22	53		
+	421	133	431	141	204	89		
+static	321	124	339	161	ffffff	19	/sprites/...
+crop	621	151	625	154	21	3	ffffff	/sprites/...
+	533	119	537	123	101	1		
+	634	22	638	25	21	3		
+	606	154	610	157	82	20		
+	637	51	640	54	63			
+	546	80	550	83	2			
+	555	84	558	87	63			
+	610	95	613	98	42	37		
+		94			23	35		
+		95			42	37		
+								
+	609				80	36		
+	610		614		61	37		
+	504	129	509	135	5	3		
+	383	177	385	179	89	18		
+	442	153	449	157	32	5		
+	395	166	400	170	28	1		
+	400	163	404	167	149	14		
+	401	160	405	164	147	84		
+	319	123	325	128	11	64		
 dither	368	250	423	267	303000
-crop	372	254	379	265	56	44	000000	/fonts/tactical
+crop	372	254	379	265	56	44	000000	/fonts/tactical.png
 	379		386		40	77		
 	386		393		112	66		
 	393		400		24	77		
@@ -210,7 +210,7 @@ crop	372	254	379	265	56	44	000000	/fonts/tactical
 	406		413		72			
 	413		420		0	77		
 dither	200	451	451	468	300000
-crop	204	455	211	466	0	22	000000	/fonts/tactical
+crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
 	218		225		72	66		
 	225		232		56			
@@ -285,7 +285,7 @@ line	175	287	190	291	489048
 	190	291			204020
 draw	0	0	128	480	/pictures/501.png
 	608		640		/pictures/512.png
-crop	29	159	35	171	32	36	ff0000	/fonts/computer
+crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47		48			
 rect	614	359	615	366	00488f
@@ -490,7 +490,7 @@ rect	12	320	121	440	001000
 	43			474	007070
 	17	473			
 	18	463	43	473	009090
-crop	15	320	21	332	16	48	00ff00	/fonts/computer
+crop	15	320	21	332	16	48	00ff00	/fonts/computer.png
 	21		27		40	60		
 	27		33		72	48		
 	33		39		96			
@@ -573,7 +573,7 @@ rect	12	180	13	192	ffff00
 	120			192	909000
 	12	191			
 	13	181	120	191	c0c000
-crop	15	180	21	192	24	48	000000	/fonts/computer
+crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	21		27		120			
 	27		33		112			
 	33		39		32	60		
@@ -587,7 +587,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+	18	206	32	224	16	3	ffffff	/sprites/...
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -610,7 +610,7 @@ rect	14	204	36	205	489048
 	53	225		226	
 		224	54		
 	63		64		
-crop	69	204	75	216	96	48	7fff7f	/fonts/computer
+crop	69	204	75	216	96	48	7fff7f	/fonts/computer.png
 	75		81		24	60		
 	81		87		16			
 	87		93		32			
@@ -631,7 +631,7 @@ rect	12	252	13	264	007fff
 	120			264	00488f
 	12	263			
 	13	253	120	263	0060c0
-crop	15	252	21	264	32	60	000000	/fonts/computer
+crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	21		27		8	48		
 	27		33		16	60		
 	33		39		56	48		

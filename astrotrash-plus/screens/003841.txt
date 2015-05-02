@@ -136,36 +136,36 @@ point	403	423	b0b0b0
 line	430	276	427	274	00ff00
 	393	272	390	269	
 	372	241	369	239	
-static	363	235	372	244	ffffff	97	/sprites/521.SMIV/10
-draw	282	349	285	352	/sprites/545.SMIV/17
-	474	294	486	306	/sprites/543.SMIV/10
-static	360	262	372	275	ffffff	77	/sprites/546.SMIV/19
-draw	318	249	331	262	/sprites/546.SMIV/20
-static	363	275	376	288	ffffff	110	/sprites/546.SMIV/3
-draw	380	284	381	285	/sprites/589.SMIV/1
-	324	243	325	244	/sprites/589.SMIV/0
-	274	347	277	349	/sprites/545.SMIV/12
-	432	195	435	197	/sprites/545.SMIV/14
-	438	383	439	384	/sprites/589.SMIV/2
-static	351	252	352	253	f0f078	104	/sprites/589.SMIV/0
-draw	409	289	410	290	/sprites/589.SMIV/0
-	433	207	439	212	/sprites/544.SMIV/4
-	418	273	421	275	/sprites/503.SMIV/8
-	317	245	322	248	/sprites/548.SMIV/1
-	296	236	301	239	
-	394	261	397	263	/sprites/503.SMIV/8
-	371	245	374	247	/sprites/503.SMIV/9
-	315	240	319	244	/sprites/554.SMIV/5
-	372	254	376	258	/sprites/504.SMIV/5
-	369	292	374	296	/sprites/517.SMIV/1
-		294		298	/sprites/504.SMIV/4
-	370	293		297	/sprites/554.SMIV/9
-	379	299	384	303	/sprites/517.SMIV/1
-	369	294	374	298	/sprites/504.SMIV/4
-					
-	0	0	128	480	/pictures/501.png
+static	363	235	372	244	ffffff	97	/sprites/...
+crop	282	349	285	352	87	29	ffffff	/sprites/...
+	474	294	486	306	239	64		
+static	360	262	372	275	ffffff	77	/sprites/...
+crop	318	249	331	262	108	171	ffffff	/sprites/...
+static	363	275	376	288	ffffff	110	/sprites/...
+crop	380	284	381	285	18	1	ffffff	/sprites/...
+	324	243	325	244	4			
+	274	347	277	349	2	31		
+	432	195	435	197	38			
+	438	383	439	384	32	0		
+static	351	252	352	253	f0f078	104	/sprites/...
+crop	409	289	410	290	4	1	ffffff	/sprites/...
+	433	207	439	212	104	2		
+	418	273	421	275	26	13		
+	317	245	322	248		4		
+	296	236	301	239				
+	394	261	397	263		13		
+	371	245	374	247	40			
+	315	240	319	244	76	85		
+	372	254	376	258	348	11		
+	369	292	374	296	28	1		
+		294		298	281	11		
+	370	293		297	76	162		
+	379	299	384	303	28	1		
+	369	294	374	298	281	11		
+								
+draw	0	0	128	480	/pictures/501.png
 	608		640		/pictures/512.png
-crop	29	159	35	171	8	36	ff0000	/fonts/computer
+crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41		0			
 	41		47		40			
 	102		108		0		ff7f00	
@@ -322,7 +322,7 @@ rect	614	359	615	364	00488f
 	43			462	007070
 	17	461			
 	18	451	43	461	009090
-crop	15	320	21	332	104	48	00ff00	/fonts/computer
+crop	15	320	21	332	104	48	00ff00	/fonts/computer.png
 	21		27		8			
 	27		33		72			
 	33		39		112			
@@ -395,7 +395,7 @@ rect	12	180	13	192	ffff00
 	120			192	909000
 	12	191			
 	13	181	120	191	c0c000
-crop	15	180	21	192	24	48	000000	/fonts/computer
+crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	21		27		120			
 	27		33		112			
 	33		39		32	60		
@@ -413,7 +413,7 @@ rect	14	204	36	205	489048
 	120			264	00488f
 	12	263			
 	13	253	120	263	0060c0
-crop	15	252	21	264	32	60	000000	/fonts/computer
+crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	21		27		8	48		
 	27		33		16	60		
 	33		39		56	48		
