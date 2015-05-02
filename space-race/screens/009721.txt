@@ -124,8 +124,8 @@ point	463	153	808080
 	475	435	
 	310	184	
 rect	388	0	389	481	000050
-crop	366	234	374	246	62	36	ffffff	/sprites/...
-	169	4	185	15	40	53		
+draw	366	234	374	246	/sprites/513.SMIV/15
+	169	4	185	15	/sprites/513.SMIV/20
 dither	200	50	262	67	003030
 crop	204	54	211	65	16	33	000000	/fonts/tactical.png
 	211		218		80			

@@ -138,10 +138,10 @@ rect	190	0	191	481	002850
 	128	233	609	234	
 line	385	221	380	225	ffff7f
 	426	187	419	193	
-crop	350	231	382	254	225	6	ffffff	/sprites/...
-	166	180	184	193	3	80		
-static	424	117	442	133	f0eac3	17	/sprites/...
-crop	429	114	433	117	15	122	ffffff	/sprites/...
+draw	350	231	382	254	/sprites/646.SMIV/3
+	166	180	184	193	/sprites/550.SMIV/12
+static	424	117	442	133	f0eac3	17	/sprites/550.SMIV/3
+draw	429	114	433	117	/sprites/504.SMIV/18
 line	516	107	501	110	489048
 			512	122	
 	501	110			204020

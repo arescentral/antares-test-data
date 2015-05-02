@@ -165,35 +165,35 @@ line	367	141	363	141	7fff7f
 	417	147	418	146	007fff
 	482	155	487	155	
 	539	146	541	147	
-crop	361	236	377	243	338	104	ffffff	/sprites/...
-static	434	119	438	123	ffffff	5	/sprites/...
-crop	359	253	365	257	81	3	ffffff	/sprites/...
-static	390	175	396	178	ffffff	25	/sprites/...
-crop	444	129	448	132	38	61	ffffff	/sprites/...
-	543	143	556	153	201	158		
-	478	313	480	314	22	53		
-	421	133	431	141	204	89		
-static	321	124	339	161	ffffff	19	/sprites/...
-crop	621	151	625	154	21	3	ffffff	/sprites/...
-	533	119	537	123	101	1		
-	634	22	638	25	21	3		
-	606	154	610	157	82	20		
-	637	51	640	54	63			
-	546	80	550	83	2			
-	555	84	558	87	63			
-	610	95	613	98	42	37		
-		94			23	35		
-		95			42	37		
-								
-	609				80	36		
-	610		614		61	37		
-	504	129	509	135	5	3		
-	383	177	385	179	89	18		
-	442	153	449	157	32	5		
-	395	166	400	170	28	1		
-	400	163	404	167	149	14		
-	401	160	405	164	147	84		
-	319	123	325	128	11	64		
+draw	361	236	377	243	/sprites/652.SMIV/17
+static	434	119	438	123	ffffff	5	/sprites/651.SMIV/12
+draw	359	253	365	257	/sprites/651.SMIV/3
+static	390	175	396	178	ffffff	25	/sprites/651.SMIV/19
+draw	444	129	448	132	/sprites/512.SMIV/20
+	543	143	556	153	/sprites/579.SMIV/21
+	478	313	480	314	/sprites/513.SMIV/19
+	421	133	431	141	/sprites/578.SMIV/15
+static	321	124	339	161	ffffff	19	/sprites/649.SMIV/0
+draw	621	151	625	154	/sprites/507.SMIV/1
+	533	119	537	123	/sprites/507.SMIV/5
+	634	22	638	25	/sprites/507.SMIV/1
+	606	154	610	157	/sprites/507.SMIV/13
+	637	51	640	54	/sprites/507.SMIV/12
+	546	80	550	83	/sprites/507.SMIV/9
+	555	84	558	87	/sprites/507.SMIV/12
+	610	95	613	98	/sprites/507.SMIV/20
+		94			/sprites/507.SMIV/19
+		95			/sprites/507.SMIV/20
+					
+	609				/sprites/507.SMIV/22
+	610		614		/sprites/507.SMIV/21
+	504	129	509	135	/sprites/580.SMIV/0
+	383	177	385	179	/sprites/554.SMIV/1
+	442	153	449	157	/sprites/580.SMIV/1
+	395	166	400	170	/sprites/517.SMIV/1
+	400	163	404	167	/sprites/504.SMIV/2
+	401	160	405	164	/sprites/554.SMIV/6
+	319	123	325	128	/sprites/504.SMIV/9
 dither	368	250	423	267	303000
 crop	372	254	379	265	56	44	000000	/fonts/tactical.png
 	379		386		40	77		
@@ -587,7 +587,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-	18	206	32	224	16	3	ffffff	/sprites/...
+draw	18	206	32	224	/sprites/652.SMIV/0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

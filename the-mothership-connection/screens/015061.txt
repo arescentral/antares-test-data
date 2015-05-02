@@ -133,22 +133,22 @@ rect	198	0	199	481	002850
 line	311	370	313	365	ff7f00
 	315	301	318	296	
 	356	249	359	246	
-crop	364	235	374	242	193	85	ffffff	/sprites/...
-static	281	197	284	200	f0f078	128	/sprites/...
-crop	200	225	204	228	91	5	ffffff	/sprites/...
-	265	233	269	236	54	4		
-	90	205	91	206	100	36		
-	592	198	593	199	0	18		
-static	262	317	280	338	f0f078	76	/sprites/...
-crop	261	363	275	385	10	1	ffffff	/sprites/...
-static	266	9	270	18	00000000	254	/sprites/...
-crop	308	274	314	279	0	23	ffffff	/sprites/...
-	277	312	284	318	142	10		
-	351	241	357	246	0	23		
-	287	325	293	329	25	4		
-	334	159	340	164	2	0		
-	307	142	314	147	409	60		
-	268	300	276	307	282	4		
+draw	364	235	374	242	/sprites/521.SMIV/16
+static	281	197	284	200	f0f078	128	/sprites/512.SMIV/12
+draw	200	225	204	228	/sprites/512.SMIV/5
+	265	233	269	236	/sprites/512.SMIV/3
+	90	205	91	206	/sprites/513.SMIV/17
+	592	198	593	199	/sprites/513.SMIV/6
+static	262	317	280	338	f0f078	76	/sprites/524.SMIV/2
+draw	261	363	275	385	/sprites/524.SMIV/0
+static	266	9	270	18	00000000	254	/sprites/523.SMIV/12
+draw	308	274	314	279	/sprites/584.SMIV/3
+	277	312	284	318	/sprites/541.SMIV/3
+	351	241	357	246	/sprites/584.SMIV/3
+	287	325	293	329	/sprites/584.SMIV/1
+	334	159	340	164	/sprites/517.SMIV/0
+	307	142	314	147	/sprites/504.SMIV/15
+	268	300	276	307	/sprites/541.SMIV/6
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		

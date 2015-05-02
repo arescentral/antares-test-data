@@ -125,11 +125,11 @@ point	158	385	b0b0b0
 	399	232	808080
 rect	136	0	137	481	000050
 	128	142	609	143	
-crop	351	229	391	257	52	136	ffffff	/sprites/...
-	165	182	217	232	62	66		
-	224	273	264	316	6	8		
-static	123	266	171	315	ffffff	78	/sprites/...
-crop	126	266	146	280	23	25	ffffff	/sprites/...
+draw	351	229	391	257	/sprites/521.SMIV/19
+	165	182	217	232	/sprites/543.SMIV/7
+	224	273	264	316	/sprites/546.SMIV/0
+static	123	266	171	315	ffffff	78	/sprites/546.SMIV/1
+draw	126	266	146	280	/sprites/548.SMIV/4
 line	173	199	184	209	489048
 			188	195	
 	184	209			204020

@@ -125,14 +125,14 @@ point	332	279	b0b0b0
 	454	453	d0d0d0
 rect	209	0	210	481	002850
 	128	221	609	222	000050
-static	461	408	537	485	f0eac3	43	/sprites/...
-crop	350	223	390	249	239	88	ffffff	/sprites/...
-static	118	190	158	220	f0eac3	88	/sprites/...
-crop	261	359	297	392	133	4	ffffff	/sprites/...
-	50	154	54	156	4			
-	35	139	55	153	23	25		
-	30	131	34	133	4	4		
-	117	193	126	201	19	22		
+static	461	408	537	485	f0eac3	43	/sprites/552.SMIV/0
+draw	350	223	390	249	/sprites/521.SMIV/17
+static	118	190	158	220	f0eac3	88	/sprites/550.SMIV/2
+draw	261	359	297	392	/sprites/550.SMIV/3
+	50	154	54	156	/sprites/655.SMIV/0
+	35	139	55	153	/sprites/548.SMIV/4
+	30	131	34	133	/sprites/655.SMIV/0
+	117	193	126	201	/sprites/554.SMIV/0
 line	174	284	189	288	489048
 			185	274	
 	189	288			204020

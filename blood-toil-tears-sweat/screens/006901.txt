@@ -174,20 +174,20 @@ rect	155	0	156	481	005000
 line	376	318	375	316	7fff7f
 	363	276	363	273	
 	346	114	343	115	
-crop	293	279	299	282	135	5	ffffff	/sprites/...
-	360	237	375	245	268	9		
-	389	289	395	296	18	89		
-	402	134	406	138	5	1		
-	469	313	473	317				
-static	465	177	469	181	f0f078	49	/sprites/...
-	363	97	376	109	7878f0	46	
-crop	353	280	360	288	80	88	ffffff	/sprites/...
-	480	163	486	170	18	89		
-static	285	117	339	130	ffffff	57	/sprites/...
-crop	337	110	341	114	76	85	ffffff	/sprites/...
-	364	105	366	107	75	117		
-	475	195	482	200	276	61		
-	407	192	412	195	45	3		
+draw	293	279	299	282	/sprites/651.SMIV/5
+	360	237	375	245	/sprites/652.SMIV/4
+	389	289	395	296	/sprites/578.SMIV/12
+	402	134	406	138	/sprites/651.SMIV/0
+	469	313	473	317	
+static	465	177	469	181	f0f078	49	/sprites/512.SMIV/14
+	363	97	376	109	7878f0	46	/sprites/579.SMIV/14
+draw	353	280	360	288	/sprites/578.SMIV/13
+	480	163	486	170	/sprites/578.SMIV/12
+static	285	117	339	130	ffffff	57	/sprites/649.SMIV/6
+draw	337	110	341	114	/sprites/554.SMIV/5
+	364	105	366	107	/sprites/504.SMIV/19
+	475	195	482	200	/sprites/504.SMIV/13
+	407	192	412	195	/sprites/653.SMIV/2
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		56	44		
@@ -545,7 +545,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-	18	206	32	224	16	3	ffffff	/sprites/...
+draw	18	206	32	224	/sprites/652.SMIV/0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -602,7 +602,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-	18	278	32	296	16	3	ffffff	/sprites/...
+draw	18	278	32	296	/sprites/652.SMIV/0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

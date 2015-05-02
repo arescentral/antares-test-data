@@ -159,13 +159,13 @@ point	559	413	808080
 	656	247	
 rect	271	0	272	481	005000
 line	371	135	372	149	00ff00
-crop	357	224	389	259	246	131	ffffff	/sprites/...
-static	336	21	372	48	f0eac3	134	/sprites/...
-	431	92	463	126		23	
-crop	359	124	367	135	2	0	ffffff	/sprites/...
-	363	228	371	238	67	33		
-	343	12	351	19	15	122		
-	402	99	415	113	11	89		
+draw	357	224	389	259	/sprites/521.SMIV/23
+static	336	21	372	48	f0eac3	134	/sprites/550.SMIV/12
+	431	92	463	126		23	/sprites/550.SMIV/7
+draw	359	124	367	135	/sprites/503.SMIV/0
+	363	228	371	238	/sprites/503.SMIV/23
+	343	12	351	19	/sprites/504.SMIV/18
+	402	99	415	113	/sprites/554.SMIV/4
 line	331	44	326	59	489048
 			341	56	
 	326	59			204020

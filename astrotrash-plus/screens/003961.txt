@@ -130,21 +130,21 @@ rect	156	0	157	481	000050
 	128	101	609	102	002850
 		229		230	000050
 		357		358	
-crop	363	237	372	246	95	6	ffffff	/sprites/...
-	201	459	205	462	69	15		
-	459	447	472	459	241	5		
-static	322	311	335	324	ffffff	73	/sprites/...
-crop	258	303	271	316	162	3	ffffff	/sprites/...
-static	301	323	314	336	ffffff	107	/sprites/...
-	335	328	336	329	f0f078	44	
-crop	187	455	190	458	87	0	ffffff	/sprites/...
-	450	202	454	205	18	14		
-	343	335	344	336		1		
-static	332	299	333	300	f0f078	6	/sprites/...
-	319	320	320	321		128	
-crop	415	234	420	239	28	72	ffffff	/sprites/...
-	295	287	300	291		1		
-	298	285	305	290	276	61		
+draw	363	237	372	246	/sprites/521.SMIV/2
+	201	459	205	462	/sprites/545.SMIV/10
+	459	447	472	459	/sprites/543.SMIV/4
+static	322	311	335	324	ffffff	73	/sprites/546.SMIV/22
+draw	258	303	271	316	/sprites/546.SMIV/3
+static	301	323	314	336	ffffff	107	/sprites/546.SMIV/21
+	335	328	336	329	f0f078	44	/sprites/589.SMIV/0
+draw	187	455	190	458	/sprites/545.SMIV/5
+	450	202	454	205	/sprites/545.SMIV/7
+	343	335	344	336	/sprites/589.SMIV/1
+static	332	299	333	300	f0f078	6	/sprites/589.SMIV/3
+	319	320	320	321		128	/sprites/589.SMIV/2
+draw	415	234	420	239	/sprites/544.SMIV/19
+	295	287	300	291	/sprites/517.SMIV/1
+	298	285	305	290	/sprites/504.SMIV/13
 line	461	64	448	72	489048
 			461	79	
 	448	72			204020

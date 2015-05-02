@@ -123,10 +123,10 @@ point	566	392	d0d0d0
 	538	100	808080
 	500	145	b0b0b0
 	510	347	d0d0d0
-crop	356	222	385	250	149	84	ffffff	/sprites/...
-	180	153	266	232	121	5		
-	214	260	240	285	282	4		
-draw	0	0	128	480	/pictures/501.png
+draw	356	222	385	250	/sprites/521.SMIV/15
+	180	153	266	232	/sprites/590.SMIV/2
+	214	260	240	285	/sprites/541.SMIV/6
+	0	0	128	480	/pictures/501.png
 	608		640		/pictures/512.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					

@@ -136,11 +136,11 @@ point	318	270	d0d0d0
 rect	347	0	348	481	002850
 	128	278	609	279	000050
 line	618	467	604	453	ffff7f
-crop	117	204	145	243	95	4	ffffff	/sprites/...
-static	346	219	390	259	ffffff	52	/sprites/...
-crop	629	475	657	515	94	142	ffffff	/sprites/...
-	363	339	379	354	54	4		
-	392	258	400	265	15	122		
+draw	117	204	145	243	/sprites/502.SMIV/3
+static	346	219	390	259	ffffff	52	/sprites/509.SMIV/11
+draw	629	475	657	515	/sprites/502.SMIV/21
+	363	339	379	354	/sprites/512.SMIV/3
+	392	258	400	265	/sprites/504.SMIV/18
 line	429	429	432	414	489048
 			418	419	
 	432	414			204020
@@ -433,7 +433,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-	16	208	34	222	3	5	ffffff	/sprites/...
+draw	16	208	34	222	/sprites/501.SMIV/0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -496,7 +496,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-	16	280	34	294	5	6	ffffff	/sprites/...
+draw	16	280	34	294	/sprites/509.SMIV/0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

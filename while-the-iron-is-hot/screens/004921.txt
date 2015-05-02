@@ -165,22 +165,22 @@ point	176	48	d0d0d0
 	536	450	
 rect	149	0	150	481	000050
 	128	16	609	17	
-static	351	223	383	251	ffffff	77	/sprites/...
-crop	587	105	615	140	50	116	ffffff	/sprites/...
-static	575	189	615	219	f0eac3	30	/sprites/...
-crop	453	287	485	317	85	70	ffffff	/sprites/...
-static	529	380	665	530	f0f078	115	/sprites/...
-	395	283	415	300	f0eac3	116	
-crop	580	187	592	197	36	0	ffffff	/sprites/...
-	560	98	588	117	157	110		
-	636	240	640	242	4	4		
-	630	224	638	232	25	1		
-	517	187	525	195	49			
-	474	431	482	440	54	12		
-	523	429	531	436	15	122		
-	623	226	641	244	216	81		
-	603	204	611	212	25	1		
-	415	215	426	224	75	117		
+static	351	223	383	251	ffffff	77	/sprites/501.SMIV/8
+draw	587	105	615	140	/sprites/550.SMIV/19
+static	575	189	615	219	f0eac3	30	/sprites/550.SMIV/22
+draw	453	287	485	317	/sprites/501.SMIV/14
+static	529	380	665	530	f0f078	115	/sprites/560.SMIV/2
+	395	283	415	300	f0eac3	116	/sprites/551.SMIV/2
+draw	580	187	592	197	/sprites/655.SMIV/3
+	560	98	588	117	/sprites/541.SMIV/24
+	636	240	640	242	/sprites/655.SMIV/0
+	630	224	638	232	/sprites/655.SMIV/2
+	517	187	525	195	/sprites/655.SMIV/4
+	474	431	482	440	/sprites/503.SMIV/10
+	523	429	531	436	/sprites/504.SMIV/18
+	623	226	641	244	/sprites/554.SMIV/7
+	603	204	611	212	/sprites/655.SMIV/2
+	415	215	426	224	/sprites/504.SMIV/19
 line	547	327	539	314	489048
 			532	328	
 	539	314			204020
@@ -484,7 +484,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-	16	206	34	224	0	0	ffffff	/sprites/...
+draw	16	206	34	224	/sprites/1009.SMIV/0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -510,7 +510,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-	20	278	31	296	13	3	ffffff	/sprites/...
+draw	20	278	31	296	/sprites/515.SMIV/0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		
