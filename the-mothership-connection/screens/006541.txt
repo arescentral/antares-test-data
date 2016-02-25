@@ -126,7 +126,7 @@ point	586	448	d0d0d0
 draw	346	222	386	248	/sprites/521.SMIV/7
 	216	42	312	140	/sprites/590.SMIV/10
 	217	323	249	344	/sprites/541.SMIV/22
-	0	0	128	480	/pictures/501.png
+	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					

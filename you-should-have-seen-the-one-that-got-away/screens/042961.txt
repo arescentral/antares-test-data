@@ -154,7 +154,7 @@ rect	286	173	288	175	c00000
 line	232	93	235	108	489048
 			247	97	
 	235	108			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		40			

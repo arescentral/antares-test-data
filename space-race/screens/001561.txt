@@ -316,7 +316,7 @@ crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 line	467	68	454	76	489048
 			467	84	
 	454	76			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		32			

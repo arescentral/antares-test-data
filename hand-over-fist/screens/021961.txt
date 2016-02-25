@@ -139,7 +139,7 @@ draw	344	190	408	254	/sprites/1004.SMIV/0
 line	546	150	531	150	489048
 			538	163	
 	531				204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		32			

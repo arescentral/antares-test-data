@@ -137,7 +137,7 @@ diamond	513	116	529	132	500000
 line	534	131	519	131	489048
 			527	145	
 	519				204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	457	007fff
 			623	360	

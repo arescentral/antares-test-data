@@ -149,7 +149,7 @@ draw	588	364	619	386	/sprites/578.SMIV/21
 line	364	40	357	53	489048
 			372		
 	357	53			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41					

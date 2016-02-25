@@ -145,7 +145,7 @@ triangle	381	403	391	413	c00000
 line	214	367	229	365	489048
 			219	353	
 	229	365			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	457	007fff
 			623	360	

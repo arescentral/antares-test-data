@@ -583,7 +583,7 @@ crop	139	431	146	442	72	44	000810	/fonts/tactical.png
 line	290	57	289	72	489048
 			302	66	
 	289	72			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	435	00488f
 			623	360	

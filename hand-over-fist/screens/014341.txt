@@ -167,7 +167,7 @@ crop	507	184	514	195	24	44	000000	/fonts/tactical.png
 line	215	368	230	366	489048
 			220	354	
 	230	366			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	428	00488f
 			623	360	

@@ -166,7 +166,7 @@ draw	336	227	396	262	/sprites/652.SMIV/4
 line	542	144	527	144	489048
 			534	157	
 	527				204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		24			

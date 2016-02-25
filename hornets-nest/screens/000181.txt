@@ -305,7 +305,7 @@ rect	349	420	357	431	007fff
 line	467	411	467	396	489048
 			454	404	
 		396			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	457	007fff
 			623	360	

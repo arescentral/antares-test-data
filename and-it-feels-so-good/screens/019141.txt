@@ -159,7 +159,7 @@ draw	154	330	170	344	/sprites/509.SMIV/13
 line	548	323	539	310	489048
 			533	324	
 	539	310			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		48			

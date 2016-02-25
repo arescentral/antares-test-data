@@ -177,7 +177,7 @@ triangle	314	244	322	252	c00000
 line	554	306	544	294	489048
 			539	308	
 	544	294			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41					

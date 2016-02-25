@@ -232,7 +232,7 @@ crop	372	253	379	264	24	44	000000	/fonts/tactical.png
 line	266	411	279	404	489048
 			266	396	
 	279	404			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		40			

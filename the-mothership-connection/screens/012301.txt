@@ -170,7 +170,7 @@ draw	444	252	450	257	/sprites/584.SMIV/3
 line	482	77	468	83	489048
 			481	92	
 	468	83			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					

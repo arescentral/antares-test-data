@@ -131,7 +131,7 @@ draw	384	81	512	209	/sprites/1003.SMIV/0
 line	304	51	302	66	489048
 			316	61	
 	302	66			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	417	00488f
 			623	360	

@@ -175,7 +175,7 @@ draw	369	309	385	323	/sprites/501.SMIV/8
 line	251	79	252	94	489048
 			265	85	
 	252	94			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	432	00488f
 			623	360	

@@ -261,7 +261,7 @@ draw	454	202	470	217	/sprites/512.SMIV/16
 	353	203	364	212	
 	377	202	390	216	/sprites/554.SMIV/3
 	370	200	383	214	
-	0	0	128	480	/pictures/501.png
+	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		56			

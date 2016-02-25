@@ -170,7 +170,7 @@ draw	164	21	180	35	/sprites/501.SMIV/16
 line	521	364	516	350	489048
 			506	362	
 	516	350			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 rect	614	359	615	415	00488f
 			623	360	

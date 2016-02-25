@@ -132,7 +132,7 @@ draw	445	162	454	169	/sprites/568.SMIV/0
 line	460	63	447	71	489048
 			460	78	
 	447	71			204020
-draw	0	0	128	480	/pictures/501.png
+draw	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41					

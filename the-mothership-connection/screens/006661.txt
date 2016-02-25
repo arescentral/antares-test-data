@@ -127,7 +127,7 @@ draw	359	227	379	246	/sprites/521.SMIV/15
 	354	-2	414	55	/sprites/590.SMIV/4
 	283	38	301	50	/sprites/581.SMIV/1
 	322	122	335	130	/sprites/541.SMIV/25
-	0	0	128	480	/pictures/501.png
+	0	-144	128	624	/pictures/501.png
 	608		640		/pictures/512.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
