@@ -8,7 +8,6 @@ quiet	0	1875
 amp	0	1875	192
 play	0	1875	/sounds/507
 quiet	3	1936
-quiet	3	1936
 amp	3	1936	255
 loop	3	1936	/music/4002
 quiet	3	1936
@@ -54,6 +53,7 @@ play	1	1971	/sounds/535
 quiet	1	1974
 amp	1	1974	64
 play	1	1974	/sounds/535
+quiet	3	1979
 quiet	3	1979
 quiet	1	1979
 amp	1	1979	128
@@ -370,6 +370,7 @@ play	0	2320	/sounds/507
 quiet	0	2380
 quiet	1	2380
 quiet	2	2380
+quiet	3	2380
 quiet	3	2380
 amp	3	2380	255
 loop	3	2380	/music/4001
