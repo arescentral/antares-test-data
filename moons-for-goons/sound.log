@@ -1961,6 +1961,9 @@ play	2	898	/sounds/535
 quiet	2	899
 amp	2	899	64
 play	2	899	/sounds/535
+quiet	2	900
+amp	2	900	64
+play	2	900	/sounds/535
 quiet	2	901
 amp	2	901	64
 play	2	901	/sounds/535
