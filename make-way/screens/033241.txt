@@ -616,8 +616,8 @@ crop	139	420	146	431	72	44	000810	/fonts/tactical.png
 line	180	172	190	184	489048
 			195	170	
 	190	184			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	408	00488f
 			623	360	
 	622			408	002850

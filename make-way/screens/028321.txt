@@ -138,8 +138,8 @@ draw	348	216	396	260	/sprites/509.SMIV/15
 line	227	381	242	377	489048
 			231	366	
 	242	377			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	406	00488f
 			623	360	
 	622			406	002850

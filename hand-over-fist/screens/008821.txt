@@ -152,8 +152,8 @@ triangle	365	212	373	220	00c000
 line	394	42	385	54	489048
 			399	56	
 	385	54			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	363	00488f
 			623	360	
 	622			363	002850

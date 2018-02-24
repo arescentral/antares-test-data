@@ -249,8 +249,8 @@ line	263	111	274	122	7fff7f
 draw	145	14	205	86	/sprites/524.SMIV/2
 	347	221	387	258	/sprites/652.SMIV/10
 	374	449	400	467	/sprites/581.SMIV/1
-	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		64			
 	41		47		32			

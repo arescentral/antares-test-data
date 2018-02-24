@@ -128,8 +128,8 @@ draw	361	233	377	244	/sprites/513.SMIV/7
 line	562	284	551	274	489048
 			547	288	
 	551	274			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	457	007fff
 			623	360	
 	622			457	00488f

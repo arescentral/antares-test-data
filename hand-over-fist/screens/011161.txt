@@ -171,8 +171,8 @@ static	265	49	337	135	f0f078	17	/sprites/524.SMIV/2
 line	412	46	402	57	489048
 			416	61	
 	402	57			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	363	00488f
 			623	360	
 	622			363	002850

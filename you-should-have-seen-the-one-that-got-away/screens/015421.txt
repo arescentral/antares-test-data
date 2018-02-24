@@ -178,8 +178,8 @@ draw	364	236	376	247	/sprites/652.SMIV/22
 line	263	71	263	86	489048
 			277	78	
 		86			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	24	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47					

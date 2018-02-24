@@ -125,8 +125,8 @@ point	253	112	d0d0d0
 	483	155	b0b0b0
 draw	362	235	370	244	/sprites/521.SMIV/1
 	358	433	364	441	/sprites/581.SMIV/0
-	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

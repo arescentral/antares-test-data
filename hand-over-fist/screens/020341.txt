@@ -162,8 +162,8 @@ draw	315	281	331	293	/sprites/501.SMIV/7
 line	321	433	332	422	489048
 			317	418	
 	332	422			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	432	00488f
 			623	360	
 	622			432	002850

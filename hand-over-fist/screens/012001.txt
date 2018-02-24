@@ -240,8 +240,8 @@ draw	124	212	140	225	/sprites/512.SMIV/5
 line	395	437	400	423	489048
 			386	425	
 	400	423			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	401	00488f
 			623	360	
 	622			401	002850

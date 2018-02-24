@@ -180,8 +180,8 @@ draw	368	370	387	404	/sprites/587.SMIV/0
 line	401	43	391	55	489048
 			406	58	
 	391	55			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		16			
 	41		47		24			

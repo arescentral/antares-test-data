@@ -136,8 +136,8 @@ plus	458	260	468	270	c00000
 line	559	293	548	282	489048
 			544	296	
 	548	282			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	24	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47					

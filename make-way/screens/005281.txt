@@ -140,8 +140,8 @@ draw	45	136	73	164	/sprites/501.SMIV/11
 line	567	230	553	223	489048
 			554	238	
 	553	223			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		8			
 	41		47		72			

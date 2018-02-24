@@ -154,8 +154,8 @@ draw	372	328	373	329	/sprites/589.SMIV/1
 	339	316	346	321	/sprites/504.SMIV/13
 		315		320	
 	338	316	345	321	
-	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41		0			
 	41		47		32			

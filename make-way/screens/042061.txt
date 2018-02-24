@@ -175,8 +175,8 @@ draw	483	269	541	327	/sprites/1020.SMIV/0
 line	539	338	532	325	489048
 			524	338	
 	532	325			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	406	00488f
 			623	360	
 	622			406	002850

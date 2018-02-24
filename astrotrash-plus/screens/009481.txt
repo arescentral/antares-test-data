@@ -137,8 +137,8 @@ draw	361	230	379	247	/sprites/521.SMIV/15
 line	230	383	245	379	489048
 			233	368	
 	245	379			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47					

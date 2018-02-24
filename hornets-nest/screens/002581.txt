@@ -403,8 +403,8 @@ rect	496	409	504	420	007fff
 line	418	431	422	416	489048
 			407	420	
 	422	416			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 rect	614	359	615	385	00488f
 			623	360	
 	622			385	002850

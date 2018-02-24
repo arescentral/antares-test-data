@@ -144,8 +144,8 @@ draw	333	126	371	165	/sprites/1036.SMIV/0
 line	254	77	255	92	489048
 			268	83	
 	255	92			204020
-draw	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+draw	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

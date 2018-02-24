@@ -128,8 +128,8 @@ rect	215	0	216	481	000050
 draw	357	225	386	257	/sprites/521.SMIV/23
 	288	-59	376	47	/sprites/590.SMIV/17
 	270	-1	303	29	/sprites/541.SMIV/9
-	0	-144	128	624	/pictures/501.png
-	608		640		/pictures/512.png
+	0	-144	128	624	/interfaces/instruments/left.png
+	608		640		/interfaces/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			
