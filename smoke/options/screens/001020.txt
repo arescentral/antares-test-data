@@ -392,10 +392,10 @@ crop	447	347	455	359	176	48	001010	/fonts/button.png
 	552		560		240	72		
 	560		563		192			
 	563		569		48	84		
-draw	2	0	35	476	/pictures/504.png
-	35		607	28	/pictures/505.png
-	607		642	476	/pictures/506.png
-	35	456	607		/pictures/507.png
+draw	2	0	35	476	/interfaces/tablet/left.png
+	35		607	28	/interfaces/tablet/top.png
+	607		642	476	/interfaces/tablet/right.png
+	35	456	607		/interfaces/tablet/bottom.png
 rect	38	65	51	68	703870
 	591		604		
 	51		591	67	
