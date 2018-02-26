@@ -214,7 +214,7 @@ rect	39	36	53	49	96927a
 			602	241	
 	602		603	420	1e1d18
 	590	419			
-crop	54	58	587	419	0	2	ffffff	/pictures/8000.png
+crop	54	58	587	419	0	2	ffffff	/pictures/starmap.png
 rect	279	99	311	100	ffff7f
 			280	101	
 	310		311		
