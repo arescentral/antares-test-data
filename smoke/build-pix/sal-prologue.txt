@@ -899,8 +899,8 @@ crop	0	192	450	456	0	192	ffffff	/pictures/2007.png
 	181		188		40	120		
 	188		195		104			
 	195		202		112	40		
-	0	676	450	720	0	196	ffffff	/pictures/2007.png
-	6	678	13	698	32	100	ff0000	/fonts/title.png
+	0	676	450	698	0	196	ffffff	/pictures/2007.png
+	6	678	13		32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
 	34		41		8			
