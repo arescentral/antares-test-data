@@ -5,4 +5,4 @@
 \b42Light Drive:\t0
 \b41Max Vel:\t2.0
 \b42Thrust:\t0.18
-\b41Turn:\t1.0
+\b41Turn:\t0.4

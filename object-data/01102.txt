@@ -5,7 +5,7 @@
 \b42Light Drive:\t0
 \b41Max Vel:\t3.0
 \b42Thrust:\t0.156
-\b41Turn:\t1.0
+\b41Turn:\t2.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tC Missiles(5)
 \b42Guided:\tYES

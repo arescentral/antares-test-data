@@ -5,7 +5,7 @@
 \b42Light Drive:\t12800
 \b41Max Vel:\t7.5
 \b42Thrust:\t0.156
-\b41Turn:\t1.0
+\b41Turn:\t2.5
 \i WEAPON 1 DATA:\i
 \b41Type:\tOnas Pulse Gun
 \b42Guided:\tNO

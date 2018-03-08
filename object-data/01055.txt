@@ -5,7 +5,7 @@
 \b42Light Drive:\t0
 \b41Max Vel:\t0.348
 \b42Thrust:\t0.047
-\b41Turn:\t0.0
+\b41Turn:\t5.0
 \i WEAPON 1 DATA:\i
 \b41Type:\tRap F Pulse React
 \b42Guided:\tNO

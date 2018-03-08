@@ -5,7 +5,7 @@
 \b42Light Drive:\t10240
 \b41Max Vel:\t4.0
 \b42Thrust:\t0.15
-\b41Turn:\t1.0
+\b41Turn:\t0.797
 \i WEAPON 1 DATA:\i
 \b41Type:\tLightwave Cannon
 \b42Guided:\tNO

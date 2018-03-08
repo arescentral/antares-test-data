@@ -5,7 +5,7 @@
 \b42Light Drive:\t0
 \b41Max Vel:\t3.0
 \b42Thrust:\t0.156
-\b41Turn:\t1.0
+\b41Turn:\t2.0
 \i WEAPON 3 DATA:\i
 \b41Type:\tStealth Field
 \b42Guided:\tNO
