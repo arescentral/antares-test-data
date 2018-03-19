@@ -962,5 +962,5 @@ crop	350	202	359	214	16	48	ffff7f	/fonts/button.png
 	459		463		32	84		
 	463		469		48			
 	469		473		224	24		
-draw	347	97	547	197	/pictures/1166.png
-		258		358	/pictures/1165.png
+draw	347	97	547	197	/pictures/uns/fighter.png
+		258		358	/pictures/uns/cruiser.png

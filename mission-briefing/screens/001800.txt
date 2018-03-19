@@ -1010,4 +1010,4 @@ crop	97	175	104	187	64	60	ffff7f	/fonts/button.png
 	183		191		240			
 	191		198		224			
 	198		202			24		
-draw	94	259	294	359	/pictures/1167.png
+draw	94	259	294	359	/pictures/uns/gunship.png

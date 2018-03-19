@@ -1031,4 +1031,4 @@ crop	350	306	357	318	64	60	ffff7f	/fonts/button.png
 	366		374		0	84		
 	374		380		48			
 	380		384		224	24		
-draw	347	201	547	301	/pictures/1115.png
+draw	347	201	547	301	/pictures/loc/power.png
