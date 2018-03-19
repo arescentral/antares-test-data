@@ -1,4 +1,4 @@
-crop	0	0	450	132	0	0	ffffff	/pictures/2006.png
+crop	0	0	450	132	0	0	ffffff	/pictures/log/starfield/b.png
 	6	2	13	22	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
@@ -205,7 +205,7 @@ crop	0	0	450	132	0	0	ffffff	/pictures/2006.png
 	34		41		40	120		
 	41		48		32	140		
 	48		55		112	40		
-	0	132	450	264	0	132	ffffff	/pictures/2006.png
+	0	132	450	264	0	132	ffffff	/pictures/log/starfield/b.png
 	6	134	13	154	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
@@ -437,7 +437,7 @@ crop	0	0	450	132	0	0	ffffff	/pictures/2006.png
 	251		258		24	140		
 	258		265		32			
 	265		272		112	40		
-	0	264	450	352	0	264	ffffff	/pictures/2006.png
+	0	264	450	352	0	264	ffffff	/pictures/log/starfield/b.png
 	6	266	13	286	8	80	ff0000	/fonts/title.png
 	20		27		16	140		
 	27		34		40	120		
@@ -614,7 +614,7 @@ crop	0	0	450	132	0	0	ffffff	/pictures/2006.png
 	244		251		16			
 	251		258		40	120		
 	258		265		112	40		
-	0	352	450	462	0	352	ffffff	/pictures/2006.png
+	0	352	450	462	0	352	ffffff	/pictures/log/starfield/b.png
 	6	354	13	374	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		72			

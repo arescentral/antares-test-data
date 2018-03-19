@@ -1,6 +1,6 @@
-crop	0	0	540	179	0	0	ffffff	/pictures/2005.png
-draw	30	0	510	179	/pictures/2003.png
-crop	0	179	540	480	0	179	ffffff	/pictures/2005.png
+crop	0	0	540	179	0	0	ffffff	/pictures/log/starfield/a.png
+draw	30	0	510	179	/pictures/log/about-header.png
+crop	0	179	540	480	0	179	ffffff	/pictures/log/starfield/a.png
 		480		663		0		
 rect	6	201	13	223	ff0000
 	13		534		
@@ -322,7 +322,7 @@ crop	90	269	97	289	24	80	ff0000	/fonts/title.png
 	419		426		120			
 	426		433		112			
 	433		440		32	140		
-	0	663	540	960	0	183	ffffff	/pictures/2005.png
+	0	663	540	960	0	183	ffffff	/pictures/log/starfield/a.png
 		960		1169		0		
 rect	6	685	13	707	ff0000
 	13		534		
@@ -761,7 +761,7 @@ crop	202	731	209	751	16	80	ff0000	/fonts/title.png
 	104		111		56			
 	111		118		64			
 	118		125		32	140		
-	0	1169	540	1389	0	209	ffffff	/pictures/2005.png
+	0	1169	540	1389	0	209	ffffff	/pictures/log/starfield/a.png
 	41	1193	48	1213	104	80	ff0000	/fonts/title.png
 	48		55		72	120		
 	55		62		88			
@@ -945,7 +945,7 @@ crop	202	731	209	751	16	80	ff0000	/fonts/title.png
 	90		97		112	120		
 	97		104		32	140		
 	104		111		72			
-	0	1389	540	1440	0	429	ffffff	/pictures/2005.png
+	0	1389	540	1440	0	429	ffffff	/pictures/log/starfield/a.png
 		1440		1763		0		
 rect	6	1675	13	1697	ff0000
 	13		534		

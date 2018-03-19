@@ -1,6 +1,6 @@
-crop	0	0	450	150	0	0	ffffff	/pictures/2005.png
-draw	25	0	425	150	/pictures/10031.png
-crop	0	150	450	238	0	150	ffffff	/pictures/2005.png
+crop	0	0	450	150	0	0	ffffff	/pictures/log/starfield/a.png
+draw	25	0	425	150	/pictures/log/ares-returns.png
+crop	0	150	450	238	0	150	ffffff	/pictures/log/starfield/a.png
 	6	152	13	172	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
@@ -135,7 +135,7 @@ crop	0	150	450	238	0	150	ffffff	/pictures/2005.png
 	286		293		32			
 	293		300		24			
 	300		307		112	40		
-	0	238	450	326	0	238	ffffff	/pictures/2005.png
+	0	238	450	326	0	238	ffffff	/pictures/log/starfield/a.png
 	6	240	13	260	16	80	ff0000	/fonts/title.png
 	13		20		40	140		
 	20		27		32			
@@ -251,7 +251,7 @@ crop	0	150	450	238	0	150	ffffff	/pictures/2005.png
 	118		125		112			
 	125		132		32			
 	132		139		112	40		
-	0	326	450	414	0	326	ffffff	/pictures/2005.png
+	0	326	450	414	0	326	ffffff	/pictures/log/starfield/a.png
 	6	328	13	348	72	100	ff0000	/fonts/title.png
 	13		20		120	120		
 	20		27		40	140		
@@ -354,7 +354,7 @@ crop	0	150	450	238	0	150	ffffff	/pictures/2005.png
 	41		48		32			
 	48		55		24	140		
 	55		62		112	40		
-	0	414	450	480	0	414	ffffff	/pictures/2005.png
+	0	414	450	480	0	414	ffffff	/pictures/log/starfield/a.png
 		480		502		0		
 	6	416	13	436	16	80	ff0000	/fonts/title.png
 	13		20		40	140		

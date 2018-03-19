@@ -1,4 +1,4 @@
-crop	0	0	450	88	0	0	ffffff	/pictures/2007.png
+crop	0	0	450	88	0	0	ffffff	/pictures/log/starfield/c.png
 	6	2	13	22	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
@@ -128,9 +128,9 @@ crop	0	0	450	88	0	0	ffffff	/pictures/2007.png
 	202		209		40			
 	209		216		24	140		
 	216		223		112	40		
-	0	88	450	280	0	88	ffffff	/pictures/2007.png
-draw	125	88	325	280	/pictures/10017.png
-crop	0	280	450	346	0	280	ffffff	/pictures/2007.png
+	0	88	450	280	0	88	ffffff	/pictures/log/starfield/c.png
+draw	125	88	325	280	/pictures/aud/race.png
+crop	0	280	450	346	0	280	ffffff	/pictures/log/starfield/c.png
 	6	282	13	302	8	80	ff0000	/fonts/title.png
 	13		20		96	120		
 	20		27		104			
@@ -227,7 +227,7 @@ crop	0	280	450	346	0	280	ffffff	/pictures/2007.png
 	314		321		16			
 	321		328		40	120		
 	328		335		112	40		
-	0	346	450	434	0	346	ffffff	/pictures/2007.png
+	0	346	450	434	0	346	ffffff	/pictures/log/starfield/c.png
 	6	348	13	368	8	80	ff0000	/fonts/title.png
 	13		20		0	140		
 	20		27					

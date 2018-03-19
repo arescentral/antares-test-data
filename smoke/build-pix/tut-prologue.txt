@@ -1,4 +1,4 @@
-crop	0	0	450	44	0	0	ffffff	/pictures/2005.png
+crop	0	0	450	44	0	0	ffffff	/pictures/log/starfield/a.png
 rect	6	0	13	22	ff0000
 	13		20		
 	20		27		
@@ -18,7 +18,7 @@ crop	13	2	20	22	0	100	000000	/fonts/title.png
 	48		55		56			
 	55		62		40	100		
 	62		69			80		
-	0	44	450	418	0	44	ffffff	/pictures/2005.png
+	0	44	450	418	0	44	ffffff	/pictures/log/starfield/a.png
 	6	46	13	66	32	100	ff0000	/fonts/title.png
 	13		20		64	120		
 	20		27		40			
