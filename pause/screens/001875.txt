@@ -339,4 +339,4 @@ crop	77	131	84	151	32	100	000000	/fonts/title.png
 	154		161					
 	161		168		112			
 	168		175		24	140		
-draw	320	240	332	250	/sprites/500.SMIV/0
+draw	320	240	332	250	/sprites/cursor.SMIV/0
