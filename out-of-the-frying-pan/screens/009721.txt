@@ -135,34 +135,34 @@ point	331	434	d0d0d0
 	372	382	
 rect	445	0	446	481	002850
 	128	441	609	442	005000
-draw	354	229	381	255	/sprites/501.SMIV/5
-	455	468	458	471	/sprites/526.SMIV/0
+draw	354	229	381	255	/sprites/ish/cruiser%5
+	455	468	458	471	/sprites/dev/cluster%0
 		462		465	
-	190	154	205	167	/sprites/613.SMIV/2
-	329	293	332	296	/sprites/526.SMIV/0
-	140	134	147	141	/sprites/507.SMIV/6
-	72	160	79	167	/sprites/507.SMIV/5
+	190	154	205	167	/sprites/dev/neutron%2
+	329	293	332	296	/sprites/dev/cluster%0
+	140	134	147	141	/sprites/sfx/debris%6
+	72	160	79	167	/sprites/sfx/debris%5
 	138	136	145	143	
-	254	289	269	296	/sprites/528.SMIV/4
-	144	206	151	212	/sprites/507.SMIV/0
-	69	160	76	166	/sprites/507.SMIV/4
-	138	128	143	133	/sprites/507.SMIV/7
+	254	289	269	296	/sprites/dev/cm%4
+	144	206	151	212	/sprites/sfx/debris%0
+	69	160	76	166	/sprites/sfx/debris%4
+	138	128	143	133	/sprites/sfx/debris%7
 	84	116	89	121	
-	114	185	121	191	/sprites/507.SMIV/1
-	93	115	100	121	/sprites/507.SMIV/4
-	97	187	104	193	/sprites/507.SMIV/1
-	79	131	133	177	/sprites/557.SMIV/3
-	143	214	150	221	/sprites/507.SMIV/6
-	101	213	108	220	/sprites/507.SMIV/2
-	127	193	134	200	/sprites/507.SMIV/6
-	113	191	120	197	/sprites/507.SMIV/1
-	103	201	110	207	/sprites/507.SMIV/0
+	114	185	121	191	/sprites/sfx/debris%1
+	93	115	100	121	/sprites/sfx/debris%4
+	97	187	104	193	/sprites/sfx/debris%1
+	79	131	133	177	/sprites/sfx/explosion/flak%3
+	143	214	150	221	/sprites/sfx/debris%6
+	101	213	108	220	/sprites/sfx/debris%2
+	127	193	134	200	/sprites/sfx/debris%6
+	113	191	120	197	/sprites/sfx/debris%1
+	103	201	110	207	/sprites/sfx/debris%0
 	141	216	148	222	
-	125	192	132	199	/sprites/507.SMIV/3
-	135	195	142	202	/sprites/507.SMIV/6
-	121	192	128	199	/sprites/507.SMIV/3
-	137	202	144	208	/sprites/507.SMIV/1
-	109		140	229	/sprites/557.SMIV/1
+	125	192	132	199	/sprites/sfx/debris%3
+	135	195	142	202	/sprites/sfx/debris%6
+	121	192	128	199	/sprites/sfx/debris%3
+	137	202	144	208	/sprites/sfx/debris%1
+	109		140	229	/sprites/sfx/explosion/flak%1
 dither	200	50	269	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			
@@ -501,7 +501,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		40			
 	51		57					
 	57		63		16	60		
-draw	17	204	33	225	/sprites/562.SMIV/0
+draw	17	204	33	225	/sprites/ish/engineer%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -561,7 +561,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		120	48		
 	57		63		112			
-draw	16	279	34	294	/sprites/542.SMIV/0
+draw	16	279	34	294	/sprites/loc/flak%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

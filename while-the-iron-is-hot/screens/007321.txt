@@ -137,17 +137,17 @@ point	254	396	808080
 	681	-1184	
 rect	586	0	587	481	002850
 	128	114	609	115	000050
-draw	301	351	337	384	/sprites/550.SMIV/3
-	400	468	416	486	/sprites/551.SMIV/23
-	367	236	373	244	/sprites/513.SMIV/1
-	62	151	82	166	/sprites/551.SMIV/7
-	388	361	408	377	/sprites/551.SMIV/4
-	355	241	371	257	/sprites/507.SMIV/2
-	357	253	373	267	/sprites/507.SMIV/0
-	361	261	367	266	/sprites/513.SMIV/8
-	429	300	441	308	/sprites/503.SMIV/8
-	348	248	372	269	/sprites/517.SMIV/0
-	333	237	381	293	/sprites/504.SMIV/1
+draw	301	351	337	384	/sprites/gai/cruiser%3
+	400	468	416	486	/sprites/gai/fighter%23
+	367	236	373	244	/sprites/sfx/crew%1
+	62	151	82	166	/sprites/gai/fighter%7
+	388	361	408	377	/sprites/gai/fighter%4
+	355	241	371	257	/sprites/sfx/debris%2
+	357	253	373	267	/sprites/sfx/debris%0
+	361	261	367	266	/sprites/sfx/crew%8
+	429	300	441	308	/sprites/dev/fusion%8
+	348	248	372	269	/sprites/sfx/energy%0
+	333	237	381	293	/sprites/sfx/explosion/energy%1
 dither	200	451	458	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		32	55		

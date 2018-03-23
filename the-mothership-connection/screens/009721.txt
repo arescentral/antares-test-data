@@ -130,18 +130,18 @@ rect	178	0	179	481	002850
 	128	107	609	108	
 		235		236	
 		363		364	002850
-draw	364	235	374	242	/sprites/521.SMIV/16
-	147	29	148	30	/sprites/513.SMIV/15
-	326	40	328	41	/sprites/513.SMIV/10
-	284	113	288	116	/sprites/507.SMIV/6
-	270	177	272	178	/sprites/513.SMIV/12
-	218	11	219	12	/sprites/513.SMIV/18
-	251	40	254	43	/sprites/507.SMIV/7
-	239	62	240	63	/sprites/513.SMIV/13
-	376	53	379	56	/sprites/507.SMIV/11
-	278	4	281	8	/sprites/507.SMIV/19
-	277	5			/sprites/507.SMIV/22
-	278	4			/sprites/507.SMIV/19
+draw	364	235	374	242	/sprites/ish/hvc%16
+	147	29	148	30	/sprites/sfx/crew%15
+	326	40	328	41	/sprites/sfx/crew%10
+	284	113	288	116	/sprites/sfx/debris%6
+	270	177	272	178	/sprites/sfx/crew%12
+	218	11	219	12	/sprites/sfx/crew%18
+	251	40	254	43	/sprites/sfx/debris%7
+	239	62	240	63	/sprites/sfx/crew%13
+	376	53	379	56	/sprites/sfx/debris%11
+	278	4	281	8	/sprites/sfx/debris%19
+	277	5			/sprites/sfx/debris%22
+	278	4			/sprites/sfx/debris%19
 line	197	342	212	342	489048
 			204	329	
 	212				204020

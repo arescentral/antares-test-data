@@ -766,17 +766,17 @@ rect	61	58	62	419	002850
 		370		371	005000
 		387		388	002850
 		404		405	
-draw	309	253	341	285	/sprites/1022.SMIV/0
-	292	222	308	238	/sprites/1009.SMIV/0
-	309	301	324	314	/sprites/564.SMIV/0
-	175	211	191	227	/sprites/1010.SMIV/0
-	184	177	200	193	/sprites/1011.SMIV/0
-	139	157	171	189	/sprites/1023.SMIV/0
-outline	355	230	364	241	00c000	007000	/sprites/652.SMIV/0
-	103	216	163	311	c00000	700000	/sprites/604.SMIV/0
-	209	205	223	227			/sprites/524.SMIV/0
+draw	309	253	341	285	/sprites/loc/planets/purtygas%0
+	292	222	308	238	/sprites/loc/planets/saturny%0
+	309	301	324	314	/sprites/loc/power%0
+	175	211	191	227	/sprites/loc/planets/yellow-cookie%0
+	184	177	200	193	/sprites/loc/planets/purpleblue%0
+	139	157	171	189	/sprites/loc/planets/aqua-minerale%0
+outline	355	230	364	241	00c000	007000	/sprites/uns/gunship%0
+	103	216	163	311	c00000	700000	/sprites/can/gateship%0
+	209	205	223	227			/sprites/can/carrier%0
 	170	245	184	267			
-	455	270	473	307	00c000	007000	/sprites/649.SMIV/0
+	455	270	473	307	00c000	007000	/sprites/uns/carrier%0
 	354	256	372	293			
 rect	101	214	166	215	ffff7f
 	165			314	

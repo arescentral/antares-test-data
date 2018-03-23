@@ -131,27 +131,27 @@ rect	204	0	205	481	000050
 		168		169	
 		296		297	
 		424		425	005000
-draw	403	172	435	204	/sprites/1021.SMIV/0
-	361	236	373	247	/sprites/652.SMIV/2
-	452	189	467	196	/sprites/652.SMIV/19
-	425	156	429	160	/sprites/651.SMIV/13
-	450	192	465	199	/sprites/652.SMIV/19
+draw	403	172	435	204	/sprites/loc/planets/fall%0
+	361	236	373	247	/sprites/uns/gunship%2
+	452	189	467	196	/sprites/uns/gunship%19
+	425	156	429	160	/sprites/uns/fighter%13
+	450	192	465	199	/sprites/uns/gunship%19
 	443	190	458	197	
-	437	234	441	238	/sprites/651.SMIV/23
-	415	154	422	165	/sprites/652.SMIV/12
-	419	182	425	185	/sprites/651.SMIV/6
-		216	423	220	/sprites/651.SMIV/0
-	413	177	419	180	/sprites/651.SMIV/17
-		201	428	209	/sprites/652.SMIV/20
-		186	429	192	/sprites/652.SMIV/18
-	432	201	438	205	/sprites/651.SMIV/21
-	395	155	407	166	/sprites/652.SMIV/10
-	555	376	599	407	/sprites/649.SMIV/21
-	631	335	681	360	/sprites/649.SMIV/20
-	416	184	428	195	/sprites/652.SMIV/22
-	411	197	416	201	/sprites/651.SMIV/2
-	370	215	376	218	/sprites/651.SMIV/4
-	410	148	414	152	/sprites/651.SMIV/11
+	437	234	441	238	/sprites/uns/fighter%23
+	415	154	422	165	/sprites/uns/gunship%12
+	419	182	425	185	/sprites/uns/fighter%6
+		216	423	220	/sprites/uns/fighter%0
+	413	177	419	180	/sprites/uns/fighter%17
+		201	428	209	/sprites/uns/gunship%20
+		186	429	192	/sprites/uns/gunship%18
+	432	201	438	205	/sprites/uns/fighter%21
+	395	155	407	166	/sprites/uns/gunship%10
+	555	376	599	407	/sprites/uns/carrier%21
+	631	335	681	360	/sprites/uns/carrier%20
+	416	184	428	195	/sprites/uns/gunship%22
+	411	197	416	201	/sprites/uns/fighter%2
+	370	215	376	218	/sprites/uns/fighter%4
+	410	148	414	152	/sprites/uns/fighter%11
 dither	373	226	428	243	303000
 crop	377	230	384	241	48	44	000000	/fonts/tactical.png
 	384		391		72	66		
@@ -613,7 +613,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	206	33	224	/sprites/651.SMIV/0
+draw	17	206	33	224	/sprites/uns/fighter%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -676,7 +676,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1021.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/fall%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

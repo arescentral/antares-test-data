@@ -126,14 +126,14 @@ point	482	248	808080
 rect	211	0	212	481	000050
 	557		558		
 	128	146	609	147	
-draw	355	229	382	247	/sprites/521.SMIV/6
-	530	217	594	295	/sprites/590.SMIV/17
-	456	244	472	255	/sprites/584.SMIV/1
-	500	313	521	333	/sprites/541.SMIV/6
-	361	234	377	247	/sprites/584.SMIV/2
-	493	352	517	374	/sprites/541.SMIV/10
-	482	442	506	458	/sprites/541.SMIV/18
-	488	397	512	416	/sprites/541.SMIV/14
+draw	355	229	382	247	/sprites/ish/hvc%6
+	530	217	594	295	/sprites/ast/nasty%17
+	456	244	472	255	/sprites/dev/onas%1
+	500	313	521	333	/sprites/sfx/explosion/gas%6
+	361	234	377	247	/sprites/dev/onas%2
+	493	352	517	374	/sprites/sfx/explosion/gas%10
+	482	442	506	458	/sprites/sfx/explosion/gas%18
+	488	397	512	416	/sprites/sfx/explosion/gas%14
 line	565	215	551	209	489048
 			553	224	
 	551	209			204020

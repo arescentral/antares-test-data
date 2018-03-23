@@ -131,12 +131,12 @@ rect	243	0	244	481	000050
 		259		260	000050
 		387		388	
 line	426	233	421	236	ff7f00
-draw	534	168	572	207	/sprites/1036.SMIV/0
-	363	236	373	242	/sprites/521.SMIV/7
-	566	135	570	139	/sprites/512.SMIV/10
-static	557	158	562	167	00000000	254	/sprites/523.SMIV/13
-draw	409	252	415	257	/sprites/584.SMIV/2
-	368	239	373	243	/sprites/584.SMIV/0
+draw	534	168	572	207	/sprites/loc/planets/earth%0
+	363	236	373	242	/sprites/ish/hvc%7
+	566	135	570	139	/sprites/can/fighter%10
+static	557	158	562	167	00000000	254	/sprites/can/hvc%13
+draw	409	252	415	257	/sprites/dev/onas%2
+	368	239	373	243	/sprites/dev/onas%0
 line	564	277	552	267	489048
 			549	282	
 	552	267			204020

@@ -153,29 +153,29 @@ rect	174	0	175	481	000050
 		438		439	002850
 line	455	196	451	198	ff7f00
 	405	233	400	234	
-draw	593	-36	631	3	/sprites/1036.SMIV/0
-	364	237	374	244	/sprites/521.SMIV/6
-	481	162	482	163	/sprites/513.SMIV/15
-	521	85	522	86	/sprites/513.SMIV/18
-	618	177	642	194	/sprites/524.SMIV/17
+draw	593	-36	631	3	/sprites/loc/planets/earth%0
+	364	237	374	244	/sprites/ish/hvc%6
+	481	162	482	163	/sprites/sfx/crew%15
+	521	85	522	86	/sprites/sfx/crew%18
+	618	177	642	194	/sprites/can/carrier%17
 	615	152	639	169	
 	569	129	593	146	
-	582	111	606	131	/sprites/524.SMIV/16
-	623	24	629	33	/sprites/523.SMIV/10
-	603	214	604	215	/sprites/513.SMIV/13
-	373	238	379	243	/sprites/584.SMIV/3
-	633	131	637	132	/sprites/528.SMIV/16
-	405	246	409	247	/sprites/528.SMIV/18
-	404	235	408	236	/sprites/528.SMIV/17
+	582	111	606	131	/sprites/can/carrier%16
+	623	24	629	33	/sprites/can/hvc%10
+	603	214	604	215	/sprites/sfx/crew%13
+	373	238	379	243	/sprites/dev/onas%3
+	633	131	637	132	/sprites/dev/cm%16
+	405	246	409	247	/sprites/dev/cm%18
+	404	235	408	236	/sprites/dev/cm%17
 	472	221	476	222	
-	536	180	540	181	/sprites/528.SMIV/16
+	536	180	540	181	/sprites/dev/cm%16
 	516	152	520	153	
-	548	201	553	205	/sprites/584.SMIV/0
-	484	206	490	210	/sprites/584.SMIV/1
-	617	185	621	186	/sprites/528.SMIV/17
-	420	221	426	226	/sprites/584.SMIV/2
-	574	138	578	139	/sprites/528.SMIV/16
-	466	187	468	189	/sprites/504.SMIV/19
+	548	201	553	205	/sprites/dev/onas%0
+	484	206	490	210	/sprites/dev/onas%1
+	617	185	621	186	/sprites/dev/cm%17
+	420	221	426	226	/sprites/dev/onas%2
+	574	138	578	139	/sprites/dev/cm%16
+	466	187	468	189	/sprites/sfx/explosion/energy%19
 	477	180	479	182	
 line	566	216	552	210	489048
 			554	225	

@@ -136,12 +136,12 @@ point	428	175	b0b0b0
 rect	201	0	202	481	000050
 line	393	569	392	549	00ff00
 	390	434	387	414	
-draw	348	219	384	255	/sprites/521.SMIV/10
-	173	195	209	228	/sprites/550.SMIV/15
-	424	288	460	321	/sprites/550.SMIV/9
-	383	303	391	313	/sprites/503.SMIV/11
-	374	410	382	421	/sprites/503.SMIV/12
-	375	204	393	223	/sprites/554.SMIV/8
+draw	348	219	384	255	/sprites/ish/hvc%10
+	173	195	209	228	/sprites/gai/cruiser%15
+	424	288	460	321	/sprites/gai/cruiser%9
+	383	303	391	313	/sprites/dev/fusion%11
+	374	410	382	421	/sprites/dev/fusion%12
+	375	204	393	223	/sprites/sfx/explosion/large-hit%8
 line	482	403	481	388	489048
 			468	397	
 	481	388			204020

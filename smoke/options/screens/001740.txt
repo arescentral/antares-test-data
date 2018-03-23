@@ -317,4 +317,4 @@ draw	0	245	178	456	/interfaces/main/left.png
 		0	640	245	/interfaces/main/top.png
 	460	245		456	/interfaces/main/right.png
 	0	456		480	/interfaces/main/bottom.png
-	550	430	562	440	/sprites/cursor.SMIV/0
+	550	430	562	440	/sprites/cursor%0

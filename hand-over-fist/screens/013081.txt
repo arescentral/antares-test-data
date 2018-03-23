@@ -148,12 +148,12 @@ rect	396	0	397	481	000050
 line	908	1237	904	1239	ffff7f
 	937	1236	926		00ff00
 	486	299	500	307	ff0000
-draw	639	300	739	400	/sprites/1003.SMIV/0
-	514	302	535	330	/sprites/502.SMIV/20
-	353	222	387	254	/sprites/509.SMIV/17
-	508	69	520	79	/sprites/512.SMIV/7
-	492	302	504	312	/sprites/512.SMIV/20
-	462	217	471	224	/sprites/508.SMIV/1
+draw	639	300	739	400	/sprites/loc/planets/yellow%0
+	514	302	535	330	/sprites/can/cruiser%20
+	353	222	387	254	/sprites/ish/gunship%17
+	508	69	520	79	/sprites/can/fighter%7
+	492	302	504	312	/sprites/can/fighter%20
+	462	217	471	224	/sprites/dev/anti%1
 dither	200	50	339	67	003030
 crop	204	54	211	65	80	55	000000	/fonts/tactical.png
 	211		218		120	66		
@@ -491,7 +491,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -554,7 +554,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

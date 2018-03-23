@@ -134,19 +134,19 @@ rect	166	0	167	481	000050
 line	223	163	227	163	ff7f00
 	276	193	280	193	
 	339	218	343	219	
-draw	366	237	375	246	/sprites/521.SMIV/22
-	466	20	470	24	/sprites/512.SMIV/14
-	440	5	444	8	/sprites/512.SMIV/11
-	264	102	278	124	/sprites/524.SMIV/12
-static	265	119	289	139	f0f078	39	/sprites/524.SMIV/8
-draw	277	130	280	132	/sprites/528.SMIV/9
-	356	229	362	234	/sprites/584.SMIV/2
-	260	140	263	141	/sprites/541.SMIV/0
-	303	120	312	128	/sprites/541.SMIV/10
-	308	185	314	189	/sprites/584.SMIV/4
-	391	209	393	212	/sprites/528.SMIV/12
-	292	134	300	141	/sprites/541.SMIV/6
-	299	88	308	95	/sprites/541.SMIV/13
+draw	366	237	375	246	/sprites/ish/hvc%22
+	466	20	470	24	/sprites/can/fighter%14
+	440	5	444	8	/sprites/can/fighter%11
+	264	102	278	124	/sprites/can/carrier%12
+static	265	119	289	139	f0f078	39	/sprites/can/carrier%8
+draw	277	130	280	132	/sprites/dev/cm%9
+	356	229	362	234	/sprites/dev/onas%2
+	260	140	263	141	/sprites/sfx/explosion/gas%0
+	303	120	312	128	/sprites/sfx/explosion/gas%10
+	308	185	314	189	/sprites/dev/onas%4
+	391	209	393	212	/sprites/dev/cm%12
+	292	134	300	141	/sprites/sfx/explosion/gas%6
+	299	88	308	95	/sprites/sfx/explosion/gas%13
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		

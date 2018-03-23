@@ -130,9 +130,9 @@ rect	256	0	257	481	002850
 line	414	149	409	156	ffff7f
 	374	200	372	205	
 	366	237	365	240	
-draw	356	230	380	252	/sprites/646.SMIV/0
-	185	36	203	52	/sprites/550.SMIV/9
-	402	113	422	128	/sprites/550.SMIV/2
+draw	356	230	380	252	/sprites/ish/hvd%0
+	185	36	203	52	/sprites/gai/cruiser%9
+	402	113	422	128	/sprites/gai/cruiser%2
 line	388	42	379	54	489048
 			394	56	
 	379	54			204020

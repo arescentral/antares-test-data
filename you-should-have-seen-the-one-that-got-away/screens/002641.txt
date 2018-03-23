@@ -147,10 +147,10 @@ rect	410	0	411	481	000050
 	128	279	609	280	
 line	508	206	501	211	7fff7f
 	404	236	397	239	
-draw	357	229	386	256	/sprites/652.SMIV/22
-static	634	452	646	476	00000000	254	/sprites/502.SMIV/1
-	592	153	618	184	f0f078	110	/sprites/506.SMIV/11
-draw	584	177	588	181	/sprites/504.SMIV/18
+draw	357	229	386	256	/sprites/uns/gunship%22
+static	634	452	646	476	00000000	254	/sprites/can/cruiser%1
+	592	153	618	184	f0f078	110	/sprites/can/gunship%11
+draw	584	177	588	181	/sprites/sfx/explosion/energy%18
 line	277	61	277	76	489048
 			290	69	
 		76			204020
@@ -427,7 +427,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	206	29	224	/sprites/649.SMIV/0
+draw	21	206	29	224	/sprites/uns/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -518,7 +518,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

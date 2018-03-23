@@ -158,29 +158,29 @@ rect	333	0	334	481	000050
 line	399	449	400	436	00ff00
 	348	256	349	249	ffff7f
 	351	286	354	274	00ff00
-draw	471	370	579	478	/sprites/1020.SMIV/0
-static	287	202	310	231	f0f078	22	/sprites/502.SMIV/7
-draw	298	35	321	57	/sprites/501.SMIV/6
-static	350	221	387	255	ffffff	56	/sprites/509.SMIV/13
-draw	397	352	420	375	/sprites/501.SMIV/11
-	638	382	682	421	/sprites/514.SMIV/17
-	119	256	146	278	/sprites/501.SMIV/4
-	557	460	587	502	/sprites/506.SMIV/18
-	127	314	150	336	/sprites/501.SMIV/6
-	56	298	157	360	/sprites/636.SMIV/8
-	21	247	27	251	/sprites/513.SMIV/19
-	444	232	449	238	/sprites/513.SMIV/3
-	107	368	117	379	/sprites/507.SMIV/11
-	112	328	125	344	/sprites/547.SMIV/3
-	109	330		343	/sprites/547.SMIV/2
-	133	257	143	263	/sprites/503.SMIV/4
-	491	146	501	154	/sprites/508.SMIV/2
-	177	286	190	292	/sprites/528.SMIV/4
-	339	163	352	179	/sprites/547.SMIV/3
-	223	25	263	67	/sprites/554.SMIV/9
-	531	451	551	467	/sprites/508.SMIV/3
-	42	245	137	311	/sprites/504.SMIV/16
-	365	220	378	236	/sprites/547.SMIV/3
+draw	471	370	579	478	/sprites/loc/planets/cloudtones%0
+static	287	202	310	231	f0f078	22	/sprites/can/cruiser%7
+draw	298	35	321	57	/sprites/ish/cruiser%6
+static	350	221	387	255	ffffff	56	/sprites/ish/gunship%13
+draw	397	352	420	375	/sprites/ish/cruiser%11
+	638	382	682	421	/sprites/can/transprt%17
+	119	256	146	278	/sprites/ish/cruiser%4
+	557	460	587	502	/sprites/can/gunship%18
+	127	314	150	336	/sprites/ish/cruiser%6
+	56	298	157	360	/sprites/uns/etc/bttlship%8
+	21	247	27	251	/sprites/sfx/crew%19
+	444	232	449	238	/sprites/sfx/crew%3
+	107	368	117	379	/sprites/sfx/debris%11
+	112	328	125	344	/sprites/dev/pp%3
+	109	330		343	/sprites/dev/pp%2
+	133	257	143	263	/sprites/dev/fusion%4
+	491	146	501	154	/sprites/dev/anti%2
+	177	286	190	292	/sprites/dev/cm%4
+	339	163	352	179	/sprites/dev/pp%3
+	223	25	263	67	/sprites/sfx/explosion/large-hit%9
+	531	451	551	467	/sprites/dev/anti%3
+	42	245	137	311	/sprites/sfx/explosion/energy%16
+	365	220	378	236	/sprites/dev/pp%3
 dither	367	249	422	266	303000
 crop	371	253	378	264	56	44	000000	/fonts/tactical.png
 	378		385		40	77		
@@ -529,7 +529,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	208	34	222	/sprites/509.SMIV/0
+draw	16	208	34	222	/sprites/ish/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

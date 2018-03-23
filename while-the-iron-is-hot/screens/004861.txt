@@ -137,22 +137,22 @@ rect	530	0	531	481	000050
 	128	90	609	91	
 line	369	257	378	242	00ff00
 	159	493	170	480	
-static	358	223	390	253	ffffff	1	/sprites/501.SMIV/14
-draw	629	306	661	340	/sprites/550.SMIV/17
-	536	88	556	104	/sprites/551.SMIV/8
-	157	169	185	195	/sprites/501.SMIV/6
-	262	417	422	513	/sprites/560.SMIV/6
-	511	451	531	467	/sprites/551.SMIV/4
-	352	260	360	270	/sprites/503.SMIV/14
-	206	232	226	248	/sprites/548.SMIV/2
-	183	251	191	257	/sprites/655.SMIV/1
-	55	242	63	248	/sprites/655.SMIV/5
-	414	169	446	201	/sprites/541.SMIV/7
-	108	227	116	235	/sprites/655.SMIV/2
-	164	249	172	255	/sprites/655.SMIV/1
-	80	230	92	240	/sprites/655.SMIV/3
-	48	219	56	225	/sprites/655.SMIV/5
-	73	243	85	253	/sprites/655.SMIV/3
+static	358	223	390	253	ffffff	1	/sprites/ish/cruiser%14
+draw	629	306	661	340	/sprites/gai/cruiser%17
+	536	88	556	104	/sprites/gai/fighter%8
+	157	169	185	195	/sprites/ish/cruiser%6
+	262	417	422	513	/sprites/gai/carrier%6
+	511	451	531	467	/sprites/gai/fighter%4
+	352	260	360	270	/sprites/dev/fusion%14
+	206	232	226	248	/sprites/dev/atomic%2
+	183	251	191	257	/sprites/sfx/sparkle%1
+	55	242	63	248	/sprites/sfx/sparkle%5
+	414	169	446	201	/sprites/sfx/explosion/gas%7
+	108	227	116	235	/sprites/sfx/sparkle%2
+	164	249	172	255	/sprites/sfx/sparkle%1
+	80	230	92	240	/sprites/sfx/sparkle%3
+	48	219	56	225	/sprites/sfx/sparkle%5
+	73	243	85	253	/sprites/sfx/sparkle%3
 line	281	419	294	411	489048
 			280	404	
 	294	411			204020
@@ -450,7 +450,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	224	/sprites/1009.SMIV/0
+draw	16	206	34	224	/sprites/loc/planets/saturny%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -476,7 +476,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	278	30	296	/sprites/515.SMIV/0
+draw	19	278	30	296	/sprites/ish/transprt%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

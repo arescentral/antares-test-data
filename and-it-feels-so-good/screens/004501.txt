@@ -138,11 +138,11 @@ rect	429	0	430	481	002850
 line	417	344	412	329	ffff7f
 	501	460	493	441	
 	377	262	375	251	
-draw	342	216	389	261	/sprites/646.SMIV/11
-	361	426	412	467	/sprites/615.SMIV/15
-	458	477	485	505	/sprites/522.SMIV/1
-	378	342	393	358	/sprites/554.SMIV/9
-	394	323	417	348	/sprites/522.SMIV/5
+draw	342	216	389	261	/sprites/ish/hvd%11
+	361	426	412	467	/sprites/aud/aslttran%15
+	458	477	485	505	/sprites/dev/fullerene%1
+	378	342	393	358	/sprites/sfx/explosion/large-hit%9
+	394	323	417	348	/sprites/dev/fullerene%5
 line	418	431	422	416	489048
 			407	420	
 	422	416			204020
@@ -461,7 +461,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	20	206	29	224	/sprites/582.SMIV/0
+draw	20	206	29	224	/sprites/ele/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -534,7 +534,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -129,15 +129,15 @@ rect	251	0	252	405	000050
 	128	87	609	88	000050
 		215		216	005000
 		343		344	000050
-draw	30	253	68	292	/sprites/1036.SMIV/0
-	364	235	374	242	/sprites/521.SMIV/16
-	284	285	310	309	/sprites/590.SMIV/1
-	269	419	275	423	/sprites/584.SMIV/4
-	285	284	294	290	/sprites/541.SMIV/19
-	265	348	273	353	/sprites/581.SMIV/1
-	277	283	284	287	/sprites/541.SMIV/24
-	296	286	305	293	/sprites/541.SMIV/15
-	298	299	307	307	/sprites/541.SMIV/10
+draw	30	253	68	292	/sprites/loc/planets/earth%0
+	364	235	374	242	/sprites/ish/hvc%16
+	284	285	310	309	/sprites/ast/nasty%1
+	269	419	275	423	/sprites/dev/onas%4
+	285	284	294	290	/sprites/sfx/explosion/gas%19
+	265	348	273	353	/sprites/dev/magno%1
+	277	283	284	287	/sprites/sfx/explosion/gas%24
+	296	286	305	293	/sprites/sfx/explosion/gas%15
+	298	299	307	307	/sprites/sfx/explosion/gas%10
 rect	128	404	608	480	007fff
 		405		479	000810
 	132	409	139	420	007fff

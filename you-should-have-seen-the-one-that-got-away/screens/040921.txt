@@ -258,56 +258,56 @@ line	209	257	214	260	7fff7f
 	168	320	168	323	
 	267	234	272	234	
 	211		217	235	
-draw	323	455	342	474	/sprites/1010.SMIV/0
-	191	210	209	218	/sprites/652.SMIV/19
-	359	236	378	243	/sprites/652.SMIV/18
-	190	-9	231	35	/sprites/649.SMIV/10
-	332	221	398	245	/sprites/649.SMIV/17
-	192	171	203	185	/sprites/652.SMIV/13
-static	181	231	193	245	f0f078	24	/sprites/506.SMIV/21
-draw	111	178	129	188	/sprites/652.SMIV/8
-	173	249	187	262	/sprites/652.SMIV/2
-	208	254	225	266	/sprites/652.SMIV/21
-	248	235	266	243	/sprites/652.SMIV/19
-	91	100	98	105	/sprites/651.SMIV/9
-	77	116	96	124	/sprites/652.SMIV/5
-	65	141	83	148	/sprites/652.SMIV/6
-	363	341	377	354	/sprites/652.SMIV/22
-	153	375	171	383	/sprites/652.SMIV/19
-	185	171	187	172	/sprites/513.SMIV/21
-	107	172	126	180	/sprites/652.SMIV/5
-	165	195	179	208	/sprites/652.SMIV/10
-	83	155	85	156	/sprites/513.SMIV/9
-	182	207	188	211	/sprites/653.SMIV/1
-	176	247	180	252	/sprites/653.SMIV/3
-	211	227	217	231	/sprites/653.SMIV/1
-	118	187	124	191	/sprites/653.SMIV/4
-	207	245	211	250	/sprites/653.SMIV/0
-	182	226	184	228	/sprites/504.SMIV/18
-	179	219	183	223	/sprites/554.SMIV/5
-	221	243	225	248	/sprites/653.SMIV/3
-	246	241	252	245	/sprites/653.SMIV/1
-	215	237	221	241	/sprites/653.SMIV/2
-	188	224	194	228	/sprites/653.SMIV/4
-	234	231	240	235	/sprites/653.SMIV/2
-	183	227	186	230	/sprites/554.SMIV/2
-	186	232	188	234	/sprites/504.SMIV/18
+draw	323	455	342	474	/sprites/loc/planets/yellow-cookie%0
+	191	210	209	218	/sprites/uns/gunship%19
+	359	236	378	243	/sprites/uns/gunship%18
+	190	-9	231	35	/sprites/uns/carrier%10
+	332	221	398	245	/sprites/uns/carrier%17
+	192	171	203	185	/sprites/uns/gunship%13
+static	181	231	193	245	f0f078	24	/sprites/can/gunship%21
+draw	111	178	129	188	/sprites/uns/gunship%8
+	173	249	187	262	/sprites/uns/gunship%2
+	208	254	225	266	/sprites/uns/gunship%21
+	248	235	266	243	/sprites/uns/gunship%19
+	91	100	98	105	/sprites/uns/fighter%9
+	77	116	96	124	/sprites/uns/gunship%5
+	65	141	83	148	/sprites/uns/gunship%6
+	363	341	377	354	/sprites/uns/gunship%22
+	153	375	171	383	/sprites/uns/gunship%19
+	185	171	187	172	/sprites/sfx/crew%21
+	107	172	126	180	/sprites/uns/gunship%5
+	165	195	179	208	/sprites/uns/gunship%10
+	83	155	85	156	/sprites/sfx/crew%9
+	182	207	188	211	/sprites/dev/magneto%1
+	176	247	180	252	/sprites/dev/magneto%3
+	211	227	217	231	/sprites/dev/magneto%1
+	118	187	124	191	/sprites/dev/magneto%4
+	207	245	211	250	/sprites/dev/magneto%0
+	182	226	184	228	/sprites/sfx/explosion/energy%18
+	179	219	183	223	/sprites/sfx/explosion/large-hit%5
+	221	243	225	248	/sprites/dev/magneto%3
+	246	241	252	245	/sprites/dev/magneto%1
+	215	237	221	241	/sprites/dev/magneto%2
+	188	224	194	228	/sprites/dev/magneto%4
+	234	231	240	235	/sprites/dev/magneto%2
+	183	227	186	230	/sprites/sfx/explosion/large-hit%2
+	186	232	188	234	/sprites/sfx/explosion/energy%18
 	182	234	184	236	
-	184	233	187		/sprites/554.SMIV/2
-	250	241	256	245	/sprites/653.SMIV/1
-	183	236	186	239	/sprites/554.SMIV/2
-		228		230	/sprites/504.SMIV/19
+	184	233	187		/sprites/sfx/explosion/large-hit%2
+	250	241	256	245	/sprites/dev/magneto%1
+	183	236	186	239	/sprites/sfx/explosion/large-hit%2
+		228		230	/sprites/sfx/explosion/energy%19
 	187	231	190	233	
 	182	238	185	240	
-	192	233	194	236	/sprites/554.SMIV/1
-	165	224	171	228	/sprites/653.SMIV/4
-	202	238	204	240	/sprites/504.SMIV/18
-	181	230	185	235	/sprites/554.SMIV/6
-	195	229	198	233	/sprites/554.SMIV/4
-	196	209	200	214	/sprites/554.SMIV/9
-	186	229	188	231	/sprites/504.SMIV/18
-	189	237	192	241	/sprites/554.SMIV/4
-	190	244		246	/sprites/554.SMIV/0
+	192	233	194	236	/sprites/sfx/explosion/large-hit%1
+	165	224	171	228	/sprites/dev/magneto%4
+	202	238	204	240	/sprites/sfx/explosion/energy%18
+	181	230	185	235	/sprites/sfx/explosion/large-hit%6
+	195	229	198	233	/sprites/sfx/explosion/large-hit%4
+	196	209	200	214	/sprites/sfx/explosion/large-hit%9
+	186	229	188	231	/sprites/sfx/explosion/energy%18
+	189	237	192	241	/sprites/sfx/explosion/large-hit%4
+	190	244		246	/sprites/sfx/explosion/large-hit%0
 	192	239	194	241	
 dither	333	444	444	461	001830
 crop	337	448	344	459	0	55	000000	/fonts/tactical.png
@@ -681,7 +681,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		8	72		
 	93		99		0	24		
 	99		105		8	36		
-draw	16	278	34	296	/sprites/1010.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/yellow-cookie%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

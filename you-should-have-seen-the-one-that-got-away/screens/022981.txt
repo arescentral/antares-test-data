@@ -131,26 +131,26 @@ rect	152	0	153	481	000050
 		176		177	
 		304		305	002850
 		432		433	000050
-draw	407	247	422	260	/sprites/564.SMIV/0
-	423	278	459	313	/sprites/649.SMIV/22
-	390	245	440	269	/sprites/649.SMIV/4
-	410	252	424	262	/sprites/652.SMIV/21
-	455	228	471	235	/sprites/652.SMIV/17
-	402	270	411	281	/sprites/652.SMIV/1
-	407	248	417	259	/sprites/652.SMIV/23
-	408	250	423	256	/sprites/652.SMIV/6
-	402	251	414	262	/sprites/652.SMIV/14
-	423	261	429	264	/sprites/651.SMIV/4
-	361	236	375	246	/sprites/652.SMIV/3
-	408	317	412	321	/sprites/651.SMIV/23
-	413	246	427	256	/sprites/652.SMIV/15
-	402	250	411	261	/sprites/652.SMIV/1
-	414	255	420	258	/sprites/651.SMIV/4
-	439	280	443	284	/sprites/651.SMIV/23
-	421	267	433	278	/sprites/652.SMIV/22
-	439	312	444	316	/sprites/651.SMIV/22
-	406	296	410	300	/sprites/651.SMIV/23
-	556	202	557	203	/sprites/513.SMIV/6
+draw	407	247	422	260	/sprites/loc/power%0
+	423	278	459	313	/sprites/uns/carrier%22
+	390	245	440	269	/sprites/uns/carrier%4
+	410	252	424	262	/sprites/uns/gunship%21
+	455	228	471	235	/sprites/uns/gunship%17
+	402	270	411	281	/sprites/uns/gunship%1
+	407	248	417	259	/sprites/uns/gunship%23
+	408	250	423	256	/sprites/uns/gunship%6
+	402	251	414	262	/sprites/uns/gunship%14
+	423	261	429	264	/sprites/uns/fighter%4
+	361	236	375	246	/sprites/uns/gunship%3
+	408	317	412	321	/sprites/uns/fighter%23
+	413	246	427	256	/sprites/uns/gunship%15
+	402	250	411	261	/sprites/uns/gunship%1
+	414	255	420	258	/sprites/uns/fighter%4
+	439	280	443	284	/sprites/uns/fighter%23
+	421	267	433	278	/sprites/uns/gunship%22
+	439	312	444	316	/sprites/uns/fighter%22
+	406	296	410	300	/sprites/uns/fighter%23
+	556	202	557	203	/sprites/sfx/crew%6
 dither	414	233	581	250	001830
 crop	418	237	425	248	0	55	000000	/fonts/tactical.png
 	425		432		120	66		
@@ -490,7 +490,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -574,7 +574,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

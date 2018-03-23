@@ -129,10 +129,10 @@ rect	218	0	219	481	000050
 		451		452	
 line	297	81	303	94	00ff00
 	353	165	355	179	
-draw	354	228	376	253	/sprites/521.SMIV/1
-	417	46	462	84	/sprites/553.SMIV/3
-	321	165	326	172	/sprites/503.SMIV/23
-	366	231	371	238	/sprites/503.SMIV/1
+draw	354	228	376	253	/sprites/ish/hvc%1
+	417	46	462	84	/sprites/gai/gunship%3
+	321	165	326	172	/sprites/dev/fusion%23
+	366	231	371	238	/sprites/dev/fusion%1
 line	404	43	394	55	489048
 			409	58	
 	394	55			204020

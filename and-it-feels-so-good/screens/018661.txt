@@ -132,10 +132,10 @@ rect	147	0	148	481	000050
 		340		341	
 line	387	535	309	506	081008
 	337	551			804080
-draw	359	233	378	244	/sprites/646.SMIV/16
-	173	457	180	464	/sprites/501.SMIV/6
-	483	332	485	335	/sprites/583.SMIV/1
-	135	447	150	462	/sprites/519.SMIV/0
+draw	359	233	378	244	/sprites/ish/hvd%16
+	173	457	180	464	/sprites/ish/cruiser%6
+	483	332	485	335	/sprites/dev/amissile%1
+	135	447	150	462	/sprites/sfx/warp%0
 line	186	323	201	324	489048
 			195	310	
 	201	324			204020
@@ -464,7 +464,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		8	48		
 	57		63		112			
-draw	16	208	34	222	/sprites/559.SMIV/0
+draw	16	208	34	222	/sprites/ish/aslttran%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -539,7 +539,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

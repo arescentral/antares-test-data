@@ -129,25 +129,25 @@ rect	172	0	173	481	000050
 		208		209	
 		336		337	
 		464		465	005000
-draw	362	234	376	245	/sprites/646.SMIV/14
-	338	265	345	272	/sprites/501.SMIV/13
-	354	274	362	281	/sprites/501.SMIV/15
-	340	259	347	266	/sprites/501.SMIV/13
-	350	277	358	284	/sprites/501.SMIV/14
-	554	360	580	378	/sprites/525.SMIV/21
-	96	59	124	76	/sprites/525.SMIV/8
-	351	168	363	178	/sprites/509.SMIV/10
-	386	293	398	303	/sprites/509.SMIV/14
-	318	185	329	196	/sprites/509.SMIV/8
-	346	253	353	262	/sprites/521.SMIV/13
-	348	218	356	227	/sprites/521.SMIV/14
+draw	362	234	376	245	/sprites/ish/hvd%14
+	338	265	345	272	/sprites/ish/cruiser%13
+	354	274	362	281	/sprites/ish/cruiser%15
+	340	259	347	266	/sprites/ish/cruiser%13
+	350	277	358	284	/sprites/ish/cruiser%14
+	554	360	580	378	/sprites/ish/carrier%21
+	96	59	124	76	/sprites/ish/carrier%8
+	351	168	363	178	/sprites/ish/gunship%10
+	386	293	398	303	/sprites/ish/gunship%14
+	318	185	329	196	/sprites/ish/gunship%8
+	346	253	353	262	/sprites/ish/hvc%13
+	348	218	356	227	/sprites/ish/hvc%14
 	366	243	374	252	
 	346	212	354	221	
 	314	155	322	164	
-	509	332	513	335	/sprites/510.SMIV/8
-	431	257	435	260	/sprites/510.SMIV/9
+	509	332	513	335	/sprites/ish/fighter%8
+	431	257	435	260	/sprites/ish/fighter%9
 	362	161	366	164	
-	360	213	374	226	/sprites/519.SMIV/0
+	360	213	374	226	/sprites/sfx/warp%0
 	390	279	404	292	
 	369	239	383	252	
 	355	217	369	230	
@@ -439,7 +439,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

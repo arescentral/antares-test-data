@@ -130,27 +130,27 @@ rect	236	0	237	481	005000
 		313		314	
 line	-29	77	-31	82	7fff7f
 	-53	139	-55	144	
-draw	346	232	391	247	/sprites/525.SMIV/6
-static	624	251	629	256	f0eac3	128	/sprites/551.SMIV/21
-draw	607	213	612	217	/sprites/510.SMIV/16
-static	453	213	500	268	f0f078	43	/sprites/560.SMIV/10
-draw	587	75	620	130	/sprites/560.SMIV/12
-	248	111	260	122	/sprites/550.SMIV/8
-	236	161	247	173	/sprites/550.SMIV/4
-	196	129	201	133	/sprites/510.SMIV/5
-	439	82	444	86	/sprites/507.SMIV/1
-	415	89	419	93	/sprites/507.SMIV/7
-	390	84	392	86	/sprites/513.SMIV/18
-	409	110	411	112	/sprites/513.SMIV/14
-	576	197	583	202	/sprites/551.SMIV/8
-	397	239	402	245	/sprites/547.SMIV/3
+draw	346	232	391	247	/sprites/ish/carrier%6
+static	624	251	629	256	f0eac3	128	/sprites/gai/fighter%21
+draw	607	213	612	217	/sprites/ish/fighter%16
+static	453	213	500	268	f0f078	43	/sprites/gai/carrier%10
+draw	587	75	620	130	/sprites/gai/carrier%12
+	248	111	260	122	/sprites/gai/cruiser%8
+	236	161	247	173	/sprites/gai/cruiser%4
+	196	129	201	133	/sprites/ish/fighter%5
+	439	82	444	86	/sprites/sfx/debris%1
+	415	89	419	93	/sprites/sfx/debris%7
+	390	84	392	86	/sprites/sfx/crew%18
+	409	110	411	112	/sprites/sfx/crew%14
+	576	197	583	202	/sprites/gai/fighter%8
+	397	239	402	245	/sprites/dev/pp%3
 	396	229	401	235	
-	611	162	613	166	/sprites/528.SMIV/12
-	286	120	293	126	/sprites/517.SMIV/1
-	396	86	404	93	/sprites/517.SMIV/0
-	411	77	439	100	/sprites/504.SMIV/7
-	444	232	448	234	/sprites/541.SMIV/0
-	414	89	426	99	/sprites/541.SMIV/13
+	611	162	613	166	/sprites/dev/cm%12
+	286	120	293	126	/sprites/sfx/energy%1
+	396	86	404	93	/sprites/sfx/energy%0
+	411	77	439	100	/sprites/sfx/explosion/energy%7
+	444	232	448	234	/sprites/sfx/explosion/gas%0
+	414	89	426	99	/sprites/sfx/explosion/gas%13
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -602,7 +602,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

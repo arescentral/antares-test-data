@@ -192,58 +192,58 @@ rect	287	0	288	481	000050
 line	433	-375	440	-376	00ff00
 	-149	-597	-140	-599	
 	448	-377	458	-377	
-draw	327	208	342	221	/sprites/501.SMIV/23
-	338	226	400	253	/sprites/525.SMIV/17
-	423	129	430	135	/sprites/510.SMIV/16
-	495	94	502	101	/sprites/510.SMIV/21
-	153	344	160	350	/sprites/507.SMIV/1
+draw	327	208	342	221	/sprites/ish/cruiser%23
+	338	226	400	253	/sprites/ish/carrier%17
+	423	129	430	135	/sprites/ish/fighter%16
+	495	94	502	101	/sprites/ish/fighter%21
+	153	344	160	350	/sprites/sfx/debris%1
 	158	349	165	355	
-	94	289	101	296	/sprites/507.SMIV/6
-	161	232	168	239	/sprites/507.SMIV/2
-	120	244	127	250	/sprites/507.SMIV/0
-	129	315	134	320	/sprites/507.SMIV/7
-	204	296	211	302	/sprites/507.SMIV/4
-	116	234	123	240	/sprites/507.SMIV/13
-	126	331	133	337	/sprites/507.SMIV/15
-	160	252	165	258	/sprites/507.SMIV/12
-	202	36	204	38	/sprites/513.SMIV/5
-	99	235	104	241	/sprites/507.SMIV/11
-	93	252	100	258	/sprites/507.SMIV/10
-	142	249	147	255	/sprites/507.SMIV/12
-	171	305	178	311	/sprites/507.SMIV/14
-	136	248	143	254	/sprites/507.SMIV/15
-	202	301	209	307	/sprites/507.SMIV/9
-	204	322	211	328	/sprites/507.SMIV/10
-	152	277	157	284	/sprites/507.SMIV/19
-	153		160		/sprites/507.SMIV/18
-	152	278	157		/sprites/507.SMIV/20
-	153	277	160		/sprites/507.SMIV/18
-	151	278	158		/sprites/507.SMIV/21
+	94	289	101	296	/sprites/sfx/debris%6
+	161	232	168	239	/sprites/sfx/debris%2
+	120	244	127	250	/sprites/sfx/debris%0
+	129	315	134	320	/sprites/sfx/debris%7
+	204	296	211	302	/sprites/sfx/debris%4
+	116	234	123	240	/sprites/sfx/debris%13
+	126	331	133	337	/sprites/sfx/debris%15
+	160	252	165	258	/sprites/sfx/debris%12
+	202	36	204	38	/sprites/sfx/crew%5
+	99	235	104	241	/sprites/sfx/debris%11
+	93	252	100	258	/sprites/sfx/debris%10
+	142	249	147	255	/sprites/sfx/debris%12
+	171	305	178	311	/sprites/sfx/debris%14
+	136	248	143	254	/sprites/sfx/debris%15
+	202	301	209	307	/sprites/sfx/debris%9
+	204	322	211	328	/sprites/sfx/debris%10
+	152	277	157	284	/sprites/sfx/debris%19
+	153		160		/sprites/sfx/debris%18
+	152	278	157		/sprites/sfx/debris%20
+	153	277	160		/sprites/sfx/debris%18
+	151	278	158		/sprites/sfx/debris%21
 					
 					
-	152	277	157		/sprites/507.SMIV/19
-	151		158	283	/sprites/507.SMIV/22
-	152	278	157	284	/sprites/507.SMIV/20
-	151	277	158	283	/sprites/507.SMIV/22
-	152		157	284	/sprites/507.SMIV/19
-	151		158	283	/sprites/507.SMIV/22
+	152	277	157		/sprites/sfx/debris%19
+	151		158	283	/sprites/sfx/debris%22
+	152	278	157	284	/sprites/sfx/debris%20
+	151	277	158	283	/sprites/sfx/debris%22
+	152		157	284	/sprites/sfx/debris%19
+	151		158	283	/sprites/sfx/debris%22
 					
-	186	338	192	344	/sprites/554.SMIV/4
-	143	308	152	314	/sprites/541.SMIV/1
-	359	239	366	240	/sprites/528.SMIV/18
-	257	293	266	300	/sprites/547.SMIV/2
-	174	267	181	274	/sprites/554.SMIV/5
-	183	262	192	271	/sprites/517.SMIV/1
-	249	272	258	279	/sprites/547.SMIV/2
-	190	254	201	264	/sprites/517.SMIV/0
-	169	272	178	281	/sprites/517.SMIV/1
+	186	338	192	344	/sprites/sfx/explosion/large-hit%4
+	143	308	152	314	/sprites/sfx/explosion/gas%1
+	359	239	366	240	/sprites/dev/cm%18
+	257	293	266	300	/sprites/dev/pp%2
+	174	267	181	274	/sprites/sfx/explosion/large-hit%5
+	183	262	192	271	/sprites/sfx/energy%1
+	249	272	258	279	/sprites/dev/pp%2
+	190	254	201	264	/sprites/sfx/energy%0
+	169	272	178	281	/sprites/sfx/energy%1
 	184	260	193	269	
 	178	274	187	283	
 	186	267	195	276	
 	173	268	182	277	
 	182	265	191	274	
-	190	257	201	267	/sprites/517.SMIV/0
-	129	259	187	307	/sprites/504.SMIV/9
+	190	257	201	267	/sprites/sfx/energy%0
+	129	259	187	307	/sprites/sfx/explosion/energy%9
 dither	200	460	486	477	300000
 crop	204	464	211	475	0	22	000000	/fonts/tactical.png
 	211		218		64	44		
@@ -685,7 +685,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -750,7 +750,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

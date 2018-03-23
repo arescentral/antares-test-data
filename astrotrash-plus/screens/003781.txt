@@ -143,22 +143,22 @@ rect	213	0	214	481	000050
 		443		444	
 line	388	284	387	281	00ff00
 	371	254	370	251	
-draw	363	235	372	244	/sprites/521.SMIV/10
-	405	256	407	258	/sprites/589.SMIV/0
-	323	320	327	323	/sprites/545.SMIV/10
-	485	243	498	255	/sprites/543.SMIV/3
-static	386	295	389	297	f0f078	61	/sprites/589.SMIV/2
-	382	269	394	281	ffffff	77	/sprites/546.SMIV/18
-draw	354	254	365	266	/sprites/546.SMIV/23
-	375	265	388	278	/sprites/546.SMIV/4
-	444	294	445	295	/sprites/589.SMIV/0
-	336	261	337	262	/sprites/589.SMIV/3
-	319	319	322	322	/sprites/545.SMIV/5
-	424	217	428	220	/sprites/545.SMIV/7
-	414	343	415	344	/sprites/589.SMIV/1
-	446	219	451	224	/sprites/544.SMIV/18
-	385	291	387	293	/sprites/504.SMIV/19
-	390	294	392	296	/sprites/503.SMIV/11
+draw	363	235	372	244	/sprites/ish/hvc%10
+	405	256	407	258	/sprites/zrb/base%0
+	323	320	327	323	/sprites/ast/regular/small%10
+	485	243	498	255	/sprites/ast/regular/big%3
+static	386	295	389	297	f0f078	61	/sprites/zrb/base%2
+	382	269	394	281	ffffff	77	/sprites/ish/etc/astrominer%18
+draw	354	254	365	266	/sprites/ish/etc/astrominer%23
+	375	265	388	278	/sprites/ish/etc/astrominer%4
+	444	294	445	295	/sprites/zrb/base%0
+	336	261	337	262	/sprites/zrb/base%3
+	319	319	322	322	/sprites/ast/regular/small%5
+	424	217	428	220	/sprites/ast/regular/small%7
+	414	343	415	344	/sprites/zrb/base%1
+	446	219	451	224	/sprites/ast/regular/medium%18
+	385	291	387	293	/sprites/sfx/explosion/energy%19
+	390	294	392	296	/sprites/dev/fusion%11
 	380	269	382	271	
 	370	245	372	247	
 line	449	422	450	407	489048

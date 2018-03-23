@@ -161,24 +161,24 @@ line	109	51	116	43	7fff7f
 	1220	2238	1222	2253	007fff
 	334	-228	339	-236	7fff7f
 	231	-78	237	-86	
-draw	355	221	395	267	/sprites/652.SMIV/23
-static	385	103	401	118	f0f078	58	/sprites/512.SMIV/2
-	615	243	643	278	00000000	254	/sprites/502.SMIV/19
-draw	148	79	164	94	/sprites/512.SMIV/21
-	267	368	279	380	/sprites/507.SMIV/7
-	270	254	286	268	/sprites/507.SMIV/4
+draw	355	221	395	267	/sprites/uns/gunship%23
+static	385	103	401	118	f0f078	58	/sprites/can/fighter%2
+	615	243	643	278	00000000	254	/sprites/can/cruiser%19
+draw	148	79	164	94	/sprites/can/fighter%21
+	267	368	279	380	/sprites/sfx/debris%7
+	270	254	286	268	/sprites/sfx/debris%4
 	314	232	330	246	
-	333	339	349	355	/sprites/507.SMIV/5
-	323	288	339	303	/sprites/507.SMIV/6
-	379	425	395	439	/sprites/507.SMIV/13
-	316	434	328	448	/sprites/507.SMIV/11
-	379	83	390	92	/sprites/504.SMIV/19
-	389	127	413	148	/sprites/517.SMIV/0
-	360	286	371	295	/sprites/504.SMIV/19
-	393	147	413	166	/sprites/517.SMIV/1
+	333	339	349	355	/sprites/sfx/debris%5
+	323	288	339	303	/sprites/sfx/debris%6
+	379	425	395	439	/sprites/sfx/debris%13
+	316	434	328	448	/sprites/sfx/debris%11
+	379	83	390	92	/sprites/sfx/explosion/energy%19
+	389	127	413	148	/sprites/sfx/energy%0
+	360	286	371	295	/sprites/sfx/explosion/energy%19
+	393	147	413	166	/sprites/sfx/energy%1
 	397	162	417	181	
-	392	141	416	162	/sprites/517.SMIV/0
-	408	331	548	428	/sprites/504.SMIV/16
+	392	141	416	162	/sprites/sfx/energy%0
+	408	331	548	428	/sprites/sfx/explosion/energy%16
 dither	200	451	451	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -619,7 +619,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -644,7 +644,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	278	29	296	/sprites/649.SMIV/0
+draw	21	278	29	296	/sprites/uns/carrier%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -125,10 +125,10 @@ point	389	136	808080
 	236	167	
 rect	279	0	280	481	000050
 	128	374	609	375	
-draw	366	236	370	243	/sprites/513.SMIV/17
-	242	131	251	137	/sprites/513.SMIV/20
-	619	301	638	318	/sprites/507.SMIV/0
-	630	352	654	375	/sprites/517.SMIV/1
+draw	366	236	370	243	/sprites/sfx/crew%17
+	242	131	251	137	/sprites/sfx/crew%20
+	619	301	638	318	/sprites/sfx/debris%0
+	630	352	654	375	/sprites/sfx/energy%1
 dither	200	50	262	67	003030
 crop	204	54	211	65	16	33	000000	/fonts/tactical.png
 	211		218		80			

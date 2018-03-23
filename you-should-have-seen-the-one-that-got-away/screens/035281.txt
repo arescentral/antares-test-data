@@ -143,12 +143,12 @@ line	5314	805	5315	802	7fff7f
 	5322	812	5321	816	
 	5371	852	5375	854	
 	5299		5297	855	
-draw	377	214	409	246	/sprites/1023.SMIV/0
-	361	238	376	245	/sprites/652.SMIV/19
-static	338	169	344	180	00000000	254	/sprites/502.SMIV/10
-	441	205	447	212			/sprites/523.SMIV/22
-draw	485	100	486	102	/sprites/513.SMIV/2
-	291	107	293	108	/sprites/513.SMIV/21
+draw	377	214	409	246	/sprites/loc/planets/aqua-minerale%0
+	361	238	376	245	/sprites/uns/gunship%19
+static	338	169	344	180	00000000	254	/sprites/can/cruiser%10
+	441	205	447	212			/sprites/can/hvc%22
+draw	485	100	486	102	/sprites/sfx/crew%2
+	291	107	293	108	/sprites/sfx/crew%21
 dither	393	240	490	257	303000
 crop	397	244	404	255	0	55	000000	/fonts/tactical.png
 	404		411		72	66		
@@ -471,7 +471,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		40	72		
 	81		87		32	84		
 	87		93		8	72		
-draw	16	206	34	224	/sprites/1023.SMIV/0
+draw	16	206	34	224	/sprites/loc/planets/aqua-minerale%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -496,7 +496,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

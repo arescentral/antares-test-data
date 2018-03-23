@@ -162,25 +162,25 @@ line	318	271	329	270	00ff00
 	223	351	226	343	00ff00
 	230	288	240	285	ffff7f
 	288	265	298	262	00ff00
-draw	320	257	337	271	/sprites/501.SMIV/17
-	275	394	292	407	/sprites/501.SMIV/0
-	593	246	610	260	/sprites/501.SMIV/19
-	242	169	257	184	/sprites/501.SMIV/13
+draw	320	257	337	271	/sprites/ish/cruiser%17
+	275	394	292	407	/sprites/ish/cruiser%0
+	593	246	610	260	/sprites/ish/cruiser%19
+	242	169	257	184	/sprites/ish/cruiser%13
 	321	216	336	231	
-static	201	286	225	295	f0f078	37	/sprites/642.SMIV/17
-draw	324	205	390	238	/sprites/636.SMIV/17
-	357	227	381	250	/sprites/509.SMIV/17
-	153	393	164	399	/sprites/547.SMIV/1
-	226	284	234	286	/sprites/528.SMIV/17
-	230	252		257	/sprites/503.SMIV/13
-	134	371	145	379	/sprites/547.SMIV/2
-	215	361	221	365	/sprites/503.SMIV/21
-	343	235	351	238	/sprites/528.SMIV/16
-	281	244	292	250	/sprites/547.SMIV/1
-	285	262	296	269	/sprites/547.SMIV/4
-	287	276	293	279	/sprites/503.SMIV/17
-	219	280	225	285	/sprites/504.SMIV/19
-	225		229	284	/sprites/554.SMIV/0
+static	201	286	225	295	f0f078	37	/sprites/can/engineer%17
+draw	324	205	390	238	/sprites/uns/etc/bttlship%17
+	357	227	381	250	/sprites/ish/gunship%17
+	153	393	164	399	/sprites/dev/pp%1
+	226	284	234	286	/sprites/dev/cm%17
+	230	252		257	/sprites/dev/fusion%13
+	134	371	145	379	/sprites/dev/pp%2
+	215	361	221	365	/sprites/dev/fusion%21
+	343	235	351	238	/sprites/dev/cm%16
+	281	244	292	250	/sprites/dev/pp%1
+	285	262	296	269	/sprites/dev/pp%4
+	287	276	293	279	/sprites/dev/fusion%17
+	219	280	225	285	/sprites/sfx/explosion/energy%19
+	225		229	284	/sprites/sfx/explosion/large-hit%0
 dither	353	240	429	257	303000
 crop	357	244	364	255	16	44	000000	/fonts/tactical.png
 	364		371		8	66		
@@ -941,7 +941,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -1005,7 +1005,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -152,46 +152,46 @@ rect	190	0	191	481	002850
 		314		315	
 		442		443	002850
 line	361	253	361	249	ff7f00
-draw	226	-33	264	6	/sprites/1036.SMIV/0
-	366	235	373	244	/sprites/521.SMIV/13
-	277	317	281	321	/sprites/512.SMIV/9
-	56	240	57	241	/sprites/513.SMIV/15
-	439	266	441	267	/sprites/513.SMIV/10
-	265	2	267	3	/sprites/513.SMIV/23
-	377	285	381	288	/sprites/512.SMIV/8
-	57	87	58	88	/sprites/513.SMIV/18
-	308	347	324	369	/sprites/524.SMIV/23
-	298	302	318	323	/sprites/524.SMIV/21
-	296	324	312	346	/sprites/524.SMIV/1
-	356	274	370	296	/sprites/524.SMIV/0
-static	349	271	371	289	f0f078	100	/sprites/524.SMIV/20
-	311	310	329	331		98	/sprites/524.SMIV/22
-	207	182	214	190	00000000	254	/sprites/523.SMIV/9
-	321	118	327	127			/sprites/523.SMIV/10
-draw	216	315	217	316	/sprites/513.SMIV/13
-	309	322	311	325	/sprites/528.SMIV/23
-	351	274	353	276	/sprites/504.SMIV/19
-	197	91	200	94	/sprites/528.SMIV/22
+draw	226	-33	264	6	/sprites/loc/planets/earth%0
+	366	235	373	244	/sprites/ish/hvc%13
+	277	317	281	321	/sprites/can/fighter%9
+	56	240	57	241	/sprites/sfx/crew%15
+	439	266	441	267	/sprites/sfx/crew%10
+	265	2	267	3	/sprites/sfx/crew%23
+	377	285	381	288	/sprites/can/fighter%8
+	57	87	58	88	/sprites/sfx/crew%18
+	308	347	324	369	/sprites/can/carrier%23
+	298	302	318	323	/sprites/can/carrier%21
+	296	324	312	346	/sprites/can/carrier%1
+	356	274	370	296	/sprites/can/carrier%0
+static	349	271	371	289	f0f078	100	/sprites/can/carrier%20
+	311	310	329	331		98	/sprites/can/carrier%22
+	207	182	214	190	00000000	254	/sprites/can/hvc%9
+	321	118	327	127			/sprites/can/hvc%10
+draw	216	315	217	316	/sprites/sfx/crew%13
+	309	322	311	325	/sprites/dev/cm%23
+	351	274	353	276	/sprites/sfx/explosion/energy%19
+	197	91	200	94	/sprites/dev/cm%22
 	235	130	238	133	
-	331	243	340	250	/sprites/541.SMIV/15
-	326	221	328	223	/sprites/526.SMIV/0
-	285	172	288	175	/sprites/528.SMIV/22
-	321	309	328	314	/sprites/541.SMIV/2
-	299	252	301	255	/sprites/528.SMIV/23
-	350	244	352	246	/sprites/526.SMIV/0
-	335	256	344	264	/sprites/541.SMIV/8
-	351	244	353	246	/sprites/526.SMIV/0
-	164	46	167	49	/sprites/528.SMIV/22
-	361	244	367	249	/sprites/584.SMIV/3
-		272	363	274	/sprites/526.SMIV/0
+	331	243	340	250	/sprites/sfx/explosion/gas%15
+	326	221	328	223	/sprites/dev/cluster%0
+	285	172	288	175	/sprites/dev/cm%22
+	321	309	328	314	/sprites/sfx/explosion/gas%2
+	299	252	301	255	/sprites/dev/cm%23
+	350	244	352	246	/sprites/dev/cluster%0
+	335	256	344	264	/sprites/sfx/explosion/gas%8
+	351	244	353	246	/sprites/dev/cluster%0
+	164	46	167	49	/sprites/dev/cm%22
+	361	244	367	249	/sprites/dev/onas%3
+		272	363	274	/sprites/dev/cluster%0
 	329	223	331	225	
 	326	214	328	216	
-	356	265	358	268	/sprites/528.SMIV/23
-	360	273	362	275	/sprites/526.SMIV/0
+	356	265	358	268	/sprites/dev/cm%23
+	360	273	362	275	/sprites/dev/cluster%0
 	342	237	344	239	
 	341	240	343	242	
 	342	242	344	244	
-	341	278	346	281	/sprites/541.SMIV/1
+	341	278	346	281	/sprites/sfx/explosion/gas%1
 line	304	429	316	419	489048
 			302	414	
 	316	419			204020

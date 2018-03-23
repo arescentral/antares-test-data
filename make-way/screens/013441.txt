@@ -137,37 +137,37 @@ rect	336	0	337	481	002850
 	128	181	609	182	005000
 line	337	214	342	228	ff0000
 	377	287	376	271	00ff00
-draw	358	229	380	250	/sprites/501.SMIV/12
-	236	366	272	403	/sprites/506.SMIV/2
-static	365	314	387	346	00000000	41	/sprites/502.SMIV/21
-draw	307	53	323	89	/sprites/502.SMIV/13
-	126	344	139	357	/sprites/507.SMIV/2
-	482	349	495	361	/sprites/507.SMIV/6
-	165	347	174	356	/sprites/507.SMIV/7
-	121	153	134	164	/sprites/507.SMIV/0
-	87	292	100	304	/sprites/507.SMIV/6
-	260	453	269	462	/sprites/507.SMIV/7
-	144	200	157	213	/sprites/507.SMIV/5
-	204	217	213	228	/sprites/507.SMIV/16
+draw	358	229	380	250	/sprites/ish/cruiser%12
+	236	366	272	403	/sprites/can/gunship%2
+static	365	314	387	346	00000000	41	/sprites/can/cruiser%21
+draw	307	53	323	89	/sprites/can/cruiser%13
+	126	344	139	357	/sprites/sfx/debris%2
+	482	349	495	361	/sprites/sfx/debris%6
+	165	347	174	356	/sprites/sfx/debris%7
+	121	153	134	164	/sprites/sfx/debris%0
+	87	292	100	304	/sprites/sfx/debris%6
+	260	453	269	462	/sprites/sfx/debris%7
+	144	200	157	213	/sprites/sfx/debris%5
+	204	217	213	228	/sprites/sfx/debris%16
 	11	250	20	261	
-	482	357	495	368	/sprites/507.SMIV/10
-	138		151		/sprites/507.SMIV/14
-	172	372	181	383	/sprites/507.SMIV/11
-	273	336	286	349	/sprites/507.SMIV/18
-	272		281		/sprites/507.SMIV/19
+	482	357	495	368	/sprites/sfx/debris%10
+	138		151		/sprites/sfx/debris%14
+	172	372	181	383	/sprites/sfx/debris%11
+	273	336	286	349	/sprites/sfx/debris%18
+	272		281		/sprites/sfx/debris%19
 					
-	273		286		/sprites/507.SMIV/18
-	272		281		/sprites/507.SMIV/19
-		338			/sprites/507.SMIV/20
+	273		286		/sprites/sfx/debris%18
+	272		281		/sprites/sfx/debris%19
+		338			/sprites/sfx/debris%20
 					
-	273	336	286		/sprites/507.SMIV/18
+	273	336	286		/sprites/sfx/debris%18
 					
-	272		281		/sprites/507.SMIV/19
-	273		286		/sprites/507.SMIV/18
-	250	365	269	381	/sprites/508.SMIV/0
-	365	240	371	249	/sprites/503.SMIV/12
-	355	271	364	279	/sprites/508.SMIV/0
-	250	238	259	246	/sprites/508.SMIV/3
+	272		281		/sprites/sfx/debris%19
+	273		286		/sprites/sfx/debris%18
+	250	365	269	381	/sprites/dev/anti%0
+	365	240	371	249	/sprites/dev/fusion%12
+	355	271	364	279	/sprites/dev/anti%0
+	250	238	259	246	/sprites/dev/anti%3
 line	350	438	359	425	489048
 			344	424	
 	359	425			204020
@@ -502,7 +502,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

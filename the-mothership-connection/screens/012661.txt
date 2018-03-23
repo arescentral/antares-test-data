@@ -161,28 +161,28 @@ rect	245	0	246	481	000050
 		285		286	
 		413		414	002850
 line	378	276	376	272	ff7f00
-draw	364	235	371	244	/sprites/521.SMIV/11
-	432	463	436	466	/sprites/512.SMIV/22
-	285	375	289	378	/sprites/512.SMIV/1
-	311	244	315	247	/sprites/512.SMIV/8
-	125	213	129	216	/sprites/512.SMIV/5
-	161	336	165	339	/sprites/512.SMIV/22
-static	378	309	396	330	f0f078	49	/sprites/524.SMIV/22
-draw	150	35	172	57	/sprites/524.SMIV/9
+draw	364	235	371	244	/sprites/ish/hvc%11
+	432	463	436	466	/sprites/can/fighter%22
+	285	375	289	378	/sprites/can/fighter%1
+	311	244	315	247	/sprites/can/fighter%8
+	125	213	129	216	/sprites/can/fighter%5
+	161	336	165	339	/sprites/can/fighter%22
+static	378	309	396	330	f0f078	49	/sprites/can/carrier%22
+draw	150	35	172	57	/sprites/can/carrier%9
 	140	41	162	63	
-static	280	351	288	358	00000000	254	/sprites/523.SMIV/8
-	301	302	306	309			/sprites/523.SMIV/1
-draw	150	50	153	52	/sprites/528.SMIV/9
-	269	185	273	186	/sprites/528.SMIV/8
-	364	318	371	324	/sprites/541.SMIV/3
-	377	311	380	312	/sprites/541.SMIV/0
-	368	253	374	257	/sprites/584.SMIV/1
-	356	337	358	340	/sprites/528.SMIV/0
-	388	308	390	310	/sprites/504.SMIV/19
-	427	478	429	481	/sprites/528.SMIV/23
-	165	53	168	55	/sprites/528.SMIV/9
-	343	233	347	234	/sprites/528.SMIV/7
-	265	236	272	240	/sprites/504.SMIV/16
+static	280	351	288	358	00000000	254	/sprites/can/hvc%8
+	301	302	306	309			/sprites/can/hvc%1
+draw	150	50	153	52	/sprites/dev/cm%9
+	269	185	273	186	/sprites/dev/cm%8
+	364	318	371	324	/sprites/sfx/explosion/gas%3
+	377	311	380	312	/sprites/sfx/explosion/gas%0
+	368	253	374	257	/sprites/dev/onas%1
+	356	337	358	340	/sprites/dev/cm%0
+	388	308	390	310	/sprites/sfx/explosion/energy%19
+	427	478	429	481	/sprites/dev/cm%23
+	165	53	168	55	/sprites/dev/cm%9
+	343	233	347	234	/sprites/dev/cm%7
+	265	236	272	240	/sprites/sfx/explosion/energy%16
 line	432	429	435	414	489048
 			420	419	
 	435	414			204020

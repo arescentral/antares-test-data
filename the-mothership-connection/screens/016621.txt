@@ -132,10 +132,10 @@ rect	202	0	203	481	000050
 		306		307	002850
 		434		435	000050
 line	343	58	344	63	ff7f00
-draw	366	237	375	246	/sprites/521.SMIV/22
-	354	218	359	222	/sprites/517.SMIV/1
-	352	208	358	213	/sprites/504.SMIV/10
-	349	212		218	/sprites/541.SMIV/17
+draw	366	237	375	246	/sprites/ish/hvc%22
+	354	218	359	222	/sprites/sfx/energy%1
+	352	208	358	213	/sprites/sfx/explosion/energy%10
+	349	212		218	/sprites/sfx/explosion/gas%17
 line	254	77	255	92	489048
 			268	83	
 	255	92			204020

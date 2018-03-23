@@ -126,10 +126,10 @@ point	290	329	b0b0b0
 rect	232	0	233	481	000050
 	538		539		
 	128	273	609	274	002850
-draw	354	229	377	244	/sprites/521.SMIV/7
-	503	299	560	363	/sprites/590.SMIV/19
-	468	387	489	406	/sprites/541.SMIV/9
-	503	340	514	348	/sprites/541.SMIV/1
+draw	354	229	377	244	/sprites/ish/hvc%7
+	503	299	560	363	/sprites/ast/nasty%19
+	468	387	489	406	/sprites/sfx/explosion/gas%9
+	503	340	514	348	/sprites/sfx/explosion/gas%1
 line	557	296	547	285	489048
 			542	299	
 	547	285			204020

@@ -142,15 +142,15 @@ rect	142	0	143	481	002850
 		320		321	000050
 		448		449	
 line	396	134	395	139	ff7f00
-draw	178	229	216	268	/sprites/1036.SMIV/0
-	366	237	375	246	/sprites/521.SMIV/22
-	364	195	368	198	/sprites/507.SMIV/1
-	360	202	361	203	/sprites/513.SMIV/14
-	364		366		/sprites/513.SMIV/11
-	385	164	391	168	/sprites/584.SMIV/1
-	358	180	363	184	/sprites/517.SMIV/1
-	354	188	372	204	/sprites/504.SMIV/2
-	360	191	367	197	/sprites/541.SMIV/4
+draw	178	229	216	268	/sprites/loc/planets/earth%0
+	366	237	375	246	/sprites/ish/hvc%22
+	364	195	368	198	/sprites/sfx/debris%1
+	360	202	361	203	/sprites/sfx/crew%14
+	364		366		/sprites/sfx/crew%11
+	385	164	391	168	/sprites/dev/onas%1
+	358	180	363	184	/sprites/sfx/energy%1
+	354	188	372	204	/sprites/sfx/explosion/energy%2
+	360	191	367	197	/sprites/sfx/explosion/gas%4
 line	266	69	266	84	489048
 			279	76	
 		84			204020

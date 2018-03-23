@@ -131,15 +131,15 @@ rect	189	0	190	383	000050
 line	320	271	315	273	007fff
 	403	238	395	240	
 	329	266	335	261	7f7fff
-draw	361	232	374	247	/sprites/582.SMIV/14
-static	283	276	299	288	7878f0	93	/sprites/578.SMIV/3
-draw	181	274	187	279	/sprites/577.SMIV/19
-	338	257	347	263	/sprites/584.SMIV/4
-	415	225	423	235	/sprites/580.SMIV/3
-	190	362	199	370	/sprites/584.SMIV/2
-	309	265	317	275	/sprites/580.SMIV/0
-	290	292	298	297	/sprites/541.SMIV/1
-	525	183	536	190	/sprites/580.SMIV/1
+draw	361	232	374	247	/sprites/ele/cruiser%14
+static	283	276	299	288	7878f0	93	/sprites/aud/cruiser%3
+draw	181	274	187	279	/sprites/aud/fighter%19
+	338	257	347	263	/sprites/dev/onas%4
+	415	225	423	235	/sprites/dev/inasa%3
+	190	362	199	370	/sprites/dev/onas%2
+	309	265	317	275	/sprites/dev/inasa%0
+	290	292	298	297	/sprites/sfx/explosion/gas%1
+	525	183	536	190	/sprites/dev/inasa%1
 rect	128	382	608	480	007fff
 		383		479	000810
 	132	387	139	398	007fff
@@ -1205,7 +1205,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

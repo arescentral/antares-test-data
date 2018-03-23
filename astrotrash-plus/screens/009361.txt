@@ -126,13 +126,13 @@ point	482	49	d0d0d0
 rect	381	0	382	481	000050
 	128	115	609	116	
 		371		372	
-draw	362	231	376	249	/sprites/521.SMIV/12
-	336	296	362	320	/sprites/543.SMIV/3
-	337	340	357	361	/sprites/546.SMIV/0
-	348	327	358	335	/sprites/548.SMIV/2
-	334	316	343	325	/sprites/554.SMIV/8
-	350		358	324	/sprites/554.SMIV/5
-	337	318	342	323	/sprites/554.SMIV/2
+draw	362	231	376	249	/sprites/ish/hvc%12
+	336	296	362	320	/sprites/ast/regular/big%3
+	337	340	357	361	/sprites/ish/etc/astrominer%0
+	348	327	358	335	/sprites/dev/atomic%2
+	334	316	343	325	/sprites/sfx/explosion/large-hit%8
+	350		358	324	/sprites/sfx/explosion/large-hit%5
+	337	318	342	323	/sprites/sfx/explosion/large-hit%2
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

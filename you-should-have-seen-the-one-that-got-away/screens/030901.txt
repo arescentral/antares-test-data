@@ -141,12 +141,12 @@ line	15806	3009	15815	3019	7fff7f
 	352	234	363	242	
 	81	29	90	36	
 	217	127	227	134	
-draw	351	222	399	267	/sprites/652.SMIV/22
-	162	146	166	152	/sprites/513.SMIV/17
-	140	155	160	170	/sprites/653.SMIV/2
-	224	128	244	147	/sprites/517.SMIV/1
-	201	130	216	146	/sprites/554.SMIV/10
-	185	106	265	174	/sprites/504.SMIV/7
+draw	351	222	399	267	/sprites/uns/gunship%22
+	162	146	166	152	/sprites/sfx/crew%17
+	140	155	160	170	/sprites/dev/magneto%2
+	224	128	244	147	/sprites/sfx/energy%1
+	201	130	216	146	/sprites/sfx/explosion/large-hit%10
+	185	106	265	174	/sprites/sfx/explosion/energy%7
 line	248	81	249	96	489048
 			262	87	
 	249	96			204020
@@ -446,7 +446,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -530,7 +530,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

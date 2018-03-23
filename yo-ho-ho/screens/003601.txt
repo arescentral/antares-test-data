@@ -158,12 +158,12 @@ rect	242	0	243	481	002850
 	128	118	609	119	
 		374		375	
 line	340	294	344	287	ffff7f
-static	358	228	382	251	ffffff	105	/sprites/646.SMIV/13
-draw	404	113	407	116	/sprites/513.SMIV/14
-	338	231	342	233	/sprites/513.SMIV/21
-	357	254	361	256	/sprites/513.SMIV/19
-	354	246	390	275	/sprites/504.SMIV/6
-	360	256	365	260	/sprites/504.SMIV/19
+static	358	228	382	251	ffffff	105	/sprites/ish/hvd%13
+draw	404	113	407	116	/sprites/sfx/crew%14
+	338	231	342	233	/sprites/sfx/crew%21
+	357	254	361	256	/sprites/sfx/crew%19
+	354	246	390	275	/sprites/sfx/explosion/energy%6
+	360	256	365	260	/sprites/sfx/explosion/energy%19
 line	294	425	306	416	489048
 			292	410	
 	306	416			204020

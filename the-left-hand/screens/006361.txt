@@ -171,15 +171,15 @@ line	775	329	766	333	ff7f00
 	502	531	497	529	ffff7f
 	557	560	551	556	
 	581	584	575	580	00ff00
-draw	353	230	379	254	/sprites/646.SMIV/1
-static	523	143	537	156	00000000	254	/sprites/530.SMIV/14
-	551	327	567	340		25	/sprites/530.SMIV/0
-draw	362	226	376	240	/sprites/501.SMIV/2
-	388	463	402	476	/sprites/530.SMIV/21
-	446	390	449	394	/sprites/513.SMIV/2
-	445	435	448	438	/sprites/513.SMIV/3
-	550	380	558	388	/sprites/538.SMIV/1
-	549	379	557	387	/sprites/554.SMIV/5
+draw	353	230	379	254	/sprites/ish/hvd%1
+static	523	143	537	156	00000000	254	/sprites/sal/cruiser%14
+	551	327	567	340		25	/sprites/sal/cruiser%0
+draw	362	226	376	240	/sprites/ish/cruiser%2
+	388	463	402	476	/sprites/sal/cruiser%21
+	446	390	449	394	/sprites/sfx/crew%2
+	445	435	448	438	/sprites/sfx/crew%3
+	550	380	558	388	/sprites/dev/rplasma%1
+	549	379	557	387	/sprites/sfx/explosion/large-hit%5
 line	419	48	408	59	489048
 			423	63	
 	408	59			204020
@@ -502,7 +502,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -583,7 +583,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1028.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/calmpurple%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

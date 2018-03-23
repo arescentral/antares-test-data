@@ -125,14 +125,14 @@ point	147	464	d0d0d0
 	411	278	b0b0b0
 rect	290	0	291	481	000050
 	128	372	609	373	
-draw	422	326	451	350	/sprites/501.SMIV/17
-	395	350	424	375	/sprites/501.SMIV/16
+draw	422	326	451	350	/sprites/ish/cruiser%17
+	395	350	424	375	/sprites/ish/cruiser%16
 	505	320	534	345	
-	440	360	465	384	/sprites/501.SMIV/12
-	348	221	385	259	/sprites/509.SMIV/5
-	307	476	318	484	/sprites/503.SMIV/15
-	381	450	388	459	/sprites/503.SMIV/14
-	365	414	376	422	/sprites/503.SMIV/15
+	440	360	465	384	/sprites/ish/cruiser%12
+	348	221	385	259	/sprites/ish/gunship%5
+	307	476	318	484	/sprites/dev/fusion%15
+	381	450	388	459	/sprites/dev/fusion%14
+	365	414	376	422	/sprites/dev/fusion%15
 line	554	172	539	170	489048
 			544	184	
 	539	170			204020
@@ -444,7 +444,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -508,7 +508,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

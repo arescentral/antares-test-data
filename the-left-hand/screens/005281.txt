@@ -143,11 +143,11 @@ line	520	383	530	378	ff7f00
 	-17	1853	-14	1844	
 	-3399	6096	-3404	6104	
 	474	434	484	440	
-static	354	227	379	251	ffffff	69	/sprites/646.SMIV/11
-draw	584	422	609	439	/sprites/600.SMIV/15
-static	576	391	593	405	00000000	254	/sprites/530.SMIV/23
-draw	413	428	436	449	/sprites/509.SMIV/11
-	361	266	371	273	/sprites/541.SMIV/1
+static	354	227	379	251	ffffff	69	/sprites/ish/hvd%11
+draw	584	422	609	439	/sprites/sal/aslttran%15
+static	576	391	593	405	00000000	254	/sprites/sal/cruiser%23
+draw	413	428	436	449	/sprites/ish/gunship%11
+	361	266	371	273	/sprites/sfx/explosion/gas%1
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			
@@ -478,7 +478,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -559,7 +559,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1028.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/calmpurple%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

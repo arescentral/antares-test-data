@@ -168,25 +168,25 @@ rect	150	0	151	481	000050
 line	424	603	428	600	7fff7f
 	1017	781	1015	777	00ff00
 	401	655	403	651	7fff7f
-draw	360	225	375	254	/sprites/525.SMIV/12
-	291	453	312	467	/sprites/553.SMIV/17
-	423	393	428	397	/sprites/507.SMIV/6
-	299	403	305	408	/sprites/551.SMIV/9
-	342	467	348	472	/sprites/551.SMIV/20
-	482	386	483	387	/sprites/513.SMIV/6
-	422	456	424	457	/sprites/513.SMIV/9
-	12	476	14	477	/sprites/513.SMIV/22
-	308	408	310	410	/sprites/655.SMIV/2
+draw	360	225	375	254	/sprites/ish/carrier%12
+	291	453	312	467	/sprites/gai/gunship%17
+	423	393	428	397	/sprites/sfx/debris%6
+	299	403	305	408	/sprites/gai/fighter%9
+	342	467	348	472	/sprites/gai/fighter%20
+	482	386	483	387	/sprites/sfx/crew%6
+	422	456	424	457	/sprites/sfx/crew%9
+	12	476	14	477	/sprites/sfx/crew%22
+	308	408	310	410	/sprites/sfx/sparkle%2
 	313	411	315	413	
-	300	412	306	415	/sprites/548.SMIV/1
-	323		325	413	/sprites/655.SMIV/5
-	414	402	417	405	/sprites/528.SMIV/3
-	299	411	300	411	/sprites/655.SMIV/0
+	300	412	306	415	/sprites/dev/atomic%1
+	323		325	413	/sprites/sfx/sparkle%5
+	414	402	417	405	/sprites/dev/cm%3
+	299	411	300	411	/sprites/sfx/sparkle%0
 	306	414	307	414	
-	323	412	325	413	/sprites/655.SMIV/5
-	307	409	309	410	/sprites/655.SMIV/1
+	323	412	325	413	/sprites/sfx/sparkle%5
+	307	409	309	410	/sprites/sfx/sparkle%1
 	306	406	308	407	
-	317	409	319	411	/sprites/655.SMIV/4
+	317	409	319	411	/sprites/sfx/sparkle%4
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -622,7 +622,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

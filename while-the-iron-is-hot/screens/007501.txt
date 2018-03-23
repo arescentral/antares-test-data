@@ -124,8 +124,8 @@ point	204	156	b0b0b0
 	402	441	
 	574	158	b0b0b0
 rect	388	0	389	481	002850
-draw	268	246	308	272	/sprites/550.SMIV/1
-	365	237	373	242	/sprites/513.SMIV/11
+draw	268	246	308	272	/sprites/gai/cruiser%1
+	365	237	373	242	/sprites/sfx/crew%11
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		24	44		

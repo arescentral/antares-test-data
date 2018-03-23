@@ -125,10 +125,10 @@ point	335	421	808080
 	395	477	
 rect	273	0	274	481	000050
 	128	25	609	26	
-draw	351	220	379	257	/sprites/521.SMIV/11
-	362	341	370	348	/sprites/513.SMIV/23
-	395	313	415	332	/sprites/517.SMIV/1
-	346	391	450	479	/sprites/504.SMIV/11
+draw	351	220	379	257	/sprites/ish/hvc%11
+	362	341	370	348	/sprites/sfx/crew%23
+	395	313	415	332	/sprites/sfx/energy%1
+	346	391	450	479	/sprites/sfx/explosion/energy%11
 line	425	430	428	415	489048
 			414	420	
 	428	415			204020

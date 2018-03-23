@@ -182,10 +182,10 @@ line	-336	1729	-333	1714	00ff00
 	435	107	427	123	
 	359	227	355	234	ffff7f
 	466	46	456	63	
-static	477	-68	565	16	f0f078	57	/sprites/524.SMIV/15
-draw	343	222	391	264	/sprites/509.SMIV/2
-	496	-1	507	8	/sprites/504.SMIV/19
-	390	192	398	204	/sprites/528.SMIV/14
+static	477	-68	565	16	f0f078	57	/sprites/can/carrier%15
+draw	343	222	391	264	/sprites/ish/gunship%2
+	496	-1	507	8	/sprites/sfx/explosion/energy%19
+	390	192	398	204	/sprites/dev/cm%14
 dither	200	451	458	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		32	55		
@@ -569,7 +569,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -632,7 +632,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

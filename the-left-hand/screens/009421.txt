@@ -130,15 +130,15 @@ rect	211	0	212	481	000050
 line	408	110	405	120	ffff7f
 	386	178	383	187	
 	371	225	370	232	
-draw	484	134	550	200	/sprites/1028.SMIV/0
-	355	229	379	251	/sprites/646.SMIV/0
-	382	77	402	102	/sprites/569.SMIV/1
-	395	356	411	370	/sprites/501.SMIV/1
-	416	371	424	377	/sprites/510.SMIV/0
-	449	160	457	167	/sprites/510.SMIV/2
-	450	219	454	222	/sprites/513.SMIV/0
-	449	374	457	382	/sprites/538.SMIV/5
-	447	235	451	241	/sprites/528.SMIV/23
+draw	484	134	550	200	/sprites/loc/planets/calmpurple%0
+	355	229	379	251	/sprites/ish/hvd%0
+	382	77	402	102	/sprites/sal/gunship%1
+	395	356	411	370	/sprites/ish/cruiser%1
+	416	371	424	377	/sprites/ish/fighter%0
+	449	160	457	167	/sprites/ish/fighter%2
+	450	219	454	222	/sprites/sfx/crew%0
+	449	374	457	382	/sprites/dev/rplasma%5
+	447	235	451	241	/sprites/dev/cm%23
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -492,7 +492,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -573,7 +573,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1028.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/calmpurple%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

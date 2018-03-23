@@ -256,25 +256,25 @@ line	528	320	524	322	7fff7f
 	515	246	513	238	007fff
 	269	-110	262	-113	7fff7f
 	199	-89	206	-92	
-draw	406	341	433	368	/sprites/1010.SMIV/0
-	417	277	444	288	/sprites/652.SMIV/7
-	356	231	379	248	/sprites/652.SMIV/9
-static	521	299	527	316	f0f078	92	/sprites/502.SMIV/0
-draw	357	9	418	67	/sprites/649.SMIV/2
-	401	1	421	20	/sprites/652.SMIV/22
-	512	217	518	224	/sprites/651.SMIV/13
-	460	366	471	384	/sprites/652.SMIV/12
-	295	125	310	144	/sprites/652.SMIV/1
-	152	217	179	228	/sprites/652.SMIV/5
-	537	245	557	264	/sprites/652.SMIV/14
-	178	22	181	24	/sprites/513.SMIV/9
-	479	302	485	309	/sprites/653.SMIV/0
+draw	406	341	433	368	/sprites/loc/planets/yellow-cookie%0
+	417	277	444	288	/sprites/uns/gunship%7
+	356	231	379	248	/sprites/uns/gunship%9
+static	521	299	527	316	f0f078	92	/sprites/can/cruiser%0
+draw	357	9	418	67	/sprites/uns/carrier%2
+	401	1	421	20	/sprites/uns/gunship%22
+	512	217	518	224	/sprites/uns/fighter%13
+	460	366	471	384	/sprites/uns/gunship%12
+	295	125	310	144	/sprites/uns/gunship%1
+	152	217	179	228	/sprites/uns/gunship%5
+	537	245	557	264	/sprites/uns/gunship%14
+	178	22	181	24	/sprites/sfx/crew%9
+	479	302	485	309	/sprites/dev/magneto%0
 	536	252	542	259	
-	529	278	535	285	/sprites/653.SMIV/3
-	453	296	461	301	/sprites/653.SMIV/1
-	520	304	524	307	/sprites/504.SMIV/19
-	529	318	532	320	/sprites/504.SMIV/18
-	431	276	439	281	/sprites/653.SMIV/4
+	529	278	535	285	/sprites/dev/magneto%3
+	453	296	461	301	/sprites/dev/magneto%1
+	520	304	524	307	/sprites/sfx/explosion/energy%19
+	529	318	532	320	/sprites/sfx/explosion/energy%18
+	431	276	439	281	/sprites/dev/magneto%4
 dither	420	334	531	351	001830
 crop	424	338	431	349	0	55	000000	/fonts/tactical.png
 	431		438		72	66		
@@ -720,7 +720,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		8	72		
 	93		99		0	24		
 	99		105		8	36		
-draw	16	278	34	296	/sprites/1010.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/yellow-cookie%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -136,11 +136,11 @@ point	589	184	b0b0b0
 rect	321	0	322	481	005000
 	128	295	609	296	002850
 line	356	136	357	156	00ff00
-draw	353	223	384	256	/sprites/521.SMIV/0
-	243	462	246	463	/sprites/655.SMIV/0
-	251	451	270	466	/sprites/548.SMIV/2
-	375	167	382	177	/sprites/503.SMIV/0
-	271	464	274	465	/sprites/655.SMIV/0
+draw	353	223	384	256	/sprites/ish/hvc%0
+	243	462	246	463	/sprites/sfx/sparkle%0
+	251	451	270	466	/sprites/dev/atomic%2
+	375	167	382	177	/sprites/dev/fusion%0
+	271	464	274	465	/sprites/sfx/sparkle%0
 line	357	40	350	54	489048
 			365	53	
 	350	54			204020

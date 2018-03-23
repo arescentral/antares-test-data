@@ -234,22 +234,22 @@ line	-288	-207	-286	-206	ffff7f
 	-332	-266	-328	-262	ffff7f
 	462	205	456	207	00ff00
 	-301	-233	-299	-231	ffff7f
-draw	361	236	372	246	/sprites/501.SMIV/3
-static	487	77	527	98	ffffff	100	/sprites/525.SMIV/4
-draw	523	107	537	118	/sprites/521.SMIV/4
-	478	35	492	46	/sprites/521.SMIV/8
-	515	197	557	249	/sprites/560.SMIV/23
-	451	135	456	140	/sprites/507.SMIV/0
-	465	143	467	145	/sprites/513.SMIV/5
-	370	206	375	211	/sprites/510.SMIV/23
-	211	43	213	44	/sprites/513.SMIV/8
-	410	221	414	223	/sprites/503.SMIV/5
-	453	77	465	87	/sprites/541.SMIV/12
-	532	221	534	225	/sprites/528.SMIV/23
-	447	132	454	138	/sprites/517.SMIV/1
-	439	134	464	157	/sprites/504.SMIV/5
-	456	74	472	91	/sprites/554.SMIV/10
-	534	40	544	48	/sprites/504.SMIV/14
+draw	361	236	372	246	/sprites/ish/cruiser%3
+static	487	77	527	98	ffffff	100	/sprites/ish/carrier%4
+draw	523	107	537	118	/sprites/ish/hvc%4
+	478	35	492	46	/sprites/ish/hvc%8
+	515	197	557	249	/sprites/gai/carrier%23
+	451	135	456	140	/sprites/sfx/debris%0
+	465	143	467	145	/sprites/sfx/crew%5
+	370	206	375	211	/sprites/ish/fighter%23
+	211	43	213	44	/sprites/sfx/crew%8
+	410	221	414	223	/sprites/dev/fusion%5
+	453	77	465	87	/sprites/sfx/explosion/gas%12
+	532	221	534	225	/sprites/dev/cm%23
+	447	132	454	138	/sprites/sfx/energy%1
+	439	134	464	157	/sprites/sfx/explosion/energy%5
+	456	74	472	91	/sprites/sfx/explosion/large-hit%10
+	534	40	544	48	/sprites/sfx/explosion/energy%14
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -720,7 +720,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -776,7 +776,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

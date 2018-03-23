@@ -125,8 +125,8 @@ point	546	301	d0d0d0
 	197	30	b0b0b0
 rect	488	0	489	481	000050
 	128	254	609	255	
-draw	339	228	403	253	/sprites/652.SMIV/18
-	455	288	479	309	/sprites/517.SMIV/0
+draw	339	228	403	253	/sprites/uns/gunship%18
+	455	288	479	309	/sprites/sfx/energy%0
 line	169	243	182	250	489048
 				235	
 	182	250			204020
@@ -402,7 +402,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -486,7 +486,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

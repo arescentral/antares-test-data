@@ -125,7 +125,7 @@ point	189	283	b0b0b0
 	560	271	b0b0b0
 rect	369	0	370	372	005000
 	128	241	609	242	
-draw	355	227	383	253	/sprites/501.SMIV/6
+draw	355	227	383	253	/sprites/ish/cruiser%6
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

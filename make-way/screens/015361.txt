@@ -133,14 +133,14 @@ rect	139	0	140	481	000050
 		448		449	000050
 line	339	176	341	180	00ff00
 		201	337	199	ff007f
-draw	238	171	274	199	/sprites/643.SMIV/0
-	366	237	374	244	/sprites/501.SMIV/22
-	219	234	223	238	/sprites/512.SMIV/9
-	325	188	336	191	/sprites/642.SMIV/18
-	399	243	403	246	/sprites/512.SMIV/16
-	517	50	519	51	/sprites/513.SMIV/23
-	607	280	609	281	/sprites/513.SMIV/10
-	365	232	367	234	/sprites/503.SMIV/23
+draw	238	171	274	199	/sprites/loc/bunker%0
+	366	237	374	244	/sprites/ish/cruiser%22
+	219	234	223	238	/sprites/can/fighter%9
+	325	188	336	191	/sprites/can/engineer%18
+	399	243	403	246	/sprites/can/fighter%16
+	517	50	519	51	/sprites/sfx/crew%23
+	607	280	609	281	/sprites/sfx/crew%10
+	365	232	367	234	/sprites/dev/fusion%23
 line	290	57	289	72	489048
 			302	66	
 	289	72			204020
@@ -453,7 +453,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

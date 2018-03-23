@@ -127,30 +127,30 @@ rect	171	0	172	481	000050
 	427		428		002850
 	128	11	609	12	000050
 		267		268	
-draw	353	231	385	248	/sprites/646.SMIV/18
-static	102	190	116	206	f0eac3	128	/sprites/550.SMIV/18
-draw	13	82	21	91	/sprites/551.SMIV/13
-	69	212	77	220	/sprites/507.SMIV/3
+draw	353	231	385	248	/sprites/ish/hvd%18
+static	102	190	116	206	f0eac3	128	/sprites/gai/cruiser%18
+draw	13	82	21	91	/sprites/gai/fighter%13
+	69	212	77	220	/sprites/sfx/debris%3
 	75		83		
-	90	184	98	192	/sprites/507.SMIV/5
-	128	176	136	184	/sprites/507.SMIV/2
-	68	200	74	206	/sprites/507.SMIV/7
-	78	205	86	213	/sprites/507.SMIV/3
-	44	196	50	203	/sprites/507.SMIV/11
-	114	212	122	219	/sprites/507.SMIV/9
-	97	188	103	195	/sprites/507.SMIV/12
+	90	184	98	192	/sprites/sfx/debris%5
+	128	176	136	184	/sprites/sfx/debris%2
+	68	200	74	206	/sprites/sfx/debris%7
+	78	205	86	213	/sprites/sfx/debris%3
+	44	196	50	203	/sprites/sfx/debris%11
+	114	212	122	219	/sprites/sfx/debris%9
+	97	188	103	195	/sprites/sfx/debris%12
 	54	230	60	237	
 	52	200	58	207	
-	41	220	47	227	/sprites/507.SMIV/11
-	30	193	42	203	/sprites/517.SMIV/0
+	41	220	47	227	/sprites/sfx/debris%11
+	30	193	42	203	/sprites/sfx/energy%0
 					
-	85	196	95	205	/sprites/517.SMIV/1
+	85	196	95	205	/sprites/sfx/energy%1
 	31	195	41	204	
-	30	193	42	203	/sprites/517.SMIV/0
-	79	197	89	206	/sprites/517.SMIV/1
-	29	193	41	203	/sprites/517.SMIV/0
-	85	196	95	205	/sprites/517.SMIV/1
-	74	211	129	257	/sprites/504.SMIV/8
+	30	193	42	203	/sprites/sfx/energy%0
+	79	197	89	206	/sprites/sfx/energy%1
+	29	193	41	203	/sprites/sfx/energy%0
+	85	196	95	205	/sprites/sfx/energy%1
+	74	211	129	257	/sprites/sfx/explosion/energy%8
 line	170	220	182	229	489048
 			184	214	
 	182	229			204020

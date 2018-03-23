@@ -139,13 +139,13 @@ rect	324	0	325	481	000050
 line	380	278	378	272	ffff7f
 	425	324	421	316	
 	368	242	368	239	
-draw	125	450	133	458	/sprites/573.SMIV/0
-	88	404	98	412	/sprites/570.SMIV/1
-	179	447	189	455	/sprites/570.SMIV/0
-	357	228	379	251	/sprites/646.SMIV/12
-	385	51	403	67	/sprites/550.SMIV/8
-static	382	378	400	394	f0eac3	76	/sprites/550.SMIV/10
-draw	376	377	381	381	/sprites/504.SMIV/19
+draw	125	450	133	458	/sprites/sfx/invisible%0
+	88	404	98	412	/sprites/loc/jump/node%1
+	179	447	189	455	/sprites/loc/jump/node%0
+	357	228	379	251	/sprites/ish/hvd%12
+	385	51	403	67	/sprites/gai/cruiser%8
+static	382	378	400	394	f0eac3	76	/sprites/gai/cruiser%10
+draw	376	377	381	381	/sprites/sfx/explosion/energy%19
 line	362	439	370	426	489048
 			355	425	
 	370	426			204020

@@ -129,27 +129,27 @@ rect	242	0	243	481	000050
 	128	127	609	128	
 		255		256	
 		383		384	
-draw	186	259	218	291	/sprites/1021.SMIV/0
-	363	235	375	246	/sprites/652.SMIV/14
+draw	186	259	218	291	/sprites/loc/planets/fall%0
+	363	235	375	246	/sprites/uns/gunship%14
 	399	191	411	202	
-	377	199	382	203	/sprites/651.SMIV/14
-	346	205	358	216	/sprites/652.SMIV/14
-	352	202	361	213	/sprites/652.SMIV/13
-	418	205	424	208	/sprites/651.SMIV/16
-	297	210	313	217	/sprites/652.SMIV/7
-	393	202	398	206	/sprites/651.SMIV/14
+	377	199	382	203	/sprites/uns/fighter%14
+	346	205	358	216	/sprites/uns/gunship%14
+	352	202	361	213	/sprites/uns/gunship%13
+	418	205	424	208	/sprites/uns/fighter%16
+	297	210	313	217	/sprites/uns/gunship%7
+	393	202	398	206	/sprites/uns/fighter%14
 	355	237	360	241	
-	431	311	437	315	/sprites/651.SMIV/21
-	321	218	333	229	/sprites/652.SMIV/14
-	194	132	199	136	/sprites/651.SMIV/10
-	278	185	293	193	/sprites/652.SMIV/8
-	211	199	265	212	/sprites/649.SMIV/6
+	431	311	437	315	/sprites/uns/fighter%21
+	321	218	333	229	/sprites/uns/gunship%14
+	194	132	199	136	/sprites/uns/fighter%10
+	278	185	293	193	/sprites/uns/gunship%8
+	211	199	265	212	/sprites/uns/carrier%6
 	143	212	197	225	
-	302	217	318	224	/sprites/652.SMIV/7
-	401	238	405	242	/sprites/651.SMIV/13
-	192	273	197	277	/sprites/651.SMIV/2
-	229	462	231	463	/sprites/513.SMIV/11
-	373	208	378	212	/sprites/651.SMIV/14
+	302	217	318	224	/sprites/uns/gunship%7
+	401	238	405	242	/sprites/uns/fighter%13
+	192	273	197	277	/sprites/uns/fighter%2
+	229	462	231	463	/sprites/sfx/crew%11
+	373	208	378	212	/sprites/uns/fighter%14
 dither	355	217	410	234	303000
 crop	359	221	366	232	56	44	000000	/fonts/tactical.png
 	366		373		40	77		
@@ -500,7 +500,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -564,7 +564,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

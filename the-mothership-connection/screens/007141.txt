@@ -126,12 +126,12 @@ point	156	32	808080
 rect	139	0	140	405	000050
 	374		375		
 	128	218	609	219	005000
-draw	-31	287	39	358	/sprites/1036.SMIV/0
-	357	231	375	242	/sprites/521.SMIV/7
-	383	377	430	422	/sprites/590.SMIV/0
-	357	412	371		/sprites/541.SMIV/21
-	374	419	385	425	/sprites/541.SMIV/25
-	365	394	381	405	/sprites/541.SMIV/17
+draw	-31	287	39	358	/sprites/loc/planets/earth%0
+	357	231	375	242	/sprites/ish/hvc%7
+	383	377	430	422	/sprites/ast/nasty%0
+	357	412	371		/sprites/sfx/explosion/gas%21
+	374	419	385	425	/sprites/sfx/explosion/gas%25
+	365	394	381	405	/sprites/sfx/explosion/gas%17
 	374	443	390	454	
 rect	128	404	608	480	007fff
 		405		479	000810

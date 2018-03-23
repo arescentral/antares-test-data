@@ -130,9 +130,9 @@ rect	241	0	242	481	000050
 		128		129	
 		256		257	002850
 		384		385	000050
-draw	364	236	374	242	/sprites/521.SMIV/17
-	536	75	539	78	/sprites/512.SMIV/0
-	274	286	278	289	/sprites/512.SMIV/1
+draw	364	236	374	242	/sprites/ish/hvc%17
+	536	75	539	78	/sprites/can/fighter%0
+	274	286	278	289	/sprites/can/fighter%1
 line	178	297	193	300	489048
 			188	286	
 	193	300			204020

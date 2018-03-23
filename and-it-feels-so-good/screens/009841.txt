@@ -166,31 +166,31 @@ line	-7372	-3642	-7373	-3642	007fff
 	370	268	367	264	7f7fff
 	-7326	-3669	-7329	-3668	007fff
 	369	253	368	250	ffff7f
-draw	368	301	404	329	/sprites/643.SMIV/0
-	363	234	374	245	/sprites/646.SMIV/12
-static	365	316	376	323	0078f0	46	/sprites/582.SMIV/8
-draw	341	236	347	245	/sprites/582.SMIV/11
-	215	262	226	267	/sprites/650.SMIV/6
-	209	257	218	264	/sprites/650.SMIV/3
-	48	277	58	287	/sprites/509.SMIV/5
-	50	135	63	148	/sprites/543.SMIV/13
-	301	179	309	185	/sprites/501.SMIV/1
-	67	368	74	374	/sprites/501.SMIV/5
-	383	294	389	298	/sprites/584.SMIV/1
-	257	261	266	267	/sprites/541.SMIV/19
-	358	254	364	258	/sprites/584.SMIV/4
-	370	322	374	326	/sprites/554.SMIV/7
-	366	241	372	246	/sprites/522.SMIV/0
-		299	370	303	/sprites/554.SMIV/6
-	367	323	375	330	/sprites/541.SMIV/5
-	372	301	374	302	/sprites/504.SMIV/18
-	379	283	385	289	/sprites/522.SMIV/5
-	368	319	373	322	/sprites/541.SMIV/1
-	377	358	383	363	/sprites/584.SMIV/3
-	396	303	400	307	/sprites/554.SMIV/8
-	380	314	384	315	/sprites/528.SMIV/18
-	350	312	353		/sprites/554.SMIV/4
-	379	302	381	304	/sprites/554.SMIV/2
+draw	368	301	404	329	/sprites/loc/bunker%0
+	363	234	374	245	/sprites/ish/hvd%12
+static	365	316	376	323	0078f0	46	/sprites/ele/cruiser%8
+draw	341	236	347	245	/sprites/ele/cruiser%11
+	215	262	226	267	/sprites/uns/cruiser%6
+	209	257	218	264	/sprites/uns/cruiser%3
+	48	277	58	287	/sprites/ish/gunship%5
+	50	135	63	148	/sprites/ast/regular/big%13
+	301	179	309	185	/sprites/ish/cruiser%1
+	67	368	74	374	/sprites/ish/cruiser%5
+	383	294	389	298	/sprites/dev/onas%1
+	257	261	266	267	/sprites/sfx/explosion/gas%19
+	358	254	364	258	/sprites/dev/onas%4
+	370	322	374	326	/sprites/sfx/explosion/large-hit%7
+	366	241	372	246	/sprites/dev/fullerene%0
+		299	370	303	/sprites/sfx/explosion/large-hit%6
+	367	323	375	330	/sprites/sfx/explosion/gas%5
+	372	301	374	302	/sprites/sfx/explosion/energy%18
+	379	283	385	289	/sprites/dev/fullerene%5
+	368	319	373	322	/sprites/sfx/explosion/gas%1
+	377	358	383	363	/sprites/dev/onas%3
+	396	303	400	307	/sprites/sfx/explosion/large-hit%8
+	380	314	384	315	/sprites/dev/cm%18
+	350	312	353		/sprites/sfx/explosion/large-hit%4
+	379	302	381	304	/sprites/sfx/explosion/large-hit%2
 	369	318	371	320	
 	364	311	366	313	
 dither	370	329	425	346	303000
@@ -545,7 +545,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	20	206	29	224	/sprites/582.SMIV/0
+draw	20	206	29	224	/sprites/ele/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -618,7 +618,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

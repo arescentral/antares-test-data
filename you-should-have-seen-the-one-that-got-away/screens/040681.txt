@@ -135,23 +135,23 @@ line	360	315	360	311	7fff7f
 	334	420	337	418	
 	371	389	375	387	
 	415	369	418	368	
-draw	292	57	326	91	/sprites/1023.SMIV/0
-	275	109	287	121	/sprites/652.SMIV/10
-	359	234	375	243	/sprites/652.SMIV/8
-	346	157	363	198	/sprites/649.SMIV/12
-	408	343	455	378	/sprites/649.SMIV/15
-	263	96	275	108	/sprites/652.SMIV/10
-	332	386	342	399	/sprites/506.SMIV/17
-	42	346	58	355	/sprites/652.SMIV/4
-	219	251	236	258	/sprites/652.SMIV/5
+draw	292	57	326	91	/sprites/loc/planets/aqua-minerale%0
+	275	109	287	121	/sprites/uns/gunship%10
+	359	234	375	243	/sprites/uns/gunship%8
+	346	157	363	198	/sprites/uns/carrier%12
+	408	343	455	378	/sprites/uns/carrier%15
+	263	96	275	108	/sprites/uns/gunship%10
+	332	386	342	399	/sprites/can/gunship%17
+	42	346	58	355	/sprites/uns/gunship%4
+	219	251	236	258	/sprites/uns/gunship%5
 	261	244	278	251	
-	10	274	26	283	/sprites/652.SMIV/4
-	153	452	170	459	/sprites/652.SMIV/5
-	187	223	203	232	/sprites/652.SMIV/8
-	309	356	311	357	/sprites/513.SMIV/21
-	59	307	76	314	/sprites/652.SMIV/5
-	-9	203	8	210	/sprites/652.SMIV/7
-	113	247	115	248	/sprites/513.SMIV/9
+	10	274	26	283	/sprites/uns/gunship%4
+	153	452	170	459	/sprites/uns/gunship%5
+	187	223	203	232	/sprites/uns/gunship%8
+	309	356	311	357	/sprites/sfx/crew%21
+	59	307	76	314	/sprites/uns/gunship%5
+	-9	203	8	210	/sprites/uns/gunship%7
+	113	247	115	248	/sprites/sfx/crew%9
 dither	380	459	491	476	001830
 crop	384	463	391	474	0	55	000000	/fonts/tactical.png
 	391		398		72	66		
@@ -512,7 +512,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		8	72		
 	93		99		0	24		
 	99		105		8	36		
-draw	16	278	34	296	/sprites/1010.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/yellow-cookie%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

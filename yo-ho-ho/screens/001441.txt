@@ -127,13 +127,13 @@ rect	251	0	252	481	002850
 	507		508		000050
 	128	118	609	119	
 		374		375	
-draw	353	231	385	248	/sprites/646.SMIV/18
-static	-46	93	22	168	f0f078	100	/sprites/560.SMIV/2
-draw	23	127	28	132	/sprites/554.SMIV/2
-	41	139	53	152	/sprites/522.SMIV/5
-	109	159	123	172	/sprites/522.SMIV/4
-	184	185	198	195	/sprites/522.SMIV/6
-	14	133	23	142	/sprites/554.SMIV/7
+draw	353	231	385	248	/sprites/ish/hvd%18
+static	-46	93	22	168	f0f078	100	/sprites/gai/carrier%2
+draw	23	127	28	132	/sprites/sfx/explosion/large-hit%2
+	41	139	53	152	/sprites/dev/fullerene%5
+	109	159	123	172	/sprites/dev/fullerene%4
+	184	185	198	195	/sprites/dev/fullerene%6
+	14	133	23	142	/sprites/sfx/explosion/large-hit%7
 line	169	246	183	253	489048
 			182	238	
 	183	253			204020

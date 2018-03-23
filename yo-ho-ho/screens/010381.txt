@@ -164,28 +164,28 @@ rect	157	0	158	481	000050
 line	351	266	353	262	ffff7f
 	334	298	336	294	
 	365	246	366	243	
-draw	314	268	318	272	/sprites/573.SMIV/0
-	306	298	311	302	/sprites/570.SMIV/1
-	295	245	300	249	/sprites/570.SMIV/0
-	303	259	327	283	/sprites/558.SMIV/18
-	341	266	346	270	/sprites/570.SMIV/1
-	294		322	291	/sprites/647.SMIV/15
-static	327	311	339	323	ffffff	123	/sprites/546.SMIV/13
-draw	286	169	294	177	/sprites/521.SMIV/0
-static	228	140	236	146	00000000	33	/sprites/530.SMIV/17
-draw	363	234	375	245	/sprites/646.SMIV/13
-	355	302	359	304	/sprites/566.SMIV/16
-	198	288	201	291	/sprites/566.SMIV/22
-	439	206	443	210	/sprites/507.SMIV/2
-	327	185	328	186	/sprites/513.SMIV/18
-	390	239	391	240	/sprites/513.SMIV/13
-	329	357	336	362	/sprites/522.SMIV/6
-	337	315	339	316	/sprites/504.SMIV/18
-	363	403	370	410	/sprites/522.SMIV/1
-	261	141	263	143	/sprites/503.SMIV/22
-	327	309	333	314	/sprites/522.SMIV/3
-	354	297	356	300	/sprites/528.SMIV/12
-	346	268	353	275	/sprites/522.SMIV/1
+draw	314	268	318	272	/sprites/sfx/invisible%0
+	306	298	311	302	/sprites/loc/jump/node%1
+	295	245	300	249	/sprites/loc/jump/node%0
+	303	259	327	283	/sprites/sfx/jump%18
+	341	266	346	270	/sprites/loc/jump/node%1
+	294		322	291	/sprites/ele/etc/liner%15
+static	327	311	339	323	ffffff	123	/sprites/ish/etc/astrominer%13
+draw	286	169	294	177	/sprites/ish/hvc%0
+static	228	140	236	146	00000000	33	/sprites/sal/cruiser%17
+draw	363	234	375	245	/sprites/ish/hvd%13
+	355	302	359	304	/sprites/sal/fighter%16
+	198	288	201	291	/sprites/sal/fighter%22
+	439	206	443	210	/sprites/sfx/debris%2
+	327	185	328	186	/sprites/sfx/crew%18
+	390	239	391	240	/sprites/sfx/crew%13
+	329	357	336	362	/sprites/dev/fullerene%6
+	337	315	339	316	/sprites/sfx/explosion/energy%18
+	363	403	370	410	/sprites/dev/fullerene%1
+	261	141	263	143	/sprites/dev/fusion%22
+	327	309	333	314	/sprites/dev/fullerene%3
+	354	297	356	300	/sprites/dev/cm%12
+	346	268	353	275	/sprites/dev/fullerene%1
 dither	289	183	386	200	303000
 crop	293	187	300	198	64	44	000000	/fonts/tactical.png
 	300		307		40	66		
@@ -475,7 +475,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		72	48		
 	51		57		24	60		
 	57		63		16			
-draw	17	206	33	224	/sprites/521.SMIV/0
+draw	17	206	33	224	/sprites/ish/hvc%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -556,7 +556,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

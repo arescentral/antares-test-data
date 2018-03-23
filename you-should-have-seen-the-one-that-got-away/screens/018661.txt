@@ -172,20 +172,20 @@ rect	156	0	157	481	000050
 		322		323	
 		450		451	002850
 line	345	151	346	155	7fff7f
-draw	350	228	382	260	/sprites/1023.SMIV/0
-static	349	213	362	224	f0f078	25	/sprites/514.SMIV/7
-draw	443	277	450	286	/sprites/502.SMIV/20
-static	361	236	376	244	ffffff	34	/sprites/652.SMIV/16
-	309	127	316	135	00000000	254	/sprites/502.SMIV/7
-draw	325	343	329	346	/sprites/512.SMIV/19
-static	386	237	393	246	f0f078	104	/sprites/502.SMIV/20
-draw	439	226	445	233	/sprites/523.SMIV/22
-	300	274	304	278	/sprites/653.SMIV/0
-	331	263	336	266	/sprites/653.SMIV/2
-	346	256	350	260	/sprites/653.SMIV/0
-	356	243	361	246	/sprites/653.SMIV/1
-	383	238	385	240	/sprites/504.SMIV/19
-	364	242	368	246	/sprites/653.SMIV/3
+draw	350	228	382	260	/sprites/loc/planets/aqua-minerale%0
+static	349	213	362	224	f0f078	25	/sprites/can/transprt%7
+draw	443	277	450	286	/sprites/can/cruiser%20
+static	361	236	376	244	ffffff	34	/sprites/uns/gunship%16
+	309	127	316	135	00000000	254	/sprites/can/cruiser%7
+draw	325	343	329	346	/sprites/can/fighter%19
+static	386	237	393	246	f0f078	104	/sprites/can/cruiser%20
+draw	439	226	445	233	/sprites/can/hvc%22
+	300	274	304	278	/sprites/dev/magneto%0
+	331	263	336	266	/sprites/dev/magneto%2
+	346	256	350	260	/sprites/dev/magneto%0
+	356	243	361	246	/sprites/dev/magneto%1
+	383	238	385	240	/sprites/sfx/explosion/energy%19
+	364	242	368	246	/sprites/dev/magneto%3
 line	186	321	201	322	489048
 			195	309	
 	201	322			204020
@@ -480,7 +480,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -564,7 +564,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

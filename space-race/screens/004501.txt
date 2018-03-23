@@ -129,20 +129,20 @@ rect	247	0	248	481	000050
 		303		304	002850
 line	1059	453	1052	453	00ff00
 	645	403	639	407	7fff7f
-draw	354	222	381	257	/sprites/525.SMIV/11
-	631	402	695	445	/sprites/560.SMIV/7
-	257	216	263	221	/sprites/510.SMIV/15
-	177	400	190	411	/sprites/550.SMIV/11
-	636	406	643	412	/sprites/551.SMIV/4
-	286	48	292	53	/sprites/510.SMIV/11
-	362	236	368	241	/sprites/510.SMIV/18
-	591	142	597	148	/sprites/551.SMIV/21
-	180	314	187	320	/sprites/551.SMIV/9
-	549	389	556	395	/sprites/551.SMIV/22
-	360	238	367	242	/sprites/547.SMIV/1
-	170	318	176	319	/sprites/528.SMIV/18
-	366	239	369	244	/sprites/528.SMIV/11
-	360	240	367	245	/sprites/547.SMIV/4
+draw	354	222	381	257	/sprites/ish/carrier%11
+	631	402	695	445	/sprites/gai/carrier%7
+	257	216	263	221	/sprites/ish/fighter%15
+	177	400	190	411	/sprites/gai/cruiser%11
+	636	406	643	412	/sprites/gai/fighter%4
+	286	48	292	53	/sprites/ish/fighter%11
+	362	236	368	241	/sprites/ish/fighter%18
+	591	142	597	148	/sprites/gai/fighter%21
+	180	314	187	320	/sprites/gai/fighter%9
+	549	389	556	395	/sprites/gai/fighter%22
+	360	238	367	242	/sprites/dev/pp%1
+	170	318	176	319	/sprites/dev/cm%18
+	366	239	369	244	/sprites/dev/cm%11
+	360	240	367	245	/sprites/dev/pp%4
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -577,7 +577,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

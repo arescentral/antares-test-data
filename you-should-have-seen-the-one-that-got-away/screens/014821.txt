@@ -154,31 +154,31 @@ rect	152	0	153	481	002850
 line	361	191	362	195	7fff7f
 	347	148	348	152	
 	368	236	368	240	
-static	364	236	373	247	ffffff	29	/sprites/652.SMIV/0
-	486	288	492	295	00000000	121	/sprites/523.SMIV/2
-draw	438	63	442	66	/sprites/512.SMIV/11
-	463	126	467	130	/sprites/512.SMIV/15
-	374	204	378	207	/sprites/507.SMIV/10
-	350	170	355	173	/sprites/653.SMIV/2
-	368	227	372	231	/sprites/653.SMIV/3
-	364	198	369	201	/sprites/653.SMIV/1
-	390	260	392	262	/sprites/526.SMIV/0
-	353	185	358	188	/sprites/653.SMIV/1
-	357	214	361	218	/sprites/653.SMIV/3
-	365	194	369	198	/sprites/554.SMIV/7
-	376	233	379	236	/sprites/554.SMIV/3
-	381	236	385	240	/sprites/554.SMIV/8
-	366	203	371	207	/sprites/517.SMIV/1
-	367	207	373	212	/sprites/517.SMIV/0
-	365	196	370	200	/sprites/517.SMIV/1
-	366	204	372	209	/sprites/517.SMIV/0
-	365	197	370	201	/sprites/517.SMIV/1
+static	364	236	373	247	ffffff	29	/sprites/uns/gunship%0
+	486	288	492	295	00000000	121	/sprites/can/hvc%2
+draw	438	63	442	66	/sprites/can/fighter%11
+	463	126	467	130	/sprites/can/fighter%15
+	374	204	378	207	/sprites/sfx/debris%10
+	350	170	355	173	/sprites/dev/magneto%2
+	368	227	372	231	/sprites/dev/magneto%3
+	364	198	369	201	/sprites/dev/magneto%1
+	390	260	392	262	/sprites/dev/cluster%0
+	353	185	358	188	/sprites/dev/magneto%1
+	357	214	361	218	/sprites/dev/magneto%3
+	365	194	369	198	/sprites/sfx/explosion/large-hit%7
+	376	233	379	236	/sprites/sfx/explosion/large-hit%3
+	381	236	385	240	/sprites/sfx/explosion/large-hit%8
+	366	203	371	207	/sprites/sfx/energy%1
+	367	207	373	212	/sprites/sfx/energy%0
+	365	196	370	200	/sprites/sfx/energy%1
+	366	204	372	209	/sprites/sfx/energy%0
+	365	197	370	201	/sprites/sfx/energy%1
 	366	204	371	208	
 	365	195	370	199	
-	366	200	372	205	/sprites/517.SMIV/0
-	365	206	370	210	/sprites/517.SMIV/1
-	356	188	381		/sprites/504.SMIV/3
-	365	203	368	207	/sprites/554.SMIV/10
+	366	200	372	205	/sprites/sfx/energy%0
+	365	206	370	210	/sprites/sfx/energy%1
+	356	188	381		/sprites/sfx/explosion/energy%3
+	365	203	368	207	/sprites/sfx/explosion/large-hit%10
 line	344	42	338	56	489048
 			353	54	
 	338	56			204020
@@ -488,7 +488,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -572,7 +572,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

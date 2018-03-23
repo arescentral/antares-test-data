@@ -126,14 +126,14 @@ point	414	362	808080
 rect	288	0	289	481	000050
 	599		600		005000
 	128	184	609	185	
-draw	558	151	644	219	/sprites/643.SMIV/0
-	432	300	451	317	/sprites/501.SMIV/15
-	351	225	389	251	/sprites/646.SMIV/15
-	434	33	448	56	/sprites/582.SMIV/13
-	432	285	451	307	/sprites/582.SMIV/10
-	589	111	615	128	/sprites/582.SMIV/16
-	455	253	471	269	/sprites/501.SMIV/13
-	453	279	472	294	/sprites/501.SMIV/17
+draw	558	151	644	219	/sprites/loc/bunker%0
+	432	300	451	317	/sprites/ish/cruiser%15
+	351	225	389	251	/sprites/ish/hvd%15
+	434	33	448	56	/sprites/ele/cruiser%13
+	432	285	451	307	/sprites/ele/cruiser%10
+	589	111	615	128	/sprites/ele/cruiser%16
+	455	253	471	269	/sprites/ish/cruiser%13
+	453	279	472	294	/sprites/ish/cruiser%17
 dither	132	4	201	21	001830
 crop	136	8	143	19	120	44	000000	/fonts/tactical.png
 	143		150		40	77		
@@ -477,7 +477,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		8	48		
 	57		63		112			
-draw	16	208	34	222	/sprites/559.SMIV/0
+draw	16	208	34	222	/sprites/ish/aslttran%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -558,7 +558,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	51		57		32			
 	57		63		0	24		
 	63		69		16	36		
-draw	16	279	34	295	/sprites/801.SMIV/0
+draw	16	279	34	295	/sprites/loc/outpost%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

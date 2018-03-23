@@ -130,10 +130,10 @@ rect	211	0	212	481	000050
 line	278	301	285	296	ffff7f
 	333	264	337	261	
 	366	243	368	242	
-draw	353	229	387	249	/sprites/646.SMIV/16
-	233	365	247	381	/sprites/550.SMIV/6
-	191	430	194	433	/sprites/513.SMIV/14
-	183	321	187	323	/sprites/513.SMIV/20
+draw	353	229	387	249	/sprites/ish/hvd%16
+	233	365	247	381	/sprites/gai/cruiser%6
+	191	430	194	433	/sprites/sfx/crew%14
+	183	321	187	323	/sprites/sfx/crew%20
 line	207	357	222	356	489048
 			213	343	
 	222	356			204020

@@ -184,19 +184,19 @@ rect	181	0	182	481	000050
 line	407	213	405	215	7fff7f
 	429	172	427	174	
 	371	238	369	239	
-draw	361	238	376	245	/sprites/652.SMIV/19
-	244	251	248	255	/sprites/651.SMIV/0
-	180	199	184	203	/sprites/512.SMIV/15
-static	403	180	413	191	7878f0	8	/sprites/579.SMIV/12
-draw	168	398	173	402	/sprites/651.SMIV/2
-	117	432	123	435	/sprites/651.SMIV/4
-	205	405	211	408	/sprites/651.SMIV/19
-	191	157	201	164	/sprites/578.SMIV/17
-	66	412	92	449	/sprites/649.SMIV/23
-	133	453	139	456	/sprites/651.SMIV/20
-	215	136	218	139	/sprites/512.SMIV/18
-	149	233	154	237	/sprites/651.SMIV/10
-	151	230	153	232	/sprites/504.SMIV/19
+draw	361	238	376	245	/sprites/uns/gunship%19
+	244	251	248	255	/sprites/uns/fighter%0
+	180	199	184	203	/sprites/can/fighter%15
+static	403	180	413	191	7878f0	8	/sprites/aud/gunship%12
+draw	168	398	173	402	/sprites/uns/fighter%2
+	117	432	123	435	/sprites/uns/fighter%4
+	205	405	211	408	/sprites/uns/fighter%19
+	191	157	201	164	/sprites/aud/cruiser%17
+	66	412	92	449	/sprites/uns/carrier%23
+	133	453	139	456	/sprites/uns/fighter%20
+	215	136	218	139	/sprites/can/fighter%18
+	149	233	154	237	/sprites/uns/fighter%10
+	151	230	153	232	/sprites/sfx/explosion/energy%19
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -534,7 +534,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -559,7 +559,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

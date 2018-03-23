@@ -193,31 +193,31 @@ rect	223	0	224	481	000050
 		474		475	
 line	355	237	356	238	ffff7f
 	327	230	330	231	
-draw	251	323	255	327	/sprites/573.SMIV/0
-	244	353	249	357	/sprites/570.SMIV/0
-	233	300	238	304	/sprites/570.SMIV/1
-	278	321	283	325	/sprites/570.SMIV/0
-	121	466	159	511	/sprites/647.SMIV/2
-	153	463	166	475	/sprites/546.SMIV/2
-	321	301	329	309	/sprites/521.SMIV/0
-	242	299	252	306	/sprites/521.SMIV/20
-static	293	202	323	231	ffffff	93	/sprites/648.SMIV/10
-	215	236	222	242	00000000	254	/sprites/530.SMIV/10
-	320	238	327	244		152	/sprites/530.SMIV/15
-draw	361	236	377	245	/sprites/646.SMIV/19
-	214	228	217	231	/sprites/566.SMIV/22
-	242	263	245	266	/sprites/566.SMIV/10
-	329	226	336	231	/sprites/522.SMIV/2
-	311	208	313	209	/sprites/504.SMIV/18
-	236	274	238	276	/sprites/503.SMIV/22
-	282	141	289	146	/sprites/522.SMIV/2
-	358	238	362	239	/sprites/528.SMIV/19
-	304	230	309	233	/sprites/541.SMIV/1
-	363	254	371	259	/sprites/581.SMIV/1
-	295	228	304	236	/sprites/541.SMIV/11
-	304	192	306	194	/sprites/504.SMIV/19
-	314	215	316	217	/sprites/554.SMIV/2
-	300	192	304	196	/sprites/554.SMIV/8
+draw	251	323	255	327	/sprites/sfx/invisible%0
+	244	353	249	357	/sprites/loc/jump/node%0
+	233	300	238	304	/sprites/loc/jump/node%1
+	278	321	283	325	/sprites/loc/jump/node%0
+	121	466	159	511	/sprites/ele/etc/liner%2
+	153	463	166	475	/sprites/ish/etc/astrominer%2
+	321	301	329	309	/sprites/ish/hvc%0
+	242	299	252	306	/sprites/ish/hvc%20
+static	293	202	323	231	ffffff	93	/sprites/sal/carrier%10
+	215	236	222	242	00000000	254	/sprites/sal/cruiser%10
+	320	238	327	244		152	/sprites/sal/cruiser%15
+draw	361	236	377	245	/sprites/ish/hvd%19
+	214	228	217	231	/sprites/sal/fighter%22
+	242	263	245	266	/sprites/sal/fighter%10
+	329	226	336	231	/sprites/dev/fullerene%2
+	311	208	313	209	/sprites/sfx/explosion/energy%18
+	236	274	238	276	/sprites/dev/fusion%22
+	282	141	289	146	/sprites/dev/fullerene%2
+	358	238	362	239	/sprites/dev/cm%19
+	304	230	309	233	/sprites/sfx/explosion/gas%1
+	363	254	371	259	/sprites/dev/magno%1
+	295	228	304	236	/sprites/sfx/explosion/gas%11
+	304	192	306	194	/sprites/sfx/explosion/energy%19
+	314	215	316	217	/sprites/sfx/explosion/large-hit%2
+	300	192	304	196	/sprites/sfx/explosion/large-hit%8
 dither	246	312	343	329	303000
 crop	250	316	257	327	64	44	000000	/fonts/tactical.png
 	257		264		40	66		
@@ -507,7 +507,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		72	48		
 	51		57		24	60		
 	57		63		16			
-draw	17	206	33	224	/sprites/521.SMIV/0
+draw	17	206	33	224	/sprites/ish/hvc%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -588,7 +588,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -138,13 +138,13 @@ line	286	307	302	297	00ff00
 	648	142	659	129	
 	248	325	238	332	ff007f
 	280	388	268	399	
-draw	356	224	388	251	/sprites/501.SMIV/16
-static	218	322	254	345	f0f078	32	/sprites/561.SMIV/16
-draw	44	347	76	376	/sprites/501.SMIV/3
-	410	236	438	262	/sprites/501.SMIV/12
-	266	306	276	317	/sprites/554.SMIV/2
-	243	297	271	324	/sprites/541.SMIV/4
-	570	32	582	39	/sprites/503.SMIV/16
+draw	356	224	388	251	/sprites/ish/cruiser%16
+static	218	322	254	345	f0f078	32	/sprites/gai/engineer%16
+draw	44	347	76	376	/sprites/ish/cruiser%3
+	410	236	438	262	/sprites/ish/cruiser%12
+	266	306	276	317	/sprites/sfx/explosion/large-hit%2
+	243	297	271	324	/sprites/sfx/explosion/gas%4
+	570	32	582	39	/sprites/dev/fusion%16
 line	203	351	218	350	489048
 			210	337	
 	218	350			204020
@@ -459,7 +459,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		120	48		
 	57		63		112			
-draw	16	279	34	294	/sprites/542.SMIV/0
+draw	16	279	34	294	/sprites/loc/flak%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -130,9 +130,9 @@ rect	180	0	181	481	000050
 	128	92	609	93	002850
 		228		229	000050
 		364		365	
-draw	362	234	371	243	/sprites/521.SMIV/10
-	396	13	405	21	/sprites/550.SMIV/9
-	297	182	301	186	/sprites/554.SMIV/7
+draw	362	234	371	243	/sprites/ish/hvc%10
+	396	13	405	21	/sprites/gai/cruiser%9
+	297	182	301	186	/sprites/sfx/explosion/large-hit%7
 line	475	406	475	391	489048
 			461	399	
 		391			204020

@@ -131,10 +131,10 @@ rect	182	0	183	481	000050
 		159		160	
 		287		288	
 		415		416	002850
-draw	364	237	374	244	/sprites/521.SMIV/20
-	336	186	350	200	/sprites/543.SMIV/16
-	340	233		243	/sprites/546.SMIV/0
-	338	164	341	166	/sprites/545.SMIV/16
+draw	364	237	374	244	/sprites/ish/hvc%20
+	336	186	350	200	/sprites/ast/regular/big%16
+	340	233		243	/sprites/ish/etc/astrominer%0
+	338	164	341	166	/sprites/ast/regular/small%16
 line	199	135	206	149	489048
 			214	135	
 	206	149			204020

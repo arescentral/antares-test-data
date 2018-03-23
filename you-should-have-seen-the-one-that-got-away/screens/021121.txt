@@ -151,17 +151,17 @@ rect	145	0	146	481	000050
 		253		254	
 		381		382	002850
 line	336	260	338	259	7fff7f
-draw	157	110	173	126	/sprites/1010.SMIV/0
-	363	236	372	247	/sprites/652.SMIV/1
-	211	270	214	273	/sprites/512.SMIV/6
-	245	259	255	271	/sprites/506.SMIV/4
-	296	181	300	184	/sprites/512.SMIV/5
-	310	263	317	268	/sprites/523.SMIV/6
-	259	275	263	278	/sprites/512.SMIV/17
-static	304	277	314	289	f0f078	122	/sprites/506.SMIV/5
-draw	337	343	340	345	/sprites/508.SMIV/2
-	340	267	343	271	/sprites/554.SMIV/10
-	304	275	306	276	/sprites/504.SMIV/18
+draw	157	110	173	126	/sprites/loc/planets/yellow-cookie%0
+	363	236	372	247	/sprites/uns/gunship%1
+	211	270	214	273	/sprites/can/fighter%6
+	245	259	255	271	/sprites/can/gunship%4
+	296	181	300	184	/sprites/can/fighter%5
+	310	263	317	268	/sprites/can/hvc%6
+	259	275	263	278	/sprites/can/fighter%17
+static	304	277	314	289	f0f078	122	/sprites/can/gunship%5
+draw	337	343	340	345	/sprites/dev/anti%2
+	340	267	343	271	/sprites/sfx/explosion/large-hit%10
+	304	275	306	276	/sprites/sfx/explosion/energy%18
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -497,7 +497,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -581,7 +581,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

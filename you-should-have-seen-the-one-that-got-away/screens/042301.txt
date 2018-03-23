@@ -182,25 +182,25 @@ line	546	320	549	318	7fff7f
 	472	254	472	250	
 	418	606	419	607	
 	362	580	364	581	
-draw	311	188	354	231	/sprites/1023.SMIV/0
-	343	324	364	333	/sprites/652.SMIV/7
-	361	232	373	247	/sprites/652.SMIV/11
-static	496	335	506	343	00000000	61	/sprites/523.SMIV/20
-draw	555	303	574	317	/sprites/652.SMIV/9
-	371	454	391	466	/sprites/652.SMIV/20
+draw	311	188	354	231	/sprites/loc/planets/aqua-minerale%0
+	343	324	364	333	/sprites/uns/gunship%7
+	361	232	373	247	/sprites/uns/gunship%11
+static	496	335	506	343	00000000	61	/sprites/can/hvc%20
+draw	555	303	574	317	/sprites/uns/gunship%9
+	371	454	391	466	/sprites/uns/gunship%20
 	451	215	471	227	
-	476	431	492	446	/sprites/652.SMIV/14
-	376	80	388	95	/sprites/652.SMIV/11
-		239	392	254	/sprites/652.SMIV/2
-	367	376	375	380	/sprites/651.SMIV/4
-	234	66	253	80	/sprites/652.SMIV/9
-	329	128	350	137	/sprites/652.SMIV/7
-	272	377	292	385	/sprites/652.SMIV/6
-	186	60	206	72	/sprites/652.SMIV/4
-	478	213	497	227	/sprites/652.SMIV/3
-	325	209	345	221	/sprites/652.SMIV/8
-	214	269	235	278	/sprites/652.SMIV/5
-	408	314	410	315	/sprites/513.SMIV/11
+	476	431	492	446	/sprites/uns/gunship%14
+	376	80	388	95	/sprites/uns/gunship%11
+		239	392	254	/sprites/uns/gunship%2
+	367	376	375	380	/sprites/uns/fighter%4
+	234	66	253	80	/sprites/uns/gunship%9
+	329	128	350	137	/sprites/uns/gunship%7
+	272	377	292	385	/sprites/uns/gunship%6
+	186	60	206	72	/sprites/uns/gunship%4
+	478	213	497	227	/sprites/uns/gunship%3
+	325	209	345	221	/sprites/uns/gunship%8
+	214	269	235	278	/sprites/uns/gunship%5
+	408	314	410	315	/sprites/sfx/crew%11
 line	408	434	412	419	489048
 			398	423	
 	412	419			204020
@@ -541,7 +541,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		8	72		
 	93		99		0	24		
 	99		105		16	36		
-draw	16	278	34	296	/sprites/1011.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/purpleblue%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

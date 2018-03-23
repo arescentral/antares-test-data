@@ -126,18 +126,18 @@ point	146	115	808080
 rect	397	0	398	481	000050
 	128	116	609	117	
 line	-1141	-1362	-1154	-1356	7f7fff
-draw	347	225	398	262	/sprites/646.SMIV/21
-	-3	216	35	229	/sprites/582.SMIV/6
-	460	320	495	343	/sprites/582.SMIV/16
-	-2	172	17	199	/sprites/650.SMIV/13
-	18	295	43	320	/sprites/578.SMIV/1
-	85	237	182	277	/sprites/525.SMIV/19
-	171	235	183	247	/sprites/507.SMIV/6
-	120	369	126	373	/sprites/513.SMIV/12
-	82	101	88	106	/sprites/513.SMIV/23
-	58	286	83	303	/sprites/541.SMIV/21
-	125	220	141	235	/sprites/517.SMIV/1
-	85	187	175	250	/sprites/504.SMIV/16
+draw	347	225	398	262	/sprites/ish/hvd%21
+	-3	216	35	229	/sprites/ele/cruiser%6
+	460	320	495	343	/sprites/ele/cruiser%16
+	-2	172	17	199	/sprites/uns/cruiser%13
+	18	295	43	320	/sprites/aud/cruiser%1
+	85	237	182	277	/sprites/ish/carrier%19
+	171	235	183	247	/sprites/sfx/debris%6
+	120	369	126	373	/sprites/sfx/crew%12
+	82	101	88	106	/sprites/sfx/crew%23
+	58	286	83	303	/sprites/sfx/explosion/gas%21
+	125	220	141	235	/sprites/sfx/energy%1
+	85	187	175	250	/sprites/sfx/explosion/energy%16
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		24	44		
@@ -646,7 +646,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

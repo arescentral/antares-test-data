@@ -163,30 +163,30 @@ rect	150	0	151	481	000050
 		454		455	000050
 line	362	254	364	250	ff7f00
 	327	309	329	305	
-draw	365	235	373	244	/sprites/521.SMIV/14
-	323	427	327	430	/sprites/512.SMIV/4
-	368	351	372	355	/sprites/512.SMIV/9
-	269	174	273	177	/sprites/512.SMIV/2
-	318	175	322	179	/sprites/512.SMIV/9
-	82	153	86	156	/sprites/512.SMIV/11
-	141	189	145	192	/sprites/512.SMIV/7
-	314	285	318	288	/sprites/512.SMIV/16
-	381	387	397	409	/sprites/524.SMIV/23
-	311	303	329	324	/sprites/524.SMIV/2
-static	241	170	248	177	00000000	254	/sprites/523.SMIV/3
-draw	336	193	344	199	/sprites/523.SMIV/7
-	272	56	274	59	/sprites/528.SMIV/23
-	227	121	230	123	/sprites/528.SMIV/9
-	386	391	388	394	/sprites/528.SMIV/23
-	315	294	321	299	/sprites/584.SMIV/2
-	303	267	312	274	/sprites/541.SMIV/15
-	128	8	131	10	/sprites/528.SMIV/9
-	301	127	303	130	/sprites/528.SMIV/0
-	256	142	259	144	/sprites/528.SMIV/9
-	349	271	351	274	/sprites/528.SMIV/0
-	158	32	161	34	/sprites/528.SMIV/9
-	356	249	362	254	/sprites/584.SMIV/3
-	273	352	279	356	/sprites/584.SMIV/4
+draw	365	235	373	244	/sprites/ish/hvc%14
+	323	427	327	430	/sprites/can/fighter%4
+	368	351	372	355	/sprites/can/fighter%9
+	269	174	273	177	/sprites/can/fighter%2
+	318	175	322	179	/sprites/can/fighter%9
+	82	153	86	156	/sprites/can/fighter%11
+	141	189	145	192	/sprites/can/fighter%7
+	314	285	318	288	/sprites/can/fighter%16
+	381	387	397	409	/sprites/can/carrier%23
+	311	303	329	324	/sprites/can/carrier%2
+static	241	170	248	177	00000000	254	/sprites/can/hvc%3
+draw	336	193	344	199	/sprites/can/hvc%7
+	272	56	274	59	/sprites/dev/cm%23
+	227	121	230	123	/sprites/dev/cm%9
+	386	391	388	394	/sprites/dev/cm%23
+	315	294	321	299	/sprites/dev/onas%2
+	303	267	312	274	/sprites/sfx/explosion/gas%15
+	128	8	131	10	/sprites/dev/cm%9
+	301	127	303	130	/sprites/dev/cm%0
+	256	142	259	144	/sprites/dev/cm%9
+	349	271	351	274	/sprites/dev/cm%0
+	158	32	161	34	/sprites/dev/cm%9
+	356	249	362	254	/sprites/dev/onas%3
+	273	352	279	356	/sprites/dev/onas%4
 line	272	414	285	406	489048
 			272	399	
 	285	406			204020

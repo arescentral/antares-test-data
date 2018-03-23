@@ -159,12 +159,12 @@ rect	271	0	272	481	000050
 		450		451	005000
 line	614	209	609	216	00ff00
 	572	270	565	275	
-draw	361	233	375	246	/sprites/501.SMIV/6
-static	36	238	48	259	00000000	254	/sprites/502.SMIV/2
-draw	513	294	536	306	/sprites/559.SMIV/5
-	425	299	439	313	/sprites/501.SMIV/11
-	136	284	152	298	/sprites/501.SMIV/16
-	294	232	302	236	/sprites/528.SMIV/20
+draw	361	233	375	246	/sprites/ish/cruiser%6
+static	36	238	48	259	00000000	254	/sprites/can/cruiser%2
+draw	513	294	536	306	/sprites/ish/aslttran%5
+	425	299	439	313	/sprites/ish/cruiser%11
+	136	284	152	298	/sprites/ish/cruiser%16
+	294	232	302	236	/sprites/dev/cm%20
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		24	44		
@@ -550,7 +550,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

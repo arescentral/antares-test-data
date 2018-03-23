@@ -127,12 +127,12 @@ rect	191	0	192	481	000050
 	409		410		
 	128	116	609	117	
 		334		335	
-draw	350	226	393	256	/sprites/525.SMIV/21
-	298	-43	345	25	/sprites/560.SMIV/13
-	343	213	346	218	/sprites/528.SMIV/10
-	77	-2	85	4	/sprites/548.SMIV/2
-	158	440	164	441	/sprites/528.SMIV/18
-	322	15	325	20	/sprites/528.SMIV/11
+draw	350	226	393	256	/sprites/ish/carrier%21
+	298	-43	345	25	/sprites/gai/carrier%13
+	343	213	346	218	/sprites/dev/cm%10
+	77	-2	85	4	/sprites/dev/atomic%2
+	158	440	164	441	/sprites/dev/cm%18
+	322	15	325	20	/sprites/dev/cm%11
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -572,7 +572,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

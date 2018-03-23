@@ -259,39 +259,39 @@ line	566	42	577	47	7fff7f
 	595	102	600	112	
 	387	47	378	51	
 	423	7	418	15	
-draw	394	176	430	197	/sprites/652.SMIV/4
-static	426	-85	561	147	ffffff	75	/sprites/604.SMIV/12
-draw	349	230	382	254	/sprites/652.SMIV/3
-	101	24	137	39	/sprites/652.SMIV/6
-	225	360	246	387	/sprites/652.SMIV/1
-	341	110	370	137	/sprites/652.SMIV/2
-	612	57	645	81	/sprites/652.SMIV/21
-	311	56	340	83	/sprites/652.SMIV/2
+draw	394	176	430	197	/sprites/uns/gunship%4
+static	426	-85	561	147	ffffff	75	/sprites/can/gateship%12
+draw	349	230	382	254	/sprites/uns/gunship%3
+	101	24	137	39	/sprites/uns/gunship%6
+	225	360	246	387	/sprites/uns/gunship%1
+	341	110	370	137	/sprites/uns/gunship%2
+	612	57	645	81	/sprites/uns/gunship%21
+	311	56	340	83	/sprites/uns/gunship%2
 	623	140	652	167	
-	348	253	369	279	/sprites/652.SMIV/0
-	312	84	336	111	/sprites/652.SMIV/23
-	572	25	584	33	/sprites/653.SMIV/4
-	432	-4	438	1	/sprites/504.SMIV/19
-	386	197	395	207	/sprites/653.SMIV/0
-	432	53	438	58	/sprites/504.SMIV/19
+	348	253	369	279	/sprites/uns/gunship%0
+	312	84	336	111	/sprites/uns/gunship%23
+	572	25	584	33	/sprites/dev/magneto%4
+	432	-4	438	1	/sprites/sfx/explosion/energy%19
+	386	197	395	207	/sprites/dev/magneto%0
+	432	53	438	58	/sprites/sfx/explosion/energy%19
 	419	25	425	30	
-	420	179	429	189	/sprites/653.SMIV/0
-	541	30	547	35	/sprites/504.SMIV/19
-	452	123	459	131	/sprites/554.SMIV/3
-	429		439	134	/sprites/554.SMIV/7
-	598	53	607	63	/sprites/653.SMIV/0
-	418	138	430	145	/sprites/653.SMIV/1
-	255	137	332	216	/sprites/554.SMIV/9
-	433	67	442	76	/sprites/554.SMIV/5
-	373	238	385	247	/sprites/653.SMIV/2
-	417	143	424	151	/sprites/554.SMIV/3
-	429	109	435	114	/sprites/504.SMIV/19
-	448	130	453	135	/sprites/554.SMIV/0
-	435	120	444	129	/sprites/554.SMIV/5
-	440	50	447	58	/sprites/554.SMIV/4
-	436	114	442	119	/sprites/504.SMIV/19
+	420	179	429	189	/sprites/dev/magneto%0
+	541	30	547	35	/sprites/sfx/explosion/energy%19
+	452	123	459	131	/sprites/sfx/explosion/large-hit%3
+	429		439	134	/sprites/sfx/explosion/large-hit%7
+	598	53	607	63	/sprites/dev/magneto%0
+	418	138	430	145	/sprites/dev/magneto%1
+	255	137	332	216	/sprites/sfx/explosion/large-hit%9
+	433	67	442	76	/sprites/sfx/explosion/large-hit%5
+	373	238	385	247	/sprites/dev/magneto%2
+	417	143	424	151	/sprites/sfx/explosion/large-hit%3
+	429	109	435	114	/sprites/sfx/explosion/energy%19
+	448	130	453	135	/sprites/sfx/explosion/large-hit%0
+	435	120	444	129	/sprites/sfx/explosion/large-hit%5
+	440	50	447	58	/sprites/sfx/explosion/large-hit%4
+	436	114	442	119	/sprites/sfx/explosion/energy%19
 	566	70	572	75	
-	431	122	435	126	/sprites/504.SMIV/18
+	431	122	435	126	/sprites/sfx/explosion/energy%18
 	435	133	439	137	
 line	500	91	485	95	489048
 			497	106	
@@ -615,7 +615,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -689,7 +689,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		8	72		
 	93		99		0	24		
 	99		105		16	36		
-draw	16	278	34	296	/sprites/1011.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/purpleblue%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

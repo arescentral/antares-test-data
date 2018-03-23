@@ -128,18 +128,18 @@ rect	216	0	217	481	000050
 	128	210	609	211	000050
 		466		467	
 line	344	287	348	278	00ff00
-draw	362	230	378	248	/sprites/521.SMIV/14
-static	293	303	317	328	ffffff	88	/sprites/546.SMIV/7
-draw	231	331	255	356	/sprites/546.SMIV/7
-		401	257	427	/sprites/546.SMIV/3
-	312	393	314	395	/sprites/589.SMIV/0
-static	320	332	323	334	f0f078	140	/sprites/589.SMIV/1
-	316	356	319	358		92	/sprites/589.SMIV/3
-draw	528	163	538	173	/sprites/544.SMIV/19
-	298	359	308	367	/sprites/548.SMIV/2
-	354	258	358	263	/sprites/503.SMIV/14
-	322	334	335	345	/sprites/504.SMIV/11
-	256		266	341	/sprites/548.SMIV/4
+draw	362	230	378	248	/sprites/ish/hvc%14
+static	293	303	317	328	ffffff	88	/sprites/ish/etc/astrominer%7
+draw	231	331	255	356	/sprites/ish/etc/astrominer%7
+		401	257	427	/sprites/ish/etc/astrominer%3
+	312	393	314	395	/sprites/zrb/base%0
+static	320	332	323	334	f0f078	140	/sprites/zrb/base%1
+	316	356	319	358		92	/sprites/zrb/base%3
+draw	528	163	538	173	/sprites/ast/regular/medium%19
+	298	359	308	367	/sprites/dev/atomic%2
+	354	258	358	263	/sprites/dev/fusion%14
+	322	334	335	345	/sprites/sfx/explosion/energy%11
+	256		266	341	/sprites/dev/atomic%4
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

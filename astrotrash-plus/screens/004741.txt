@@ -125,17 +125,17 @@ point	282	414	d0d0d0
 	492	416	808080
 rect	370	0	371	481	000050
 	128	243	609	244	002850
-draw	359	232	379	245	/sprites/521.SMIV/17
-	233	214	257	238	/sprites/543.SMIV/8
-	302	322	328	347	/sprites/546.SMIV/2
-static	299	295	325	321	ffffff	2	/sprites/546.SMIV/3
-draw	338	274	350	285	/sprites/544.SMIV/5
-	331	290	340	299	/sprites/554.SMIV/8
-	306	295	316	302	/sprites/548.SMIV/4
-	328	274	335	282	/sprites/554.SMIV/10
-	313	307	321	316	/sprites/548.SMIV/0
-	327	283	333	290	/sprites/554.SMIV/4
-	346	280	350	284	/sprites/554.SMIV/0
+draw	359	232	379	245	/sprites/ish/hvc%17
+	233	214	257	238	/sprites/ast/regular/big%8
+	302	322	328	347	/sprites/ish/etc/astrominer%2
+static	299	295	325	321	ffffff	2	/sprites/ish/etc/astrominer%3
+draw	338	274	350	285	/sprites/ast/regular/medium%5
+	331	290	340	299	/sprites/sfx/explosion/large-hit%8
+	306	295	316	302	/sprites/dev/atomic%4
+	328	274	335	282	/sprites/sfx/explosion/large-hit%10
+	313	307	321	316	/sprites/dev/atomic%0
+	327	283	333	290	/sprites/sfx/explosion/large-hit%4
+	346	280	350	284	/sprites/sfx/explosion/large-hit%0
 line	183	314	198	316	489048
 			192	302	
 	198	316			204020

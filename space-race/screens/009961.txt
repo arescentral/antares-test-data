@@ -124,7 +124,7 @@ point	311	72	808080
 	518	400	d0d0d0
 	186	271	
 rect	136	0	137	481	000050
-draw	363	235	373	241	/sprites/513.SMIV/11
+draw	363	235	373	241	/sprites/sfx/crew%11
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

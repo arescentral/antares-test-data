@@ -126,10 +126,10 @@ point	373	164	b0b0b0
 rect	516	0	517	481	002850
 	128	220	609	221	005000
 line	414	145	411	163	00ff00
-draw	351	228	379	257	/sprites/501.SMIV/2
-	548	101	588	151	/sprites/506.SMIV/10
-	437	246	457	291	/sprites/502.SMIV/11
-	379	145	387	155	/sprites/503.SMIV/1
+draw	351	228	379	257	/sprites/ish/cruiser%2
+	548	101	588	151	/sprites/can/gunship%10
+	437	246	457	291	/sprites/can/cruiser%11
+	379	145	387	155	/sprites/dev/fusion%1
 line	482	77	468	83	489048
 			481	92	
 	468	83			204020
@@ -442,7 +442,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

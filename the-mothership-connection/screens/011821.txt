@@ -131,19 +131,19 @@ rect	211	0	212	481	000050
 		164		165	
 		292		293	002850
 		420		421	000050
-draw	365	237	374	245	/sprites/521.SMIV/21
-	510	107	514	111	/sprites/512.SMIV/9
-	329	19	333	22	/sprites/512.SMIV/11
-static	365	38	369	41	f0f078	68	/sprites/512.SMIV/7
-draw	98	35	112	57	/sprites/524.SMIV/0
+draw	365	237	374	245	/sprites/ish/hvc%21
+	510	107	514	111	/sprites/can/fighter%9
+	329	19	333	22	/sprites/can/fighter%11
+static	365	38	369	41	f0f078	68	/sprites/can/fighter%7
+draw	98	35	112	57	/sprites/can/carrier%0
 	158	-18	172	4	
-static	275	158	293	179	f0f078	18	/sprites/524.SMIV/2
-draw	328	193	333	197	/sprites/584.SMIV/0
-	227	93	233	98	/sprites/584.SMIV/3
-	310	162	319	170	/sprites/541.SMIV/9
-	323	154	332	161	/sprites/541.SMIV/13
-	362	231	368	236	/sprites/584.SMIV/3
-	292	160	297	163	/sprites/541.SMIV/1
+static	275	158	293	179	f0f078	18	/sprites/can/carrier%2
+draw	328	193	333	197	/sprites/dev/onas%0
+	227	93	233	98	/sprites/dev/onas%3
+	310	162	319	170	/sprites/sfx/explosion/gas%9
+	323	154	332	161	/sprites/sfx/explosion/gas%13
+	362	231	368	236	/sprites/dev/onas%3
+	292	160	297	163	/sprites/sfx/explosion/gas%1
 line	233	94	236	109	489048
 			248	98	
 	236	109			204020

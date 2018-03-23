@@ -138,11 +138,11 @@ rect	139	0	140	481	005000
 	128	309	609	310	
 line	327	291	334	282	7fff7f
 	2369	550	2372	560	
-draw	270	317	295	333	/sprites/578.SMIV/18
-	352	226	387	251	/sprites/652.SMIV/15
-static	310	305	335	325	7878f0	32	/sprites/578.SMIV/22
-draw	291	345	296	349	/sprites/504.SMIV/18
-	338	324	355	338	/sprites/504.SMIV/14
+draw	270	317	295	333	/sprites/aud/cruiser%18
+	352	226	387	251	/sprites/uns/gunship%15
+static	310	305	335	325	7878f0	32	/sprites/aud/cruiser%22
+draw	291	345	296	349	/sprites/sfx/explosion/energy%18
+	338	324	355	338	/sprites/sfx/explosion/energy%14
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -502,7 +502,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	206	33	224	/sprites/651.SMIV/0
+draw	17	206	33	224	/sprites/uns/fighter%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -560,7 +560,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1021.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/fall%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

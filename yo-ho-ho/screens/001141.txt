@@ -126,12 +126,12 @@ point	367	4	808080
 rect	131	0	132	481	000050
 	601		602		
 	128	261	609	262	
-draw	236	176	250	190	/sprites/573.SMIV/0
-	208	283	226	298	/sprites/570.SMIV/0
-	167	90	185	105	/sprites/570.SMIV/1
+draw	236	176	250	190	/sprites/sfx/invisible%0
+	208	283	226	298	/sprites/loc/jump/node%0
+	167	90	185	105	/sprites/loc/jump/node%1
 	334	168	352	183	
-		224	392	262	/sprites/646.SMIV/4
-	161	158	194	188	/sprites/550.SMIV/9
+		224	392	262	/sprites/ish/hvd%4
+	161	158	194	188	/sprites/gai/cruiser%9
 line	528	122	513	123	489048
 			522	136	
 	513	123			204020

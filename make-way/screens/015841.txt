@@ -151,15 +151,15 @@ line	355	235	349	232	00ff00
 	251	150	244	151	
 	315	167	308	166	
 	418	225	409	227	
-static	362	234	376	247	ffffff	26	/sprites/501.SMIV/6
-draw	269	389	277	396	/sprites/512.SMIV/2
-	233	138	253	150	/sprites/559.SMIV/6
-	371	192	381	209	/sprites/642.SMIV/1
-	307	312	315	319	/sprites/512.SMIV/19
-	123	370	139	383	/sprites/501.SMIV/1
-	412	203	418	207	/sprites/503.SMIV/4
-	247	150	255	153	/sprites/528.SMIV/8
-	341	240	346	245	/sprites/554.SMIV/2
+static	362	234	376	247	ffffff	26	/sprites/ish/cruiser%6
+draw	269	389	277	396	/sprites/can/fighter%2
+	233	138	253	150	/sprites/ish/aslttran%6
+	371	192	381	209	/sprites/can/engineer%1
+	307	312	315	319	/sprites/can/fighter%19
+	123	370	139	383	/sprites/ish/cruiser%1
+	412	203	418	207	/sprites/dev/fusion%4
+	247	150	255	153	/sprites/dev/cm%8
+	341	240	346	245	/sprites/sfx/explosion/large-hit%2
 line	567	250	554	242	489048
 			553	257	
 	554	242			204020
@@ -476,7 +476,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

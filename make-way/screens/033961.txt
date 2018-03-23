@@ -170,11 +170,11 @@ line	369	231	371	233	ffff7f
 	328	218	332	221	
 	361	234	367	239	00ff00
 	283	165	290	170	ffff7f
-static	254	140	274	165	f0f078	54	/sprites/506.SMIV/6
-draw	357	230	381	252	/sprites/509.SMIV/21
-	234	145	238	148	/sprites/504.SMIV/18
+static	254	140	274	165	f0f078	54	/sprites/can/gunship%6
+draw	357	230	381	252	/sprites/ish/gunship%21
+	234	145	238	148	/sprites/sfx/explosion/energy%18
 	254	154	258	157	
-	243	134	248	138	/sprites/504.SMIV/19
+	243	134	248	138	/sprites/sfx/explosion/energy%19
 rect	128	415	608	480	007fff
 		416		479	000810
 	132	420	139	431	007fff
@@ -901,7 +901,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -965,7 +965,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

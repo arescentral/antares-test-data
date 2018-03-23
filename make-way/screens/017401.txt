@@ -125,8 +125,8 @@ point	529	148	808080
 	301	174	808080
 rect	342	0	343	481	002850
 	128	216	609	217	005000
-draw	357	228	386	252	/sprites/501.SMIV/23
-	266	441	295	466	/sprites/501.SMIV/8
+draw	357	228	386	252	/sprites/ish/cruiser%23
+	266	441	295	466	/sprites/ish/cruiser%8
 dither	200	50	360	67	003030
 crop	204	54	211	65	80	55	000000	/fonts/tactical.png
 	211		218		120	66		
@@ -481,7 +481,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

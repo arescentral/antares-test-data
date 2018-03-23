@@ -147,13 +147,13 @@ rect	307	0	308	481	005000
 	128	106	609	107	002850
 line	356	191	360	202	00ff00
 	274	111	281	120	
-draw	359	226	385	254	/sprites/521.SMIV/23
-static	329	76	358	98	f0eac3	84	/sprites/550.SMIV/12
-draw	321	51	329	58	/sprites/504.SMIV/19
-	394	45	400	53	/sprites/503.SMIV/1
-	326	135	332	143	/sprites/503.SMIV/23
-	347	52	357	63	/sprites/554.SMIV/4
-	357	214	363	222	/sprites/503.SMIV/23
+draw	359	226	385	254	/sprites/ish/hvc%23
+static	329	76	358	98	f0eac3	84	/sprites/gai/cruiser%12
+draw	321	51	329	58	/sprites/sfx/explosion/energy%19
+	394	45	400	53	/sprites/dev/fusion%1
+	326	135	332	143	/sprites/dev/fusion%23
+	347	52	357	63	/sprites/sfx/explosion/large-hit%4
+	357	214	363	222	/sprites/dev/fusion%23
 line	323	45	319	60	489048
 			333	56	
 	319	60			204020

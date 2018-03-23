@@ -129,13 +129,13 @@ rect	148	0	149	481	000050
 	128	38	609	39	
 		244		245	000050
 		450		451	
-draw	423	295	473	345	/sprites/1020.SMIV/0
-	137	34	149	45	/sprites/501.SMIV/3
-	358	230	375	247	/sprites/509.SMIV/8
-static	168	11	185	28	ffffff	39	/sprites/509.SMIV/8
-draw	121	26	133	37	/sprites/501.SMIV/10
-	247	55	269	92	/sprites/636.SMIV/12
-	140	-6	178	27	/sprites/504.SMIV/10
+draw	423	295	473	345	/sprites/loc/planets/cloudtones%0
+	137	34	149	45	/sprites/ish/cruiser%3
+	358	230	375	247	/sprites/ish/gunship%8
+static	168	11	185	28	ffffff	39	/sprites/ish/gunship%8
+draw	121	26	133	37	/sprites/ish/cruiser%10
+	247	55	269	92	/sprites/uns/etc/bttlship%12
+	140	-6	178	27	/sprites/sfx/explosion/energy%10
 dither	449	300	567	317	001830
 crop	453	304	460	315	48	44	000000	/fonts/tactical.png
 	460		467		8	66		
@@ -495,7 +495,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	208	34	222	/sprites/509.SMIV/0
+draw	16	208	34	222	/sprites/ish/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -564,7 +564,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	57		63		40	72		
 	63		69		32	84		
 	69		75		8	72		
-draw	16	278	34	296	/sprites/1020.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/cloudtones%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

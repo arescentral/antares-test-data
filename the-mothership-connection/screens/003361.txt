@@ -125,10 +125,10 @@ point	503	65	808080
 	214	375	808080
 rect	248	0	249	481	000050
 	128	128	609	129	
-draw	352	231	380	253	/sprites/521.SMIV/4
-	505	135	573	207	/sprites/590.SMIV/11
-	543	400	565	414	/sprites/541.SMIV/23
-	420	198	437	210	/sprites/584.SMIV/4
+draw	352	231	380	253	/sprites/ish/hvc%4
+	505	135	573	207	/sprites/ast/nasty%11
+	543	400	565	414	/sprites/sfx/explosion/gas%23
+	420	198	437	210	/sprites/dev/onas%4
 line	548	155	533	154	489048
 			539	168	
 	533	154			204020

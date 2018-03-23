@@ -130,11 +130,11 @@ rect	241	0	242	481	005000
 		159		160	
 		287		288	002850
 		415		416	000050
-draw	364	235	374	242	/sprites/521.SMIV/16
-	307	261	319	273	/sprites/543.SMIV/8
-static	361	237	374	250	ffffff	60	/sprites/546.SMIV/16
-draw	363	148	367	151	/sprites/545.SMIV/9
-	404	197	411	201	/sprites/504.SMIV/16
+draw	364	235	374	242	/sprites/ish/hvc%16
+	307	261	319	273	/sprites/ast/regular/big%8
+static	361	237	374	250	ffffff	60	/sprites/ish/etc/astrominer%16
+draw	363	148	367	151	/sprites/ast/regular/small%9
+	404	197	411	201	/sprites/sfx/explosion/energy%16
 line	192	333	207	333	489048
 			200	320	
 	207				204020

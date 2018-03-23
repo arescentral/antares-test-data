@@ -197,12 +197,12 @@ line	5853	1761	5849	1763	7fff7f
 	5804	1874	5809	1874	
 	5492	1666	5488	1666	
 	5753	1870	5758	1870	
-draw	150	389	168	407	/sprites/1011.SMIV/0
-	359	237	377	245	/sprites/652.SMIV/5
-	101	282	105	286	/sprites/512.SMIV/9
-	263	330	267	334	/sprites/512.SMIV/3
-	178	433	187	441	/sprites/523.SMIV/8
-	160	267	164	271	/sprites/512.SMIV/8
+draw	150	389	168	407	/sprites/loc/planets/purpleblue%0
+	359	237	377	245	/sprites/uns/gunship%5
+	101	282	105	286	/sprites/can/fighter%9
+	263	330	267	334	/sprites/can/fighter%3
+	178	433	187	441	/sprites/can/hvc%8
+	160	267	164	271	/sprites/can/fighter%8
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -598,7 +598,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -682,7 +682,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -131,25 +131,25 @@ rect	197	0	198	481	000050
 		172		173	000050
 		300		301	
 		428		429	
-draw	364	235	374	242	/sprites/521.SMIV/16
-	365	260	378	272	/sprites/543.SMIV/5
-	350	272	363	285	/sprites/546.SMIV/4
-static	390	264	402	276	ffffff	10	/sprites/546.SMIV/18
-draw	348	290	361	302	/sprites/546.SMIV/2
-	385	263	390	266	/sprites/548.SMIV/1
-	364	265	366	267	/sprites/554.SMIV/1
-	370		374	269	/sprites/554.SMIV/7
-	350	290	355	293	/sprites/548.SMIV/4
-	367	269	369	271	/sprites/554.SMIV/2
-	369	265	373	269	/sprites/554.SMIV/6
-	381	263	385	267	/sprites/554.SMIV/5
-	380	271	383	274	/sprites/554.SMIV/4
-	369	276	374	279	/sprites/548.SMIV/1
+draw	364	235	374	242	/sprites/ish/hvc%16
+	365	260	378	272	/sprites/ast/regular/big%5
+	350	272	363	285	/sprites/ish/etc/astrominer%4
+static	390	264	402	276	ffffff	10	/sprites/ish/etc/astrominer%18
+draw	348	290	361	302	/sprites/ish/etc/astrominer%2
+	385	263	390	266	/sprites/dev/atomic%1
+	364	265	366	267	/sprites/sfx/explosion/large-hit%1
+	370		374	269	/sprites/sfx/explosion/large-hit%7
+	350	290	355	293	/sprites/dev/atomic%4
+	367	269	369	271	/sprites/sfx/explosion/large-hit%2
+	369	265	373	269	/sprites/sfx/explosion/large-hit%6
+	381	263	385	267	/sprites/sfx/explosion/large-hit%5
+	380	271	383	274	/sprites/sfx/explosion/large-hit%4
+	369	276	374	279	/sprites/dev/atomic%1
 	359	278	364	281	
-	374	271	377	274	/sprites/554.SMIV/3
-	371	272	375	276	/sprites/554.SMIV/9
-	380	270	382	272	/sprites/554.SMIV/2
-	383		387	274	/sprites/554.SMIV/9
+	374	271	377	274	/sprites/sfx/explosion/large-hit%3
+	371	272	375	276	/sprites/sfx/explosion/large-hit%9
+	380	270	382	272	/sprites/sfx/explosion/large-hit%2
+	383		387	274	/sprites/sfx/explosion/large-hit%9
 line	207	357	222	356	489048
 			213	343	
 	222	356			204020

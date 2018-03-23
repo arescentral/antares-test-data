@@ -125,18 +125,18 @@ point	165	108	d0d0d0
 	139	323	
 rect	457	0	458	481	000050
 	128	432	609	433	
-draw	571	339	587	355	/sprites/573.SMIV/0
-	540	456	560	473	/sprites/570.SMIV/1
-	496	246	516	263	/sprites/570.SMIV/0
-	335	224	399	261	/sprites/646.SMIV/5
-	237	59	245	67	/sprites/655.SMIV/4
-	260	222	264	224	/sprites/655.SMIV/0
-	228	163	236	171	/sprites/655.SMIV/2
-	253	130	265	140	/sprites/655.SMIV/3
-	243	230	259	249	/sprites/548.SMIV/3
-	233	79	241	87	/sprites/655.SMIV/4
-	235	177	243	185	/sprites/655.SMIV/2
-	254	225	258	227	/sprites/655.SMIV/0
+draw	571	339	587	355	/sprites/sfx/invisible%0
+	540	456	560	473	/sprites/loc/jump/node%1
+	496	246	516	263	/sprites/loc/jump/node%0
+	335	224	399	261	/sprites/ish/hvd%5
+	237	59	245	67	/sprites/sfx/sparkle%4
+	260	222	264	224	/sprites/sfx/sparkle%0
+	228	163	236	171	/sprites/sfx/sparkle%2
+	253	130	265	140	/sprites/sfx/sparkle%3
+	243	230	259	249	/sprites/dev/atomic%3
+	233	79	241	87	/sprites/sfx/sparkle%4
+	235	177	243	185	/sprites/sfx/sparkle%2
+	254	225	258	227	/sprites/sfx/sparkle%0
 line	555	173	540	171	489048
 			545	185	
 	540	171			204020

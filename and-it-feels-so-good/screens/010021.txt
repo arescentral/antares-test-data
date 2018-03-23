@@ -129,16 +129,16 @@ rect	255	0	256	481	005000
 	128	109	609	110	
 		284		285	005000
 		459		460	000050
-draw	230	265	281	305	/sprites/643.SMIV/0
-	357	233	379	245	/sprites/646.SMIV/18
-	381	170	398	176	/sprites/582.SMIV/18
-	61	341	78	349	/sprites/582.SMIV/5
-	372	254	387	264	/sprites/582.SMIV/20
-	315	216	329	224	/sprites/650.SMIV/8
+draw	230	265	281	305	/sprites/loc/bunker%0
+	357	233	379	245	/sprites/ish/hvd%18
+	381	170	398	176	/sprites/ele/cruiser%18
+	61	341	78	349	/sprites/ele/cruiser%5
+	372	254	387	264	/sprites/ele/cruiser%20
+	315	216	329	224	/sprites/uns/cruiser%8
 	293	195	307	203	
-	38	209	52	223	/sprites/509.SMIV/6
-	348	192	357	201	/sprites/501.SMIV/12
-	113	271	122	280	/sprites/501.SMIV/5
+	38	209	52	223	/sprites/ish/gunship%6
+	348	192	357	201	/sprites/ish/cruiser%12
+	113	271	122	280	/sprites/ish/cruiser%5
 dither	200	50	360	67	003030
 crop	204	54	211	65	80	55	000000	/fonts/tactical.png
 	211		218		120	66		
@@ -516,7 +516,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	20	206	29	224	/sprites/582.SMIV/0
+draw	20	206	29	224	/sprites/ele/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -589,7 +589,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -126,15 +126,15 @@ point	196	237	b0b0b0
 rect	308	0	309	481	000050
 	581		582		002850
 	128	252	609	253	000050
-draw	357	231	378	246	/sprites/521.SMIV/6
-	291	335	323	366	/sprites/553.SMIV/22
-	631	317	650	334	/sprites/550.SMIV/21
-	230	392	236	397	/sprites/655.SMIV/3
-	224	364	228	368	/sprites/655.SMIV/2
-	219	310	229	318	/sprites/548.SMIV/2
-	244	415	248	418	/sprites/655.SMIV/5
-	231	337	235	340	/sprites/655.SMIV/1
-	229	366	233	370	/sprites/655.SMIV/2
+draw	357	231	378	246	/sprites/ish/hvc%6
+	291	335	323	366	/sprites/gai/gunship%22
+	631	317	650	334	/sprites/gai/cruiser%21
+	230	392	236	397	/sprites/sfx/sparkle%3
+	224	364	228	368	/sprites/sfx/sparkle%2
+	219	310	229	318	/sprites/dev/atomic%2
+	244	415	248	418	/sprites/sfx/sparkle%5
+	231	337	235	340	/sprites/sfx/sparkle%1
+	229	366	233	370	/sprites/sfx/sparkle%2
 line	566	249	553	241	489048
 			552	256	
 	553	241			204020

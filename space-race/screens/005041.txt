@@ -140,24 +140,24 @@ point	431	321	808080
 rect	357	0	358	481	000050
 	128	43	609	44	
 		299		300	
-draw	339	225	399	255	/sprites/525.SMIV/7
-static	435	207	511	278	f0f078	23	/sprites/560.SMIV/9
-draw	628	-62	684	19	/sprites/560.SMIV/13
-	63	-9	77	7	/sprites/550.SMIV/6
-	24	90	40	107	/sprites/550.SMIV/4
-	160	93	168	100	/sprites/510.SMIV/17
-	322	55	325	58	/sprites/513.SMIV/14
-	612	118	620	127	/sprites/551.SMIV/13
-	441	226	445	230	/sprites/554.SMIV/0
+draw	339	225	399	255	/sprites/ish/carrier%7
+static	435	207	511	278	f0f078	23	/sprites/gai/carrier%9
+draw	628	-62	684	19	/sprites/gai/carrier%13
+	63	-9	77	7	/sprites/gai/cruiser%6
+	24	90	40	107	/sprites/gai/cruiser%4
+	160	93	168	100	/sprites/ish/fighter%17
+	322	55	325	58	/sprites/sfx/crew%14
+	612	118	620	127	/sprites/gai/fighter%13
+	441	226	445	230	/sprites/sfx/explosion/large-hit%0
 		245		249	
-	632	154	642	163	/sprites/517.SMIV/1
-	634	156	643		/sprites/504.SMIV/6
-	113	8	125	18	/sprites/517.SMIV/0
-	631	151	649	167	/sprites/541.SMIV/11
-	428	203	437	212	/sprites/554.SMIV/8
+	632	154	642	163	/sprites/sfx/energy%1
+	634	156	643		/sprites/sfx/explosion/energy%6
+	113	8	125	18	/sprites/sfx/energy%0
+	631	151	649	167	/sprites/sfx/explosion/gas%11
+	428	203	437	212	/sprites/sfx/explosion/large-hit%8
 		220		229	
-	427	227		234	/sprites/541.SMIV/1
-	400	174	418	187	/sprites/541.SMIV/16
+	427	227		234	/sprites/sfx/explosion/gas%1
+	400	174	418	187	/sprites/sfx/explosion/gas%16
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -609,7 +609,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

@@ -159,13 +159,13 @@ rect	354	0	355	481	000050
 		376		377	005000
 line	-14128	2116	-14121	2123	00ff00
 	406	125	403	134	ffff7f
-draw	620	111	636	124	/sprites/559.SMIV/2
-	441	65	461	88	/sprites/506.SMIV/11
-	626	306	638	319	/sprites/501.SMIV/2
-	357	231	377	249	/sprites/509.SMIV/1
-	417	50	426	69	/sprites/637.SMIV/13
-	376	100	388	108	/sprites/541.SMIV/24
-	-6	225	1	233	/sprites/547.SMIV/3
+draw	620	111	636	124	/sprites/ish/aslttran%2
+	441	65	461	88	/sprites/can/gunship%11
+	626	306	638	319	/sprites/ish/cruiser%2
+	357	231	377	249	/sprites/ish/gunship%1
+	417	50	426	69	/sprites/can/aslttran%13
+	376	100	388	108	/sprites/sfx/explosion/gas%24
+	-6	225	1	233	/sprites/dev/pp%3
 line	404	43	394	55	489048
 			409	58	
 	394	55			204020
@@ -487,7 +487,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -550,7 +550,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

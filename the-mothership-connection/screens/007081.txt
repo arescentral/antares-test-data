@@ -135,13 +135,13 @@ point	163	23	808080
 	139	1017	
 rect	402	0	403	405	000050
 	128	198	609	199	005000
-draw	356	228	376	248	/sprites/521.SMIV/10
-	393	413	451	474	/sprites/590.SMIV/13
-	374	436	392	452	/sprites/541.SMIV/5
-	389	441	409	459	/sprites/541.SMIV/9
-	374	470	394	486	/sprites/541.SMIV/13
-	368	288	381	299	/sprites/584.SMIV/2
-	386	421	397	428	/sprites/541.SMIV/1
+draw	356	228	376	248	/sprites/ish/hvc%10
+	393	413	451	474	/sprites/ast/nasty%13
+	374	436	392	452	/sprites/sfx/explosion/gas%5
+	389	441	409	459	/sprites/sfx/explosion/gas%9
+	374	470	394	486	/sprites/sfx/explosion/gas%13
+	368	288	381	299	/sprites/dev/onas%2
+	386	421	397	428	/sprites/sfx/explosion/gas%1
 rect	128	404	608	480	007fff
 		405		479	000810
 	132	409	139	420	007fff

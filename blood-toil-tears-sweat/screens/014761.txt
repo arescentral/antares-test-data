@@ -130,28 +130,28 @@ rect	245	0	246	481	000050
 		132		133	
 		260		261	
 		388		389	005000
-draw	188	136	220	168	/sprites/1021.SMIV/0
-	363	236	372	247	/sprites/652.SMIV/1
+draw	188	136	220	168	/sprites/loc/planets/fall%0
+	363	236	372	247	/sprites/uns/gunship%1
 	368	198	377	209	
-	327	249	331	253	/sprites/651.SMIV/1
-	380	205	390	216	/sprites/652.SMIV/23
-	366	197	375	208	/sprites/652.SMIV/1
-	385	198	389	202	/sprites/651.SMIV/1
-	370	207	382	218	/sprites/652.SMIV/22
-	372	211	378	215	/sprites/651.SMIV/21
-	332	138	338	141	/sprites/651.SMIV/18
-	325	114	329	118	/sprites/651.SMIV/11
-	424	199	439	207	/sprites/652.SMIV/16
-	412	128	416	132	/sprites/651.SMIV/13
-	390	214	402	225	/sprites/652.SMIV/22
-	414	106	448	143	/sprites/649.SMIV/14
-	365	145	409	178	/sprites/649.SMIV/15
-	388	205	397	216	/sprites/652.SMIV/0
-	358	206	362	210	/sprites/651.SMIV/1
-	407	17	413	20	/sprites/651.SMIV/16
-	255	406	257	407	/sprites/513.SMIV/11
-	344	248	348	252	/sprites/651.SMIV/1
-	626	443	629	446	/sprites/554.SMIV/4
+	327	249	331	253	/sprites/uns/fighter%1
+	380	205	390	216	/sprites/uns/gunship%23
+	366	197	375	208	/sprites/uns/gunship%1
+	385	198	389	202	/sprites/uns/fighter%1
+	370	207	382	218	/sprites/uns/gunship%22
+	372	211	378	215	/sprites/uns/fighter%21
+	332	138	338	141	/sprites/uns/fighter%18
+	325	114	329	118	/sprites/uns/fighter%11
+	424	199	439	207	/sprites/uns/gunship%16
+	412	128	416	132	/sprites/uns/fighter%13
+	390	214	402	225	/sprites/uns/gunship%22
+	414	106	448	143	/sprites/uns/carrier%14
+	365	145	409	178	/sprites/uns/carrier%15
+	388	205	397	216	/sprites/uns/gunship%0
+	358	206	362	210	/sprites/uns/fighter%1
+	407	17	413	20	/sprites/uns/fighter%16
+	255	406	257	407	/sprites/sfx/crew%11
+	344	248	348	252	/sprites/uns/fighter%1
+	626	443	629	446	/sprites/sfx/explosion/large-hit%4
 dither	360	217	415	234	303000
 crop	364	221	371	232	48	44	000000	/fonts/tactical.png
 	371		378		72	66		
@@ -527,7 +527,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	206	33	224	/sprites/651.SMIV/0
+draw	17	206	33	224	/sprites/uns/fighter%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -585,7 +585,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1021.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/fall%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

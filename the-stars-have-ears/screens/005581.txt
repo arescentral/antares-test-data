@@ -135,17 +135,17 @@ point	146	416	b0b0b0
 	365	173	
 rect	380	0	381	481	005000
 	128	80	609	81	000050
-draw	354	229	388	255	/sprites/521.SMIV/20
-	449	152	462	164	/sprites/507.SMIV/4
-	370	156	383	169	/sprites/507.SMIV/3
-	401	176	404	181	/sprites/513.SMIV/15
-	395	366	412	376	/sprites/548.SMIV/1
-	389	378	392	379	/sprites/655.SMIV/0
-	384	436	390	441	/sprites/655.SMIV/1
+draw	354	229	388	255	/sprites/ish/hvc%20
+	449	152	462	164	/sprites/sfx/debris%4
+	370	156	383	169	/sprites/sfx/debris%3
+	401	176	404	181	/sprites/sfx/crew%15
+	395	366	412	376	/sprites/dev/atomic%1
+	389	378	392	379	/sprites/sfx/sparkle%0
+	384	436	390	441	/sprites/sfx/sparkle%1
 	396	431	402	436	
-	399	384		385	/sprites/655.SMIV/0
-	403	154	423	172	/sprites/517.SMIV/0
-	389	135	450	184	/sprites/504.SMIV/6
+	399	384		385	/sprites/sfx/sparkle%0
+	403	154	423	172	/sprites/sfx/energy%0
+	389	135	450	184	/sprites/sfx/explosion/energy%6
 line	186	155	195	168	489048
 			201	154	
 	195	168			204020

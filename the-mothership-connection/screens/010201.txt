@@ -153,36 +153,36 @@ rect	153	0	154	481	000050
 line	536	336	531	334	ff7f00
 	473	310	468	308	
 	415	276	411	273	
-draw	316	16	354	55	/sprites/1036.SMIV/0
-	363	235	372	243	/sprites/521.SMIV/9
-	158	274	159	275	/sprites/513.SMIV/15
-	518	298	520	299	/sprites/513.SMIV/10
-	358	58	360	59	/sprites/513.SMIV/23
-	167	136	168	137	/sprites/513.SMIV/18
-	393	368	411	389	/sprites/524.SMIV/22
+draw	316	16	354	55	/sprites/loc/planets/earth%0
+	363	235	372	243	/sprites/ish/hvc%9
+	158	274	159	275	/sprites/sfx/crew%15
+	518	298	520	299	/sprites/sfx/crew%10
+	358	58	360	59	/sprites/sfx/crew%23
+	167	136	168	137	/sprites/sfx/crew%18
+	393	368	411	389	/sprites/can/carrier%22
 		319		340	
-	383	346	403	367	/sprites/524.SMIV/21
+	383	346	403	367	/sprites/can/carrier%21
 	412	298	432	319	
 	409	290	429	311	
 	404	328	424	349	
-static	320	185	328	190	00000000	254	/sprites/523.SMIV/17
-	350	196	358	201		45	/sprites/523.SMIV/5
-draw	535	29	536	30	/sprites/513.SMIV/5
-	311	344	312	345	/sprites/513.SMIV/13
-	449	297	454	301	/sprites/584.SMIV/0
-	234	159	237	161	/sprites/528.SMIV/21
-	347	261	350	264	/sprites/528.SMIV/22
+static	320	185	328	190	00000000	254	/sprites/can/hvc%17
+	350	196	358	201		45	/sprites/can/hvc%5
+draw	535	29	536	30	/sprites/sfx/crew%5
+	311	344	312	345	/sprites/sfx/crew%13
+	449	297	454	301	/sprites/dev/onas%0
+	234	159	237	161	/sprites/dev/cm%21
+	347	261	350	264	/sprites/dev/cm%22
 	380	297	383	300	
-	106	91	109	93	/sprites/528.SMIV/21
-	404	277	410	282	/sprites/584.SMIV/2
-	414	294	417	296	/sprites/528.SMIV/21
-	371	243	377	248	/sprites/584.SMIV/3
-	248	173	251	175	/sprites/528.SMIV/21
-	269	174	272	177	/sprites/528.SMIV/22
+	106	91	109	93	/sprites/dev/cm%21
+	404	277	410	282	/sprites/dev/onas%2
+	414	294	417	296	/sprites/dev/cm%21
+	371	243	377	248	/sprites/dev/onas%3
+	248	173	251	175	/sprites/dev/cm%21
+	269	174	272	177	/sprites/dev/cm%22
 	307	218	310	221	
-	312	229	321	237	/sprites/541.SMIV/10
-	380	290	389	297	/sprites/541.SMIV/14
-	354	255	363	263	/sprites/541.SMIV/10
+	312	229	321	237	/sprites/sfx/explosion/gas%10
+	380	290	389	297	/sprites/sfx/explosion/gas%14
+	354	255	363	263	/sprites/sfx/explosion/gas%10
 	390	287	399	295	
 line	514	375	510	360	489048
 			499	372	

@@ -207,23 +207,23 @@ line	21158	2764	21175	2757	7fff7f
 	21528	2680	21543	2683	
 	21420	2480	21416	2493	
 	21348	2588	21336	2585	
-draw	340	221	400	256	/sprites/652.SMIV/16
-	452	117	548	179	/sprites/524.SMIV/18
-static	20	315	40	356	00000000	254	/sprites/502.SMIV/1
-draw	328	80	372	131	/sprites/506.SMIV/12
-static	322	156	338	172	f0f078	60	/sprites/512.SMIV/13
-draw	403	220	414	229	/sprites/504.SMIV/19
-	375	168	383	176	/sprites/526.SMIV/0
+draw	340	221	400	256	/sprites/uns/gunship%16
+	452	117	548	179	/sprites/can/carrier%18
+static	20	315	40	356	00000000	254	/sprites/can/cruiser%1
+draw	328	80	372	131	/sprites/can/gunship%12
+static	322	156	338	172	f0f078	60	/sprites/can/fighter%13
+draw	403	220	414	229	/sprites/sfx/explosion/energy%19
+	375	168	383	176	/sprites/dev/cluster%0
 	439	172	447	180	
 	365	179	373	187	
-	523	298	535	308	/sprites/508.SMIV/0
-	346	194	354	202	/sprites/526.SMIV/0
-	118	176	134	181	/sprites/528.SMIV/17
-	447	169	455	177	/sprites/526.SMIV/0
-	534	287	546	297	/sprites/508.SMIV/0
-	496	317	508	326	/sprites/508.SMIV/1
-	526	296	538	306	/sprites/508.SMIV/3
-	440	168	448	176	/sprites/526.SMIV/0
+	523	298	535	308	/sprites/dev/anti%0
+	346	194	354	202	/sprites/dev/cluster%0
+	118	176	134	181	/sprites/dev/cm%17
+	447	169	455	177	/sprites/dev/cluster%0
+	534	287	546	297	/sprites/dev/anti%0
+	496	317	508	326	/sprites/dev/anti%1
+	526	296	538	306	/sprites/dev/anti%3
+	440	168	448	176	/sprites/dev/cluster%0
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -567,7 +567,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	206	29	224	/sprites/649.SMIV/0
+draw	21	206	29	224	/sprites/uns/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -658,7 +658,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

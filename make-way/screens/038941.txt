@@ -141,16 +141,16 @@ line	479	279	469	275	ffff7f
 	422	257	415	253	00ff00
 	409	262	402	258	ffff7f
 	373	233	370	231	
-draw	331	260	346	275	/sprites/501.SMIV/13
-	553	72	570	88	/sprites/501.SMIV/9
-	434	217	451	233	/sprites/501.SMIV/21
-	489	290	504	308	/sprites/637.SMIV/22
-	551	319	566	333	/sprites/501.SMIV/18
-	392	205	409	220	/sprites/501.SMIV/8
-	526	340	541	355	/sprites/501.SMIV/13
-	355	227	379	250	/sprites/509.SMIV/7
-	612	209	618	214	/sprites/528.SMIV/15
-	492	313	500	322	/sprites/554.SMIV/5
+draw	331	260	346	275	/sprites/ish/cruiser%13
+	553	72	570	88	/sprites/ish/cruiser%9
+	434	217	451	233	/sprites/ish/cruiser%21
+	489	290	504	308	/sprites/can/aslttran%22
+	551	319	566	333	/sprites/ish/cruiser%18
+	392	205	409	220	/sprites/ish/cruiser%8
+	526	340	541	355	/sprites/ish/cruiser%13
+	355	227	379	250	/sprites/ish/gunship%7
+	612	209	618	214	/sprites/dev/cm%15
+	492	313	500	322	/sprites/sfx/explosion/large-hit%5
 line	554	306	544	294	489048
 			539	308	
 	544	294			204020
@@ -465,7 +465,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -529,7 +529,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

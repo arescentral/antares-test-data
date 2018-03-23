@@ -125,9 +125,9 @@ point	572	222	b0b0b0
 	568	373	
 rect	425	0	426	481	002850
 	128	198	609	199	
-draw	440	84	568	212	/sprites/1028.SMIV/0
-	334	220	390	268	/sprites/646.SMIV/2
-	487	129	533	166	/sprites/515.SMIV/15
+draw	440	84	568	212	/sprites/loc/planets/calmpurple%0
+	334	220	390	268	/sprites/ish/hvd%2
+	487	129	533	166	/sprites/ish/transprt%15
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -472,7 +472,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -553,7 +553,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1028.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/calmpurple%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -130,27 +130,27 @@ rect	191	0	192	481	000050
 	128	115	609	116	
 		243		244	
 		371		372	
-draw	263	247	295	279	/sprites/1021.SMIV/0
-	277	261	285	265	/sprites/587.SMIV/20
-	361	238	376	245	/sprites/652.SMIV/19
+draw	263	247	295	279	/sprites/loc/planets/fall%0
+	277	261	285	265	/sprites/uns/transprt%20
+	361	238	376	245	/sprites/uns/gunship%19
 	314	266	329	273	
-	276	284	280	288	/sprites/651.SMIV/0
-	309	267	324	274	/sprites/652.SMIV/19
+	276	284	280	288	/sprites/uns/fighter%0
+	309	267	324	274	/sprites/uns/gunship%19
 	304	266	319	273	
-	268	238	272	242	/sprites/651.SMIV/11
-	275	229	282	240	/sprites/652.SMIV/12
-	271	264	277	267	/sprites/651.SMIV/4
-	284	293	288	297	/sprites/651.SMIV/23
+	268	238	272	242	/sprites/uns/fighter%11
+	275	229	282	240	/sprites/uns/gunship%12
+	271	264	277	267	/sprites/uns/fighter%4
+	284	293	288	297	/sprites/uns/fighter%23
 	299	328	303	332	
-	261	194	275	204	/sprites/652.SMIV/9
-	274	259	284	270	/sprites/652.SMIV/23
-	309	280	315	283	/sprites/651.SMIV/19
-	253	229	265	240	/sprites/652.SMIV/10
-	607	469	657	494	/sprites/649.SMIV/20
-	268	255	284	261	/sprites/652.SMIV/18
-		277	273	281	/sprites/651.SMIV/2
-	235	283	241	286	/sprites/651.SMIV/4
-	285	296	289	300	/sprites/651.SMIV/23
+	261	194	275	204	/sprites/uns/gunship%9
+	274	259	284	270	/sprites/uns/gunship%23
+	309	280	315	283	/sprites/uns/fighter%19
+	253	229	265	240	/sprites/uns/gunship%10
+	607	469	657	494	/sprites/uns/carrier%20
+	268	255	284	261	/sprites/uns/gunship%18
+		277	273	281	/sprites/uns/fighter%2
+	235	283	241	286	/sprites/uns/fighter%4
+	285	296	289	300	/sprites/uns/fighter%23
 dither	238	294	293	311	303000
 crop	242	298	249	309	48	44	000000	/fonts/tactical.png
 	249		256		72	66		
@@ -524,7 +524,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	206	33	224	/sprites/651.SMIV/0
+draw	17	206	33	224	/sprites/uns/fighter%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -587,7 +587,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1021.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/fall%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

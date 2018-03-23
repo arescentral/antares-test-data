@@ -149,15 +149,15 @@ rect	247	0	248	481	000050
 		294		295	000050
 line	374	252	372	246	ffff7f
 	407	288	402	281	
-draw	48	248	56	256	/sprites/573.SMIV/0
-	33	307	43	315	/sprites/570.SMIV/1
-	11	202	21	210	/sprites/570.SMIV/0
-	102	244	112	252	/sprites/570.SMIV/1
-	355	228	379	251	/sprites/646.SMIV/11
-	327	37	345	53	/sprites/550.SMIV/10
-static	398	329	416	342	f0eac3	76	/sprites/550.SMIV/12
-draw	415	323	420	327	/sprites/504.SMIV/19
-	423	345	427	348	/sprites/504.SMIV/18
+draw	48	248	56	256	/sprites/sfx/invisible%0
+	33	307	43	315	/sprites/loc/jump/node%1
+	11	202	21	210	/sprites/loc/jump/node%0
+	102	244	112	252	/sprites/loc/jump/node%1
+	355	228	379	251	/sprites/ish/hvd%11
+	327	37	345	53	/sprites/gai/cruiser%10
+static	398	329	416	342	f0eac3	76	/sprites/gai/cruiser%12
+draw	415	323	420	327	/sprites/sfx/explosion/energy%19
+	423	345	427	348	/sprites/sfx/explosion/energy%18
 line	402	436	407	422	489048
 			392	424	
 	407	422			204020

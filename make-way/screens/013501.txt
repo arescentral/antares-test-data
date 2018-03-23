@@ -136,14 +136,14 @@ point	251	90	b0b0b0
 rect	354	0	355	481	002850
 	128	117	609	118	005000
 line	353	230	371	230	00ff00
-draw	356	227	384	253	/sprites/501.SMIV/18
-static	311	166	351	216	f0f078	4	/sprites/506.SMIV/6
-	188	344	208	389	00000000	69	/sprites/502.SMIV/13
-draw	278	27	294	71	/sprites/502.SMIV/12
-	108	323	124	338	/sprites/507.SMIV/6
-	77	98	93	112	/sprites/507.SMIV/4
-	169	120	185	134	/sprites/507.SMIV/15
-	319	243	332	257	/sprites/554.SMIV/4
+draw	356	227	384	253	/sprites/ish/cruiser%18
+static	311	166	351	216	f0f078	4	/sprites/can/gunship%6
+	188	344	208	389	00000000	69	/sprites/can/cruiser%13
+draw	278	27	294	71	/sprites/can/cruiser%12
+	108	323	124	338	/sprites/sfx/debris%6
+	77	98	93	112	/sprites/sfx/debris%4
+	169	120	185	134	/sprites/sfx/debris%15
+	319	243	332	257	/sprites/sfx/explosion/large-hit%4
 line	169	223	182	232	489048
 			183	217	
 	182	232			204020
@@ -459,7 +459,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

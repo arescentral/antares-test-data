@@ -129,11 +129,11 @@ rect	264	0	265	481	000050
 		271		272	000050
 		448		449	
 line	328	-293	327	-298	ff7f00
-draw	409	73	475	120	/sprites/572.SMIV/0
-	360	234	373	243	/sprites/559.SMIV/3
-	184	36	189	38	/sprites/528.SMIV/20
-	404	52	408	55	/sprites/528.SMIV/21
-	309	302	320	309	/sprites/541.SMIV/22
+draw	409	73	475	120	/sprites/sal/etc/battlestation%0
+	360	234	373	243	/sprites/ish/aslttran%3
+	184	36	189	38	/sprites/dev/cm%20
+	404	52	408	55	/sprites/dev/cm%21
+	309	302	320	309	/sprites/sfx/explosion/gas%22
 dither	441	74	594	91	001830
 crop	445	78	452	89	32	55	000000	/fonts/tactical.png
 	452		459		64	66		
@@ -519,7 +519,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		8	48		
 	57		63		112			
-draw	16	208	34	222	/sprites/559.SMIV/0
+draw	16	208	34	222	/sprites/ish/aslttran%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -607,7 +607,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		72	72		
 	93		99		120			
 	99		105		112			
-draw	16	281	34	293	/sprites/572.SMIV/0
+draw	16	281	34	293	/sprites/sal/etc/battlestation%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

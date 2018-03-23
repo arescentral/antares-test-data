@@ -128,17 +128,17 @@ rect	233	0	234	481	000050
 	585		586		
 	128	137	609	138	
 		313		314	002850
-draw	362	236	375	245	/sprites/521.SMIV/19
-	201	93	218	109	/sprites/543.SMIV/1
-	418	388	434	406	/sprites/543.SMIV/12
-	453	300	469	316	/sprites/546.SMIV/13
-	204	136	217	150	/sprites/546.SMIV/0
-	457	434	473	452	/sprites/543.SMIV/19
-	212	127	218	131	/sprites/548.SMIV/1
-	210	102	214	106	/sprites/554.SMIV/3
-	212	104	217	109	/sprites/554.SMIV/9
-	203	103	208	108	/sprites/554.SMIV/6
-	204	101	207	103	/sprites/554.SMIV/0
+draw	362	236	375	245	/sprites/ish/hvc%19
+	201	93	218	109	/sprites/ast/regular/big%1
+	418	388	434	406	/sprites/ast/regular/big%12
+	453	300	469	316	/sprites/ish/etc/astrominer%13
+	204	136	217	150	/sprites/ish/etc/astrominer%0
+	457	434	473	452	/sprites/ast/regular/big%19
+	212	127	218	131	/sprites/dev/atomic%1
+	210	102	214	106	/sprites/sfx/explosion/large-hit%3
+	212	104	217	109	/sprites/sfx/explosion/large-hit%9
+	203	103	208	108	/sprites/sfx/explosion/large-hit%6
+	204	101	207	103	/sprites/sfx/explosion/large-hit%0
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

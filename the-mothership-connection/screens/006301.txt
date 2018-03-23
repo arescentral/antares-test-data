@@ -129,11 +129,11 @@ rect	269	0	270	481	000050
 	128	140	609	141	002850
 		283		284	000050
 		426		427	
-draw	363	236	374	243	/sprites/521.SMIV/19
-	191	209	220	235	/sprites/590.SMIV/1
-	189	264	199	273	/sprites/541.SMIV/11
-	195	240	201	245	/sprites/584.SMIV/3
-	277	238	283	242	/sprites/584.SMIV/4
+draw	363	236	374	243	/sprites/ish/hvc%19
+	191	209	220	235	/sprites/ast/nasty%1
+	189	264	199	273	/sprites/sfx/explosion/gas%11
+	195	240	201	245	/sprites/dev/onas%3
+	277	238	283	242	/sprites/dev/onas%4
 line	178	175	188	187	489048
 			193	173	
 	188	187			204020

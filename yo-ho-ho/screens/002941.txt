@@ -139,9 +139,9 @@ rect	338	0	339	481	002850
 line	444	348	438	340	ffff7f
 	418	277	411	272	
 	380	243	375	241	
-draw	350	230	384	248	/sprites/646.SMIV/7
-	191	25	209	41	/sprites/550.SMIV/9
-	418	240	432	256	/sprites/550.SMIV/6
+draw	350	230	384	248	/sprites/ish/hvd%7
+	191	25	209	41	/sprites/gai/cruiser%9
+	418	240	432	256	/sprites/gai/cruiser%6
 line	564	274	552	264	489048
 			550	279	
 	552	264			204020

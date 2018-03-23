@@ -127,10 +127,10 @@ rect	217	0	218	481	000050
 	493		494		
 	128	99	609	100	
 		375		376	002850
-draw	358	229	373	248	/sprites/521.SMIV/11
-	493	314	544	376	/sprites/590.SMIV/17
-	437	413	456	429	/sprites/541.SMIV/12
-	426	450	445	464	/sprites/541.SMIV/16
+draw	358	229	373	248	/sprites/ish/hvc%11
+	493	314	544	376	/sprites/ast/nasty%17
+	437	413	456	429	/sprites/sfx/explosion/gas%12
+	426	450	445	464	/sprites/sfx/explosion/gas%16
 line	404	435	409	420	489048
 			394	423	
 	409	420			204020

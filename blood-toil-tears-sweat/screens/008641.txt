@@ -156,26 +156,26 @@ line	631	297	631	301	7fff7f
 	602	376	605	378	
 	368	266	368	261	
 	647	394	650	393	
-draw	118	51	146	77	/sprites/1001.SMIV/0
-	365	235	374	246	/sprites/652.SMIV/13
-	291	56	295	60	/sprites/651.SMIV/0
-	354	131	363	142	/sprites/652.SMIV/11
-	258	57	264	61	/sprites/651.SMIV/9
-	292	147	298	150	/sprites/651.SMIV/20
-	358	167	363	171	/sprites/651.SMIV/10
-	614	405	624	416	/sprites/579.SMIV/12
-	348	276	358	283	/sprites/578.SMIV/7
-	255	224	263	232	/sprites/578.SMIV/23
-	38	56	92	69	/sprites/649.SMIV/6
-	248	73	264	79	/sprites/652.SMIV/18
-	328	190	333	194	/sprites/651.SMIV/10
-	419	241	425	244	/sprites/651.SMIV/16
-	322	342	326	345	/sprites/512.SMIV/20
-	293	153	297	157	/sprites/651.SMIV/13
-	269	197	275	202	/sprites/517.SMIV/0
-	251	241	258	246	/sprites/504.SMIV/14
-	631	421	634	425	/sprites/554.SMIV/10
-	627	413	631	417	/sprites/554.SMIV/7
+draw	118	51	146	77	/sprites/loc/planets/marslike%0
+	365	235	374	246	/sprites/uns/gunship%13
+	291	56	295	60	/sprites/uns/fighter%0
+	354	131	363	142	/sprites/uns/gunship%11
+	258	57	264	61	/sprites/uns/fighter%9
+	292	147	298	150	/sprites/uns/fighter%20
+	358	167	363	171	/sprites/uns/fighter%10
+	614	405	624	416	/sprites/aud/gunship%12
+	348	276	358	283	/sprites/aud/cruiser%7
+	255	224	263	232	/sprites/aud/cruiser%23
+	38	56	92	69	/sprites/uns/carrier%6
+	248	73	264	79	/sprites/uns/gunship%18
+	328	190	333	194	/sprites/uns/fighter%10
+	419	241	425	244	/sprites/uns/fighter%16
+	322	342	326	345	/sprites/can/fighter%20
+	293	153	297	157	/sprites/uns/fighter%13
+	269	197	275	202	/sprites/sfx/energy%0
+	251	241	258	246	/sprites/sfx/explosion/energy%14
+	631	421	634	425	/sprites/sfx/explosion/large-hit%10
+	627	413	631	417	/sprites/sfx/explosion/large-hit%7
 dither	294	165	349	182	303000
 crop	298	169	305	180	48	44	000000	/fonts/tactical.png
 	305		312		72	66		
@@ -558,7 +558,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	206	33	224	/sprites/651.SMIV/0
+draw	17	206	33	224	/sprites/uns/fighter%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -611,7 +611,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

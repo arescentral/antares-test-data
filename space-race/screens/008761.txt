@@ -127,44 +127,44 @@ rect	313	0	314	481	000050
 	542		543		
 	128	216	609	217	
 		445		446	
-draw	340	230	397	249	/sprites/525.SMIV/6
-	509	156	525	170	/sprites/550.SMIV/14
-	392	256	399	262	/sprites/507.SMIV/15
-	608	327	615	334	/sprites/507.SMIV/3
-	622	417	629	424	/sprites/507.SMIV/5
-	634	402	639	407	/sprites/507.SMIV/7
+draw	340	230	397	249	/sprites/ish/carrier%6
+	509	156	525	170	/sprites/gai/cruiser%14
+	392	256	399	262	/sprites/sfx/debris%15
+	608	327	615	334	/sprites/sfx/debris%3
+	622	417	629	424	/sprites/sfx/debris%5
+	634	402	639	407	/sprites/sfx/debris%7
 	571	420	576	425	
-	538	456	545	463	/sprites/507.SMIV/3
-	505	389	512	395	/sprites/507.SMIV/9
-	561	395	568	401	/sprites/507.SMIV/15
-	581	417	588	423	/sprites/507.SMIV/9
-	528	349	535	355	/sprites/507.SMIV/14
-	541	414	548	420	/sprites/507.SMIV/15
+	538	456	545	463	/sprites/sfx/debris%3
+	505	389	512	395	/sprites/sfx/debris%9
+	561	395	568	401	/sprites/sfx/debris%15
+	581	417	588	423	/sprites/sfx/debris%9
+	528	349	535	355	/sprites/sfx/debris%14
+	541	414	548	420	/sprites/sfx/debris%15
 	531	331	538	337	
-	512	341	517	347	/sprites/507.SMIV/16
-	611	421	618	427	/sprites/507.SMIV/10
-	550	328	555	334	/sprites/507.SMIV/11
-	583	369	590	374	/sprites/507.SMIV/21
-	584		589	375	/sprites/507.SMIV/20
-	583	368	590	374	/sprites/507.SMIV/22
+	512	341	517	347	/sprites/sfx/debris%16
+	611	421	618	427	/sprites/sfx/debris%10
+	550	328	555	334	/sprites/sfx/debris%11
+	583	369	590	374	/sprites/sfx/debris%21
+	584		589	375	/sprites/sfx/debris%20
+	583	368	590	374	/sprites/sfx/debris%22
 					
 					
 					
-	585		592	375	/sprites/507.SMIV/18
-	583	369	590	374	/sprites/507.SMIV/21
-	585	368	592	375	/sprites/507.SMIV/18
-	583	369	590	374	/sprites/507.SMIV/21
-	606	405	614	413	/sprites/517.SMIV/1
+	585		592	375	/sprites/sfx/debris%18
+	583	369	590	374	/sprites/sfx/debris%21
+	585	368	592	375	/sprites/sfx/debris%18
+	583	369	590	374	/sprites/sfx/debris%21
+	606	405	614	413	/sprites/sfx/energy%1
 	619	421	627	429	
 	636	410	644	418	
-	616	421	626	430	/sprites/517.SMIV/0
+	616	421	626	430	/sprites/sfx/energy%0
 	611	411	621	420	
-	590	385	598	393	/sprites/517.SMIV/1
-	620	424	630	433	/sprites/517.SMIV/0
+	590	385	598	393	/sprites/sfx/energy%1
+	620	424	630	433	/sprites/sfx/energy%0
 	604	403	614	412	
-	618	419	626	427	/sprites/517.SMIV/1
+	618	419	626	427	/sprites/sfx/energy%1
 	611	411	619	419	
-	560	347	622	399	/sprites/504.SMIV/14
+	560	347	622	399	/sprites/sfx/explosion/energy%14
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		24	44		
@@ -631,7 +631,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

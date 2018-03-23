@@ -255,47 +255,47 @@ line	342	192	337	190	7fff7f
 	377	208	380	207	
 	368	199	367	195	7fff7f
 	336	186	333	184	
-draw	384	173	416	205	/sprites/1021.SMIV/0
-	361	237	377	243	/sprites/652.SMIV/18
-	299	85	315	92	/sprites/652.SMIV/7
-	385	207	389	211	/sprites/651.SMIV/23
-	380	89		100	/sprites/652.SMIV/13
+draw	384	173	416	205	/sprites/loc/planets/fall%0
+	361	237	377	243	/sprites/uns/gunship%18
+	299	85	315	92	/sprites/uns/gunship%7
+	385	207	389	211	/sprites/uns/fighter%23
+	380	89		100	/sprites/uns/gunship%13
 	401	72	410	83	
-	456	267	461	271	/sprites/651.SMIV/2
-	315	174	331	181	/sprites/652.SMIV/7
-	346	240	352	243	/sprites/651.SMIV/18
-	319	184	335	191	/sprites/652.SMIV/7
-	269	147	275	150	/sprites/651.SMIV/8
-static	360	197	375	209	7878f0	12	/sprites/579.SMIV/8
-draw	333	170	349	177	/sprites/652.SMIV/7
-	379	327	405	364	/sprites/649.SMIV/23
-static	305	172	355	196	ffffff	98	/sprites/649.SMIV/4
-draw	357	169	366	180	/sprites/652.SMIV/11
-	390	280	391	281	/sprites/513.SMIV/8
-	412	202	418	205	/sprites/651.SMIV/16
-	227	13	233	16	/sprites/651.SMIV/8
-	131	296	132	297	/sprites/513.SMIV/15
-	375	193	381	196	/sprites/651.SMIV/17
-	347	180	352	183	/sprites/653.SMIV/2
+	456	267	461	271	/sprites/uns/fighter%2
+	315	174	331	181	/sprites/uns/gunship%7
+	346	240	352	243	/sprites/uns/fighter%18
+	319	184	335	191	/sprites/uns/gunship%7
+	269	147	275	150	/sprites/uns/fighter%8
+static	360	197	375	209	7878f0	12	/sprites/aud/gunship%8
+draw	333	170	349	177	/sprites/uns/gunship%7
+	379	327	405	364	/sprites/uns/carrier%23
+static	305	172	355	196	ffffff	98	/sprites/uns/carrier%4
+draw	357	169	366	180	/sprites/uns/gunship%11
+	390	280	391	281	/sprites/sfx/crew%8
+	412	202	418	205	/sprites/uns/fighter%16
+	227	13	233	16	/sprites/uns/fighter%8
+	131	296	132	297	/sprites/sfx/crew%15
+	375	193	381	196	/sprites/uns/fighter%17
+	347	180	352	183	/sprites/dev/magneto%2
 	398	220	403	223	
-	358	222	363	225	/sprites/653.SMIV/1
-	363	205	365	206	/sprites/504.SMIV/18
-	330	183	334	187	/sprites/653.SMIV/0
+	358	222	363	225	/sprites/dev/magneto%1
+	363	205	365	206	/sprites/sfx/explosion/energy%18
+	330	183	334	187	/sprites/dev/magneto%0
 	356	201	360	205	
-	349	190	353	194	/sprites/653.SMIV/3
+	349	190	353	194	/sprites/dev/magneto%3
 	340	197	344	201	
-	356	176	361	179	/sprites/653.SMIV/2
-	366	199	368	201	/sprites/554.SMIV/0
-	389	209	394	212	/sprites/653.SMIV/2
-	370	200	372	202	/sprites/554.SMIV/0
-	362	203	364	205	/sprites/504.SMIV/19
-		183	367	186	/sprites/653.SMIV/2
-	366	195	368	197	/sprites/504.SMIV/19
+	356	176	361	179	/sprites/dev/magneto%2
+	366	199	368	201	/sprites/sfx/explosion/large-hit%0
+	389	209	394	212	/sprites/dev/magneto%2
+	370	200	372	202	/sprites/sfx/explosion/large-hit%0
+	362	203	364	205	/sprites/sfx/explosion/energy%19
+		183	367	186	/sprites/dev/magneto%2
+	366	195	368	197	/sprites/sfx/explosion/energy%19
 	363	204	365	206	
-	338	178	343	181	/sprites/653.SMIV/4
-	370	187	374	191	/sprites/653.SMIV/0
-	362	192	364	194	/sprites/554.SMIV/2
-	355	194	357	196	/sprites/504.SMIV/19
+	338	178	343	181	/sprites/dev/magneto%4
+	370	187	374	191	/sprites/dev/magneto%0
+	362	192	364	194	/sprites/sfx/explosion/large-hit%2
+	355	194	357	196	/sprites/sfx/explosion/energy%19
 	377	196	379	198	
 	363	202	365	204	
 dither	404	87	459	104	303000
@@ -675,7 +675,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -739,7 +739,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

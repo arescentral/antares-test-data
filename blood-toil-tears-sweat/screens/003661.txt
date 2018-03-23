@@ -166,40 +166,40 @@ line	368	225	367	228	7fff7f
 	527	325	530	327	
 	426	230	422	230	
 	611	393	609	390	
-draw	241	-8	269	18	/sprites/1001.SMIV/0
-	360	237	375	245	/sprites/652.SMIV/4
-	248	1	261	6	/sprites/587.SMIV/18
-	247	38	254	50	/sprites/587.SMIV/0
+draw	241	-8	269	18	/sprites/loc/planets/marslike%0
+	360	237	375	245	/sprites/uns/gunship%4
+	248	1	261	6	/sprites/uns/transprt%18
+	247	38	254	50	/sprites/uns/transprt%0
 	267	267	274	279	
-	24	59	30	63	/sprites/651.SMIV/21
-	561	414	577	436	/sprites/524.SMIV/1
-static	578	240	585	250	00000000	254	/sprites/502.SMIV/15
-draw	390	234	395	238	/sprites/651.SMIV/22
-	606	105	610	109	/sprites/651.SMIV/23
-	405	123	410	127	/sprites/651.SMIV/22
-	456	203	462	206	/sprites/651.SMIV/18
-	380	131	385	135	/sprites/651.SMIV/14
-	205	89	211	93	/sprites/651.SMIV/21
-	292	103	346	120	/sprites/649.SMIV/5
-	294	88	338	118	/sprites/649.SMIV/3
-static	414	209	424	220	ffffff	68	/sprites/652.SMIV/23
-draw	593	353	607	363	/sprites/652.SMIV/21
-	481	248	487	251	/sprites/651.SMIV/20
-	406	133	412	136	/sprites/651.SMIV/16
+	24	59	30	63	/sprites/uns/fighter%21
+	561	414	577	436	/sprites/can/carrier%1
+static	578	240	585	250	00000000	254	/sprites/can/cruiser%15
+draw	390	234	395	238	/sprites/uns/fighter%22
+	606	105	610	109	/sprites/uns/fighter%23
+	405	123	410	127	/sprites/uns/fighter%22
+	456	203	462	206	/sprites/uns/fighter%18
+	380	131	385	135	/sprites/uns/fighter%14
+	205	89	211	93	/sprites/uns/fighter%21
+	292	103	346	120	/sprites/uns/carrier%5
+	294	88	338	118	/sprites/uns/carrier%3
+static	414	209	424	220	ffffff	68	/sprites/uns/gunship%23
+draw	593	353	607	363	/sprites/uns/gunship%21
+	481	248	487	251	/sprites/uns/fighter%20
+	406	133	412	136	/sprites/uns/fighter%16
 	424	208	430	211	
-	611	403	615	406	/sprites/512.SMIV/22
-	313	42	319	45	/sprites/651.SMIV/4
-	315	187	321	190	/sprites/651.SMIV/8
-	631		632	188	/sprites/513.SMIV/3
-	578	407	580	409	/sprites/526.SMIV/0
-	521	302	524	305	/sprites/528.SMIV/22
-	570	420	572	423	/sprites/528.SMIV/1
-	582	405	584	407	/sprites/526.SMIV/0
-	395	186	402	191	/sprites/504.SMIV/12
-	584	394	586	396	/sprites/526.SMIV/0
-	366	148	372	153	/sprites/517.SMIV/0
-	368	154	373	158	/sprites/504.SMIV/4
-	587	388	589	390	/sprites/526.SMIV/0
+	611	403	615	406	/sprites/can/fighter%22
+	313	42	319	45	/sprites/uns/fighter%4
+	315	187	321	190	/sprites/uns/fighter%8
+	631		632	188	/sprites/sfx/crew%3
+	578	407	580	409	/sprites/dev/cluster%0
+	521	302	524	305	/sprites/dev/cm%22
+	570	420	572	423	/sprites/dev/cm%1
+	582	405	584	407	/sprites/dev/cluster%0
+	395	186	402	191	/sprites/sfx/explosion/energy%12
+	584	394	586	396	/sprites/dev/cluster%0
+	366	148	372	153	/sprites/sfx/energy%0
+	368	154	373	158	/sprites/sfx/explosion/energy%4
+	587	388	589	390	/sprites/dev/cluster%0
 	582	384	584	386	
 dither	200	462	451	479	300000
 crop	204	466	211	477	0	22	000000	/fonts/tactical.png
@@ -636,7 +636,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -661,7 +661,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	278	29	296	/sprites/649.SMIV/0
+draw	21	278	29	296	/sprites/uns/carrier%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

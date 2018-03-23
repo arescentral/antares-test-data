@@ -125,23 +125,23 @@ point	562	162	b0b0b0
 	388	52	b0b0b0
 rect	177	0	178	481	002850
 	128	36	609	37	
-draw	351	60	479	188	/sprites/1031.SMIV/0
-	246	67	366	127	/sprites/525.SMIV/7
-	344	219	392	263	/sprites/646.SMIV/0
-	219	110	267	127	/sprites/582.SMIV/6
-	393	288	413	326	/sprites/582.SMIV/0
-	204	10	248	39	/sprites/582.SMIV/8
-	292	220	328	249	/sprites/650.SMIV/3
-	504	237	536	270	/sprites/650.SMIV/22
-	340	194	388	236	/sprites/509.SMIV/2
-	419	138	451	167	/sprites/501.SMIV/21
-	444	390	488	425	/sprites/509.SMIV/0
-	515	393	559	434	/sprites/509.SMIV/1
-	396	80	524	136	/sprites/525.SMIV/17
-	454	309	470	323	/sprites/510.SMIV/23
-	539	296	555	311	/sprites/510.SMIV/22
-	119	107	135	120	/sprites/510.SMIV/6
-	617	177	633	191	/sprites/510.SMIV/17
+draw	351	60	479	188	/sprites/loc/planets/marshmellow%0
+	246	67	366	127	/sprites/ish/carrier%7
+	344	219	392	263	/sprites/ish/hvd%0
+	219	110	267	127	/sprites/ele/cruiser%6
+	393	288	413	326	/sprites/ele/cruiser%0
+	204	10	248	39	/sprites/ele/cruiser%8
+	292	220	328	249	/sprites/uns/cruiser%3
+	504	237	536	270	/sprites/uns/cruiser%22
+	340	194	388	236	/sprites/ish/gunship%2
+	419	138	451	167	/sprites/ish/cruiser%21
+	444	390	488	425	/sprites/ish/gunship%0
+	515	393	559	434	/sprites/ish/gunship%1
+	396	80	524	136	/sprites/ish/carrier%17
+	454	309	470	323	/sprites/ish/fighter%23
+	539	296	555	311	/sprites/ish/fighter%22
+	119	107	135	120	/sprites/ish/fighter%6
+	617	177	633	191	/sprites/ish/fighter%17
 dither	417	104	549	121	001830
 crop	421	108	428	119	96	44	000000	/fonts/tactical.png
 	428		435		8	66		
@@ -505,7 +505,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/515.SMIV/0
+draw	19	206	30	224	/sprites/ish/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -563,7 +563,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

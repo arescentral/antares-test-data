@@ -143,23 +143,23 @@ line	460	313	456	313	007fff
 	417	302	415	302	
 	388	323	387	318	7f7fff
 	376	246	375	243	
-draw	364	236	374	244	/sprites/582.SMIV/9
-static	420	288	436	299	ffffff	101	/sprites/646.SMIV/3
-draw	301	144	308	151	/sprites/578.SMIV/0
-static	406	301	420	311	7878f0	99	/sprites/579.SMIV/4
-draw	448	311	458	318	/sprites/578.SMIV/19
-	562	212	566	215	/sprites/577.SMIV/19
-	598	214	600		/sprites/513.SMIV/22
-	413	303	420	308	/sprites/580.SMIV/2
-	426	299	430	303	/sprites/554.SMIV/6
-	382	328	388	332	/sprites/584.SMIV/4
-	544	404	549	410	/sprites/580.SMIV/3
-	387	262	393	267	/sprites/584.SMIV/3
-	427	299	429	301	/sprites/554.SMIV/2
-	366	238	372	242	/sprites/584.SMIV/4
-	327	380	333	385	/sprites/584.SMIV/2
-	541	178	547	183	/sprites/517.SMIV/0
-	396	283	404	291	/sprites/541.SMIV/7
+draw	364	236	374	244	/sprites/ele/cruiser%9
+static	420	288	436	299	ffffff	101	/sprites/ish/hvd%3
+draw	301	144	308	151	/sprites/aud/cruiser%0
+static	406	301	420	311	7878f0	99	/sprites/aud/gunship%4
+draw	448	311	458	318	/sprites/aud/cruiser%19
+	562	212	566	215	/sprites/aud/fighter%19
+	598	214	600		/sprites/sfx/crew%22
+	413	303	420	308	/sprites/dev/inasa%2
+	426	299	430	303	/sprites/sfx/explosion/large-hit%6
+	382	328	388	332	/sprites/dev/onas%4
+	544	404	549	410	/sprites/dev/inasa%3
+	387	262	393	267	/sprites/dev/onas%3
+	427	299	429	301	/sprites/sfx/explosion/large-hit%2
+	366	238	372	242	/sprites/dev/onas%4
+	327	380	333	385	/sprites/dev/onas%2
+	541	178	547	183	/sprites/sfx/energy%0
+	396	283	404	291	/sprites/sfx/explosion/gas%7
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -1274,7 +1274,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

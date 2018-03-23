@@ -127,58 +127,58 @@ point	241	102	808080
 	419	248	
 rect	472	0	473	481	000050
 	128	275	609	276	
-draw	367	237	371	243	/sprites/513.SMIV/17
-	264	268	280	281	/sprites/507.SMIV/1
-	244	258	252	263	/sprites/513.SMIV/20
-	268	262	274	268	/sprites/513.SMIV/5
-	377	237	389	249	/sprites/507.SMIV/7
-	373	241		257	/sprites/507.SMIV/5
-	369	228	385	242	/sprites/507.SMIV/4
+draw	367	237	371	243	/sprites/sfx/crew%17
+	264	268	280	281	/sprites/sfx/debris%1
+	244	258	252	263	/sprites/sfx/crew%20
+	268	262	274	268	/sprites/sfx/crew%5
+	377	237	389	249	/sprites/sfx/debris%7
+	373	241		257	/sprites/sfx/debris%5
+	369	228	385	242	/sprites/sfx/debris%4
 	377	239	393	253	
 	363	233	379	247	
-	374	237	390	253	/sprites/507.SMIV/3
-	362		378	250	/sprites/507.SMIV/1
-	371	230	387	244	/sprites/507.SMIV/0
-	364	243	380	257	/sprites/507.SMIV/4
-	367	233	383	249	/sprites/507.SMIV/3
+	374	237	390	253	/sprites/sfx/debris%3
+	362		378	250	/sprites/sfx/debris%1
+	371	230	387	244	/sprites/sfx/debris%0
+	364	243	380	257	/sprites/sfx/debris%4
+	367	233	383	249	/sprites/sfx/debris%3
 	377	230	393	246	
-	372	224	388	240	/sprites/507.SMIV/5
-	380	232	396	245	/sprites/507.SMIV/1
-	366	233	382	249	/sprites/507.SMIV/2
-	375	234	391	248	/sprites/507.SMIV/10
-	373	231	385	245	/sprites/507.SMIV/12
-	369	228		242	/sprites/507.SMIV/9
-	376	231	388	245	/sprites/507.SMIV/16
-	364	235	380	249	/sprites/507.SMIV/15
-	377	240	389	254	/sprites/507.SMIV/12
-	380	233	396	247	/sprites/507.SMIV/13
-	366	241	382	255	/sprites/507.SMIV/14
-	381	233	393	247	/sprites/507.SMIV/12
-	374	242	390	256	/sprites/507.SMIV/13
-	372	236	384	250	/sprites/507.SMIV/20
-	371		387	249	/sprites/507.SMIV/21
+	372	224	388	240	/sprites/sfx/debris%5
+	380	232	396	245	/sprites/sfx/debris%1
+	366	233	382	249	/sprites/sfx/debris%2
+	375	234	391	248	/sprites/sfx/debris%10
+	373	231	385	245	/sprites/sfx/debris%12
+	369	228		242	/sprites/sfx/debris%9
+	376	231	388	245	/sprites/sfx/debris%16
+	364	235	380	249	/sprites/sfx/debris%15
+	377	240	389	254	/sprites/sfx/debris%12
+	380	233	396	247	/sprites/sfx/debris%13
+	366	241	382	255	/sprites/sfx/debris%14
+	381	233	393	247	/sprites/sfx/debris%12
+	374	242	390	256	/sprites/sfx/debris%13
+	372	236	384	250	/sprites/sfx/debris%20
+	371		387	249	/sprites/sfx/debris%21
 					
-	372		384	250	/sprites/507.SMIV/20
-	374	234	390		/sprites/507.SMIV/18
-	371	236	387	249	/sprites/507.SMIV/21
+	372		384	250	/sprites/sfx/debris%20
+	374	234	390		/sprites/sfx/debris%18
+	371	236	387	249	/sprites/sfx/debris%21
 					
 					
-	372		384	250	/sprites/507.SMIV/20
-	373		397	257	/sprites/517.SMIV/0
-	134	296	154	312	/sprites/547.SMIV/2
-	350	240	366	245	/sprites/528.SMIV/17
-	255	256	279	277	/sprites/517.SMIV/0
-	235	245	283	301	/sprites/504.SMIV/1
-	254		267	259	/sprites/554.SMIV/3
-	375	224	399	245	/sprites/517.SMIV/0
+	372		384	250	/sprites/sfx/debris%20
+	373		397	257	/sprites/sfx/energy%0
+	134	296	154	312	/sprites/dev/pp%2
+	350	240	366	245	/sprites/dev/cm%17
+	255	256	279	277	/sprites/sfx/energy%0
+	235	245	283	301	/sprites/sfx/explosion/energy%1
+	254		267	259	/sprites/sfx/explosion/large-hit%3
+	375	224	399	245	/sprites/sfx/energy%0
 	370	229	394	250	
 	368		392		
-	363	233	383	252	/sprites/517.SMIV/1
-	370	228	394	249	/sprites/517.SMIV/0
-	367	233	387	252	/sprites/517.SMIV/1
-	377	220	401	241	/sprites/517.SMIV/0
-	369	235	389	254	/sprites/517.SMIV/1
-	353	215	413	280	/sprites/504.SMIV/0
+	363	233	383	252	/sprites/sfx/energy%1
+	370	228	394	249	/sprites/sfx/energy%0
+	367	233	387	252	/sprites/sfx/energy%1
+	377	220	401	241	/sprites/sfx/energy%0
+	369	235	389	254	/sprites/sfx/energy%1
+	353	215	413	280	/sprites/sfx/explosion/energy%0
 dither	200	473	444	480	300000
 crop	204	477	211	488	0	22	000000	/fonts/tactical.png
 	211		218		24	44		

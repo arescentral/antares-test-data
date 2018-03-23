@@ -138,9 +138,9 @@ rect	563	0	564	481	000050
 line	500	371	488	358	00ff00
 	619	416	604	406	
 	399	291	386	276	
-draw	346	219	382	253	/sprites/521.SMIV/9
-static	538	312	566	345	f0eac3	34	/sprites/550.SMIV/6
-draw	447	295	459	303	/sprites/503.SMIV/9
+draw	346	219	382	253	/sprites/ish/hvc%9
+static	538	312	566	345	f0eac3	34	/sprites/gai/cruiser%6
+draw	447	295	459	303	/sprites/dev/fusion%9
 	527	297	539	305	
 line	498	390	496	375	489048
 			483	385	

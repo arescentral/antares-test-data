@@ -125,10 +125,10 @@ point	196	450	808080
 	147	366	
 line	206	204	221	207	00ff00
 	363	227	375	233	
-static	357	229	386	256	ffffff	113	/sprites/521.SMIV/21
-	415	212	424	219	f0f078	116	/sprites/589.SMIV/2
-draw	52	468	93	509	/sprites/546.SMIV/4
-	284	215	293	220	/sprites/503.SMIV/19
+static	357	229	386	256	ffffff	113	/sprites/ish/hvc%21
+	415	212	424	219	f0f078	116	/sprites/zrb/base%2
+draw	52	468	93	509	/sprites/ish/etc/astrominer%4
+	284	215	293	220	/sprites/dev/fusion%19
 line	214	111	219	126	489048
 			229	113	
 	219	126			204020

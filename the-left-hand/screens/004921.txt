@@ -177,20 +177,20 @@ line	500	310	501	305	ff7f00
 	428	446	430	441	
 	-509	2090	-509	2095	00ff00
 	490	338	496	338	ff7f00
-draw	525	205	561	241	/sprites/1028.SMIV/0
-	358	232	376	244	/sprites/646.SMIV/9
-	492	303	507	311	/sprites/600.SMIV/12
-static	592	319	599	326	00000000	80	/sprites/530.SMIV/19
-	472	394	485	406	ffffff	115	/sprites/509.SMIV/15
-	460	423	469	430	00000000	8	/sprites/530.SMIV/2
-draw	294	445	298	447	/sprites/566.SMIV/8
-static	443	472	450	479	00000000	29	/sprites/530.SMIV/13
-draw	188	429	190	430	/sprites/513.SMIV/22
-	464	384	474	393	/sprites/541.SMIV/11
-	469	392	471	395	/sprites/554.SMIV/2
-	475	398	477	399	/sprites/504.SMIV/18
-	471	392	474	394	/sprites/504.SMIV/19
-		402	473	403	/sprites/504.SMIV/18
+draw	525	205	561	241	/sprites/loc/planets/calmpurple%0
+	358	232	376	244	/sprites/ish/hvd%9
+	492	303	507	311	/sprites/sal/aslttran%12
+static	592	319	599	326	00000000	80	/sprites/sal/cruiser%19
+	472	394	485	406	ffffff	115	/sprites/ish/gunship%15
+	460	423	469	430	00000000	8	/sprites/sal/cruiser%2
+draw	294	445	298	447	/sprites/sal/fighter%8
+static	443	472	450	479	00000000	29	/sprites/sal/cruiser%13
+draw	188	429	190	430	/sprites/sfx/crew%22
+	464	384	474	393	/sprites/sfx/explosion/gas%11
+	469	392	471	395	/sprites/sfx/explosion/large-hit%2
+	475	398	477	399	/sprites/sfx/explosion/energy%18
+	471	392	474	394	/sprites/sfx/explosion/energy%19
+		402	473	403	/sprites/sfx/explosion/energy%18
 line	513	374	509	359	489048
 			498	371	
 	509	359			204020
@@ -508,7 +508,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -589,7 +589,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1028.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/calmpurple%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

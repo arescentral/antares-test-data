@@ -134,29 +134,29 @@ rect	213	0	214	481	000050
 line	373	226	373	229	00ff00
 	339	162	341	166	
 	362	191	362	195	
-draw	364	236	372	245	/sprites/521.SMIV/1
-	112	156	125	168	/sprites/543.SMIV/2
-	396	241	399	243	/sprites/589.SMIV/3
-	242	177	254	191	/sprites/543.SMIV/18
-	442	27	455	41	/sprites/543.SMIV/15
+draw	364	236	372	245	/sprites/ish/hvc%1
+	112	156	125	168	/sprites/ast/regular/big%2
+	396	241	399	243	/sprites/zrb/base%3
+	242	177	254	191	/sprites/ast/regular/big%18
+	442	27	455	41	/sprites/ast/regular/big%15
 	146	297	159	311	
-	255	261	257	263	/sprites/589.SMIV/0
-	366	290	376	300	/sprites/546.SMIV/0
-	387	275	399	287	/sprites/546.SMIV/1
-	383	278	396	291	/sprites/546.SMIV/22
-	373	257	378	262	/sprites/544.SMIV/19
-	410	256	416	261	/sprites/544.SMIV/11
-	368	221	370	223	/sprites/503.SMIV/0
-	385	273	390	276	/sprites/548.SMIV/4
-	346	200	348	202	/sprites/503.SMIV/22
-	374	255	378	259	/sprites/554.SMIV/6
-	380	256	384	260	/sprites/554.SMIV/9
-	376	277	381	280	/sprites/548.SMIV/1
-	369	256	371	258	/sprites/554.SMIV/0
+	255	261	257	263	/sprites/zrb/base%0
+	366	290	376	300	/sprites/ish/etc/astrominer%0
+	387	275	399	287	/sprites/ish/etc/astrominer%1
+	383	278	396	291	/sprites/ish/etc/astrominer%22
+	373	257	378	262	/sprites/ast/regular/medium%19
+	410	256	416	261	/sprites/ast/regular/medium%11
+	368	221	370	223	/sprites/dev/fusion%0
+	385	273	390	276	/sprites/dev/atomic%4
+	346	200	348	202	/sprites/dev/fusion%22
+	374	255	378	259	/sprites/sfx/explosion/large-hit%6
+	380	256	384	260	/sprites/sfx/explosion/large-hit%9
+	376	277	381	280	/sprites/dev/atomic%1
+	369	256	371	258	/sprites/sfx/explosion/large-hit%0
 	371	261	373	263	
-	376	259	379	262	/sprites/554.SMIV/3
-	379	257	383	261	/sprites/554.SMIV/9
-	371	260	375	264	/sprites/554.SMIV/6
+	376	259	379	262	/sprites/sfx/explosion/large-hit%3
+	379	257	383	261	/sprites/sfx/explosion/large-hit%9
+	371	260	375	264	/sprites/sfx/explosion/large-hit%6
 line	442	55	430	64	489048
 			444	70	
 	430	64			204020

@@ -134,23 +134,23 @@ rect	202	0	203	481	000050
 line	323	144	324	149	ff7f00
 	341	338	339	342	ff0000
 	379	92	379	97	ff7f00
-draw	363	237	372	245	/sprites/521.SMIV/3
-	351	400	355	403	/sprites/512.SMIV/22
-	332	350	336	353	/sprites/512.SMIV/1
-	422	147	426	151	/sprites/512.SMIV/15
-	387	292	391	295	/sprites/512.SMIV/21
-	279	293	280	294	/sprites/513.SMIV/17
-	614	289	615	290	/sprites/513.SMIV/6
-	410	278	426	300	/sprites/524.SMIV/23
-	422	289	440	312	/sprites/524.SMIV/10
-static	393	261	399	270	00000000	93	/sprites/523.SMIV/14
-draw	303	170	309	175	/sprites/584.SMIV/2
-	367	306	376	313	/sprites/541.SMIV/14
-	356	105	362	110	/sprites/584.SMIV/3
-	364	199	370	203	/sprites/584.SMIV/1
-	442	262	447	266	/sprites/517.SMIV/1
-	472	226	478	231	/sprites/504.SMIV/11
-	476	223	485	228	/sprites/541.SMIV/20
+draw	363	237	372	245	/sprites/ish/hvc%3
+	351	400	355	403	/sprites/can/fighter%22
+	332	350	336	353	/sprites/can/fighter%1
+	422	147	426	151	/sprites/can/fighter%15
+	387	292	391	295	/sprites/can/fighter%21
+	279	293	280	294	/sprites/sfx/crew%17
+	614	289	615	290	/sprites/sfx/crew%6
+	410	278	426	300	/sprites/can/carrier%23
+	422	289	440	312	/sprites/can/carrier%10
+static	393	261	399	270	00000000	93	/sprites/can/hvc%14
+draw	303	170	309	175	/sprites/dev/onas%2
+	367	306	376	313	/sprites/sfx/explosion/gas%14
+	356	105	362	110	/sprites/dev/onas%3
+	364	199	370	203	/sprites/dev/onas%1
+	442	262	447	266	/sprites/sfx/energy%1
+	472	226	478	231	/sprites/sfx/explosion/energy%11
+	476	223	485	228	/sprites/sfx/explosion/gas%20
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		

@@ -125,22 +125,22 @@ point	484	157	b0b0b0
 	310	46	b0b0b0
 rect	584	0	585	481	000050
 	128	26	609	27	002850
-draw	246	50	374	178	/sprites/1031.SMIV/0
-	-17	58	111	102	/sprites/525.SMIV/6
-	345	220	405	268	/sprites/646.SMIV/22
-	112	98	160	115	/sprites/582.SMIV/6
-	288	278	308	316	/sprites/582.SMIV/0
-	80	43	128	66	/sprites/582.SMIV/7
-	187	210	223	239	/sprites/650.SMIV/3
-	419	260	451	293	/sprites/650.SMIV/22
-	190	200	238	245	/sprites/509.SMIV/3
-	320	125	348	153	/sprites/501.SMIV/13
-	312	302	360	347	/sprites/509.SMIV/3
-	359	253	399	293	/sprites/509.SMIV/6
-	367	73	495	117	/sprites/525.SMIV/18
-	349	300	365	314	/sprites/510.SMIV/23
-	426	288	442	303	/sprites/510.SMIV/22
-	608	211	624	224	/sprites/510.SMIV/18
+draw	246	50	374	178	/sprites/loc/planets/marshmellow%0
+	-17	58	111	102	/sprites/ish/carrier%6
+	345	220	405	268	/sprites/ish/hvd%22
+	112	98	160	115	/sprites/ele/cruiser%6
+	288	278	308	316	/sprites/ele/cruiser%0
+	80	43	128	66	/sprites/ele/cruiser%7
+	187	210	223	239	/sprites/uns/cruiser%3
+	419	260	451	293	/sprites/uns/cruiser%22
+	190	200	238	245	/sprites/ish/gunship%3
+	320	125	348	153	/sprites/ish/cruiser%13
+	312	302	360	347	/sprites/ish/gunship%3
+	359	253	399	293	/sprites/ish/gunship%6
+	367	73	495	117	/sprites/ish/carrier%18
+	349	300	365	314	/sprites/ish/fighter%23
+	426	288	442	303	/sprites/ish/fighter%22
+	608	211	624	224	/sprites/ish/fighter%18
 dither	312	94	444	111	001830
 crop	316	98	323	109	96	44	000000	/fonts/tactical.png
 	323		330		8	66		
@@ -504,7 +504,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/515.SMIV/0
+draw	19	206	30	224	/sprites/ish/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -562,7 +562,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -131,55 +131,55 @@ rect	183	0	184	481	000050
 		154		155	000050
 		282		283	
 		410		411	
-draw	346	63	384	102	/sprites/1036.SMIV/0
-	363	238	373	244	/sprites/521.SMIV/5
-	377	96	441	193	/sprites/604.SMIV/11
-	353	85	357	88	/sprites/507.SMIV/1
-	351	68	355	72	/sprites/507.SMIV/5
-	370	98	374	102	/sprites/507.SMIV/2
-	348	114	349	115	/sprites/513.SMIV/15
-	400	103	401	104	/sprites/513.SMIV/5
-	358	9	359	10	/sprites/513.SMIV/6
-	395	30	399	33	/sprites/507.SMIV/4
-	393	116	395	117	/sprites/513.SMIV/10
-	472	11	473	12	/sprites/513.SMIV/6
-	404	106	408	110	/sprites/507.SMIV/2
-	345	92	349	95	/sprites/507.SMIV/1
-	329	112	332	115	/sprites/507.SMIV/7
-	392	71	396	75	/sprites/507.SMIV/3
-	310	41	314	45	/sprites/507.SMIV/5
-	291	46	295	49	/sprites/507.SMIV/0
+draw	346	63	384	102	/sprites/loc/planets/earth%0
+	363	238	373	244	/sprites/ish/hvc%5
+	377	96	441	193	/sprites/can/gateship%11
+	353	85	357	88	/sprites/sfx/debris%1
+	351	68	355	72	/sprites/sfx/debris%5
+	370	98	374	102	/sprites/sfx/debris%2
+	348	114	349	115	/sprites/sfx/crew%15
+	400	103	401	104	/sprites/sfx/crew%5
+	358	9	359	10	/sprites/sfx/crew%6
+	395	30	399	33	/sprites/sfx/debris%4
+	393	116	395	117	/sprites/sfx/crew%10
+	472	11	473	12	/sprites/sfx/crew%6
+	404	106	408	110	/sprites/sfx/debris%2
+	345	92	349	95	/sprites/sfx/debris%1
+	329	112	332	115	/sprites/sfx/debris%7
+	392	71	396	75	/sprites/sfx/debris%3
+	310	41	314	45	/sprites/sfx/debris%5
+	291	46	295	49	/sprites/sfx/debris%0
 	379	59	383	62	
-	393	54	397	57	/sprites/507.SMIV/4
-	347	15	350	18	/sprites/507.SMIV/7
-	335	13	339	17	/sprites/507.SMIV/2
-	297	24	301	27	/sprites/507.SMIV/14
-	307	42	311	45	/sprites/507.SMIV/13
-	369	21	373	24	/sprites/507.SMIV/9
-	379	91	383	94	/sprites/507.SMIV/10
-	328	74	332	77	/sprites/507.SMIV/15
+	393	54	397	57	/sprites/sfx/debris%4
+	347	15	350	18	/sprites/sfx/debris%7
+	335	13	339	17	/sprites/sfx/debris%2
+	297	24	301	27	/sprites/sfx/debris%14
+	307	42	311	45	/sprites/sfx/debris%13
+	369	21	373	24	/sprites/sfx/debris%9
+	379	91	383	94	/sprites/sfx/debris%10
+	328	74	332	77	/sprites/sfx/debris%15
 	288	16	292	19	
-	394	76	397	79	/sprites/507.SMIV/11
-	311	46	314	49	/sprites/507.SMIV/12
-	290	70	293	73	/sprites/507.SMIV/11
-	302	102	306	105	/sprites/507.SMIV/15
-	372	9	375	12	/sprites/507.SMIV/16
-	322	36	326	39	/sprites/507.SMIV/14
-	282	48	286	51	/sprites/507.SMIV/10
-	340	49	343	52	/sprites/507.SMIV/20
-		48			/sprites/507.SMIV/19
-		49	344		/sprites/507.SMIV/21
-		48	343		/sprites/507.SMIV/19
-		49	344		/sprites/507.SMIV/21
-	339		343		/sprites/507.SMIV/22
-	340		344		/sprites/507.SMIV/21
-			343		/sprites/507.SMIV/20
-	385	107	389	111	/sprites/507.SMIV/2
-	340	48	343	52	/sprites/507.SMIV/19
+	394	76	397	79	/sprites/sfx/debris%11
+	311	46	314	49	/sprites/sfx/debris%12
+	290	70	293	73	/sprites/sfx/debris%11
+	302	102	306	105	/sprites/sfx/debris%15
+	372	9	375	12	/sprites/sfx/debris%16
+	322	36	326	39	/sprites/sfx/debris%14
+	282	48	286	51	/sprites/sfx/debris%10
+	340	49	343	52	/sprites/sfx/debris%20
+		48			/sprites/sfx/debris%19
+		49	344		/sprites/sfx/debris%21
+		48	343		/sprites/sfx/debris%19
+		49	344		/sprites/sfx/debris%21
+	339		343		/sprites/sfx/debris%22
+	340		344		/sprites/sfx/debris%21
+			343		/sprites/sfx/debris%20
+	385	107	389	111	/sprites/sfx/debris%2
+	340	48	343	52	/sprites/sfx/debris%19
 					
-	407	106	408	107	/sprites/513.SMIV/5
-	397	120	398	121	/sprites/513.SMIV/13
-	387	127	405	141	/sprites/504.SMIV/6
+	407	106	408	107	/sprites/sfx/crew%5
+	397	120	398	121	/sprites/sfx/crew%13
+	387	127	405	141	/sprites/sfx/explosion/energy%6
 	401	129	419	143	
 line	562	196	547	192	489048
 			551	206	

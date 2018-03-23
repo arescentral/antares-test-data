@@ -215,33 +215,33 @@ point	432	373	b0b0b0
 	235	5	
 rect	171	0	172	481	000050
 	128	282	609	283	
-draw	337	-108	465	20	/sprites/1020.SMIV/0
-	549	250	581	277	/sprites/501.SMIV/23
-	212	142	256	185	/sprites/506.SMIV/1
-static	250	26	274	66	f0f078	72	/sprites/502.SMIV/22
-draw	367	237	373	243	/sprites/513.SMIV/14
-	87	68	103	84	/sprites/507.SMIV/3
-	150	39	166	54	/sprites/507.SMIV/6
-	221	38	233	52	/sprites/507.SMIV/11
-	186	-11	202	3	/sprites/507.SMIV/15
-	97	38	109	52	/sprites/507.SMIV/16
-	116	-2	132	12	/sprites/507.SMIV/9
-	105	34	121	48	/sprites/507.SMIV/14
-	153	2	169	16	/sprites/507.SMIV/22
-	155	3	167	17	/sprites/507.SMIV/20
-	154		170	16	/sprites/507.SMIV/21
-	153	2	169		/sprites/507.SMIV/22
-	154	3	170		/sprites/507.SMIV/21
-	153	2	169		/sprites/507.SMIV/22
+draw	337	-108	465	20	/sprites/loc/planets/cloudtones%0
+	549	250	581	277	/sprites/ish/cruiser%23
+	212	142	256	185	/sprites/can/gunship%1
+static	250	26	274	66	f0f078	72	/sprites/can/cruiser%22
+draw	367	237	373	243	/sprites/sfx/crew%14
+	87	68	103	84	/sprites/sfx/debris%3
+	150	39	166	54	/sprites/sfx/debris%6
+	221	38	233	52	/sprites/sfx/debris%11
+	186	-11	202	3	/sprites/sfx/debris%15
+	97	38	109	52	/sprites/sfx/debris%16
+	116	-2	132	12	/sprites/sfx/debris%9
+	105	34	121	48	/sprites/sfx/debris%14
+	153	2	169	16	/sprites/sfx/debris%22
+	155	3	167	17	/sprites/sfx/debris%20
+	154		170	16	/sprites/sfx/debris%21
+	153	2	169		/sprites/sfx/debris%22
+	154	3	170		/sprites/sfx/debris%21
+	153	2	169		/sprites/sfx/debris%22
 					
 					
 					
-	154	3	170		/sprites/507.SMIV/21
-	157	1	173	17	/sprites/507.SMIV/18
-	156		168		/sprites/507.SMIV/19
-	153	2	169	16	/sprites/507.SMIV/22
-	168	21	222	79	/sprites/554.SMIV/8
-	116	-21	206	51	/sprites/504.SMIV/6
+	154	3	170		/sprites/sfx/debris%21
+	157	1	173	17	/sprites/sfx/debris%18
+	156		168		/sprites/sfx/debris%19
+	153	2	169	16	/sprites/sfx/debris%22
+	168	21	222	79	/sprites/sfx/explosion/large-hit%8
+	116	-21	206	51	/sprites/sfx/explosion/energy%6
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		56	44		
@@ -643,7 +643,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

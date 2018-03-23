@@ -166,11 +166,11 @@ point	291	110	b0b0b0
 rect	416	0	417	481	002850
 	128	210	609	211	005000
 line	457	119	448	134	00ff00
-draw	351	228	379	257	/sprites/501.SMIV/2
-static	331	153	359	188	00000000	5	/sprites/502.SMIV/19
-draw	543	93	547	99	/sprites/513.SMIV/15
-	367	172	380	186	/sprites/554.SMIV/3
-	549	1	661	91	/sprites/504.SMIV/12
+draw	351	228	379	257	/sprites/ish/cruiser%2
+static	331	153	359	188	00000000	5	/sprites/can/cruiser%19
+draw	543	93	547	99	/sprites/sfx/crew%15
+	367	172	380	186	/sprites/sfx/explosion/large-hit%3
+	549	1	661	91	/sprites/sfx/explosion/energy%12
 line	476	73	462	80	489048
 			476	88	
 	462	80			204020
@@ -488,7 +488,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

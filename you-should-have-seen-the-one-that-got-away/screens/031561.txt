@@ -132,10 +132,10 @@ rect	210	0	211	481	002850
 line	5064	615	5064	611	7fff7f
 	5090	544	5087	541	
 	5057	503	5053	502	
-draw	558	172	576	180	/sprites/587.SMIV/17
-	363	234	373	246	/sprites/652.SMIV/0
-static	209	208	217	218	00000000	254	/sprites/502.SMIV/7
-draw	462	216	480	224	/sprites/587.SMIV/17
+draw	558	172	576	180	/sprites/uns/transprt%17
+	363	234	373	246	/sprites/uns/gunship%0
+static	209	208	217	218	00000000	254	/sprites/can/cruiser%7
+draw	462	216	480	224	/sprites/uns/transprt%17
 line	357	40	350	54	489048
 			365	53	
 	350	54			204020
@@ -428,7 +428,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -512,7 +512,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

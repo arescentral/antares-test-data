@@ -129,10 +129,10 @@ point	548	338	808080
 	408	255	
 rect	254	0	255	481	005000
 	128	361	609	362	000050
-static	350	225	390	253	ffffff	52	/sprites/521.SMIV/18
-draw	167	185	195	220	/sprites/550.SMIV/19
-	449	137	485	169	/sprites/550.SMIV/14
-	466	156	478	174	/sprites/645.SMIV/14
+static	350	225	390	253	ffffff	52	/sprites/ish/hvc%18
+draw	167	185	195	220	/sprites/gai/cruiser%19
+	449	137	485	169	/sprites/gai/cruiser%14
+	466	156	478	174	/sprites/sfx/gunsmoke%14
 line	169	243	182	250	489048
 				235	
 	182	250			204020

@@ -133,11 +133,11 @@ rect	128	0	129	481	000050
 line	468	125	465	129	ff7f00
 	454	225	449	227	
 	387	256	383	254	
-draw	291	266	329	305	/sprites/1036.SMIV/0
-	363	235	372	243	/sprites/521.SMIV/9
-	509	326	513	329	/sprites/512.SMIV/1
-	353	281	361	286	/sprites/523.SMIV/17
-	463	182	469	186	/sprites/584.SMIV/1
+draw	291	266	329	305	/sprites/loc/planets/earth%0
+	363	235	372	243	/sprites/ish/hvc%9
+	509	326	513	329	/sprites/can/fighter%1
+	353	281	361	286	/sprites/can/hvc%17
+	463	182	469	186	/sprites/dev/onas%1
 	428	245	434	249	
 	376	247	382	251	
 line	498	390	496	375	489048

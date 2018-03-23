@@ -135,15 +135,15 @@ point	594	72	d0d0d0
 	350	378	
 rect	428	0	429	481	000050
 	128	233	609	234	002850
-static	358	228	388	255	ffffff	18	/sprites/501.SMIV/22
-draw	288	378	318	401	/sprites/501.SMIV/0
-	246	74	280	105	/sprites/550.SMIV/16
-	312	171	342	196	/sprites/501.SMIV/1
-	224	443	254	468	/sprites/501.SMIV/4
-	377	340	384	345	/sprites/513.SMIV/7
-	385	90	392	99	/sprites/503.SMIV/1
-	245	478	271	496	/sprites/541.SMIV/24
-	268	300	336	355	/sprites/504.SMIV/6
+static	358	228	388	255	ffffff	18	/sprites/ish/cruiser%22
+draw	288	378	318	401	/sprites/ish/cruiser%0
+	246	74	280	105	/sprites/gai/cruiser%16
+	312	171	342	196	/sprites/ish/cruiser%1
+	224	443	254	468	/sprites/ish/cruiser%4
+	377	340	384	345	/sprites/sfx/crew%7
+	385	90	392	99	/sprites/dev/fusion%1
+	245	478	271	496	/sprites/sfx/explosion/gas%24
+	268	300	336	355	/sprites/sfx/explosion/energy%6
 line	256	74	257	89	489048
 			270	81	
 	257	89			204020
@@ -454,7 +454,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		120	48		
 	57		63		112			
-draw	16	279	34	294	/sprites/542.SMIV/0
+draw	16	279	34	294	/sprites/loc/flak%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -145,14 +145,14 @@ line	14578	2470	14591	2471	7fff7f
 	14639	2473	14656	2479	
 	14606	2440	14624	2441	
 	14773	2443	14790	2440	
-draw	347	222	380	265	/sprites/652.SMIV/1
-	377	410	426	453	/sprites/514.SMIV/6
-	454	146	459	152	/sprites/513.SMIV/4
-	376	160	391	175	/sprites/554.SMIV/5
-	404	146	418	161	/sprites/554.SMIV/10
-	399	205	421	224	/sprites/517.SMIV/0
-	371	142	446	211	/sprites/504.SMIV/4
-	424	201	438	216	/sprites/554.SMIV/10
+draw	347	222	380	265	/sprites/uns/gunship%1
+	377	410	426	453	/sprites/can/transprt%6
+	454	146	459	152	/sprites/sfx/crew%4
+	376	160	391	175	/sprites/sfx/explosion/large-hit%5
+	404	146	418	161	/sprites/sfx/explosion/large-hit%10
+	399	205	421	224	/sprites/sfx/energy%0
+	371	142	446	211	/sprites/sfx/explosion/energy%4
+	424	201	438	216	/sprites/sfx/explosion/large-hit%10
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -506,7 +506,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -590,7 +590,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

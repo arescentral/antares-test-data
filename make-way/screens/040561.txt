@@ -131,27 +131,27 @@ line	441	36	433	52	ffff7f
 	478	299	496	302	
 	426	181	418	189	ffff7f
 	361	225	356	229	
-draw	181	57	309	185	/sprites/1020.SMIV/0
-	342	220	390	265	/sprites/509.SMIV/3
-	292	113	320	139	/sprites/501.SMIV/18
-static	269	23	289	68	f0f078	42	/sprites/502.SMIV/11
-draw	558	9	598	60	/sprites/506.SMIV/17
-static	525	291	553	323	00000000	236	/sprites/502.SMIV/18
-draw	7	359	127	417	/sprites/636.SMIV/5
-	213	159	217	165	/sprites/513.SMIV/16
-	260	153	264	159	/sprites/513.SMIV/15
-	125	135	141	151	/sprites/507.SMIV/5
-	115	61	123	65	/sprites/513.SMIV/10
-	287	60	299	70	/sprites/508.SMIV/2
-	456	237	468	246	/sprites/508.SMIV/1
+draw	181	57	309	185	/sprites/loc/planets/cloudtones%0
+	342	220	390	265	/sprites/ish/gunship%3
+	292	113	320	139	/sprites/ish/cruiser%18
+static	269	23	289	68	f0f078	42	/sprites/can/cruiser%11
+draw	558	9	598	60	/sprites/can/gunship%17
+static	525	291	553	323	00000000	236	/sprites/can/cruiser%18
+draw	7	359	127	417	/sprites/uns/etc/bttlship%5
+	213	159	217	165	/sprites/sfx/crew%16
+	260	153	264	159	/sprites/sfx/crew%15
+	125	135	141	151	/sprites/sfx/debris%5
+	115	61	123	65	/sprites/sfx/crew%10
+	287	60	299	70	/sprites/dev/anti%2
+	456	237	468	246	/sprites/dev/anti%1
 	445	110	457	119	
 	470	137	482	146	
-	266	172	286	186	/sprites/547.SMIV/4
-	298	207	318	219	/sprites/547.SMIV/1
-	258	56	274	72	/sprites/554.SMIV/6
-	454	124	466	134	/sprites/508.SMIV/2
-	468	135	480	145	/sprites/508.SMIV/3
-	262	71	374	165	/sprites/504.SMIV/14
+	266	172	286	186	/sprites/dev/pp%4
+	298	207	318	219	/sprites/dev/pp%1
+	258	56	274	72	/sprites/sfx/explosion/large-hit%6
+	454	124	466	134	/sprites/dev/anti%2
+	468	135	480	145	/sprites/dev/anti%3
+	262	71	374	165	/sprites/sfx/explosion/energy%14
 line	509	99	494	103	489048
 			505	114	
 	494	103			204020
@@ -487,7 +487,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	208	34	222	/sprites/509.SMIV/0
+draw	16	208	34	222	/sprites/ish/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

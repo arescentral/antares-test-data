@@ -131,9 +131,9 @@ rect	196	0	197	481	000050
 		204		205	000050
 		332		333	
 		460		461	
-draw	373	217	405	249	/sprites/1009.SMIV/0
-	364	236	372	243	/sprites/501.SMIV/8
-	426	259	434	266	/sprites/501.SMIV/20
+draw	373	217	405	249	/sprites/loc/planets/saturny%0
+	364	236	372	243	/sprites/ish/cruiser%8
+	426	259	434	266	/sprites/ish/cruiser%20
 line	537	345	530	331	489048
 			522	345	
 	530	331			204020
@@ -392,7 +392,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	224	/sprites/1009.SMIV/0
+draw	16	206	34	224	/sprites/loc/planets/saturny%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -417,7 +417,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	280	34	294	/sprites/501.SMIV/0
+draw	16	280	34	294	/sprites/ish/cruiser%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

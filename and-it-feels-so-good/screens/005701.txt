@@ -131,16 +131,16 @@ line	14696	14200	14691	14194	ff007f
 	392	362	383	363	7f7fff
 	424	153	424	147	007fff
 	473	95	466	105	ffff7f
-draw	348	228	380	255	/sprites/646.SMIV/2
-	511	195	538	208	/sprites/582.SMIV/5
-	589	255	616	268	/sprites/582.SMIV/19
-	354	360	381	369	/sprites/582.SMIV/6
-	563	474	586	490	/sprites/650.SMIV/21
-	429	85	452	104	/sprites/578.SMIV/16
-	367	361	380	370	/sprites/584.SMIV/1
-	632	176	645	188	/sprites/584.SMIV/3
-	389	222	405	233	/sprites/580.SMIV/1
-	318	278	329	286	/sprites/541.SMIV/26
+draw	348	228	380	255	/sprites/ish/hvd%2
+	511	195	538	208	/sprites/ele/cruiser%5
+	589	255	616	268	/sprites/ele/cruiser%19
+	354	360	381	369	/sprites/ele/cruiser%6
+	563	474	586	490	/sprites/uns/cruiser%21
+	429	85	452	104	/sprites/aud/cruiser%16
+	367	361	380	370	/sprites/dev/onas%1
+	632	176	645	188	/sprites/dev/onas%3
+	389	222	405	233	/sprites/dev/inasa%1
+	318	278	329	286	/sprites/sfx/explosion/gas%26
 dither	524	211	579	228	303000
 crop	528	215	535	226	24	44	000000	/fonts/tactical.png
 	535		542		16	77		
@@ -479,7 +479,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	20	206	29	224	/sprites/582.SMIV/0
+draw	20	206	29	224	/sprites/ele/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -552,7 +552,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

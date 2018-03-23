@@ -147,17 +147,17 @@ rect	360	0	361	481	000050
 	128	213	609	214	
 		469		470	
 line	391	358	389	349	00ff00
-draw	360	232	376	246	/sprites/501.SMIV/10
-	293	426	299	432	/sprites/512.SMIV/6
-	336	216	356	233	/sprites/559.SMIV/10
-	255	453	263	460	/sprites/512.SMIV/7
-	416	432	432	445	/sprites/501.SMIV/23
-	366	213	369	217	/sprites/513.SMIV/2
-	342	242	344	245	/sprites/513.SMIV/16
-	266	226	282	238	/sprites/501.SMIV/7
-	336	220	376	257	/sprites/504.SMIV/4
-	372	251		256	/sprites/503.SMIV/11
-	349	246	357	254	/sprites/554.SMIV/9
+draw	360	232	376	246	/sprites/ish/cruiser%10
+	293	426	299	432	/sprites/can/fighter%6
+	336	216	356	233	/sprites/ish/aslttran%10
+	255	453	263	460	/sprites/can/fighter%7
+	416	432	432	445	/sprites/ish/cruiser%23
+	366	213	369	217	/sprites/sfx/crew%2
+	342	242	344	245	/sprites/sfx/crew%16
+	266	226	282	238	/sprites/ish/cruiser%7
+	336	220	376	257	/sprites/sfx/explosion/energy%4
+	372	251		256	/sprites/dev/fusion%11
+	349	246	357	254	/sprites/sfx/explosion/large-hit%9
 line	458	418	458	403	489048
 			445	410	
 		403			204020
@@ -471,7 +471,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

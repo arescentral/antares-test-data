@@ -127,13 +127,13 @@ rect	139	0	140	481	005000
 	395		396		000050
 	128	102	609	103	
 		358		359	
-draw	361	230	379	247	/sprites/521.SMIV/15
-	350	279	374	308	/sprites/543.SMIV/17
-	351	327	371	348	/sprites/546.SMIV/0
-	365	304		311	/sprites/554.SMIV/3
-	348	303	356		/sprites/554.SMIV/6
-	364		372		/sprites/554.SMIV/9
-	352	305	356	309	/sprites/554.SMIV/0
+draw	361	230	379	247	/sprites/ish/hvc%15
+	350	279	374	308	/sprites/ast/regular/big%17
+	351	327	371	348	/sprites/ish/etc/astrominer%0
+	365	304		311	/sprites/sfx/explosion/large-hit%3
+	348	303	356		/sprites/sfx/explosion/large-hit%6
+	364		372		/sprites/sfx/explosion/large-hit%9
+	352	305	356	309	/sprites/sfx/explosion/large-hit%0
 line	230	383	245	379	489048
 			233	368	
 	245	379			204020

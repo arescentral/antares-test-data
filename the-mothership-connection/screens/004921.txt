@@ -128,8 +128,8 @@ rect	299	0	300	481	000050
 	128	11	609	12	
 		217		218	002850
 		423		424	000050
-draw	359	234	373	248	/sprites/521.SMIV/2
-	448	56	489	94	/sprites/590.SMIV/0
+draw	359	234	373	248	/sprites/ish/hvc%2
+	448	56	489	94	/sprites/ast/nasty%0
 dither	200	50	269	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

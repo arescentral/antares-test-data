@@ -132,21 +132,21 @@ rect	154	0	155	427	000050
 		259		260	
 		387		388	005000
 line	306	244	311	244	7f7fff
-draw	363	238	375	243	/sprites/582.SMIV/19
-	409	282	421	293	/sprites/646.SMIV/13
-	290	230	300	241	/sprites/579.SMIV/12
-	240	316	241	317	/sprites/513.SMIV/3
-	235	301	237	302	/sprites/513.SMIV/22
-	616	259	617	260	/sprites/513.SMIV/5
-	277	249	283	253	/sprites/584.SMIV/4
-	304	235	312	242	/sprites/541.SMIV/5
-	333	241	339	246	/sprites/584.SMIV/2
+draw	363	238	375	243	/sprites/ele/cruiser%19
+	409	282	421	293	/sprites/ish/hvd%13
+	290	230	300	241	/sprites/aud/gunship%12
+	240	316	241	317	/sprites/sfx/crew%3
+	235	301	237	302	/sprites/sfx/crew%22
+	616	259	617	260	/sprites/sfx/crew%5
+	277	249	283	253	/sprites/dev/onas%4
+	304	235	312	242	/sprites/sfx/explosion/gas%5
+	333	241	339	246	/sprites/dev/onas%2
 	365	237	371	242	
-	396	145	398	148	/sprites/528.SMIV/1
-	307	329	313	334	/sprites/517.SMIV/0
-	394	275	399	279	/sprites/504.SMIV/8
-	389		398	282	/sprites/541.SMIV/14
-	352	279	360	284	/sprites/541.SMIV/22
+	396	145	398	148	/sprites/dev/cm%1
+	307	329	313	334	/sprites/sfx/energy%0
+	394	275	399	279	/sprites/sfx/explosion/energy%8
+	389		398	282	/sprites/sfx/explosion/gas%14
+	352	279	360	284	/sprites/sfx/explosion/gas%22
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -871,7 +871,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

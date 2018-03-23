@@ -216,32 +216,32 @@ line	462	196	460	199	7fff7f
 	328	140	323	139	
 	258	169	257	167	
 	291	79	287	83	
-static	447	89	554	162	ffffff	32	/sprites/604.SMIV/4
-draw	359	236	374	245	/sprites/652.SMIV/4
-	396	200	447	224	/sprites/649.SMIV/4
-	439	182	476	217	/sprites/649.SMIV/2
-	395	205	409	215	/sprites/652.SMIV/3
-static	227	125	242	134	ffffff	105	/sprites/652.SMIV/4
-draw	477	213	493	220	/sprites/652.SMIV/5
-	393	121	407	131	/sprites/652.SMIV/9
-	206	81	213	92	/sprites/652.SMIV/12
-	287	118	301	128	/sprites/652.SMIV/15
-	214	110	229	119	/sprites/652.SMIV/8
-	430	76	445	85	/sprites/652.SMIV/4
-	489	156	491	158	/sprites/504.SMIV/19
-	495	160	497	161	/sprites/504.SMIV/18
+static	447	89	554	162	ffffff	32	/sprites/can/gateship%4
+draw	359	236	374	245	/sprites/uns/gunship%4
+	396	200	447	224	/sprites/uns/carrier%4
+	439	182	476	217	/sprites/uns/carrier%2
+	395	205	409	215	/sprites/uns/gunship%3
+static	227	125	242	134	ffffff	105	/sprites/uns/gunship%4
+draw	477	213	493	220	/sprites/uns/gunship%5
+	393	121	407	131	/sprites/uns/gunship%9
+	206	81	213	92	/sprites/uns/gunship%12
+	287	118	301	128	/sprites/uns/gunship%15
+	214	110	229	119	/sprites/uns/gunship%8
+	430	76	445	85	/sprites/uns/gunship%4
+	489	156	491	158	/sprites/sfx/explosion/energy%19
+	495	160	497	161	/sprites/sfx/explosion/energy%18
 	480	158	482	159	
-	279	81	284	84	/sprites/653.SMIV/1
-	269	92	274	95	/sprites/653.SMIV/4
-	393	212	403	221	/sprites/519.SMIV/1
-	480	163	482	165	/sprites/554.SMIV/2
-	470	162	474	166	/sprites/554.SMIV/5
-	287	111	291	115	/sprites/653.SMIV/3
-	453	89	462	96	/sprites/541.SMIV/15
-	454	90	485	123	/sprites/554.SMIV/10
-	237	142	241	146	/sprites/653.SMIV/0
-	475	161	479	165	/sprites/554.SMIV/7
-	238	123	243	127	/sprites/504.SMIV/4
+	279	81	284	84	/sprites/dev/magneto%1
+	269	92	274	95	/sprites/dev/magneto%4
+	393	212	403	221	/sprites/sfx/warp%1
+	480	163	482	165	/sprites/sfx/explosion/large-hit%2
+	470	162	474	166	/sprites/sfx/explosion/large-hit%5
+	287	111	291	115	/sprites/dev/magneto%3
+	453	89	462	96	/sprites/sfx/explosion/gas%15
+	454	90	485	123	/sprites/sfx/explosion/large-hit%10
+	237	142	241	146	/sprites/dev/magneto%0
+	475	161	479	165	/sprites/sfx/explosion/large-hit%7
+	238	123	243	127	/sprites/sfx/explosion/energy%4
 dither	293	133	348	150	303000
 crop	297	137	304	148	56	44	000000	/fonts/tactical.png
 	304		311		40	77		
@@ -595,7 +595,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -662,7 +662,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	19	278	30	296	/sprites/604.SMIV/0
+draw	19	278	30	296	/sprites/can/gateship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

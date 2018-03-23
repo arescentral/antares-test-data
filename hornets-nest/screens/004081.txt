@@ -127,12 +127,12 @@ rect	146	0	147	383	000050
 	494		495		
 	128	195	609	196	
 line	548	253	544	247	007fff
-draw	352	229	382	249	/sprites/582.SMIV/16
-	260	59	298	90	/sprites/646.SMIV/14
-	577	121	610	152	/sprites/646.SMIV/11
-	494	194	505	203	/sprites/577.SMIV/5
-	455	265	474	280	/sprites/580.SMIV/2
-	595	339	600	348	/sprites/528.SMIV/12
+draw	352	229	382	249	/sprites/ele/cruiser%16
+	260	59	298	90	/sprites/ish/hvd%14
+	577	121	610	152	/sprites/ish/hvd%11
+	494	194	505	203	/sprites/aud/fighter%5
+	455	265	474	280	/sprites/dev/inasa%2
+	595	339	600	348	/sprites/dev/cm%12
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -1244,7 +1244,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

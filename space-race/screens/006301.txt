@@ -136,18 +136,18 @@ point	521	366	b0b0b0
 rect	365	0	366	481	000050
 	128	181	609	182	002850
 		437		438	000050
-draw	338	229	402	251	/sprites/525.SMIV/18
-	49	237	133	292	/sprites/560.SMIV/19
-	10	-42	90	21	/sprites/560.SMIV/20
-	329	-21	353	12	/sprites/553.SMIV/13
-	283	94	291	103	/sprites/551.SMIV/10
-	352	237	360	240	/sprites/528.SMIV/19
-	128	203	136	212	/sprites/547.SMIV/0
-	348	174	358	180	/sprites/547.SMIV/1
-	136	304	144	313	/sprites/547.SMIV/3
-	343	175	353	183	/sprites/547.SMIV/2
-	362	9	372	16	/sprites/548.SMIV/4
-	137	245	153	260	/sprites/541.SMIV/5
+draw	338	229	402	251	/sprites/ish/carrier%18
+	49	237	133	292	/sprites/gai/carrier%19
+	10	-42	90	21	/sprites/gai/carrier%20
+	329	-21	353	12	/sprites/gai/gunship%13
+	283	94	291	103	/sprites/gai/fighter%10
+	352	237	360	240	/sprites/dev/cm%19
+	128	203	136	212	/sprites/dev/pp%0
+	348	174	358	180	/sprites/dev/pp%1
+	136	304	144	313	/sprites/dev/pp%3
+	343	175	353	183	/sprites/dev/pp%2
+	362	9	372	16	/sprites/dev/atomic%4
+	137	245	153	260	/sprites/sfx/explosion/gas%5
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -557,7 +557,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

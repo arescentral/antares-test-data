@@ -146,14 +146,14 @@ point	194	64	808080
 rect	454	0	455	481	005000
 	128	249	609	250	000050
 line	538	92	528	101	00ff00
-draw	352	231	376	254	/sprites/521.SMIV/3
-	430	57	465	96	/sprites/553.SMIV/1
-	425	190	433	196	/sprites/503.SMIV/3
-	444	114	451	120	/sprites/504.SMIV/19
-	453	79	455	80	/sprites/655.SMIV/0
-	443	107	451	113	/sprites/503.SMIV/3
-	440	80	450	93	/sprites/548.SMIV/0
-	444	83	446	84	/sprites/655.SMIV/0
+draw	352	231	376	254	/sprites/ish/hvc%3
+	430	57	465	96	/sprites/gai/gunship%1
+	425	190	433	196	/sprites/dev/fusion%3
+	444	114	451	120	/sprites/sfx/explosion/energy%19
+	453	79	455	80	/sprites/sfx/sparkle%0
+	443	107	451	113	/sprites/dev/fusion%3
+	440	80	450	93	/sprites/dev/atomic%0
+	444	83	446	84	/sprites/sfx/sparkle%0
 line	502	93	487	97	489048
 			499	108	
 	487	97			204020

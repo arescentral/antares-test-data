@@ -187,35 +187,35 @@ line	118	170	114	168	007fff
 	336	259	339	258	7fff7f
 	783	107	787	109	ff0000
 	1456	-22	1460	-21	007fff
-draw	362	235	376	245	/sprites/652.SMIV/15
-	179	209	183	213	/sprites/512.SMIV/15
-static	313	255	337	270	f0f078	65	/sprites/524.SMIV/18
-draw	346	356	350	359	/sprites/512.SMIV/21
-	26	128	41	140	/sprites/579.SMIV/8
-	241	386	247	389	/sprites/651.SMIV/7
-	385	200	390	204	/sprites/651.SMIV/14
-	339	21	343	25	/sprites/651.SMIV/12
-	273	208	277	212	/sprites/651.SMIV/13
+draw	362	235	376	245	/sprites/uns/gunship%15
+	179	209	183	213	/sprites/can/fighter%15
+static	313	255	337	270	f0f078	65	/sprites/can/carrier%18
+draw	346	356	350	359	/sprites/can/fighter%21
+	26	128	41	140	/sprites/aud/gunship%8
+	241	386	247	389	/sprites/uns/fighter%7
+	385	200	390	204	/sprites/uns/fighter%14
+	339	21	343	25	/sprites/uns/fighter%12
+	273	208	277	212	/sprites/uns/fighter%13
 	406	86	410	90	
-	377	128	411	165	/sprites/649.SMIV/14
-	340	176	349	187	/sprites/652.SMIV/13
-	294	119	298	123	/sprites/651.SMIV/12
-	366	156	371	160	/sprites/651.SMIV/14
-	201	308	204	311	/sprites/512.SMIV/6
-	118	189	124	192	/sprites/651.SMIV/7
-	341	260	346	263	/sprites/653.SMIV/1
-	44	136	49	142	/sprites/580.SMIV/0
+	377	128	411	165	/sprites/uns/carrier%14
+	340	176	349	187	/sprites/uns/gunship%13
+	294	119	298	123	/sprites/uns/fighter%12
+	366	156	371	160	/sprites/uns/fighter%14
+	201	308	204	311	/sprites/can/fighter%6
+	118	189	124	192	/sprites/uns/fighter%7
+	341	260	346	263	/sprites/dev/magneto%1
+	44	136	49	142	/sprites/dev/inasa%0
 	96	153	101	159	
-	350	246	354	250	/sprites/653.SMIV/3
-	367	243	372	246	/sprites/653.SMIV/1
-	146	179	153	183	/sprites/580.SMIV/1
-	333	259	336	262	/sprites/554.SMIV/4
-	298	225	304	230	/sprites/517.SMIV/0
-	331	259	335	263	/sprites/554.SMIV/9
-	335	252	337	254	/sprites/554.SMIV/2
-	316	254	318	255	/sprites/504.SMIV/18
-	327	251	331		/sprites/554.SMIV/6
-	329	256		258	/sprites/504.SMIV/19
+	350	246	354	250	/sprites/dev/magneto%3
+	367	243	372	246	/sprites/dev/magneto%1
+	146	179	153	183	/sprites/dev/inasa%1
+	333	259	336	262	/sprites/sfx/explosion/large-hit%4
+	298	225	304	230	/sprites/sfx/energy%0
+	331	259	335	263	/sprites/sfx/explosion/large-hit%9
+	335	252	337	254	/sprites/sfx/explosion/large-hit%2
+	316	254	318	255	/sprites/sfx/explosion/energy%18
+	327	251	331		/sprites/sfx/explosion/large-hit%6
+	329	256		258	/sprites/sfx/explosion/energy%19
 dither	200	451	451	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -649,7 +649,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -674,7 +674,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	278	29	296	/sprites/649.SMIV/0
+draw	21	278	29	296	/sprites/uns/carrier%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

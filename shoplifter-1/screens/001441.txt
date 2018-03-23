@@ -128,10 +128,10 @@ rect	303	0	304	481	002850
 	128	152	609	153	
 		408		409	002850
 line	320	263	326	258	00ff00
-static	359	232	379	245	ffffff	104	/sprites/521.SMIV/17
-draw	240	14	258	30	/sprites/550.SMIV/10
-	271	316	289	332	/sprites/550.SMIV/14
-static	333	198	341	207	f0eac3	40	/sprites/551.SMIV/23
+static	359	232	379	245	ffffff	104	/sprites/ish/hvc%17
+draw	240	14	258	30	/sprites/gai/cruiser%10
+	271	316	289	332	/sprites/gai/cruiser%14
+static	333	198	341	207	f0eac3	40	/sprites/gai/fighter%23
 line	178	297	193	300	489048
 			188	286	
 	193	300			204020
@@ -384,7 +384,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/567.SMIV/0
+draw	20	206	30	224	/sprites/obi/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -438,7 +438,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	33		39					
 	39		45		0	24		
 	45		51		8	36		
-draw	16	278	33	296	/sprites/595.SMIV/0
+draw	16	278	33	296	/sprites/gai/etc/lab%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

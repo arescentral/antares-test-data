@@ -125,11 +125,11 @@ point	303	68	b0b0b0
 	164	462	b0b0b0
 rect	499	0	500	481	002850
 	128	130	609	131	000050
-draw	350	223	378	249	/sprites/521.SMIV/9
-	245	225	254	232	/sprites/589.SMIV/3
-	84	336	96	347	/sprites/512.SMIV/16
-	581	153	590	158	/sprites/503.SMIV/5
-	328	212	359	240	/sprites/519.SMIV/1
+draw	350	223	378	249	/sprites/ish/hvc%9
+	245	225	254	232	/sprites/zrb/base%3
+	84	336	96	347	/sprites/can/fighter%16
+	581	153	590	158	/sprites/dev/fusion%5
+	328	212	359	240	/sprites/sfx/warp%1
 line	520	367	515	353	489048
 			505	365	
 	515	353			204020

@@ -143,15 +143,15 @@ rect	178	0	179	481	000050
 		399		400	000050
 line	378	229	376	233	ff7f00
 	412	171	410	175	
-draw	363	237	372	246	/sprites/521.SMIV/2
-	578		582	240	/sprites/512.SMIV/2
-	297	434	301	437	/sprites/512.SMIV/20
-	370	231	376	236	/sprites/584.SMIV/3
+draw	363	237	372	246	/sprites/ish/hvc%2
+	578		582	240	/sprites/can/fighter%2
+	297	434	301	437	/sprites/can/fighter%20
+	370	231	376	236	/sprites/dev/onas%3
 	484	94	490	99	
-	402	189	408	193	/sprites/584.SMIV/4
-	395	207	400	211	/sprites/517.SMIV/1
-	397	208	401	212	/sprites/504.SMIV/2
-	396	209	403	215	/sprites/541.SMIV/4
+	402	189	408	193	/sprites/dev/onas%4
+	395	207	400	211	/sprites/sfx/energy%1
+	397	208	401	212	/sprites/sfx/explosion/energy%2
+	396	209	403	215	/sprites/sfx/explosion/gas%4
 line	482	77	468	83	489048
 			481	92	
 	468	83			204020

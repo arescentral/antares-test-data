@@ -130,8 +130,8 @@ rect	139	0	140	416	000050
 	128	78	609	79	
 		206		207	005000
 		334		335	000050
-draw	365	235	373	244	/sprites/521.SMIV/14
-	235	33	246	44	/sprites/587.SMIV/22
+draw	365	235	373	244	/sprites/ish/hvc%14
+	235	33	246	44	/sprites/uns/transprt%22
 	357	96	368	107	
 	275	177	286	188	
 	327	122	338	133	
@@ -140,9 +140,9 @@ draw	365	235	373	244	/sprites/521.SMIV/14
 	233	10	244	21	
 	275	125	286	136	
 	195	156	206	167	
-	298	119	334	154	/sprites/649.SMIV/22
-	402	188	407	192	/sprites/651.SMIV/22
-	289	221	301	232	/sprites/652.SMIV/22
+	298	119	334	154	/sprites/uns/carrier%22
+	402	188	407	192	/sprites/uns/fighter%22
+	289	221	301	232	/sprites/uns/gunship%22
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			

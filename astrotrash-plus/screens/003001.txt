@@ -131,23 +131,23 @@ rect	203	0	204	481	000050
 		164		165	000050
 		292		293	
 		420		421	
-draw	366	237	375	246	/sprites/521.SMIV/22
-	375	254	387	267	/sprites/543.SMIV/12
-static	349	267	361	279	ffffff	14	/sprites/546.SMIV/5
-draw	392	257	404	269	/sprites/546.SMIV/18
-	348	290	361	303	/sprites/546.SMIV/3
-	368	266	373	269	/sprites/548.SMIV/1
-	382	259	385	262	/sprites/554.SMIV/3
-		263	384	265	/sprites/554.SMIV/0
-	380	266		270	/sprites/554.SMIV/6
-	360	288	365	292	/sprites/548.SMIV/2
-	367	260	371	264	/sprites/554.SMIV/5
-	374	259	378	263	/sprites/554.SMIV/8
-	375	265	377	267	/sprites/554.SMIV/2
-	360	264	365		/sprites/548.SMIV/1
-	373	267	375	269	/sprites/554.SMIV/1
-	372	258		261	/sprites/554.SMIV/4
-	369	271	373	275	/sprites/554.SMIV/9
+draw	366	237	375	246	/sprites/ish/hvc%22
+	375	254	387	267	/sprites/ast/regular/big%12
+static	349	267	361	279	ffffff	14	/sprites/ish/etc/astrominer%5
+draw	392	257	404	269	/sprites/ish/etc/astrominer%18
+	348	290	361	303	/sprites/ish/etc/astrominer%3
+	368	266	373	269	/sprites/dev/atomic%1
+	382	259	385	262	/sprites/sfx/explosion/large-hit%3
+		263	384	265	/sprites/sfx/explosion/large-hit%0
+	380	266		270	/sprites/sfx/explosion/large-hit%6
+	360	288	365	292	/sprites/dev/atomic%2
+	367	260	371	264	/sprites/sfx/explosion/large-hit%5
+	374	259	378	263	/sprites/sfx/explosion/large-hit%8
+	375	265	377	267	/sprites/sfx/explosion/large-hit%2
+	360	264	365		/sprites/dev/atomic%1
+	373	267	375	269	/sprites/sfx/explosion/large-hit%1
+	372	258		261	/sprites/sfx/explosion/large-hit%4
+	369	271	373	275	/sprites/sfx/explosion/large-hit%9
 	367	269	371	273	
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png

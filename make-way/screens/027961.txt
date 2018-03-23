@@ -125,13 +125,13 @@ rect	270	0	271	481	000050
 	492		493		
 	128	59	609	60	002850
 		281		282	000050
-static	307	201	321	213	ffffff	116	/sprites/501.SMIV/3
-draw	590	250	597	255	/sprites/512.SMIV/5
+static	307	201	321	213	ffffff	116	/sprites/ish/cruiser%3
+draw	590	250	597	255	/sprites/can/fighter%5
 	617	286	624	291	
-	597	262	602	267	/sprites/512.SMIV/6
-static	358	231	375	249	ffffff	81	/sprites/509.SMIV/5
-	271	285	276	290	f0f078	116	/sprites/512.SMIV/6
-	344	249	361	271		103	/sprites/506.SMIV/4
+	597	262	602	267	/sprites/can/fighter%6
+static	358	231	375	249	ffffff	81	/sprites/ish/gunship%5
+	271	285	276	290	f0f078	116	/sprites/can/fighter%6
+	344	249	361	271		103	/sprites/can/gunship%4
 dither	132	459	187	476	303000
 crop	136	463	143	474	24	44	000000	/fonts/tactical.png
 	143		150		16	77		
@@ -472,7 +472,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -536,7 +536,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		120	48		
 	57		63		112			
-draw	16	279	34	294	/sprites/542.SMIV/0
+draw	16	279	34	294	/sprites/loc/flak%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

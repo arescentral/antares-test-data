@@ -130,50 +130,50 @@ rect	176	0	177	405	000050
 	128	75	609	76	000050
 		204		205	
 		333		334	002850
-draw	365	235	373	243	/sprites/521.SMIV/23
-	133	64	197	161	/sprites/604.SMIV/1
-	251	56	277	81	/sprites/590.SMIV/5
-	115	142	119	145	/sprites/507.SMIV/1
-	111	150	115	154	/sprites/507.SMIV/2
-	117	148	121	151	/sprites/507.SMIV/4
+draw	365	235	373	243	/sprites/ish/hvc%23
+	133	64	197	161	/sprites/can/gateship%1
+	251	56	277	81	/sprites/ast/nasty%5
+	115	142	119	145	/sprites/sfx/debris%1
+	111	150	115	154	/sprites/sfx/debris%2
+	117	148	121	151	/sprites/sfx/debris%4
 	115	143	119	146	
 		155		158	
-	111	148	115	151	/sprites/507.SMIV/6
+	111	148	115	151	/sprites/sfx/debris%6
 	114	143	118	146	
-	117	146	121	150	/sprites/507.SMIV/5
-	112	142	116	146	/sprites/507.SMIV/2
-	119	148	123	151	/sprites/507.SMIV/4
-	112	143	116	147	/sprites/507.SMIV/2
-	117	148	121	152	/sprites/507.SMIV/5
-	110	145	113	148	/sprites/507.SMIV/7
-	117	150	121	153	/sprites/507.SMIV/4
-	110	148	114	151	/sprites/507.SMIV/9
-	115	146	119	149	/sprites/507.SMIV/10
-	111	153	114	156	/sprites/507.SMIV/12
+	117	146	121	150	/sprites/sfx/debris%5
+	112	142	116	146	/sprites/sfx/debris%2
+	119	148	123	151	/sprites/sfx/debris%4
+	112	143	116	147	/sprites/sfx/debris%2
+	117	148	121	152	/sprites/sfx/debris%5
+	110	145	113	148	/sprites/sfx/debris%7
+	117	150	121	153	/sprites/sfx/debris%4
+	110	148	114	151	/sprites/sfx/debris%9
+	115	146	119	149	/sprites/sfx/debris%10
+	111	153	114	156	/sprites/sfx/debris%12
 	116		119		
 	108	152	111	155	
-	110	154	114	157	/sprites/507.SMIV/9
-	119	149	122	152	/sprites/507.SMIV/12
+	110	154	114	157	/sprites/sfx/debris%9
+	119	149	122	152	/sprites/sfx/debris%12
 	111	145	114	148	
-	115	154	119	157	/sprites/507.SMIV/15
+	115	154	119	157	/sprites/sfx/debris%15
 	114	145	118	148	
-	118	149	121	152	/sprites/507.SMIV/16
-	113	148	117	151	/sprites/507.SMIV/22
-	114		118		/sprites/507.SMIV/21
+	118	149	121	152	/sprites/sfx/debris%16
+	113	148	117	151	/sprites/sfx/debris%22
+	114		118		/sprites/sfx/debris%21
 					
-		147			/sprites/507.SMIV/18
-	113	148	117		/sprites/507.SMIV/22
-	114				/sprites/507.SMIV/20
-			118		/sprites/507.SMIV/21
-		147	117		/sprites/507.SMIV/19
-		148	118		/sprites/507.SMIV/21
-	147	113	155	119	/sprites/581.SMIV/4
-	117	139	122	143	/sprites/517.SMIV/1
-		142	123	147	/sprites/517.SMIV/0
-	226	121	233	125	/sprites/541.SMIV/24
-	116	140	121	144	/sprites/517.SMIV/1
+		147			/sprites/sfx/debris%18
+	113	148	117		/sprites/sfx/debris%22
+	114				/sprites/sfx/debris%20
+			118		/sprites/sfx/debris%21
+		147	117		/sprites/sfx/debris%19
+		148	118		/sprites/sfx/debris%21
+	147	113	155	119	/sprites/dev/magno%4
+	117	139	122	143	/sprites/sfx/energy%1
+		142	123	147	/sprites/sfx/energy%0
+	226	121	233	125	/sprites/sfx/explosion/gas%24
+	116	140	121	144	/sprites/sfx/energy%1
 	120	134	125	138	
-	108	142	123	159	/sprites/504.SMIV/1
+	108	142	123	159	/sprites/sfx/explosion/energy%1
 rect	128	404	608	480	007fff
 		405		479	000810
 line	303	50	301	65	489048

@@ -146,35 +146,35 @@ point	358	332	b0b0b0
 rect	333	0	334	481	005000
 	128	66	609	67	000050
 line	416	279	424	291	ff0000
-draw	-13	188	115	316	/sprites/1020.SMIV/0
-	349	220	389	260	/sprites/509.SMIV/18
-	288	304	320	333	/sprites/501.SMIV/9
-static	417	272	445	312	f0f078	23	/sprites/502.SMIV/21
-draw	455	25	471	41	/sprites/507.SMIV/5
-	216	166	232	179	/sprites/507.SMIV/1
-	293	366	309	380	/sprites/507.SMIV/0
-	81	404	89	408	/sprites/513.SMIV/10
-	282	32	298	46	/sprites/507.SMIV/10
-	300	129	312	143	/sprites/507.SMIV/12
-	496	108	512	122	/sprites/507.SMIV/14
-	524	128	540	142	/sprites/507.SMIV/15
-	526	167	542	181	/sprites/507.SMIV/9
-	296	197	308	211	/sprites/507.SMIV/16
-	212	309	228	323	/sprites/507.SMIV/9
-	449	28	461	42	/sprites/507.SMIV/16
-	402	160	414	174	/sprites/507.SMIV/20
-	403	158	415		/sprites/507.SMIV/19
+draw	-13	188	115	316	/sprites/loc/planets/cloudtones%0
+	349	220	389	260	/sprites/ish/gunship%18
+	288	304	320	333	/sprites/ish/cruiser%9
+static	417	272	445	312	f0f078	23	/sprites/can/cruiser%21
+draw	455	25	471	41	/sprites/sfx/debris%5
+	216	166	232	179	/sprites/sfx/debris%1
+	293	366	309	380	/sprites/sfx/debris%0
+	81	404	89	408	/sprites/sfx/crew%10
+	282	32	298	46	/sprites/sfx/debris%10
+	300	129	312	143	/sprites/sfx/debris%12
+	496	108	512	122	/sprites/sfx/debris%14
+	524	128	540	142	/sprites/sfx/debris%15
+	526	167	542	181	/sprites/sfx/debris%9
+	296	197	308	211	/sprites/sfx/debris%16
+	212	309	228	323	/sprites/sfx/debris%9
+	449	28	461	42	/sprites/sfx/debris%16
+	402	160	414	174	/sprites/sfx/debris%20
+	403	158	415		/sprites/sfx/debris%19
 					
-	401	160	417	173	/sprites/507.SMIV/21
-	403	158	415	174	/sprites/507.SMIV/19
-	402	160	414		/sprites/507.SMIV/20
-	404	158	420		/sprites/507.SMIV/18
-	402	160	414		/sprites/507.SMIV/20
+	401	160	417	173	/sprites/sfx/debris%21
+	403	158	415	174	/sprites/sfx/debris%19
+	402	160	414		/sprites/sfx/debris%20
+	404	158	420		/sprites/sfx/debris%18
+	402	160	414		/sprites/sfx/debris%20
 					
-	241	410	261	424	/sprites/547.SMIV/4
-	303	193	331	212	/sprites/541.SMIV/24
-	189	374	209	386	/sprites/547.SMIV/1
-	420	277	432	287	/sprites/508.SMIV/0
+	241	410	261	424	/sprites/dev/pp%4
+	303	193	331	212	/sprites/sfx/explosion/gas%24
+	189	374	209	386	/sprites/dev/pp%1
+	420	277	432	287	/sprites/dev/anti%0
 dither	132	232	250	249	001830
 crop	136	236	143	247	48	44	000000	/fonts/tactical.png
 	143		150		8	66		
@@ -549,7 +549,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	208	34	222	/sprites/509.SMIV/0
+draw	16	208	34	222	/sprites/ish/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -618,7 +618,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	57		63		40	72		
 	63		69		32	84		
 	69		75		8	72		
-draw	16	278	34	296	/sprites/1020.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/cloudtones%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -902,4 +902,4 @@ crop	352	235	359	247	64	60	001010	/fonts/button-small.png
 	456		463		16	72		
 	463		470		32	84		
 	470		477		0			
-draw	200	50	212	60	/sprites/cursor.SMIV/0
+draw	200	50	212	60	/sprites/cursor%0

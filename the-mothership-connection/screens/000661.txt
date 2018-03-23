@@ -123,7 +123,7 @@ point	544	414	808080
 	295	333	d0d0d0
 	473	243	808080
 	357	450	b0b0b0
-draw	355	229	376	252	/sprites/521.SMIV/1
+draw	355	229	376	252	/sprites/ish/hvc%1
 	0	-144	128	624	/interfaces/instruments/left.png
 	608		640		/interfaces/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png

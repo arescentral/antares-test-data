@@ -159,17 +159,17 @@ rect	257	0	258	481	000050
 		282		283	
 line	327	228	334	229	ffff7f
 	365	239	369	239	
-draw	43	39	53	47	/sprites/570.SMIV/0
-	353	232	385	251	/sprites/646.SMIV/19
-static	205	180	289	236	f0f078	87	/sprites/560.SMIV/7
-draw	440	259	448	262	/sprites/528.SMIV/8
-	245	210	253	212	/sprites/528.SMIV/7
-	311	225	323	235	/sprites/522.SMIV/0
-	284	175	293	184	/sprites/554.SMIV/8
-	285	199		207	/sprites/554.SMIV/5
-	260	190	265	194	/sprites/504.SMIV/19
-	289	220	294	225	/sprites/554.SMIV/2
-	270	215	274	218	/sprites/504.SMIV/18
+draw	43	39	53	47	/sprites/loc/jump/node%0
+	353	232	385	251	/sprites/ish/hvd%19
+static	205	180	289	236	f0f078	87	/sprites/gai/carrier%7
+draw	440	259	448	262	/sprites/dev/cm%8
+	245	210	253	212	/sprites/dev/cm%7
+	311	225	323	235	/sprites/dev/fullerene%0
+	284	175	293	184	/sprites/sfx/explosion/large-hit%8
+	285	199		207	/sprites/sfx/explosion/large-hit%5
+	260	190	265	194	/sprites/sfx/explosion/energy%19
+	289	220	294	225	/sprites/sfx/explosion/large-hit%2
+	270	215	274	218	/sprites/sfx/explosion/energy%18
 line	173	199	184	209	489048
 			188	195	
 	184	209			204020

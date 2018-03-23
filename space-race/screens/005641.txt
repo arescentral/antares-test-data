@@ -127,21 +127,21 @@ rect	216	0	217	481	000050
 	472		473		002850
 	128	44	609	45	000050
 		300		301	
-static	338	229	402	251	ffffff	69	/sprites/525.SMIV/18
-	122	168	198	239	f0f078	65	/sprites/560.SMIV/9
-draw	9	183	19	189	/sprites/548.SMIV/1
-	441	268	451	275	/sprites/547.SMIV/4
-	326	235	332	238	/sprites/541.SMIV/0
-	364	240	372	242	/sprites/528.SMIV/18
-	441	270	451	278	/sprites/547.SMIV/2
-	113	167	123	174	/sprites/548.SMIV/4
-	4	146	8	150	/sprites/655.SMIV/4
-	101	174	103	175	/sprites/655.SMIV/0
-	4	133	8	137	/sprites/655.SMIV/4
-	39	146	45	151	/sprites/655.SMIV/3
-	71	163	75	167	/sprites/655.SMIV/2
-	176	172	190	184	/sprites/541.SMIV/3
-	188	192	194	199	/sprites/554.SMIV/4
+static	338	229	402	251	ffffff	69	/sprites/ish/carrier%18
+	122	168	198	239	f0f078	65	/sprites/gai/carrier%9
+draw	9	183	19	189	/sprites/dev/atomic%1
+	441	268	451	275	/sprites/dev/pp%4
+	326	235	332	238	/sprites/sfx/explosion/gas%0
+	364	240	372	242	/sprites/dev/cm%18
+	441	270	451	278	/sprites/dev/pp%2
+	113	167	123	174	/sprites/dev/atomic%4
+	4	146	8	150	/sprites/sfx/sparkle%4
+	101	174	103	175	/sprites/sfx/sparkle%0
+	4	133	8	137	/sprites/sfx/sparkle%4
+	39	146	45	151	/sprites/sfx/sparkle%3
+	71	163	75	167	/sprites/sfx/sparkle%2
+	176	172	190	184	/sprites/sfx/explosion/gas%3
+	188	192	194	199	/sprites/sfx/explosion/large-hit%4
 	184	213	190	220	
 dither	200	459	444	476	300000
 crop	204	463	211	474	0	22	000000	/fonts/tactical.png
@@ -573,7 +573,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

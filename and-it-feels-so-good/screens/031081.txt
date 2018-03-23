@@ -161,17 +161,17 @@ line	-233	-166	-223	-152	ffff7f
 	562	439	572	438	007fff
 	-140	-215	-153	-205	
 	-142	30	-138	34	ffff7f
-static	405	273	433	301	ffffff	57	/sprites/501.SMIV/13
-draw	332	219	400	255	/sprites/646.SMIV/7
-	307	162	355	185	/sprites/582.SMIV/7
-	318	375	358	406	/sprites/578.SMIV/3
-	603	448	647	479	/sprites/578.SMIV/21
-	398	318	406	323	/sprites/513.SMIV/20
-	261	202	265	208	/sprites/513.SMIV/17
-	488	395	508	420	/sprites/580.SMIV/0
-	311	155	399	229	/sprites/504.SMIV/8
-	383	301	463	375	/sprites/504.SMIV/4
-	424	308	440	324	/sprites/554.SMIV/9
+static	405	273	433	301	ffffff	57	/sprites/ish/cruiser%13
+draw	332	219	400	255	/sprites/ish/hvd%7
+	307	162	355	185	/sprites/ele/cruiser%7
+	318	375	358	406	/sprites/aud/cruiser%3
+	603	448	647	479	/sprites/aud/cruiser%21
+	398	318	406	323	/sprites/sfx/crew%20
+	261	202	265	208	/sprites/sfx/crew%17
+	488	395	508	420	/sprites/dev/inasa%0
+	311	155	399	229	/sprites/sfx/explosion/energy%8
+	383	301	463	375	/sprites/sfx/explosion/energy%4
+	424	308	440	324	/sprites/sfx/explosion/large-hit%9
 line	553	311	543	299	489048
 			538	313	
 	543	299			204020
@@ -534,7 +534,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

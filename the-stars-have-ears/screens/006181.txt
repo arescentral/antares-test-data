@@ -137,11 +137,11 @@ rect	484	0	485	481	005000
 	128	404	609	405	000050
 line	163	117	179	126	00ff00
 	301	159	315	170	
-draw	357	225	393	261	/sprites/521.SMIV/22
-	263	82	303	112	/sprites/550.SMIV/22
-	498	283	526	316	/sprites/550.SMIV/18
-	346	214	358	223	/sprites/503.SMIV/21
-	146	95	158	103	/sprites/503.SMIV/20
+draw	357	225	393	261	/sprites/ish/hvc%22
+	263	82	303	112	/sprites/gai/cruiser%22
+	498	283	526	316	/sprites/gai/cruiser%18
+	346	214	358	223	/sprites/dev/fusion%21
+	146	95	158	103	/sprites/dev/fusion%20
 	252	163	264	171	
 line	266	69	266	84	489048
 			279	76	

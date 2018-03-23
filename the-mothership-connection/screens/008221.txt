@@ -131,12 +131,12 @@ rect	211	0	212	481	002850
 		135		136	
 		263		264	
 		391		392	002850
-draw	364	236	372	245	/sprites/521.SMIV/1
-	398	100	426	125	/sprites/590.SMIV/6
-	414	120	422	127	/sprites/541.SMIV/6
-	386	82	394	88	/sprites/581.SMIV/4
-	379	204	385	209	/sprites/584.SMIV/2
-	424	146	433	152	/sprites/541.SMIV/19
+draw	364	236	372	245	/sprites/ish/hvc%1
+	398	100	426	125	/sprites/ast/nasty%6
+	414	120	422	127	/sprites/sfx/explosion/gas%6
+	386	82	394	88	/sprites/dev/magno%4
+	379	204	385	209	/sprites/dev/onas%2
+	424	146	433	152	/sprites/sfx/explosion/gas%19
 line	425	50	414	60	489048
 			428	65	
 	414	60			204020

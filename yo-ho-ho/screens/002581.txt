@@ -129,12 +129,12 @@ rect	267	0	268	481	000050
 line	312	267	319	265	ffff7f
 	356	246	360	245	
 	233	252	243	252	
-draw	68	443	76	451	/sprites/573.SMIV/0
-	31	397	41	405	/sprites/570.SMIV/1
+draw	68	443	76	451	/sprites/sfx/invisible%0
+	31	397	41	405	/sprites/loc/jump/node%1
 	122	439	132	447	
-	355	228	387	250	/sprites/646.SMIV/15
-	235	58	255	73	/sprites/550.SMIV/2
-	290	276	308	292	/sprites/550.SMIV/8
+	355	228	387	250	/sprites/ish/hvd%15
+	235	58	255	73	/sprites/gai/cruiser%2
+	290	276	308	292	/sprites/gai/cruiser%8
 line	225	378	240	375	489048
 			229	363	
 	240	375			204020

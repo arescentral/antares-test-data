@@ -127,9 +127,9 @@ rect	318	0	319	481	002850
 	574		575		000050
 	128	12	609	13	
 		268		269	
-draw	359	232	379	245	/sprites/521.SMIV/17
-	47	207	53	213	/sprites/545.SMIV/4
-	126	227	134	233	/sprites/545.SMIV/10
+draw	359	232	379	245	/sprites/ish/hvc%17
+	47	207	53	213	/sprites/ast/regular/small%4
+	126	227	134	233	/sprites/ast/regular/small%10
 line	172	274	187	279	489048
 			184	264	
 	187	279			204020

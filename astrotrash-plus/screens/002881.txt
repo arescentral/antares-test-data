@@ -127,22 +127,22 @@ rect	235	0	236	481	000050
 	458		459		
 	128	151	609	152	
 		374		375	
-draw	358	234	375	247	/sprites/521.SMIV/4
-	511	101	535	123	/sprites/543.SMIV/6
-	366	148	386	169	/sprites/546.SMIV/5
-	555	134	577	156	/sprites/546.SMIV/20
-	480	158	502	180	/sprites/546.SMIV/2
-	517	124	523	131	/sprites/554.SMIV/5
-	522	119	528	125	/sprites/554.SMIV/10
-	503	120	510	128	/sprites/554.SMIV/8
-	506	113		117	/sprites/554.SMIV/2
-	513	129	519	137	/sprites/548.SMIV/0
-	552	126	560	132	/sprites/548.SMIV/2
-	527	112	533	119	/sprites/554.SMIV/9
-	483	157	491	163	/sprites/548.SMIV/4
-	519	120	522	123	/sprites/554.SMIV/0
-	520	119	526	126	/sprites/554.SMIV/6
-	529	107	534	113	/sprites/554.SMIV/3
+draw	358	234	375	247	/sprites/ish/hvc%4
+	511	101	535	123	/sprites/ast/regular/big%6
+	366	148	386	169	/sprites/ish/etc/astrominer%5
+	555	134	577	156	/sprites/ish/etc/astrominer%20
+	480	158	502	180	/sprites/ish/etc/astrominer%2
+	517	124	523	131	/sprites/sfx/explosion/large-hit%5
+	522	119	528	125	/sprites/sfx/explosion/large-hit%10
+	503	120	510	128	/sprites/sfx/explosion/large-hit%8
+	506	113		117	/sprites/sfx/explosion/large-hit%2
+	513	129	519	137	/sprites/dev/atomic%0
+	552	126	560	132	/sprites/dev/atomic%2
+	527	112	533	119	/sprites/sfx/explosion/large-hit%9
+	483	157	491	163	/sprites/dev/atomic%4
+	519	120	522	123	/sprites/sfx/explosion/large-hit%0
+	520	119	526	126	/sprites/sfx/explosion/large-hit%6
+	529	107	534	113	/sprites/sfx/explosion/large-hit%3
 line	528	122	513	123	489048
 			522	136	
 	513	123			204020

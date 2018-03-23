@@ -129,22 +129,22 @@ rect	249	0	250	416	005000
 	128	33	609	34	002850
 		161		162	000050
 		289		290	
-draw	364	237	374	244	/sprites/521.SMIV/18
-	260	150	271	161	/sprites/587.SMIV/22
+draw	364	237	374	244	/sprites/ish/hvc%18
+	260	150	271	161	/sprites/uns/transprt%22
 	356	226	367	237	
 	325	284	336	295	
 	364	236	375	247	
-	253	177	261	189	/sprites/587.SMIV/23
-	267	136	278	147	/sprites/587.SMIV/22
+	253	177	261	189	/sprites/uns/transprt%23
+	267	136	278	147	/sprites/uns/transprt%22
 	245	134	256	145	
-	283	252	291	264	/sprites/587.SMIV/23
-	220	273	231	284	/sprites/587.SMIV/22
+	283	252	291	264	/sprites/uns/transprt%23
+	220	273	231	284	/sprites/uns/transprt%22
 	281	99	292	110	
-	296	251	332	286	/sprites/649.SMIV/22
-	357	345	362	353	/sprites/650.SMIV/0
-	362	362	371	373	/sprites/652.SMIV/0
-	413	236	418	240	/sprites/651.SMIV/22
-	312	333	322	344	/sprites/652.SMIV/23
+	296	251	332	286	/sprites/uns/carrier%22
+	357	345	362	353	/sprites/uns/cruiser%0
+	362	362	371	373	/sprites/uns/gunship%0
+	413	236	418	240	/sprites/uns/fighter%22
+	312	333	322	344	/sprites/uns/gunship%23
 dither	310	279	365	296	303000
 crop	314	283	321	294	24	44	000000	/fonts/tactical.png
 	321		328		8	66		
@@ -888,7 +888,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	206	29	224	/sprites/649.SMIV/0
+draw	21	206	29	224	/sprites/uns/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -961,7 +961,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	278	29	296	/sprites/649.SMIV/0
+draw	21	278	29	296	/sprites/uns/carrier%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

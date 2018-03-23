@@ -141,30 +141,30 @@ rect	246	0	247	481	002850
 		368		369	
 line	231	225	236	224	ff7f00
 	305	282	309	279	
-draw	365	235	373	244	/sprites/521.SMIV/14
-	168	254	172	257	/sprites/512.SMIV/5
-	332	348	334	349	/sprites/513.SMIV/12
-	419	242	422	245	/sprites/512.SMIV/0
-	264	98	288	118	/sprites/524.SMIV/8
-	354	102	370	124	/sprites/524.SMIV/23
-	369	138	385	161	/sprites/524.SMIV/13
-	264	111	282	132	/sprites/524.SMIV/2
-	298	123	312	146	/sprites/524.SMIV/11
-static	280	128	302	150	f0f078	25	/sprites/524.SMIV/9
-	495	142	502		00000000	254	/sprites/523.SMIV/15
-	416	176	422	185		188	/sprites/523.SMIV/14
-draw	247	102	248	103	/sprites/513.SMIV/13
-	305	131	307	134	/sprites/528.SMIV/11
-	336	154	344	159	/sprites/541.SMIV/21
-	339	153	348	160	/sprites/541.SMIV/14
-	405	204	408	206	/sprites/508.SMIV/1
-	285	151	292	157	/sprites/541.SMIV/4
-	350	149	359	155	/sprites/541.SMIV/18
-	391	184	393	187	/sprites/528.SMIV/12
+draw	365	235	373	244	/sprites/ish/hvc%14
+	168	254	172	257	/sprites/can/fighter%5
+	332	348	334	349	/sprites/sfx/crew%12
+	419	242	422	245	/sprites/can/fighter%0
+	264	98	288	118	/sprites/can/carrier%8
+	354	102	370	124	/sprites/can/carrier%23
+	369	138	385	161	/sprites/can/carrier%13
+	264	111	282	132	/sprites/can/carrier%2
+	298	123	312	146	/sprites/can/carrier%11
+static	280	128	302	150	f0f078	25	/sprites/can/carrier%9
+	495	142	502		00000000	254	/sprites/can/hvc%15
+	416	176	422	185		188	/sprites/can/hvc%14
+draw	247	102	248	103	/sprites/sfx/crew%13
+	305	131	307	134	/sprites/dev/cm%11
+	336	154	344	159	/sprites/sfx/explosion/gas%21
+	339	153	348	160	/sprites/sfx/explosion/gas%14
+	405	204	408	206	/sprites/dev/anti%1
+	285	151	292	157	/sprites/sfx/explosion/gas%4
+	350	149	359	155	/sprites/sfx/explosion/gas%18
+	391	184	393	187	/sprites/dev/cm%12
 	395	203	397	206	
-	335	163	337	166	/sprites/528.SMIV/10
-	444	286	446	289	/sprites/528.SMIV/12
-	313	150	322	158	/sprites/541.SMIV/9
+	335	163	337	166	/sprites/dev/cm%10
+	444	286	446	289	/sprites/dev/cm%12
+	313	150	322	158	/sprites/sfx/explosion/gas%9
 line	248	399	262	393	489048
 			249	384	
 	262	393			204020

@@ -126,12 +126,12 @@ point	329	413	d0d0d0
 rect	207	0	208	481	000050
 	578		579		
 	128	301	609	302	
-draw	360	228	383	253	/sprites/521.SMIV/23
-	468	77	537	158	/sprites/590.SMIV/18
-	498	208	521	230	/sprites/541.SMIV/6
-	483	238	509	259	/sprites/541.SMIV/15
-	448	234	474	257	/sprites/541.SMIV/11
-	482	250	508	267	/sprites/541.SMIV/19
+draw	360	228	383	253	/sprites/ish/hvc%23
+	468	77	537	158	/sprites/ast/nasty%18
+	498	208	521	230	/sprites/sfx/explosion/gas%6
+	483	238	509	259	/sprites/sfx/explosion/gas%15
+	448	234	474	257	/sprites/sfx/explosion/gas%11
+	482	250	508	267	/sprites/sfx/explosion/gas%19
 line	296	54	294	69	489048
 			308	64	
 	294	69			204020

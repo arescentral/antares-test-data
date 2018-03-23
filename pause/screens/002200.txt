@@ -125,7 +125,7 @@ point	152	61	b0b0b0
 	561	432	b0b0b0
 rect	369	0	370	481	005000
 	128	241	609	242	
-draw	351	223	383	252	/sprites/501.SMIV/9
+draw	351	223	383	252	/sprites/ish/cruiser%9
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
 	211		218		80			
@@ -1008,4 +1008,4 @@ crop	256	270	263	282	48	60	100810	/fonts/button.png
 	422		425		144	72		
 	425		433		16			
 	433		436		192			
-draw	320	240	332	250	/sprites/cursor.SMIV/0
+draw	320	240	332	250	/sprites/cursor%0

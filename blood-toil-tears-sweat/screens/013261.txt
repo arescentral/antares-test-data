@@ -226,32 +226,32 @@ line	667	-46	661	-53	7fff7f
 	257	80	257	89	
 	242	199	241	208	
 	197	408	207	414	
-draw	358	226	386	259	/sprites/652.SMIV/23
+draw	358	226	386	259	/sprites/uns/gunship%23
 	199	284	227	317	
-	637	235	662	266	/sprites/652.SMIV/0
-static	275	109	303	145	f0f078	12	/sprites/506.SMIV/5
-draw	386	267	426	296	/sprites/652.SMIV/21
-	390	363	401	375	/sprites/651.SMIV/12
-	340	63	380	99	/sprites/579.SMIV/15
-	290	430	318	463	/sprites/652.SMIV/23
-	523	334	649	424	/sprites/649.SMIV/21
-	189	137	235	157	/sprites/652.SMIV/5
-	263	128	272	138	/sprites/554.SMIV/3
-	293	195	313	208	/sprites/580.SMIV/4
-	317	174	328	186	/sprites/653.SMIV/0
-	360	241	374	250	/sprites/653.SMIV/1
+	637	235	662	266	/sprites/uns/gunship%0
+static	275	109	303	145	f0f078	12	/sprites/can/gunship%5
+draw	386	267	426	296	/sprites/uns/gunship%21
+	390	363	401	375	/sprites/uns/fighter%12
+	340	63	380	99	/sprites/aud/gunship%15
+	290	430	318	463	/sprites/uns/gunship%23
+	523	334	649	424	/sprites/uns/carrier%21
+	189	137	235	157	/sprites/uns/gunship%5
+	263	128	272	138	/sprites/sfx/explosion/large-hit%3
+	293	195	313	208	/sprites/dev/inasa%4
+	317	174	328	186	/sprites/dev/magneto%0
+	360	241	374	250	/sprites/dev/magneto%1
 	255	126	269	135	
 	400	263	414	272	
 	366	191	380	200	
-	292	105	297	110	/sprites/504.SMIV/18
-	208	128	222	138	/sprites/653.SMIV/2
-	275	74	286	86	/sprites/653.SMIV/0
-	412	313	422	324	/sprites/554.SMIV/10
-	267	99	274	105	/sprites/504.SMIV/19
-	180	408	194	421	/sprites/517.SMIV/1
-	167	414	175	424	/sprites/504.SMIV/1
-	288	150	302	160	/sprites/653.SMIV/2
-	148	408	155	414	/sprites/504.SMIV/19
+	292	105	297	110	/sprites/sfx/explosion/energy%18
+	208	128	222	138	/sprites/dev/magneto%2
+	275	74	286	86	/sprites/dev/magneto%0
+	412	313	422	324	/sprites/sfx/explosion/large-hit%10
+	267	99	274	105	/sprites/sfx/explosion/energy%19
+	180	408	194	421	/sprites/sfx/energy%1
+	167	414	175	424	/sprites/sfx/explosion/energy%1
+	288	150	302	160	/sprites/dev/magneto%2
+	148	408	155	414	/sprites/sfx/explosion/energy%19
 line	306	50	303	65	489048
 			317	60	
 	303	65			204020
@@ -574,7 +574,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -638,7 +638,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -128,9 +128,9 @@ rect	217	0	218	481	002850
 	575		576		
 	128	148	609	149	
 		327		328	
-draw	361	234	372	246	/sprites/521.SMIV/1
-	500	158	533	191	/sprites/590.SMIV/9
-	499	277	508	283	/sprites/541.SMIV/24
+draw	361	234	372	246	/sprites/ish/hvc%1
+	500	158	533	191	/sprites/ast/nasty%9
+	499	277	508	283	/sprites/sfx/explosion/gas%24
 line	411	45	401	56	489048
 			415	60	
 	401	56			204020

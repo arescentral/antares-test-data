@@ -136,32 +136,32 @@ point	403	423	b0b0b0
 line	430	276	427	274	00ff00
 	393	272	390	269	
 	372	241	369	239	
-static	363	235	372	244	ffffff	97	/sprites/521.SMIV/10
-draw	282	349	285	352	/sprites/545.SMIV/17
-	474	294	486	306	/sprites/543.SMIV/10
-static	360	262	372	275	ffffff	77	/sprites/546.SMIV/19
-draw	318	249	331	262	/sprites/546.SMIV/20
-static	363	275	376	288	ffffff	110	/sprites/546.SMIV/3
-draw	380	284	381	285	/sprites/589.SMIV/1
-	324	243	325	244	/sprites/589.SMIV/0
-	274	347	277	349	/sprites/545.SMIV/12
-	432	195	435	197	/sprites/545.SMIV/14
-	438	383	439	384	/sprites/589.SMIV/2
-static	351	252	352	253	f0f078	104	/sprites/589.SMIV/0
-draw	409	289	410	290	/sprites/589.SMIV/0
-	433	207	439	212	/sprites/544.SMIV/4
-	418	273	421	275	/sprites/503.SMIV/8
-	317	245	322	248	/sprites/548.SMIV/1
+static	363	235	372	244	ffffff	97	/sprites/ish/hvc%10
+draw	282	349	285	352	/sprites/ast/regular/small%17
+	474	294	486	306	/sprites/ast/regular/big%10
+static	360	262	372	275	ffffff	77	/sprites/ish/etc/astrominer%19
+draw	318	249	331	262	/sprites/ish/etc/astrominer%20
+static	363	275	376	288	ffffff	110	/sprites/ish/etc/astrominer%3
+draw	380	284	381	285	/sprites/zrb/base%1
+	324	243	325	244	/sprites/zrb/base%0
+	274	347	277	349	/sprites/ast/regular/small%12
+	432	195	435	197	/sprites/ast/regular/small%14
+	438	383	439	384	/sprites/zrb/base%2
+static	351	252	352	253	f0f078	104	/sprites/zrb/base%0
+draw	409	289	410	290	/sprites/zrb/base%0
+	433	207	439	212	/sprites/ast/regular/medium%4
+	418	273	421	275	/sprites/dev/fusion%8
+	317	245	322	248	/sprites/dev/atomic%1
 	296	236	301	239	
-	394	261	397	263	/sprites/503.SMIV/8
-	371	245	374	247	/sprites/503.SMIV/9
-	315	240	319	244	/sprites/554.SMIV/5
-	372	254	376	258	/sprites/504.SMIV/5
-	369	292	374	296	/sprites/517.SMIV/1
-		294		298	/sprites/504.SMIV/4
-	370	293		297	/sprites/554.SMIV/9
-	379	299	384	303	/sprites/517.SMIV/1
-	369	294	374	298	/sprites/504.SMIV/4
+	394	261	397	263	/sprites/dev/fusion%8
+	371	245	374	247	/sprites/dev/fusion%9
+	315	240	319	244	/sprites/sfx/explosion/large-hit%5
+	372	254	376	258	/sprites/sfx/explosion/energy%5
+	369	292	374	296	/sprites/sfx/energy%1
+		294		298	/sprites/sfx/explosion/energy%4
+	370	293		297	/sprites/sfx/explosion/large-hit%9
+	379	299	384	303	/sprites/sfx/energy%1
+	369	294	374	298	/sprites/sfx/explosion/energy%4
 					
 	0	-144	128	624	/interfaces/instruments/left.png
 	608		640		/interfaces/instruments/right.png

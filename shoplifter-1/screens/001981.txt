@@ -126,12 +126,12 @@ point	275	237	808080
 rect	380	0	381	481	002850
 	128	202	609	203	000050
 		458		459	
-draw	362	231	376	249	/sprites/521.SMIV/12
-	285	304	303	320	/sprites/550.SMIV/21
-	577	336	587	344	/sprites/551.SMIV/22
-	425	212	429	214	/sprites/513.SMIV/20
-	399		409	221	/sprites/517.SMIV/1
-	427	209	479	253	/sprites/504.SMIV/11
+draw	362	231	376	249	/sprites/ish/hvc%12
+	285	304	303	320	/sprites/gai/cruiser%21
+	577	336	587	344	/sprites/gai/fighter%22
+	425	212	429	214	/sprites/sfx/crew%20
+	399		409	221	/sprites/sfx/energy%1
+	427	209	479	253	/sprites/sfx/explosion/energy%11
 line	344	438	353	426	489048
 			338	424	
 	353	426			204020
@@ -387,7 +387,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/567.SMIV/0
+draw	20	206	30	224	/sprites/obi/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -441,7 +441,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	33		39					
 	39		45		0	24		
 	45		51		8	36		
-draw	16	278	33	296	/sprites/595.SMIV/0
+draw	16	278	33	296	/sprites/gai/etc/lab%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

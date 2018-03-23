@@ -125,23 +125,23 @@ point	393	378	808080
 	169	201	
 rect	437	0	438	481	000050
 	128	153	609	154	
-draw	454	400	523	470	/sprites/552.SMIV/0
-	350	226	386	251	/sprites/521.SMIV/6
-	105	373	167	407	/sprites/553.SMIV/6
-		314	112	321	/sprites/655.SMIV/2
-	136	334	143	339	/sprites/655.SMIV/1
-	71	251	78	256	/sprites/655.SMIV/5
-	150	320	164	337	/sprites/548.SMIV/3
-	401	194	404	195	/sprites/655.SMIV/0
-	97	283	107	292	/sprites/655.SMIV/3
-	110	318	117	325	/sprites/655.SMIV/2
-	394	206	397	207	/sprites/655.SMIV/0
-	78	261	85	266	/sprites/655.SMIV/5
-	550	168	557	175	/sprites/655.SMIV/4
-	82	277	92	286	/sprites/655.SMIV/3
+draw	454	400	523	470	/sprites/loc/relay%0
+	350	226	386	251	/sprites/ish/hvc%6
+	105	373	167	407	/sprites/gai/gunship%6
+		314	112	321	/sprites/sfx/sparkle%2
+	136	334	143	339	/sprites/sfx/sparkle%1
+	71	251	78	256	/sprites/sfx/sparkle%5
+	150	320	164	337	/sprites/dev/atomic%3
+	401	194	404	195	/sprites/sfx/sparkle%0
+	97	283	107	292	/sprites/sfx/sparkle%3
+	110	318	117	325	/sprites/sfx/sparkle%2
+	394	206	397	207	/sprites/sfx/sparkle%0
+	78	261	85	266	/sprites/sfx/sparkle%5
+	550	168	557	175	/sprites/sfx/sparkle%4
+	82	277	92	286	/sprites/sfx/sparkle%3
 	508	156	518	165	
 	486	160	496	169	
-	458	188	465	195	/sprites/655.SMIV/2
+	458	188	465	195	/sprites/sfx/sparkle%2
 	440	187	447	194	
 line	566	242	553	234	489048
 				249	

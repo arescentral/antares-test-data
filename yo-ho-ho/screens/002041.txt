@@ -129,14 +129,14 @@ rect	180	0	181	481	000050
 line	259	305	267	300	ffff7f
 	312	267	321	263	
 	355	239	361	238	
-draw	222	3	232	11	/sprites/570.SMIV/1
-	353	231	385	248	/sprites/646.SMIV/18
-	244	167	264	178	/sprites/550.SMIV/0
-	228	316	246	332	/sprites/550.SMIV/21
-	193	110	201	117	/sprites/507.SMIV/9
-	223	220	231	227	/sprites/507.SMIV/10
+draw	222	3	232	11	/sprites/loc/jump/node%1
+	353	231	385	248	/sprites/ish/hvd%18
+	244	167	264	178	/sprites/gai/cruiser%0
+	228	316	246	332	/sprites/gai/cruiser%21
+	193	110	201	117	/sprites/sfx/debris%9
+	223	220	231	227	/sprites/sfx/debris%10
 	216	123	224	130	
-	246	130	260	141	/sprites/504.SMIV/14
+	246	130	260	141	/sprites/sfx/explosion/energy%14
 line	169	234	182	242	489048
 			183	227	
 	182	242			204020

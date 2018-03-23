@@ -127,14 +127,14 @@ rect	308	0	309	481	000050
 	517		518		
 	128	184	609	185	002850
 		393		394	000050
-draw	136	254	154	284	/sprites/595.SMIV/4
-static	201	388	217	406	ffffff	124	/sprites/567.SMIV/22
-draw	362	234	376	247	/sprites/521.SMIV/21
-	227	457	243	470	/sprites/532.SMIV/22
-	192	414	194	415	/sprites/597.SMIV/10
-	207	252	208	253	/sprites/597.SMIV/3
-	167	418	169	419	/sprites/597.SMIV/5
-	287	125	301	137	/sprites/550.SMIV/13
+draw	136	254	154	284	/sprites/gai/etc/lab%4
+static	201	388	217	406	ffffff	124	/sprites/obi/transprt%22
+draw	362	234	376	247	/sprites/ish/hvc%21
+	227	457	243	470	/sprites/obi/escort%22
+	192	414	194	415	/sprites/obi/etc/obiard/waving%10
+	207	252	208	253	/sprites/obi/etc/obiard/waving%3
+	167	418	169	419	/sprites/obi/etc/obiard/waving%5
+	287	125	301	137	/sprites/gai/cruiser%13
 dither	207	407	276	424	303000
 crop	211	411	218	422	32	55	000000	/fonts/tactical.png
 	218		225		16	77		
@@ -463,7 +463,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/567.SMIV/0
+draw	20	206	30	224	/sprites/obi/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -516,7 +516,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	27		33		112			
 	33		39		40			
 	39		45		16	60		
-draw	21	278	29	296	/sprites/565.SMIV/0
+draw	21	278	29	296	/sprites/obi/etc/liner%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

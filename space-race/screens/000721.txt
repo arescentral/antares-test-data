@@ -134,65 +134,65 @@ rect	198	0	199	481	000050
 line	328	188	331	192	ffff7f
 	342	223	345	225	
 	362	236	365	238	
-draw	361	236	377	246	/sprites/646.SMIV/20
-	390	377	400	384	/sprites/521.SMIV/19
-	453	333	460	342	/sprites/521.SMIV/13
-	355	129	397	157	/sprites/560.SMIV/7
-	619	56	653	95	/sprites/560.SMIV/14
-	425	53	441	68	/sprites/553.SMIV/9
-	534	192	546	208	/sprites/553.SMIV/13
+draw	361	236	377	246	/sprites/ish/hvd%20
+	390	377	400	384	/sprites/ish/hvc%19
+	453	333	460	342	/sprites/ish/hvc%13
+	355	129	397	157	/sprites/gai/carrier%7
+	619	56	653	95	/sprites/gai/carrier%14
+	425	53	441	68	/sprites/gai/gunship%9
+	534	192	546	208	/sprites/gai/gunship%13
 	427	191	439	207	
-	287	223	304	236	/sprites/553.SMIV/16
-	279	206	290	221	/sprites/553.SMIV/12
-	231	197	248	206	/sprites/553.SMIV/6
-	155	223	162	231	/sprites/550.SMIV/6
-	186	195	203	208	/sprites/553.SMIV/8
-	254	252	271	261	/sprites/553.SMIV/6
-	452	45	457	48	/sprites/548.SMIV/4
+	287	223	304	236	/sprites/gai/gunship%16
+	279	206	290	221	/sprites/gai/gunship%12
+	231	197	248	206	/sprites/gai/gunship%6
+	155	223	162	231	/sprites/gai/cruiser%6
+	186	195	203	208	/sprites/gai/gunship%8
+	254	252	271	261	/sprites/gai/gunship%6
+	452	45	457	48	/sprites/dev/atomic%4
 	521	235	526	238	
-	334	326	338	330	/sprites/548.SMIV/0
-	328	329	329	329	/sprites/655.SMIV/0
-	316	319	318	321	/sprites/655.SMIV/2
-	322	240	326	244	/sprites/548.SMIV/3
-	240	201	243	203	/sprites/655.SMIV/3
+	334	326	338	330	/sprites/dev/atomic%0
+	328	329	329	329	/sprites/sfx/sparkle%0
+	316	319	318	321	/sprites/sfx/sparkle%2
+	322	240	326	244	/sprites/dev/atomic%3
+	240	201	243	203	/sprites/sfx/sparkle%3
 	297	315	300	317	
-	226	218	227	218	/sprites/655.SMIV/0
-	298	319	301	321	/sprites/655.SMIV/3
-	272	233	277	236	/sprites/548.SMIV/1
-	250	214	252	216	/sprites/655.SMIV/2
+	226	218	227	218	/sprites/sfx/sparkle%0
+	298	319	301	321	/sprites/sfx/sparkle%3
+	272	233	277	236	/sprites/dev/atomic%1
+	250	214	252	216	/sprites/sfx/sparkle%2
 	311	320	313	322	
-	213	204	215	205	/sprites/655.SMIV/1
-	225	216	229	220	/sprites/548.SMIV/3
-	434	254	436	255	/sprites/655.SMIV/1
+	213	204	215	205	/sprites/sfx/sparkle%1
+	225	216	229	220	/sprites/dev/atomic%3
+	434	254	436	255	/sprites/sfx/sparkle%1
 	528	226	530	227	
-	633	76	635	79	/sprites/528.SMIV/14
-	434	270	439	273	/sprites/548.SMIV/1
-	342	224	348	230	/sprites/522.SMIV/5
-	228	215	229	215	/sprites/655.SMIV/0
+	633	76	635	79	/sprites/dev/cm%14
+	434	270	439	273	/sprites/dev/atomic%1
+	342	224	348	230	/sprites/dev/fullerene%5
+	228	215	229	215	/sprites/sfx/sparkle%0
 	438	271	439	271	
 	526	234	527	234	
 	520	237	521	237	
-	263	224	265	225	/sprites/655.SMIV/1
+	263	224	265	225	/sprites/sfx/sparkle%1
 	321	232	323	233	
 	365	251	367	252	
-	363	261	368	265	/sprites/548.SMIV/2
-		252	365	253	/sprites/655.SMIV/1
-	290	150	296	155	/sprites/522.SMIV/0
-	286	318	288	320	/sprites/655.SMIV/4
+	363	261	368	265	/sprites/dev/atomic%2
+		252	365	253	/sprites/sfx/sparkle%1
+	290	150	296	155	/sprites/dev/fullerene%0
+	286	318	288	320	/sprites/sfx/sparkle%4
 	289		291		
 	185	187	187	189	
 	190	185	192	187	
-	311	190	317	196	/sprites/522.SMIV/5
-	202	199	204	201	/sprites/655.SMIV/2
+	311	190	317	196	/sprites/dev/fullerene%5
+	202	199	204	201	/sprites/sfx/sparkle%2
 	201	197	203	199	
-	452	38	454	39	/sprites/655.SMIV/1
-	431	238	433	240	/sprites/655.SMIV/2
+	452	38	454	39	/sprites/sfx/sparkle%1
+	431	238	433	240	/sprites/sfx/sparkle%2
 	530	214	532	216	
 	251	209	253	211	
 	309	216	311	218	
 	312	220	314	222	
-	456	33	458	34	/sprites/655.SMIV/1
-	174	185	176	186	/sprites/655.SMIV/5
+	456	33	458	34	/sprites/sfx/sparkle%1
+	174	185	176	186	/sprites/sfx/sparkle%5
 	428	208	430	209	
 	429	214	431	215	
 	530	189	532	190	
@@ -201,18 +201,18 @@ draw	361	236	377	246	/sprites/646.SMIV/20
 	288	194	290	195	
 		195		196	
 	344	204	346	205	
-	435	225	437	227	/sprites/655.SMIV/4
+	435	225	437	227	/sprites/sfx/sparkle%4
 	531	201	533	203	
 	526	202	528	204	
-	240	198	243	200	/sprites/655.SMIV/3
-	353	237	355	239	/sprites/655.SMIV/2
-	341	209	343	210	/sprites/655.SMIV/5
-	304	201	307	203	/sprites/655.SMIV/3
+	240	198	243	200	/sprites/sfx/sparkle%3
+	353	237	355	239	/sprites/sfx/sparkle%2
+	341	209	343	210	/sprites/sfx/sparkle%5
+	304	201	307	203	/sprites/sfx/sparkle%3
 	345	221	348	223	
 		219		221	
 	458	-1	461	1	
 	459	0	462	2	
-	456	20	458	22	/sprites/655.SMIV/2
+	456	20	458	22	/sprites/sfx/sparkle%2
 line	185	162	194	174	489048
 			200	161	
 	194	174			204020
@@ -526,7 +526,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

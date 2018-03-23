@@ -177,26 +177,26 @@ rect	451	0	452	481	000050
 	128	396	609	397	
 line	468	258	480	267	00ff00
 	672	218	652	217	ffff7f
-draw	194	358	220	384	/sprites/501.SMIV/5
-	603	71	633	96	/sprites/501.SMIV/17
-	120	93	146	119	/sprites/501.SMIV/13
-	495	292	525	319	/sprites/501.SMIV/21
-static	367	267	397	293	ffffff	4	/sprites/501.SMIV/8
-draw	558	331	584	357	/sprites/501.SMIV/5
-	546	107	646	185	/sprites/636.SMIV/15
-	344	220	386	262	/sprites/509.SMIV/4
-	374	149	389	163	/sprites/507.SMIV/6
-		170	379	175	/sprites/513.SMIV/13
-	375	149	382	156	/sprites/513.SMIV/0
-	198	109	213	114	/sprites/528.SMIV/19
-	185	262	200	266	/sprites/528.SMIV/17
-	362	168	377	171	/sprites/528.SMIV/18
-	426	196	445	211	/sprites/547.SMIV/2
+draw	194	358	220	384	/sprites/ish/cruiser%5
+	603	71	633	96	/sprites/ish/cruiser%17
+	120	93	146	119	/sprites/ish/cruiser%13
+	495	292	525	319	/sprites/ish/cruiser%21
+static	367	267	397	293	ffffff	4	/sprites/ish/cruiser%8
+draw	558	331	584	357	/sprites/ish/cruiser%5
+	546	107	646	185	/sprites/uns/etc/bttlship%15
+	344	220	386	262	/sprites/ish/gunship%4
+	374	149	389	163	/sprites/sfx/debris%6
+		170	379	175	/sprites/sfx/crew%13
+	375	149	382	156	/sprites/sfx/crew%0
+	198	109	213	114	/sprites/dev/cm%19
+	185	262	200	266	/sprites/dev/cm%17
+	362	168	377	171	/sprites/dev/cm%18
+	426	196	445	211	/sprites/dev/pp%2
 	421	172	440	187	
-	452	255	463	263	/sprites/503.SMIV/21
-	363	156	382	174	/sprites/517.SMIV/1
-	353	140	399	193	/sprites/504.SMIV/1
-	343	161	353	169	/sprites/504.SMIV/19
+	452	255	463	263	/sprites/dev/fusion%21
+	363	156	382	174	/sprites/sfx/energy%1
+	353	140	399	193	/sprites/sfx/explosion/energy%1
+	343	161	353	169	/sprites/sfx/explosion/energy%19
 line	543	146	528	146	489048
 			535	159	
 	528				204020
@@ -517,7 +517,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		64	48		
 	51		57		72			
 	57		63		0	60		
-draw	18	206	32	224	/sprites/636.SMIV/0
+draw	18	206	32	224	/sprites/uns/etc/bttlship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -581,7 +581,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

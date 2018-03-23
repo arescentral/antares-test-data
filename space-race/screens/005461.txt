@@ -130,34 +130,34 @@ rect	213	0	214	481	000050
 		148		149	
 		296		297	
 		444		445	002850
-draw	324	464	359	478	/sprites/525.SMIV/19
-	355	230	385	251	/sprites/525.SMIV/21
-	29	3	34	7	/sprites/551.SMIV/7
+draw	324	464	359	478	/sprites/ish/carrier%19
+	355	230	385	251	/sprites/ish/carrier%21
+	29	3	34	7	/sprites/gai/fighter%7
 	80	42	85	46	
-	86	138	91	142	/sprites/551.SMIV/8
-	32	31	37	35	/sprites/551.SMIV/6
-	285	85	331	122	/sprites/560.SMIV/16
-	110	43	120	52	/sprites/550.SMIV/10
-	27	59	32	63	/sprites/551.SMIV/7
-	208	129	210	131	/sprites/655.SMIV/2
-	230	139	231	139	/sprites/655.SMIV/0
-	232	142	237	145	/sprites/548.SMIV/1
-	194	112	197	114	/sprites/655.SMIV/3
-	35	380	39	381	/sprites/528.SMIV/17
-	351	224	353	227	/sprites/528.SMIV/10
-	210	420	214	421	/sprites/528.SMIV/19
-	186	104	188	106	/sprites/655.SMIV/4
-	228	126	233	129	/sprites/548.SMIV/1
-	187	89	189	91	/sprites/655.SMIV/4
-	217	118	219	119	/sprites/655.SMIV/1
-	200	99	202	101	/sprites/655.SMIV/2
-	320	223	330	231	/sprites/541.SMIV/15
-	183	86	185	88	/sprites/655.SMIV/4
-	230	128	231	128	/sprites/655.SMIV/0
-	170	75	172	76	/sprites/655.SMIV/5
+	86	138	91	142	/sprites/gai/fighter%8
+	32	31	37	35	/sprites/gai/fighter%6
+	285	85	331	122	/sprites/gai/carrier%16
+	110	43	120	52	/sprites/gai/cruiser%10
+	27	59	32	63	/sprites/gai/fighter%7
+	208	129	210	131	/sprites/sfx/sparkle%2
+	230	139	231	139	/sprites/sfx/sparkle%0
+	232	142	237	145	/sprites/dev/atomic%1
+	194	112	197	114	/sprites/sfx/sparkle%3
+	35	380	39	381	/sprites/dev/cm%17
+	351	224	353	227	/sprites/dev/cm%10
+	210	420	214	421	/sprites/dev/cm%19
+	186	104	188	106	/sprites/sfx/sparkle%4
+	228	126	233	129	/sprites/dev/atomic%1
+	187	89	189	91	/sprites/sfx/sparkle%4
+	217	118	219	119	/sprites/sfx/sparkle%1
+	200	99	202	101	/sprites/sfx/sparkle%2
+	320	223	330	231	/sprites/sfx/explosion/gas%15
+	183	86	185	88	/sprites/sfx/sparkle%4
+	230	128	231	128	/sprites/sfx/sparkle%0
+	170	75	172	76	/sprites/sfx/sparkle%5
 	173		175		
-	195	100	197	102	/sprites/655.SMIV/2
-	216	113	218	114	/sprites/655.SMIV/1
+	195	100	197	102	/sprites/sfx/sparkle%2
+	216	113	218	114	/sprites/sfx/sparkle%1
 dither	200	458	486	475	300000
 crop	204	462	211	473	0	22	000000	/fonts/tactical.png
 	211		218		64	44		
@@ -611,7 +611,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

@@ -166,33 +166,33 @@ line	367	224	367	227	7fff7f
 	355	181	356	184	
 	505	48	502	50	
 	553	64	551	65	
-draw	362	235	374	246	/sprites/652.SMIV/10
-	318	15	333	23	/sprites/587.SMIV/16
-	407	317	429	335	/sprites/524.SMIV/20
-	573	228	577	231	/sprites/512.SMIV/22
-	332	20	336	24	/sprites/651.SMIV/12
-	248	111	252	115	/sprites/651.SMIV/0
-	375	83	379	87	/sprites/651.SMIV/13
-	434	63	439	67	/sprites/651.SMIV/2
-	404	141	409	145	/sprites/651.SMIV/10
-	362	137	368	140	/sprites/651.SMIV/17
-	373	-27	397	12	/sprites/649.SMIV/13
-	355	106	362	117	/sprites/652.SMIV/12
-	454	58	468	68	/sprites/652.SMIV/21
-	285	53	291	57	/sprites/651.SMIV/9
-	394	72	400	75	/sprites/651.SMIV/8
-	491	316	495	319	/sprites/512.SMIV/22
-	333	276	339	279	/sprites/651.SMIV/6
-	355	131	360	135	/sprites/651.SMIV/14
-	303	37	306	40	/sprites/507.SMIV/7
-	327	21	329	22	/sprites/513.SMIV/23
-	389	297	394	300	/sprites/653.SMIV/4
-	378	283	382	287	/sprites/653.SMIV/3
-	412	319	416	321	/sprites/528.SMIV/20
-	370	239	375	242	/sprites/653.SMIV/1
-	379	268	383	272	/sprites/653.SMIV/3
-	368	256	373	259	/sprites/653.SMIV/1
-	351	140	356	144	/sprites/517.SMIV/1
+draw	362	235	374	246	/sprites/uns/gunship%10
+	318	15	333	23	/sprites/uns/transprt%16
+	407	317	429	335	/sprites/can/carrier%20
+	573	228	577	231	/sprites/can/fighter%22
+	332	20	336	24	/sprites/uns/fighter%12
+	248	111	252	115	/sprites/uns/fighter%0
+	375	83	379	87	/sprites/uns/fighter%13
+	434	63	439	67	/sprites/uns/fighter%2
+	404	141	409	145	/sprites/uns/fighter%10
+	362	137	368	140	/sprites/uns/fighter%17
+	373	-27	397	12	/sprites/uns/carrier%13
+	355	106	362	117	/sprites/uns/gunship%12
+	454	58	468	68	/sprites/uns/gunship%21
+	285	53	291	57	/sprites/uns/fighter%9
+	394	72	400	75	/sprites/uns/fighter%8
+	491	316	495	319	/sprites/can/fighter%22
+	333	276	339	279	/sprites/uns/fighter%6
+	355	131	360	135	/sprites/uns/fighter%14
+	303	37	306	40	/sprites/sfx/debris%7
+	327	21	329	22	/sprites/sfx/crew%23
+	389	297	394	300	/sprites/dev/magneto%4
+	378	283	382	287	/sprites/dev/magneto%3
+	412	319	416	321	/sprites/dev/cm%20
+	370	239	375	242	/sprites/dev/magneto%1
+	379	268	383	272	/sprites/dev/magneto%3
+	368	256	373	259	/sprites/dev/magneto%1
+	351	140	356	144	/sprites/sfx/energy%1
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -550,7 +550,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -575,7 +575,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	21	278	29	296	/sprites/649.SMIV/0
+draw	21	278	29	296	/sprites/uns/carrier%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

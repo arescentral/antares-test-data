@@ -141,23 +141,23 @@ rect	135	0	136	481	000050
 		133		134	
 		261		262	002850
 		389		390	000050
-draw	391	203	406	216	/sprites/564.SMIV/0
-	361	236	375	246	/sprites/652.SMIV/3
-	350	151	384	187	/sprites/649.SMIV/10
-	376	200	402	236	/sprites/649.SMIV/1
-	386	238	395	249	/sprites/652.SMIV/1
-	389	234	398	245	/sprites/652.SMIV/0
-	391	207	406	213	/sprites/652.SMIV/6
-	394	258	403	269	/sprites/652.SMIV/0
-	408	247	412	251	/sprites/651.SMIV/1
-	395	243	404	254	/sprites/652.SMIV/0
-	386	168	391	172	/sprites/651.SMIV/10
-	389	206	405	213	/sprites/652.SMIV/7
-	431	205	447	211	/sprites/652.SMIV/18
-	409	243	413	247	/sprites/651.SMIV/1
-	391	201	396	205	/sprites/651.SMIV/10
-	390	204	404	214	/sprites/652.SMIV/9
-	392	192	397	196	/sprites/651.SMIV/10
+draw	391	203	406	216	/sprites/loc/power%0
+	361	236	375	246	/sprites/uns/gunship%3
+	350	151	384	187	/sprites/uns/carrier%10
+	376	200	402	236	/sprites/uns/carrier%1
+	386	238	395	249	/sprites/uns/gunship%1
+	389	234	398	245	/sprites/uns/gunship%0
+	391	207	406	213	/sprites/uns/gunship%6
+	394	258	403	269	/sprites/uns/gunship%0
+	408	247	412	251	/sprites/uns/fighter%1
+	395	243	404	254	/sprites/uns/gunship%0
+	386	168	391	172	/sprites/uns/fighter%10
+	389	206	405	213	/sprites/uns/gunship%7
+	431	205	447	211	/sprites/uns/gunship%18
+	409	243	413	247	/sprites/uns/fighter%1
+	391	201	396	205	/sprites/uns/fighter%10
+	390	204	404	214	/sprites/uns/gunship%9
+	392	192	397	196	/sprites/uns/fighter%10
 dither	368	250	423	267	303000
 crop	372	254	379	265	56	44	000000	/fonts/tactical.png
 	379		386		40	77		
@@ -550,7 +550,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -634,7 +634,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	99		105		16	48		
 	105		111		0	60		
 	111		117		8	36		
-draw	16	279	34	295	/sprites/564.SMIV/0
+draw	16	279	34	295	/sprites/loc/power%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

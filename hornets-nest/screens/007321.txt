@@ -136,50 +136,50 @@ line	374	188	373	193	ffff7f
 	370	219	369	223	
 	368	238	367	240	
 	453	143	454	142	007fff
-draw	279	264	301	283	/sprites/525.SMIV/2
-	491	234	509	255	/sprites/525.SMIV/23
-	362	235	374	246	/sprites/646.SMIV/0
-	492	28	503	39	/sprites/646.SMIV/12
-	328	182	340	193	/sprites/646.SMIV/13
-static	367	116	399	146	7878f0	70	/sprites/576.SMIV/20
-draw	448	137	455	145	/sprites/578.SMIV/11
-	323	156	336	169	/sprites/579.SMIV/10
-	428	145	432	148	/sprites/577.SMIV/6
-	586	275	590	278	/sprites/510.SMIV/1
-	295	169	299	172	/sprites/577.SMIV/5
-	264	38	268	41	/sprites/510.SMIV/11
-	565	300	569	303	/sprites/510.SMIV/2
-	345	75	348	78	/sprites/507.SMIV/7
-	443	175	444	177	/sprites/513.SMIV/2
-	91	366	92	367	/sprites/513.SMIV/17
-	297	310	301	313	/sprites/510.SMIV/11
-	365	97	369	100	/sprites/507.SMIV/6
-	297	143	304	151	/sprites/578.SMIV/11
-	310	93	313	96	/sprites/507.SMIV/11
-	262	45	266	48	/sprites/507.SMIV/10
-	387	87	397	95	/sprites/578.SMIV/8
-	312	0	315	3	/sprites/507.SMIV/11
-	279	193	283	196	/sprites/577.SMIV/21
-	518	62	526	70	/sprites/578.SMIV/1
-	511	66	517	71	/sprites/522.SMIV/0
-	365	233	372	238	/sprites/522.SMIV/2
-	368	189	374	195	/sprites/522.SMIV/5
-	497	35	499	38	/sprites/528.SMIV/10
-		240		243	/sprites/528.SMIV/23
-	486	216	495	222	/sprites/541.SMIV/19
-	386	161	390	165	/sprites/554.SMIV/7
-	490	220	494	224	/sprites/547.SMIV/3
-	392	155	395	158	/sprites/554.SMIV/3
-	484	223	488	227	/sprites/547.SMIV/0
-	450	142	457	146	/sprites/580.SMIV/1
-	392	151	399	156	/sprites/522.SMIV/2
+draw	279	264	301	283	/sprites/ish/carrier%2
+	491	234	509	255	/sprites/ish/carrier%23
+	362	235	374	246	/sprites/ish/hvd%0
+	492	28	503	39	/sprites/ish/hvd%12
+	328	182	340	193	/sprites/ish/hvd%13
+static	367	116	399	146	7878f0	70	/sprites/aud/carrier%20
+draw	448	137	455	145	/sprites/aud/cruiser%11
+	323	156	336	169	/sprites/aud/gunship%10
+	428	145	432	148	/sprites/aud/fighter%6
+	586	275	590	278	/sprites/ish/fighter%1
+	295	169	299	172	/sprites/aud/fighter%5
+	264	38	268	41	/sprites/ish/fighter%11
+	565	300	569	303	/sprites/ish/fighter%2
+	345	75	348	78	/sprites/sfx/debris%7
+	443	175	444	177	/sprites/sfx/crew%2
+	91	366	92	367	/sprites/sfx/crew%17
+	297	310	301	313	/sprites/ish/fighter%11
+	365	97	369	100	/sprites/sfx/debris%6
+	297	143	304	151	/sprites/aud/cruiser%11
+	310	93	313	96	/sprites/sfx/debris%11
+	262	45	266	48	/sprites/sfx/debris%10
+	387	87	397	95	/sprites/aud/cruiser%8
+	312	0	315	3	/sprites/sfx/debris%11
+	279	193	283	196	/sprites/aud/fighter%21
+	518	62	526	70	/sprites/aud/cruiser%1
+	511	66	517	71	/sprites/dev/fullerene%0
+	365	233	372	238	/sprites/dev/fullerene%2
+	368	189	374	195	/sprites/dev/fullerene%5
+	497	35	499	38	/sprites/dev/cm%10
+		240		243	/sprites/dev/cm%23
+	486	216	495	222	/sprites/sfx/explosion/gas%19
+	386	161	390	165	/sprites/sfx/explosion/large-hit%7
+	490	220	494	224	/sprites/dev/pp%3
+	392	155	395	158	/sprites/sfx/explosion/large-hit%3
+	484	223	488	227	/sprites/dev/pp%0
+	450	142	457	146	/sprites/dev/inasa%1
+	392	151	399	156	/sprites/dev/fullerene%2
 	264	269	271	274	
-	178	157	182	158	/sprites/528.SMIV/19
-	458	139	462	143	/sprites/547.SMIV/3
-	452	143	457	146	/sprites/547.SMIV/1
-	306	193	311	197	/sprites/547.SMIV/2
-	307	192		196	/sprites/547.SMIV/0
-	274	145	276	148	/sprites/528.SMIV/0
+	178	157	182	158	/sprites/dev/cm%19
+	458	139	462	143	/sprites/dev/pp%3
+	452	143	457	146	/sprites/dev/pp%1
+	306	193	311	197	/sprites/dev/pp%2
+	307	192		196	/sprites/dev/pp%0
+	274	145	276	148	/sprites/dev/cm%0
 dither	200	402	500	419	300000
 crop	204	406	211	417	0	22	000000	/fonts/tactical.png
 	211		218		64	44		
@@ -967,7 +967,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -1047,7 +1047,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

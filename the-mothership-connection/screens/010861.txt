@@ -130,26 +130,26 @@ rect	249	0	250	481	000050
 		198		199	002850
 		326		327	000050
 		454		455	
-draw	363	237	373	244	/sprites/521.SMIV/4
-	528	362	532	365	/sprites/512.SMIV/17
-	514	249	538	264	/sprites/524.SMIV/18
-	616	212	632	234	/sprites/524.SMIV/23
-	628	387	652	407	/sprites/524.SMIV/16
-	477	188	499	209	/sprites/524.SMIV/15
-	499	381	521	399	/sprites/524.SMIV/20
-static	463	187	477	210	f0f078	41	/sprites/524.SMIV/11
-	546	266	552	275	00000000	254	/sprites/523.SMIV/14
-	495	368	503	374	f0f078	110	/sprites/523.SMIV/20
-draw	452	238	461	245	/sprites/541.SMIV/15
-	373	235	379	240	/sprites/584.SMIV/2
-	444	223	453	231	/sprites/541.SMIV/10
-	525	255	529	256	/sprites/528.SMIV/19
-	406	267	410	269	/sprites/528.SMIV/20
-	473	203	477	204	/sprites/528.SMIV/17
-	421	218	427	223	/sprites/584.SMIV/3
-	446	197	454	204	/sprites/541.SMIV/6
-	454	204	459	207	/sprites/541.SMIV/1
-	433	291	441	296	/sprites/541.SMIV/21
+draw	363	237	373	244	/sprites/ish/hvc%4
+	528	362	532	365	/sprites/can/fighter%17
+	514	249	538	264	/sprites/can/carrier%18
+	616	212	632	234	/sprites/can/carrier%23
+	628	387	652	407	/sprites/can/carrier%16
+	477	188	499	209	/sprites/can/carrier%15
+	499	381	521	399	/sprites/can/carrier%20
+static	463	187	477	210	f0f078	41	/sprites/can/carrier%11
+	546	266	552	275	00000000	254	/sprites/can/hvc%14
+	495	368	503	374	f0f078	110	/sprites/can/hvc%20
+draw	452	238	461	245	/sprites/sfx/explosion/gas%15
+	373	235	379	240	/sprites/dev/onas%2
+	444	223	453	231	/sprites/sfx/explosion/gas%10
+	525	255	529	256	/sprites/dev/cm%19
+	406	267	410	269	/sprites/dev/cm%20
+	473	203	477	204	/sprites/dev/cm%17
+	421	218	427	223	/sprites/dev/onas%3
+	446	197	454	204	/sprites/sfx/explosion/gas%6
+	454	204	459	207	/sprites/sfx/explosion/gas%1
+	433	291	441	296	/sprites/sfx/explosion/gas%21
 line	539	138	524	138	489048
 			532	151	
 	524				204020

@@ -135,18 +135,18 @@ line	270	503	273	502	7fff7f
 	231	515	234	514	
 	314	501	318	500	
 	222	538	221	533	
-draw	437	302	469	334	/sprites/1023.SMIV/0
-	296	289	308	300	/sprites/652.SMIV/14
-	365	235	374	246	/sprites/652.SMIV/13
-	276	282	330	295	/sprites/649.SMIV/18
-	306	320	322	327	/sprites/652.SMIV/17
-	229	309	238	320	/sprites/652.SMIV/11
-	391	422	407	429	/sprites/652.SMIV/17
-	378	285	392	295	/sprites/652.SMIV/21
-	365	424	377	435	/sprites/652.SMIV/14
-	198	454	205	465	/sprites/652.SMIV/12
-	444	6	446	7	/sprites/513.SMIV/0
-	202	475	206	479	/sprites/653.SMIV/3
+draw	437	302	469	334	/sprites/loc/planets/aqua-minerale%0
+	296	289	308	300	/sprites/uns/gunship%14
+	365	235	374	246	/sprites/uns/gunship%13
+	276	282	330	295	/sprites/uns/carrier%18
+	306	320	322	327	/sprites/uns/gunship%17
+	229	309	238	320	/sprites/uns/gunship%11
+	391	422	407	429	/sprites/uns/gunship%17
+	378	285	392	295	/sprites/uns/gunship%21
+	365	424	377	435	/sprites/uns/gunship%14
+	198	454	205	465	/sprites/uns/gunship%12
+	444	6	446	7	/sprites/sfx/crew%0
+	202	475	206	479	/sprites/dev/magneto%3
 dither	370	439	425	456	303000
 crop	374	443	381	454	56	44	000000	/fonts/tactical.png
 	381		388		40	77		
@@ -457,7 +457,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -521,7 +521,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	278	32	296	/sprites/652.SMIV/0
+draw	18	278	32	296	/sprites/uns/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

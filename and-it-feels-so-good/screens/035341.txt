@@ -183,24 +183,24 @@ rect	221	0	222	481	000050
 		412		413	002850
 line	355	256	356	253	ffff7f
 	367	241	367	239	
-draw	137	418	169	450	/sprites/1031.SMIV/0
-	362	234	376	245	/sprites/646.SMIV/14
-	114	466	124	474	/sprites/582.SMIV/3
-	184	408	190	417	/sprites/582.SMIV/11
-	172	415	184	420	/sprites/582.SMIV/5
-	142	453	148	461	/sprites/650.SMIV/1
-	552	155	562	161	/sprites/650.SMIV/16
-static	347	277	361	287	7878f0	99	/sprites/579.SMIV/19
-draw	152	404	164	414	/sprites/509.SMIV/9
-	175	425	183	431	/sprites/501.SMIV/7
-	147	417	158	427	/sprites/509.SMIV/11
-	85	465	96	476	/sprites/509.SMIV/4
-	200	433	222	452	/sprites/525.SMIV/2
-	362	286	366	289	/sprites/510.SMIV/14
-	347	282	349	283	/sprites/504.SMIV/18
-	279	367	282	370	/sprites/528.SMIV/2
-	355	280	357	282	/sprites/504.SMIV/19
-	212	440	215	443	/sprites/528.SMIV/2
+draw	137	418	169	450	/sprites/loc/planets/marshmellow%0
+	362	234	376	245	/sprites/ish/hvd%14
+	114	466	124	474	/sprites/ele/cruiser%3
+	184	408	190	417	/sprites/ele/cruiser%11
+	172	415	184	420	/sprites/ele/cruiser%5
+	142	453	148	461	/sprites/uns/cruiser%1
+	552	155	562	161	/sprites/uns/cruiser%16
+static	347	277	361	287	7878f0	99	/sprites/aud/gunship%19
+draw	152	404	164	414	/sprites/ish/gunship%9
+	175	425	183	431	/sprites/ish/cruiser%7
+	147	417	158	427	/sprites/ish/gunship%11
+	85	465	96	476	/sprites/ish/gunship%4
+	200	433	222	452	/sprites/ish/carrier%2
+	362	286	366	289	/sprites/ish/fighter%14
+	347	282	349	283	/sprites/sfx/explosion/energy%18
+	279	367	282	370	/sprites/dev/cm%2
+	355	280	357	282	/sprites/sfx/explosion/energy%19
+	212	440	215	443	/sprites/dev/cm%2
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -622,7 +622,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -707,7 +707,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -147,18 +147,18 @@ rect	299	0	300	481	000050
 	128	102	609	103	002850
 line	484	-70	482	-55	00ff00
 	358	225	362	240	
-draw	285	8	321	41	/sprites/550.SMIV/15
-static	354	228	386	253	ffffff	8	/sprites/501.SMIV/0
-	532	267	548	286	f0eac3		/sprites/551.SMIV/13
-	629	-52	797	60	f0f078	10	/sprites/560.SMIV/17
-draw	588	313	608	329	/sprites/551.SMIV/19
-	294	376	310	395	/sprites/548.SMIV/3
-	325	267	337	277	/sprites/655.SMIV/3
-	307	345	315	351	/sprites/655.SMIV/1
+draw	285	8	321	41	/sprites/gai/cruiser%15
+static	354	228	386	253	ffffff	8	/sprites/ish/cruiser%0
+	532	267	548	286	f0eac3		/sprites/gai/fighter%13
+	629	-52	797	60	f0f078	10	/sprites/gai/carrier%17
+draw	588	313	608	329	/sprites/gai/fighter%19
+	294	376	310	395	/sprites/dev/atomic%3
+	325	267	337	277	/sprites/sfx/sparkle%3
+	307	345	315	351	/sprites/sfx/sparkle%1
 		371		377	
-	305	333	313	341	/sprites/655.SMIV/2
-	415	89	423	99	/sprites/503.SMIV/1
-	361	246	369	252	/sprites/655.SMIV/5
+	305	333	313	341	/sprites/sfx/sparkle%2
+	415	89	423	99	/sprites/dev/fusion%1
+	361	246	369	252	/sprites/sfx/sparkle%5
 line	344	42	338	56	489048
 			353	54	
 	338	56			204020
@@ -449,7 +449,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -522,7 +522,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1010.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/yellow-cookie%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

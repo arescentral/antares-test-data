@@ -132,31 +132,31 @@ line	416	160	421	161	ffff7f
 	517	-46	516	-46	007fff
 	449	168	452	168	ffff7f
 	364	181	371	180	
-draw	478	160	499	172	/sprites/646.SMIV/19
-	495	309	516	336	/sprites/525.SMIV/0
-	356	232	378	245	/sprites/646.SMIV/8
-	529	33	547	48	/sprites/646.SMIV/10
-static	449	165	470	177	ffffff	51	/sprites/646.SMIV/19
-draw	515	99	528	109	/sprites/578.SMIV/16
-	134	103	135	105	/sprites/513.SMIV/3
-	415	185	420	189	/sprites/577.SMIV/11
-	614	378	615	380	/sprites/513.SMIV/2
-	453	165	458	170	/sprites/554.SMIV/5
-	335	-4	344	5	/sprites/522.SMIV/1
-	502	127	513	134	/sprites/541.SMIV/19
-	492	202	495	205	/sprites/528.SMIV/22
-	421	154	430	161	/sprites/522.SMIV/2
-	603	420	609	426	/sprites/517.SMIV/1
-	581	379	584	383	/sprites/583.SMIV/22
-	310	237	319	243	/sprites/522.SMIV/6
-	388	93	391	96	/sprites/528.SMIV/21
-	424	181	429	182	/sprites/528.SMIV/17
-	583	392	589	400	/sprites/580.SMIV/0
-	498	133	509	141	/sprites/541.SMIV/18
-	572	316	581	323	/sprites/580.SMIV/2
-	597	412	602	417	/sprites/504.SMIV/5
-	356	171	365	180	/sprites/522.SMIV/1
-	440	128	489	163	/sprites/504.SMIV/15
+draw	478	160	499	172	/sprites/ish/hvd%19
+	495	309	516	336	/sprites/ish/carrier%0
+	356	232	378	245	/sprites/ish/hvd%8
+	529	33	547	48	/sprites/ish/hvd%10
+static	449	165	470	177	ffffff	51	/sprites/ish/hvd%19
+draw	515	99	528	109	/sprites/aud/cruiser%16
+	134	103	135	105	/sprites/sfx/crew%3
+	415	185	420	189	/sprites/aud/fighter%11
+	614	378	615	380	/sprites/sfx/crew%2
+	453	165	458	170	/sprites/sfx/explosion/large-hit%5
+	335	-4	344	5	/sprites/dev/fullerene%1
+	502	127	513	134	/sprites/sfx/explosion/gas%19
+	492	202	495	205	/sprites/dev/cm%22
+	421	154	430	161	/sprites/dev/fullerene%2
+	603	420	609	426	/sprites/sfx/energy%1
+	581	379	584	383	/sprites/dev/amissile%22
+	310	237	319	243	/sprites/dev/fullerene%6
+	388	93	391	96	/sprites/dev/cm%21
+	424	181	429	182	/sprites/dev/cm%17
+	583	392	589	400	/sprites/dev/inasa%0
+	498	133	509	141	/sprites/sfx/explosion/gas%18
+	572	316	581	323	/sprites/dev/inasa%2
+	597	412	602	417	/sprites/sfx/explosion/energy%5
+	356	171	365	180	/sprites/dev/fullerene%1
+	440	128	489	163	/sprites/sfx/explosion/energy%15
 dither	200	397	444	414	300000
 crop	204	401	211	412	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -928,7 +928,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -1008,7 +1008,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16	60		
 	51		57		24	48		
 	57		63		64			
-draw	16	280	34	293	/sprites/585.SMIV/0
+draw	16	280	34	293	/sprites/ish/etc/research%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

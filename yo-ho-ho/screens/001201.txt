@@ -125,13 +125,13 @@ point	255	60	808080
 	202	359	b0b0b0
 rect	384	0	385	481	000050
 	128	366	609	367	
-draw	22	282	36	296	/sprites/573.SMIV/0
-	-6	388	12	403	/sprites/570.SMIV/0
+draw	22	282	36	296	/sprites/sfx/invisible%0
+	-6	388	12	403	/sprites/loc/jump/node%0
 	119	275	137	290	
-static	338	223	396	254	ffffff	55	/sprites/646.SMIV/6
-draw	101	305	130	336	/sprites/550.SMIV/5
-	457	105	467	114	/sprites/528.SMIV/15
-	251	239	280	266	/sprites/541.SMIV/5
+static	338	223	396	254	ffffff	55	/sprites/ish/hvd%6
+draw	101	305	130	336	/sprites/gai/cruiser%5
+	457	105	467	114	/sprites/dev/cm%15
+	251	239	280	266	/sprites/sfx/explosion/gas%5
 line	565	219	551	213	489048
 			553	228	
 	551	213			204020

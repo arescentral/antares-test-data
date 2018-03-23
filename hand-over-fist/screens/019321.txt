@@ -152,20 +152,20 @@ line	344	103	346	114	ffff7f
 	562	56	560	46	00ff00
 	358	236	360	239	ffff7f
 	351	146	354	155	00ff00
-draw	200	78	282	160	/sprites/1004.SMIV/0
-	542	11	560	27	/sprites/501.SMIV/12
-static	554	96	564	124	00000000	53	/sprites/502.SMIV/12
-draw	507	142	527	158	/sprites/501.SMIV/7
-	354	228	382	250	/sprites/509.SMIV/0
-	343	31	355	42	/sprites/529.SMIV/10
-	420	195	445	220	/sprites/509.SMIV/6
-	376	42	396	59	/sprites/501.SMIV/19
-	241	174	248	181	/sprites/512.SMIV/12
-	603	104	623	122	/sprites/501.SMIV/21
-	284	3	304	21	/sprites/501.SMIV/10
-	571	48	576	54	/sprites/503.SMIV/22
-	551	33	556	39	/sprites/503.SMIV/11
-	595	202	602	208	/sprites/508.SMIV/3
+draw	200	78	282	160	/sprites/loc/planets/graysplotch%0
+	542	11	560	27	/sprites/ish/cruiser%12
+static	554	96	564	124	00000000	53	/sprites/can/cruiser%12
+draw	507	142	527	158	/sprites/ish/cruiser%7
+	354	228	382	250	/sprites/ish/gunship%0
+	343	31	355	42	/sprites/can/defdrone%10
+	420	195	445	220	/sprites/ish/gunship%6
+	376	42	396	59	/sprites/ish/cruiser%19
+	241	174	248	181	/sprites/can/fighter%12
+	603	104	623	122	/sprites/ish/cruiser%21
+	284	3	304	21	/sprites/ish/cruiser%10
+	571	48	576	54	/sprites/dev/fusion%22
+	551	33	556	39	/sprites/dev/fusion%11
+	595	202	602	208	/sprites/dev/anti%3
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		
@@ -509,7 +509,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/515.SMIV/0
+draw	19	206	30	224	/sprites/ish/transprt%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -563,7 +563,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	16	280	34	294	/sprites/509.SMIV/0
+draw	16	280	34	294	/sprites/ish/gunship%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

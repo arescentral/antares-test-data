@@ -125,10 +125,10 @@ point	139	22	808080
 	508	305	
 rect	139	0	140	481	000050
 	128	297	609	298	
-draw	332	219	400	255	/sprites/646.SMIV/7
-	20	236	56	269	/sprites/550.SMIV/9
-	4	156	36	178	/sprites/541.SMIV/21
-	289	169	297	183	/sprites/528.SMIV/12
+draw	332	219	400	255	/sprites/ish/hvd%7
+	20	236	56	269	/sprites/gai/cruiser%9
+	4	156	36	178	/sprites/sfx/explosion/gas%21
+	289	169	297	183	/sprites/dev/cm%12
 line	564	274	552	264	489048
 			550	279	
 	552	264			204020

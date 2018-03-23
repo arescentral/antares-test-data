@@ -123,9 +123,9 @@ point	586	448	d0d0d0
 	548	128	808080
 	514	187	b0b0b0
 	530	403	d0d0d0
-draw	346	222	386	248	/sprites/521.SMIV/7
-	216	42	312	140	/sprites/590.SMIV/10
-	217	323	249	344	/sprites/541.SMIV/22
+draw	346	222	386	248	/sprites/ish/hvc%7
+	216	42	312	140	/sprites/ast/nasty%10
+	217	323	249	344	/sprites/sfx/explosion/gas%22
 	0	-144	128	624	/interfaces/instruments/left.png
 	608		640		/interfaces/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png

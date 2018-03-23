@@ -131,12 +131,12 @@ rect	201	0	202	481	000050
 		175		176	
 		303		304	002850
 		431		432	000050
-draw	366	237	375	246	/sprites/521.SMIV/22
-	628	12	630	13	/sprites/513.SMIV/10
-	549	173	551	174	/sprites/513.SMIV/12
-	511	40	512	41	/sprites/513.SMIV/13
-	460	120	462	123	/sprites/528.SMIV/14
-	467	11	469	14	/sprites/528.SMIV/13
+draw	366	237	375	246	/sprites/ish/hvc%22
+	628	12	630	13	/sprites/sfx/crew%10
+	549	173	551	174	/sprites/sfx/crew%12
+	511	40	512	41	/sprites/sfx/crew%13
+	460	120	462	123	/sprites/dev/cm%14
+	467	11	469	14	/sprites/dev/cm%13
 	459	53	461	56	
 line	272	66	272	81	489048
 			285	74	

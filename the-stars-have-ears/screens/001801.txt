@@ -127,9 +127,9 @@ rect	260	0	261	481	000050
 	568		569		
 	128	111	609	112	
 		419		420	
-draw	355	230	376	251	/sprites/521.SMIV/2
-	313	80	337	95	/sprites/550.SMIV/1
-	340	145	344	152	/sprites/528.SMIV/23
+draw	355	230	376	251	/sprites/ish/hvc%2
+	313	80	337	95	/sprites/gai/cruiser%1
+	340	145	344	152	/sprites/dev/cm%23
 line	457	61	444	69	489048
 			457	76	
 	444	69			204020
@@ -401,7 +401,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		64	72		
 	75		81		0	24		
 	81		87		8	36		
-draw	16	278	33	296	/sprites/552.SMIV/0
+draw	16	278	33	296	/sprites/loc/relay%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

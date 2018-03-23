@@ -131,32 +131,32 @@ rect	188	0	189	481	000050
 		182		183	000050
 		310		311	
 		438		439	
-draw	364	237	374	244	/sprites/521.SMIV/18
-	130	377	143	389	/sprites/543.SMIV/7
-	136		138	379	/sprites/589.SMIV/0
-	348	247	361	259	/sprites/543.SMIV/4
-	273	464	286	477	/sprites/543.SMIV/13
-	71	29	83	41	/sprites/543.SMIV/11
-	76	36	79	38	/sprites/589.SMIV/1
-	338	288	350	300	/sprites/546.SMIV/1
-	375	274	388	287	/sprites/546.SMIV/21
-	360	279	371	291	/sprites/546.SMIV/23
-	353	260	358	263	/sprites/548.SMIV/1
-	346	255	349	258	/sprites/554.SMIV/4
-	374	268	379	271	/sprites/548.SMIV/4
-	355	251	357	253	/sprites/554.SMIV/2
-		257		259	/sprites/554.SMIV/1
-	357	258	361	262	/sprites/554.SMIV/7
-	350	255	353	259	/sprites/554.SMIV/10
-	352		356		/sprites/554.SMIV/5
-	361	258	366	261	/sprites/548.SMIV/1
+draw	364	237	374	244	/sprites/ish/hvc%18
+	130	377	143	389	/sprites/ast/regular/big%7
+	136		138	379	/sprites/zrb/base%0
+	348	247	361	259	/sprites/ast/regular/big%4
+	273	464	286	477	/sprites/ast/regular/big%13
+	71	29	83	41	/sprites/ast/regular/big%11
+	76	36	79	38	/sprites/zrb/base%1
+	338	288	350	300	/sprites/ish/etc/astrominer%1
+	375	274	388	287	/sprites/ish/etc/astrominer%21
+	360	279	371	291	/sprites/ish/etc/astrominer%23
+	353	260	358	263	/sprites/dev/atomic%1
+	346	255	349	258	/sprites/sfx/explosion/large-hit%4
+	374	268	379	271	/sprites/dev/atomic%4
+	355	251	357	253	/sprites/sfx/explosion/large-hit%2
+		257		259	/sprites/sfx/explosion/large-hit%1
+	357	258	361	262	/sprites/sfx/explosion/large-hit%7
+	350	255	353	259	/sprites/sfx/explosion/large-hit%10
+	352		356		/sprites/sfx/explosion/large-hit%5
+	361	258	366	261	/sprites/dev/atomic%1
 	344	267	349	270	
-	360	280	364	284	/sprites/548.SMIV/0
-	357	252	361	256	/sprites/554.SMIV/8
+	360	280	364	284	/sprites/dev/atomic%0
+	357	252	361	256	/sprites/sfx/explosion/large-hit%8
 	352	256	356	260	
-	347	289	351	293	/sprites/548.SMIV/0
-	359	254	363	258	/sprites/554.SMIV/5
-	352	256	354		/sprites/554.SMIV/2
+	347	289	351	293	/sprites/dev/atomic%0
+	359	254	363	258	/sprites/sfx/explosion/large-hit%5
+	352	256	354		/sprites/sfx/explosion/large-hit%2
 line	169	246	183	253	489048
 			182	238	
 	183	253			204020

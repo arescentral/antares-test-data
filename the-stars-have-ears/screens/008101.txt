@@ -136,13 +136,13 @@ point	516	299	b0b0b0
 rect	454	0	455	481	002850
 	128	247	609	248	000050
 line	397	281	384	272	00ff00
-draw	349	222	379	250	/sprites/521.SMIV/9
-	-25	140	29	185	/sprites/553.SMIV/3
-static	379	279	409	308	f0eac3	102	/sprites/550.SMIV/20
-draw	368	241	378	247	/sprites/503.SMIV/9
-	7	145	24	155	/sprites/548.SMIV/1
-	406	273	413	281	/sprites/554.SMIV/1
-	440	302	446	307	/sprites/504.SMIV/18
+draw	349	222	379	250	/sprites/ish/hvc%9
+	-25	140	29	185	/sprites/gai/gunship%3
+static	379	279	409	308	f0eac3	102	/sprites/gai/cruiser%20
+draw	368	241	378	247	/sprites/dev/fusion%9
+	7	145	24	155	/sprites/dev/atomic%1
+	406	273	413	281	/sprites/sfx/explosion/large-hit%1
+	440	302	446	307	/sprites/sfx/explosion/energy%18
 line	502	385	499	370	489048
 			487	381	
 	499	370			204020

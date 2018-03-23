@@ -189,77 +189,77 @@ line	413	355	414	359	00ff00
 	355	257	358	255	ffff7f
 	368	242	369	241	
 	325	272	329	270	
-static	362	234	376	245	ffffff	98	/sprites/646.SMIV/14
-	412	368	420	376		51	/sprites/521.SMIV/23
-draw	537	428	547	435	/sprites/521.SMIV/6
-	426	151	454	192	/sprites/560.SMIV/11
-	516	129	532	144	/sprites/553.SMIV/15
-	562	293	579	306	/sprites/553.SMIV/16
-	457	286	474	296	/sprites/553.SMIV/19
-	288	289	305	302	/sprites/553.SMIV/16
-	312	306	329	315	/sprites/553.SMIV/18
-	351	202	368	214	/sprites/553.SMIV/4
-	246	291	255	297	/sprites/550.SMIV/12
-	314	239	331	249	/sprites/553.SMIV/5
-static	370	247	386	260	f0eac3	49	/sprites/553.SMIV/3
-draw	482	179	486	183	/sprites/548.SMIV/3
-	506	333	511	337	/sprites/548.SMIV/2
-	371	318	374	320	/sprites/655.SMIV/3
-	250	256	257	263	/sprites/522.SMIV/1
-	321	242	326	244	/sprites/645.SMIV/5
-	335	307	337	309	/sprites/655.SMIV/2
-	315	287	317	288	/sprites/655.SMIV/5
-	364	311	366	313	/sprites/655.SMIV/4
-	324	298	327	300	/sprites/655.SMIV/3
-	357	325	362	329	/sprites/548.SMIV/2
-	327	292	330	294	/sprites/655.SMIV/3
+static	362	234	376	245	ffffff	98	/sprites/ish/hvd%14
+	412	368	420	376		51	/sprites/ish/hvc%23
+draw	537	428	547	435	/sprites/ish/hvc%6
+	426	151	454	192	/sprites/gai/carrier%11
+	516	129	532	144	/sprites/gai/gunship%15
+	562	293	579	306	/sprites/gai/gunship%16
+	457	286	474	296	/sprites/gai/gunship%19
+	288	289	305	302	/sprites/gai/gunship%16
+	312	306	329	315	/sprites/gai/gunship%18
+	351	202	368	214	/sprites/gai/gunship%4
+	246	291	255	297	/sprites/gai/cruiser%12
+	314	239	331	249	/sprites/gai/gunship%5
+static	370	247	386	260	f0eac3	49	/sprites/gai/gunship%3
+draw	482	179	486	183	/sprites/dev/atomic%3
+	506	333	511	337	/sprites/dev/atomic%2
+	371	318	374	320	/sprites/sfx/sparkle%3
+	250	256	257	263	/sprites/dev/fullerene%1
+	321	242	326	244	/sprites/sfx/gunsmoke%5
+	335	307	337	309	/sprites/sfx/sparkle%2
+	315	287	317	288	/sprites/sfx/sparkle%5
+	364	311	366	313	/sprites/sfx/sparkle%4
+	324	298	327	300	/sprites/sfx/sparkle%3
+	357	325	362	329	/sprites/dev/atomic%2
+	327	292	330	294	/sprites/sfx/sparkle%3
 	471	361	474	363	
-	438	386	442	390	/sprites/548.SMIV/0
-	412	362	414	364	/sprites/503.SMIV/23
-	455	372	457	374	/sprites/655.SMIV/2
+	438	386	442	390	/sprites/dev/atomic%0
+	412	362	414	364	/sprites/dev/fusion%23
+	455	372	457	374	/sprites/sfx/sparkle%2
 	459	371	461	373	
 	529	318	531	320	
 	383	335	385	337	
 	379	330	381	332	
 	412	356	414	358	
 		353		355	
-	371	317	374	319	/sprites/655.SMIV/3
+	371	317	374	319	/sprites/sfx/sparkle%3
 	466	358	469	360	
 	542	313	545	315	
 	543	315	546	317	
-	348	319	350	320	/sprites/655.SMIV/1
-	402	335	405	337	/sprites/655.SMIV/3
+	348	319	350	320	/sprites/sfx/sparkle%1
+	402	335	405	337	/sprites/sfx/sparkle%3
 	425	362	428	364	
-	350	318	352	319	/sprites/655.SMIV/1
+	350	318	352	319	/sprites/sfx/sparkle%1
 	449	385	451	386	
-	420	380	422	382	/sprites/655.SMIV/2
-	390	346	391	346	/sprites/655.SMIV/0
-	208	273	215	278	/sprites/522.SMIV/2
-	486	160	488	162	/sprites/655.SMIV/2
-	422	386	424	387	/sprites/655.SMIV/5
+	420	380	422	382	/sprites/sfx/sparkle%2
+	390	346	391	346	/sprites/sfx/sparkle%0
+	208	273	215	278	/sprites/dev/fullerene%2
+	486	160	488	162	/sprites/sfx/sparkle%2
+	422	386	424	387	/sprites/sfx/sparkle%5
 	475	347	477	348	
-	425	362	428	364	/sprites/655.SMIV/3
-	479	351	481	352	/sprites/655.SMIV/5
+	425	362	428	364	/sprites/sfx/sparkle%3
+	479	351	481	352	/sprites/sfx/sparkle%5
 	559	306	561	307	
-	400	321	402	323	/sprites/655.SMIV/4
+	400	321	402	323	/sprites/sfx/sparkle%4
 	430	343	432	345	
-	498	146	501	148	/sprites/655.SMIV/3
-	359	257	362	260	/sprites/554.SMIV/4
-	496	126	498	128	/sprites/655.SMIV/4
-	418	373	427	383	/sprites/554.SMIV/3
-	448	380	450	381	/sprites/655.SMIV/1
+	498	146	501	148	/sprites/sfx/sparkle%3
+	359	257	362	260	/sprites/sfx/explosion/large-hit%4
+	496	126	498	128	/sprites/sfx/sparkle%4
+	418	373	427	383	/sprites/sfx/explosion/large-hit%3
+	448	380	450	381	/sprites/sfx/sparkle%1
 	523	333	525	334	
 	521	330	523	331	
-	392	344	393	344	/sprites/655.SMIV/0
+	392	344	393	344	/sprites/sfx/sparkle%0
 	411	370	412	370	
 	415	369	416	369	
 	490	172	491	172	
-	364	250	366	252	/sprites/554.SMIV/1
-	386	348	388	349	/sprites/504.SMIV/18
-	497	128	499	130	/sprites/655.SMIV/4
-	424	387	437	400	/sprites/554.SMIV/7
-	495	145	498	147	/sprites/655.SMIV/3
-	387	343	393	349	/sprites/554.SMIV/0
+	364	250	366	252	/sprites/sfx/explosion/large-hit%1
+	386	348	388	349	/sprites/sfx/explosion/energy%18
+	497	128	499	130	/sprites/sfx/sparkle%4
+	424	387	437	400	/sprites/sfx/explosion/large-hit%7
+	495	145	498	147	/sprites/sfx/sparkle%3
+	387	343	393	349	/sprites/sfx/explosion/large-hit%0
 	411	365	417	371	
 line	290	423	302	414	489048
 			289	408	
@@ -579,7 +579,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

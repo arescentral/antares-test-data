@@ -162,29 +162,29 @@ rect	157	0	158	481	000050
 		383		384	002850
 line	405	245	400	246	ff7f00
 	538	273	533	273	
-draw	364	237	374	244	/sprites/521.SMIV/6
-	321	406	325	409	/sprites/512.SMIV/1
-	333	398	337	401	/sprites/512.SMIV/21
-	206	442	209	445	/sprites/512.SMIV/6
-static	426	241	444	264	f0f078	45	/sprites/524.SMIV/14
-draw	317	48	331	71	/sprites/524.SMIV/11
-	298	71	320	92	/sprites/524.SMIV/15
-static	393	471	400	478	00000000	254	/sprites/523.SMIV/3
+draw	364	237	374	244	/sprites/ish/hvc%6
+	321	406	325	409	/sprites/can/fighter%1
+	333	398	337	401	/sprites/can/fighter%21
+	206	442	209	445	/sprites/can/fighter%6
+static	426	241	444	264	f0f078	45	/sprites/can/carrier%14
+draw	317	48	331	71	/sprites/can/carrier%11
+	298	71	320	92	/sprites/can/carrier%15
+static	393	471	400	478	00000000	254	/sprites/can/hvc%3
 	337	423	344	430			
-draw	337	261	339	264	/sprites/528.SMIV/0
-	441	404	444	407	/sprites/528.SMIV/22
-	412	251	414	253	/sprites/526.SMIV/0
-	371	267	380	272	/sprites/541.SMIV/20
-	374	255	376	257	/sprites/504.SMIV/19
-	371	256	378	262	/sprites/541.SMIV/3
-	389	269	398	276	/sprites/541.SMIV/12
-	324	84	326	87	/sprites/528.SMIV/11
-	369	275	376	279	/sprites/541.SMIV/24
-	409	250	411	252	/sprites/526.SMIV/0
-	496	289	502	294	/sprites/584.SMIV/3
-	409	250	411	252	/sprites/526.SMIV/0
-	380	242	386	246	/sprites/584.SMIV/1
-	425	255	427	257	/sprites/504.SMIV/19
+draw	337	261	339	264	/sprites/dev/cm%0
+	441	404	444	407	/sprites/dev/cm%22
+	412	251	414	253	/sprites/dev/cluster%0
+	371	267	380	272	/sprites/sfx/explosion/gas%20
+	374	255	376	257	/sprites/sfx/explosion/energy%19
+	371	256	378	262	/sprites/sfx/explosion/gas%3
+	389	269	398	276	/sprites/sfx/explosion/gas%12
+	324	84	326	87	/sprites/dev/cm%11
+	369	275	376	279	/sprites/sfx/explosion/gas%24
+	409	250	411	252	/sprites/dev/cluster%0
+	496	289	502	294	/sprites/dev/onas%3
+	409	250	411	252	/sprites/dev/cluster%0
+	380	242	386	246	/sprites/dev/onas%1
+	425	255	427	257	/sprites/sfx/explosion/energy%19
 line	566	264	554	255	489048
 			552	270	
 	554	255			204020

@@ -154,21 +154,21 @@ rect	210	0	211	481	000050
 line	501	187	498	189	ff7f00
 	450	232	446	234	
 	382	236	378	237	
-draw	364	237	374	244	/sprites/521.SMIV/6
-	394	452	398	455	/sprites/512.SMIV/22
-	428	350	431	353	/sprites/512.SMIV/6
-static	494	216	508	238	f0f078	14	/sprites/524.SMIV/12
-draw	444	245	450	249	/sprites/584.SMIV/1
+draw	364	237	374	244	/sprites/ish/hvc%6
+	394	452	398	455	/sprites/can/fighter%22
+	428	350	431	353	/sprites/can/fighter%6
+static	494	216	508	238	f0f078	14	/sprites/can/carrier%12
+draw	444	245	450	249	/sprites/dev/onas%1
 	380	240	386	244	
-	488	228	493	231	/sprites/541.SMIV/1
-	473	245	481	252	/sprites/541.SMIV/6
-	437	353	442	357	/sprites/517.SMIV/1
+	488	228	493	231	/sprites/sfx/explosion/gas%1
+	473	245	481	252	/sprites/sfx/explosion/gas%6
+	437	353	442	357	/sprites/sfx/energy%1
 	440	349	445	353	
 					
-	436	361	442	366	/sprites/517.SMIV/0
-	468	297	473	301	/sprites/517.SMIV/1
+	436	361	442	366	/sprites/sfx/energy%0
+	468	297	473	301	/sprites/sfx/energy%1
 		295		299	
-	452	328	458	333	/sprites/517.SMIV/0
+	452	328	458	333	/sprites/sfx/energy%0
 	435	356	441	361	
 line	566	216	552	210	489048
 			554	225	

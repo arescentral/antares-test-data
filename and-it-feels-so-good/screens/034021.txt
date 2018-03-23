@@ -131,25 +131,25 @@ rect	195	0	196	481	000050
 		224		225	002850
 		352		353	000050
 line	815	167	813	172	7f7fff
-draw	367	230	399	262	/sprites/1031.SMIV/0
-	362	234	376	245	/sprites/646.SMIV/14
-	372	209		218	/sprites/582.SMIV/12
-	411	377	417	387	/sprites/582.SMIV/13
-	371	313	377	321	/sprites/650.SMIV/13
-	441	367	452	377	/sprites/509.SMIV/13
-	290	432	296	439	/sprites/578.SMIV/12
-	438	385	446	391	/sprites/501.SMIV/17
-	528	431	538	441	/sprites/509.SMIV/18
-	408		412	434	/sprites/507.SMIV/4
-	407	448	411	452	/sprites/507.SMIV/3
-	394	406	396	407	/sprites/513.SMIV/0
-	527	352	529	353	/sprites/513.SMIV/20
-	423	256	424	257	/sprites/513.SMIV/3
-	383	275	413	296	/sprites/504.SMIV/15
-	363	430	369	435	/sprites/517.SMIV/0
-	397	279	404	283	/sprites/541.SMIV/24
-	384	428	408	449	/sprites/504.SMIV/10
-	452	384	459	388	/sprites/541.SMIV/24
+draw	367	230	399	262	/sprites/loc/planets/marshmellow%0
+	362	234	376	245	/sprites/ish/hvd%14
+	372	209		218	/sprites/ele/cruiser%12
+	411	377	417	387	/sprites/ele/cruiser%13
+	371	313	377	321	/sprites/uns/cruiser%13
+	441	367	452	377	/sprites/ish/gunship%13
+	290	432	296	439	/sprites/aud/cruiser%12
+	438	385	446	391	/sprites/ish/cruiser%17
+	528	431	538	441	/sprites/ish/gunship%18
+	408		412	434	/sprites/sfx/debris%4
+	407	448	411	452	/sprites/sfx/debris%3
+	394	406	396	407	/sprites/sfx/crew%0
+	527	352	529	353	/sprites/sfx/crew%20
+	423	256	424	257	/sprites/sfx/crew%3
+	383	275	413	296	/sprites/sfx/explosion/energy%15
+	363	430	369	435	/sprites/sfx/energy%0
+	397	279	404	283	/sprites/sfx/explosion/gas%24
+	384	428	408	449	/sprites/sfx/explosion/energy%10
+	452	384	459	388	/sprites/sfx/explosion/gas%24
 dither	200	463	444	480	300000
 crop	204	467	211	478	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -637,7 +637,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -722,7 +722,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

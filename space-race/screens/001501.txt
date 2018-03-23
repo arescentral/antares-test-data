@@ -153,23 +153,23 @@ rect	214	0	215	481	000050
 	128	395	609	396	
 line	1367	-71	1351	-72	00ff00
 	1233	-54	1218	-51	
-draw	355	227	383	253	/sprites/501.SMIV/6
-	316	48	352	75	/sprites/550.SMIV/12
+draw	355	227	383	253	/sprites/ish/cruiser%6
+	316	48	352	75	/sprites/gai/cruiser%12
 	240	-15	276	12	
-	78	68	142	128	/sprites/553.SMIV/9
-	103	136	123	148	/sprites/548.SMIV/1
-	77	105	85	113	/sprites/655.SMIV/2
+	78	68	142	128	/sprites/gai/gunship%9
+	103	136	123	148	/sprites/dev/atomic%1
+	77	105	85	113	/sprites/sfx/sparkle%2
 	53	80	61	88	
 	37	82	45	90	
-		59	49	69	/sprites/655.SMIV/3
-	89	133	109	149	/sprites/548.SMIV/2
-	3	75	11	83	/sprites/655.SMIV/4
-	77	126	85	132	/sprites/655.SMIV/1
-	62	64	70	70	/sprites/655.SMIV/5
-	105	129	109	131	/sprites/655.SMIV/0
-	47	125	55		/sprites/655.SMIV/1
-	36	43	44	49	/sprites/655.SMIV/5
-	72	113	80	119	/sprites/655.SMIV/1
+		59	49	69	/sprites/sfx/sparkle%3
+	89	133	109	149	/sprites/dev/atomic%2
+	3	75	11	83	/sprites/sfx/sparkle%4
+	77	126	85	132	/sprites/sfx/sparkle%1
+	62	64	70	70	/sprites/sfx/sparkle%5
+	105	129	109	131	/sprites/sfx/sparkle%0
+	47	125	55		/sprites/sfx/sparkle%1
+	36	43	44	49	/sprites/sfx/sparkle%5
+	72	113	80	119	/sprites/sfx/sparkle%1
 dither	200	451	486	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		64	44		
@@ -652,7 +652,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		24	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	16	208	34	222	/sprites/501.SMIV/0
+draw	16	208	34	222	/sprites/ish/cruiser%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -708,7 +708,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	39		45		32	60		
 	45		51		40	48		
 	51		57		16	60		
-draw	17	280	33	293	/sprites/510.SMIV/0
+draw	17	280	33	293	/sprites/ish/fighter%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

@@ -159,15 +159,15 @@ rect	136	0	137	481	002850
 	128	150	609	151	
 		331		332	002850
 line	-482	1909	-482	1901	ff7f00
-draw	359	231	378	247	/sprites/646.SMIV/14
-	122	467	153	494	/sprites/525.SMIV/2
-	235	392	239	396	/sprites/566.SMIV/14
-	275	336	279	339	/sprites/528.SMIV/15
-	130	477	144	489	/sprites/519.SMIV/1
-	139	475	146	480	/sprites/547.SMIV/2
-		397	148	405	/sprites/522.SMIV/2
-	197	367	205	374	/sprites/522.SMIV/3
-	139	474	146	478	/sprites/547.SMIV/4
+draw	359	231	378	247	/sprites/ish/hvd%14
+	122	467	153	494	/sprites/ish/carrier%2
+	235	392	239	396	/sprites/sal/fighter%14
+	275	336	279	339	/sprites/dev/cm%15
+	130	477	144	489	/sprites/sfx/warp%1
+	139	475	146	480	/sprites/dev/pp%2
+		397	148	405	/sprites/dev/fullerene%2
+	197	367	205	374	/sprites/dev/fullerene%3
+	139	474	146	478	/sprites/dev/pp%4
 dither	367	249	478	266	303000
 crop	371	253	378	264	64	44	000000	/fonts/tactical.png
 	378		385		40	66		
@@ -591,7 +591,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -675,7 +675,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	87		93		72	72		
 	93		99		120			
 	99		105		112			
-draw	16	281	34	293	/sprites/572.SMIV/0
+draw	16	281	34	293	/sprites/sal/etc/battlestation%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

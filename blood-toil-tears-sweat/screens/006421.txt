@@ -133,58 +133,58 @@ line	120	210	120	205	7fff7f
 	125	232	124	236	
 	113	276	113	280	
 	152	193	150	197	
-draw	112	170	127	178	/sprites/652.SMIV/8
-	255	187	261	190	/sprites/651.SMIV/18
-	37	202	42	206	/sprites/651.SMIV/2
-	183	251	187	254	/sprites/512.SMIV/2
-	369	132	380	144	/sprites/579.SMIV/11
-	368	240	369	241	/sprites/513.SMIV/17
-	206	231	216	239	/sprites/578.SMIV/15
-	91	278	141	303	/sprites/649.SMIV/20
-	173	257	179	260	/sprites/651.SMIV/8
-	397	203	401	207	/sprites/507.SMIV/3
-	379	198	383	201	/sprites/507.SMIV/6
-	386	201	390	205	/sprites/507.SMIV/5
-	396	177	400	181	/sprites/507.SMIV/3
-	410	182	414	186	/sprites/507.SMIV/2
-	182	87	186	91	/sprites/512.SMIV/15
-	390	177	394	180	/sprites/507.SMIV/4
-	405	181	409	185	/sprites/507.SMIV/5
-	404	190	408	194	/sprites/507.SMIV/3
-	400	176	404	180	/sprites/507.SMIV/2
-	110	231	114	235	/sprites/512.SMIV/9
-	387	176	391	180	/sprites/507.SMIV/3
-	391	175	395	179	/sprites/507.SMIV/5
-	394	205	398	208	/sprites/507.SMIV/15
-	388	203	392	206	/sprites/507.SMIV/13
+draw	112	170	127	178	/sprites/uns/gunship%8
+	255	187	261	190	/sprites/uns/fighter%18
+	37	202	42	206	/sprites/uns/fighter%2
+	183	251	187	254	/sprites/can/fighter%2
+	369	132	380	144	/sprites/aud/gunship%11
+	368	240	369	241	/sprites/sfx/crew%17
+	206	231	216	239	/sprites/aud/cruiser%15
+	91	278	141	303	/sprites/uns/carrier%20
+	173	257	179	260	/sprites/uns/fighter%8
+	397	203	401	207	/sprites/sfx/debris%3
+	379	198	383	201	/sprites/sfx/debris%6
+	386	201	390	205	/sprites/sfx/debris%5
+	396	177	400	181	/sprites/sfx/debris%3
+	410	182	414	186	/sprites/sfx/debris%2
+	182	87	186	91	/sprites/can/fighter%15
+	390	177	394	180	/sprites/sfx/debris%4
+	405	181	409	185	/sprites/sfx/debris%5
+	404	190	408	194	/sprites/sfx/debris%3
+	400	176	404	180	/sprites/sfx/debris%2
+	110	231	114	235	/sprites/can/fighter%9
+	387	176	391	180	/sprites/sfx/debris%3
+	391	175	395	179	/sprites/sfx/debris%5
+	394	205	398	208	/sprites/sfx/debris%15
+	388	203	392	206	/sprites/sfx/debris%13
 	401	183	405	186	
-	391	202	395	205	/sprites/507.SMIV/10
-	379	198	383	201	/sprites/507.SMIV/14
-	404		408		/sprites/507.SMIV/10
-	385	187	389	190	/sprites/507.SMIV/15
-	381	189	384	192	/sprites/507.SMIV/11
-	383	190	387	193	/sprites/507.SMIV/14
-	389	201	393	204	/sprites/507.SMIV/15
-	404	197	408	200	/sprites/507.SMIV/9
-	395	191	398	195	/sprites/507.SMIV/19
-			399		/sprites/507.SMIV/18
-			398		/sprites/507.SMIV/19
-		192	399		/sprites/507.SMIV/21
+	391	202	395	205	/sprites/sfx/debris%10
+	379	198	383	201	/sprites/sfx/debris%14
+	404		408		/sprites/sfx/debris%10
+	385	187	389	190	/sprites/sfx/debris%15
+	381	189	384	192	/sprites/sfx/debris%11
+	383	190	387	193	/sprites/sfx/debris%14
+	389	201	393	204	/sprites/sfx/debris%15
+	404	197	408	200	/sprites/sfx/debris%9
+	395	191	398	195	/sprites/sfx/debris%19
+			399		/sprites/sfx/debris%18
+			398		/sprites/sfx/debris%19
+		192	399		/sprites/sfx/debris%21
 					
-		191			/sprites/507.SMIV/18
-			398		/sprites/507.SMIV/19
+		191			/sprites/sfx/debris%18
+			398		/sprites/sfx/debris%19
 					
-		192			/sprites/507.SMIV/20
-			399		/sprites/507.SMIV/21
-			398		/sprites/507.SMIV/20
-	394				/sprites/507.SMIV/22
-	227	232	233	237	/sprites/517.SMIV/0
-	266	243	273	247	/sprites/504.SMIV/16
-	372	317	379	321	/sprites/580.SMIV/4
-	228	207	233	211	/sprites/517.SMIV/1
-	231	203	237	208	/sprites/504.SMIV/10
-	389	193	394	197	/sprites/517.SMIV/1
-	385	183	410	206	/sprites/504.SMIV/4
+		192			/sprites/sfx/debris%20
+			399		/sprites/sfx/debris%21
+			398		/sprites/sfx/debris%20
+	394				/sprites/sfx/debris%22
+	227	232	233	237	/sprites/sfx/energy%0
+	266	243	273	247	/sprites/sfx/explosion/energy%16
+	372	317	379	321	/sprites/dev/inasa%4
+	228	207	233	211	/sprites/sfx/energy%1
+	231	203	237	208	/sprites/sfx/explosion/energy%10
+	389	193	394	197	/sprites/sfx/energy%1
+	385	183	410	206	/sprites/sfx/explosion/energy%4
 dither	200	451	451	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -566,7 +566,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	75		81		0	84		
 	81		87		64	72		
 	87		93		8			
-draw	16	206	34	223	/sprites/1001.SMIV/0
+draw	16	206	34	223	/sprites/loc/planets/marslike%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

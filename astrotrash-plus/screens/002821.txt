@@ -125,19 +125,19 @@ point	448	375	b0b0b0
 	592	225	808080
 rect	509	0	510	481	000050
 	128	140	609	141	
-draw	356	223	380	254	/sprites/521.SMIV/12
-	600	59	645	106	/sprites/543.SMIV/13
-static	134	138	175	182	ffffff	88	/sprites/546.SMIV/7
-draw	530	194	575	238	/sprites/546.SMIV/2
-	619	101	630	113	/sprites/554.SMIV/3
-	588	105	605	117	/sprites/548.SMIV/4
-	573	183	586	199	/sprites/548.SMIV/0
-	604	110	617	124	/sprites/554.SMIV/9
-	609	120	624	136	/sprites/554.SMIV/8
-	613	105	621	114	/sprites/554.SMIV/2
-	592	102	605	116	/sprites/554.SMIV/5
-	636	80	643	87	/sprites/554.SMIV/0
-	631	88	644	102	/sprites/554.SMIV/6
+draw	356	223	380	254	/sprites/ish/hvc%12
+	600	59	645	106	/sprites/ast/regular/big%13
+static	134	138	175	182	ffffff	88	/sprites/ish/etc/astrominer%7
+draw	530	194	575	238	/sprites/ish/etc/astrominer%2
+	619	101	630	113	/sprites/sfx/explosion/large-hit%3
+	588	105	605	117	/sprites/dev/atomic%4
+	573	183	586	199	/sprites/dev/atomic%0
+	604	110	617	124	/sprites/sfx/explosion/large-hit%9
+	609	120	624	136	/sprites/sfx/explosion/large-hit%8
+	613	105	621	114	/sprites/sfx/explosion/large-hit%2
+	592	102	605	116	/sprites/sfx/explosion/large-hit%5
+	636	80	643	87	/sprites/sfx/explosion/large-hit%0
+	631	88	644	102	/sprites/sfx/explosion/large-hit%6
 line	387	437	393	423	489048
 			378	425	
 	393	423			204020

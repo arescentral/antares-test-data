@@ -143,14 +143,14 @@ rect	301	0	302	481	000050
 	557		558		
 	128	61	609	62	002850
 		317		318	000050
-draw	340	229	400	254	/sprites/525.SMIV/19
-	280	109	282	112	/sprites/513.SMIV/17
-	287	195	290	197	/sprites/513.SMIV/13
-	75	185	83	193	/sprites/551.SMIV/3
-	353	193	363	199	/sprites/547.SMIV/1
-	346		354	202	/sprites/547.SMIV/3
-	308	101	320	111	/sprites/517.SMIV/0
-	290	88	346	127	/sprites/504.SMIV/16
+draw	340	229	400	254	/sprites/ish/carrier%19
+	280	109	282	112	/sprites/sfx/crew%17
+	287	195	290	197	/sprites/sfx/crew%13
+	75	185	83	193	/sprites/gai/fighter%3
+	353	193	363	199	/sprites/dev/pp%1
+	346		354	202	/sprites/dev/pp%3
+	308	101	320	111	/sprites/sfx/energy%0
+	290	88	346	127	/sprites/sfx/explosion/energy%16
 dither	200	464	444	480	300000
 crop	204	468	211	479	0	22	000000	/fonts/tactical.png
 	211		218		48	44		
@@ -595,7 +595,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		72	48		
 	45		51		40			
 	51		57		16	60		
-draw	18	206	31	224	/sprites/525.SMIV/0
+draw	18	206	31	224	/sprites/ish/carrier%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

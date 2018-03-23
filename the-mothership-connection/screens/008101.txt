@@ -130,10 +130,10 @@ rect	181	0	182	481	002850
 	128	106	609	107	
 		234		235	
 		362		363	002850
-draw	364	236	372	245	/sprites/521.SMIV/1
-	402	98	426	125	/sprites/590.SMIV/12
-	400	100	407	105	/sprites/541.SMIV/2
-	408	123	417	130	/sprites/541.SMIV/12
+draw	364	236	372	245	/sprites/ish/hvc%1
+	402	98	426	125	/sprites/ast/nasty%12
+	400	100	407	105	/sprites/sfx/explosion/gas%2
+	408	123	417	130	/sprites/sfx/explosion/gas%12
 line	412	46	402	57	489048
 			416	61	
 	402	57			204020

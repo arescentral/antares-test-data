@@ -134,17 +134,17 @@ rect	201	0	202	481	000050
 line	409	169	408	171	ff7f00
 	373	226	371	228	
 	502	174	499	175	
-draw	363	237	372	246	/sprites/521.SMIV/2
-	414	103	418	107	/sprites/512.SMIV/10
+draw	363	237	372	246	/sprites/ish/hvc%2
+	414	103	418	107	/sprites/can/fighter%10
 	557	171	561	175	
-	439	369	443	372	/sprites/512.SMIV/20
-	580	144	583	147	/sprites/507.SMIV/7
-	412	169	418	173	/sprites/584.SMIV/4
+	439	369	443	372	/sprites/can/fighter%20
+	580	144	583	147	/sprites/sfx/debris%7
+	412	169	418	173	/sprites/dev/onas%4
 	509	149	515	153	
-	373	225	378	229	/sprites/584.SMIV/0
-	440	150	445	154	/sprites/517.SMIV/1
-	444	151	450	156	/sprites/517.SMIV/0
-	440	150	445	154	/sprites/517.SMIV/1
+	373	225	378	229	/sprites/dev/onas%0
+	440	150	445	154	/sprites/sfx/energy%1
+	444	151	450	156	/sprites/sfx/energy%0
+	440	150	445	154	/sprites/sfx/energy%1
 	443	151	448	155	
 	444		449		
 dither	200	50	346	67	300018

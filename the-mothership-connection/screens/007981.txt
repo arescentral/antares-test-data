@@ -130,18 +130,18 @@ rect	139	0	140	481	002850
 	128	102	609	103	
 		230		231	
 		358		359	002850
-draw	365	236	373	244	/sprites/521.SMIV/0
-	186	-89	266	5	/sprites/604.SMIV/22
-	392	112	416	140	/sprites/590.SMIV/18
-	367	144	373	149	/sprites/584.SMIV/3
-	424	132	433	138	/sprites/541.SMIV/16
-	364	213	370	218	/sprites/584.SMIV/2
-	391	136	399	144	/sprites/541.SMIV/7
-	395	112	402	118	/sprites/541.SMIV/4
-	446	121	452	124	/sprites/541.SMIV/25
-	436	133	444	138	/sprites/541.SMIV/21
-	370	78	376	82	/sprites/584.SMIV/4
-	403	130	412	138	/sprites/541.SMIV/11
+draw	365	236	373	244	/sprites/ish/hvc%0
+	186	-89	266	5	/sprites/can/gateship%22
+	392	112	416	140	/sprites/ast/nasty%18
+	367	144	373	149	/sprites/dev/onas%3
+	424	132	433	138	/sprites/sfx/explosion/gas%16
+	364	213	370	218	/sprites/dev/onas%2
+	391	136	399	144	/sprites/sfx/explosion/gas%7
+	395	112	402	118	/sprites/sfx/explosion/gas%4
+	446	121	452	124	/sprites/sfx/explosion/gas%25
+	436	133	444	138	/sprites/sfx/explosion/gas%21
+	370	78	376	82	/sprites/dev/onas%4
+	403	130	412	138	/sprites/sfx/explosion/gas%11
 line	344	42	338	56	489048
 			353	54	
 	338	56			204020

@@ -126,22 +126,22 @@ point	256	20	d0d0d0
 rect	282	0	283	481	000050
 	128	108	609	109	002850
 		445		446	000050
-draw	390	221	462	295	/sprites/558.SMIV/23
-	462	117	500	139	/sprites/652.SMIV/16
+draw	390	221	462	295	/sprites/sfx/jump%23
+	462	117	500	139	/sprites/uns/gunship%16
 	349	227	387	249	
-	258	278	350	366	/sprites/649.SMIV/2
-	356	331	423	425	/sprites/649.SMIV/1
-	197	387	235	409	/sprites/652.SMIV/4
-	532	122	568	148	/sprites/652.SMIV/15
-	299	158	335	184	/sprites/652.SMIV/9
-static	408	245	446	261	ffffff	1	/sprites/652.SMIV/6
-draw	329	172	367	194	/sprites/652.SMIV/16
-	527	293	550	322	/sprites/652.SMIV/13
-	438	220	476	242	/sprites/652.SMIV/16
-	558	98	594	124	/sprites/652.SMIV/15
-	589	298	627	316	/sprites/652.SMIV/19
-	528	127	564	153	/sprites/652.SMIV/15
-	185	393	210	416	/sprites/519.SMIV/1
+	258	278	350	366	/sprites/uns/carrier%2
+	356	331	423	425	/sprites/uns/carrier%1
+	197	387	235	409	/sprites/uns/gunship%4
+	532	122	568	148	/sprites/uns/gunship%15
+	299	158	335	184	/sprites/uns/gunship%9
+static	408	245	446	261	ffffff	1	/sprites/uns/gunship%6
+draw	329	172	367	194	/sprites/uns/gunship%16
+	527	293	550	322	/sprites/uns/gunship%13
+	438	220	476	242	/sprites/uns/gunship%16
+	558	98	594	124	/sprites/uns/gunship%15
+	589	298	627	316	/sprites/uns/gunship%19
+	528	127	564	153	/sprites/uns/gunship%15
+	185	393	210	416	/sprites/sfx/warp%1
 	300	314	325	337	
 line	189	329	204	329	489048
 			197	316	
@@ -435,7 +435,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	39		45		64	48		
 	45		51		72			
 	51		57		0	60		
-draw	18	206	32	224	/sprites/652.SMIV/0
+draw	18	206	32	224	/sprites/uns/gunship%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

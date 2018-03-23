@@ -127,19 +127,19 @@ rect	155	0	156	481	000050
 	411		412		
 	128	153	609	154	
 		409		410	
-static	359	233	379	247	ffffff	131	/sprites/521.SMIV/6
-draw	234	213	260	238	/sprites/546.SMIV/9
-	209	208	235	233	/sprites/546.SMIV/8
-	265	246	277	256	/sprites/544.SMIV/9
-	475	219	481	223	/sprites/545.SMIV/12
-	272	242	277	247	/sprites/554.SMIV/2
-		238	281		/sprites/554.SMIV/8
-	265	251	273	259	/sprites/554.SMIV/5
-	255	247	264	256	/sprites/554.SMIV/8
-	224	213	234	220	/sprites/548.SMIV/4
-	259	248	264	253	/sprites/554.SMIV/2
-		229	267	238	/sprites/548.SMIV/3
-	253	249	263	257	/sprites/548.SMIV/2
+static	359	233	379	247	ffffff	131	/sprites/ish/hvc%6
+draw	234	213	260	238	/sprites/ish/etc/astrominer%9
+	209	208	235	233	/sprites/ish/etc/astrominer%8
+	265	246	277	256	/sprites/ast/regular/medium%9
+	475	219	481	223	/sprites/ast/regular/small%12
+	272	242	277	247	/sprites/sfx/explosion/large-hit%2
+		238	281		/sprites/sfx/explosion/large-hit%8
+	265	251	273	259	/sprites/sfx/explosion/large-hit%5
+	255	247	264	256	/sprites/sfx/explosion/large-hit%8
+	224	213	234	220	/sprites/dev/atomic%4
+	259	248	264	253	/sprites/sfx/explosion/large-hit%2
+		229	267	238	/sprites/dev/atomic%3
+	253	249	263	257	/sprites/dev/atomic%2
 line	567	253	554	245	489048
 			553	260	
 	554	245			204020

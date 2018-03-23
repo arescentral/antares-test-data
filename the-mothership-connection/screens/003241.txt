@@ -126,14 +126,14 @@ point	361	342	d0d0d0
 rect	267	0	268	481	000050
 	562		563		
 	128	228	609	229	
-draw	355	233	378	251	/sprites/521.SMIV/4
-	482	166	542	224	/sprites/590.SMIV/5
-	363	234	376	243	/sprites/584.SMIV/4
-	440	204	451	215	/sprites/584.SMIV/0
-	530	375	543	383	/sprites/541.SMIV/25
-	518	326	536	338	/sprites/541.SMIV/22
-	504	289	524	302	/sprites/541.SMIV/19
-	482	192	498	204	/sprites/541.SMIV/2
+draw	355	233	378	251	/sprites/ish/hvc%4
+	482	166	542	224	/sprites/ast/nasty%5
+	363	234	376	243	/sprites/dev/onas%4
+	440	204	451	215	/sprites/dev/onas%0
+	530	375	543	383	/sprites/sfx/explosion/gas%25
+	518	326	536	338	/sprites/sfx/explosion/gas%22
+	504	289	524	302	/sprites/sfx/explosion/gas%19
+	482	192	498	204	/sprites/sfx/explosion/gas%2
 line	548	155	533	154	489048
 			539	168	
 	533	154			204020

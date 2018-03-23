@@ -166,49 +166,49 @@ line	543	313	547	314	00ff00
 	340	182	342	187	
 	355	213	356	217	
 	397	73	401	77	007fff
-draw	270	293	286	314	/sprites/525.SMIV/0
-	456	284	482	301	/sprites/525.SMIV/3
-	362	236	378	247	/sprites/646.SMIV/21
-	484	130	500	138	/sprites/646.SMIV/18
-	306	234	322	245	/sprites/646.SMIV/21
-	289	68	323	98	/sprites/576.SMIV/16
-static	443	133	453	140	7878f0	8	/sprites/578.SMIV/20
-	301	195	312	207		88	/sprites/579.SMIV/13
-draw	531	281	535	284	/sprites/510.SMIV/21
-	470	147	474	151	/sprites/577.SMIV/15
-	514	306	523	314	/sprites/578.SMIV/10
-	288	188	292	191	/sprites/577.SMIV/16
-	312	124	322	131	/sprites/578.SMIV/20
-	556	316	560	319	/sprites/510.SMIV/20
-	436	174	437	176	/sprites/513.SMIV/2
-	16	403	17	404	/sprites/513.SMIV/17
-	242	435	246	438	/sprites/510.SMIV/2
-	220	175	224	178	/sprites/577.SMIV/8
-	380	72	382	74	/sprites/504.SMIV/19
-	278	296	280	299	/sprites/528.SMIV/1
-	463	160	467	164	/sprites/554.SMIV/7
-	323	120	330	126	/sprites/522.SMIV/4
-	460	211	462	214	/sprites/528.SMIV/0
-	353	129	360	135	/sprites/522.SMIV/4
-	279	269	283	273	/sprites/547.SMIV/3
-	443	306	450	311	/sprites/522.SMIV/6
-	299	198	301	200	/sprites/554.SMIV/1
-	278	270	283	273	/sprites/547.SMIV/4
-	317	214	319	217	/sprites/528.SMIV/0
-	463	164	467	165	/sprites/528.SMIV/16
-	528	288	533	292	/sprites/547.SMIV/2
-	353	75	360	80	/sprites/522.SMIV/2
-	344	196	351	202	/sprites/522.SMIV/4
-	363	234	369	239	/sprites/522.SMIV/3
-	348	206	352	210	/sprites/547.SMIV/0
-	327	158	333	164	/sprites/522.SMIV/5
-	310	204	313	207	/sprites/554.SMIV/3
-	526	273	530	277	/sprites/547.SMIV/3
-	454	149	456	151	/sprites/504.SMIV/19
-	456	143	459	146	/sprites/554.SMIV/4
-	313	200	320	206	/sprites/541.SMIV/3
-	381	70	383	72	/sprites/554.SMIV/2
-	312	199	314	201	/sprites/504.SMIV/19
+draw	270	293	286	314	/sprites/ish/carrier%0
+	456	284	482	301	/sprites/ish/carrier%3
+	362	236	378	247	/sprites/ish/hvd%21
+	484	130	500	138	/sprites/ish/hvd%18
+	306	234	322	245	/sprites/ish/hvd%21
+	289	68	323	98	/sprites/aud/carrier%16
+static	443	133	453	140	7878f0	8	/sprites/aud/cruiser%20
+	301	195	312	207		88	/sprites/aud/gunship%13
+draw	531	281	535	284	/sprites/ish/fighter%21
+	470	147	474	151	/sprites/aud/fighter%15
+	514	306	523	314	/sprites/aud/cruiser%10
+	288	188	292	191	/sprites/aud/fighter%16
+	312	124	322	131	/sprites/aud/cruiser%20
+	556	316	560	319	/sprites/ish/fighter%20
+	436	174	437	176	/sprites/sfx/crew%2
+	16	403	17	404	/sprites/sfx/crew%17
+	242	435	246	438	/sprites/ish/fighter%2
+	220	175	224	178	/sprites/aud/fighter%8
+	380	72	382	74	/sprites/sfx/explosion/energy%19
+	278	296	280	299	/sprites/dev/cm%1
+	463	160	467	164	/sprites/sfx/explosion/large-hit%7
+	323	120	330	126	/sprites/dev/fullerene%4
+	460	211	462	214	/sprites/dev/cm%0
+	353	129	360	135	/sprites/dev/fullerene%4
+	279	269	283	273	/sprites/dev/pp%3
+	443	306	450	311	/sprites/dev/fullerene%6
+	299	198	301	200	/sprites/sfx/explosion/large-hit%1
+	278	270	283	273	/sprites/dev/pp%4
+	317	214	319	217	/sprites/dev/cm%0
+	463	164	467	165	/sprites/dev/cm%16
+	528	288	533	292	/sprites/dev/pp%2
+	353	75	360	80	/sprites/dev/fullerene%2
+	344	196	351	202	/sprites/dev/fullerene%4
+	363	234	369	239	/sprites/dev/fullerene%3
+	348	206	352	210	/sprites/dev/pp%0
+	327	158	333	164	/sprites/dev/fullerene%5
+	310	204	313	207	/sprites/sfx/explosion/large-hit%3
+	526	273	530	277	/sprites/dev/pp%3
+	454	149	456	151	/sprites/sfx/explosion/energy%19
+	456	143	459	146	/sprites/sfx/explosion/large-hit%4
+	313	200	320	206	/sprites/sfx/explosion/gas%3
+	381	70	383	72	/sprites/sfx/explosion/large-hit%2
+	312	199	314	201	/sprites/sfx/explosion/energy%19
 dither	200	407	500	424	300000
 crop	204	411	211	422	0	22	000000	/fonts/tactical.png
 	211		218		16	55		
@@ -997,7 +997,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	207	34	223	/sprites/646.SMIV/0
+draw	16	207	34	223	/sprites/ish/hvd%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

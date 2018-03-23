@@ -128,13 +128,13 @@ rect	227	0	228	481	000050
 	128	163	609	164	
 		419		420	000050
 line	364	238	365	241	ffff7f
-draw	28	372	36	380	/sprites/573.SMIV/0
-	13	431	23	439	/sprites/570.SMIV/1
-	-9	326	1	334	/sprites/570.SMIV/0
+draw	28	372	36	380	/sprites/sfx/invisible%0
+	13	431	23	439	/sprites/loc/jump/node%1
+	-9	326	1	334	/sprites/loc/jump/node%0
 	81	369	91	377	
-	356	231	388	254	/sprites/646.SMIV/21
-	290	143	308	159	/sprites/550.SMIV/21
-	147	321	167	334	/sprites/550.SMIV/1
+	356	231	388	254	/sprites/ish/hvd%21
+	290	143	308	159	/sprites/gai/cruiser%21
+	147	321	167	334	/sprites/gai/cruiser%1
 line	246	83	248	98	489048
 			260	88	
 	248	98			204020

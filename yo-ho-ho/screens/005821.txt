@@ -130,8 +130,8 @@ rect	190	0	191	481	005000
 		145		146	002850
 		288		289	000050
 		431		432	
-draw	369	97	373	100	/sprites/568.SMIV/6
-	359	234		247	/sprites/646.SMIV/1
+draw	369	97	373	100	/sprites/ele/etc/escape-pod%6
+	359	234		247	/sprites/ish/hvd%1
 line	428	50	417	60	489048
 			431	65	
 	417	60			204020

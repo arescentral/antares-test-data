@@ -143,33 +143,33 @@ rect	178	0	179	481	000050
 line	302	283	306	279	ff7f00
 	365	254	367	249	
 	258	324	262	320	
-draw	366	235	373	244	/sprites/521.SMIV/13
-	403	155	407	158	/sprites/512.SMIV/4
-	439	136	443	140	/sprites/512.SMIV/14
-	411	12	414	15	/sprites/512.SMIV/12
-	397	160	401	164	/sprites/512.SMIV/13
-	130	215	134	218	/sprites/512.SMIV/7
-	393	85	397	89	/sprites/512.SMIV/13
-	578	7	582	10	/sprites/512.SMIV/21
-	197	16	201	19	/sprites/512.SMIV/11
-	532	77	536	80	/sprites/512.SMIV/16
-	445	116	448	119	/sprites/512.SMIV/18
-	290	100	314	115	/sprites/524.SMIV/6
-	251	212	275	229	/sprites/524.SMIV/17
-	288	180	304	202	/sprites/524.SMIV/23
-static	430	121	436	130	00000000	254	/sprites/523.SMIV/10
-draw	411	178	419	183	/sprites/523.SMIV/17
-	391		394	180	/sprites/508.SMIV/2
-	504	277	506	280	/sprites/528.SMIV/10
-	310	271	316	276	/sprites/584.SMIV/2
-	356	124	365	129	/sprites/541.SMIV/20
-	368	109	375	113	/sprites/541.SMIV/24
-	339	119	348	126	/sprites/541.SMIV/15
-	342	146	344	149	/sprites/528.SMIV/11
-	267	303	273	307	/sprites/584.SMIV/4
-	359	250	365	254	/sprites/584.SMIV/1
-	371	222	374	224	/sprites/508.SMIV/0
-	306	207	314	215	/sprites/541.SMIV/7
+draw	366	235	373	244	/sprites/ish/hvc%13
+	403	155	407	158	/sprites/can/fighter%4
+	439	136	443	140	/sprites/can/fighter%14
+	411	12	414	15	/sprites/can/fighter%12
+	397	160	401	164	/sprites/can/fighter%13
+	130	215	134	218	/sprites/can/fighter%7
+	393	85	397	89	/sprites/can/fighter%13
+	578	7	582	10	/sprites/can/fighter%21
+	197	16	201	19	/sprites/can/fighter%11
+	532	77	536	80	/sprites/can/fighter%16
+	445	116	448	119	/sprites/can/fighter%18
+	290	100	314	115	/sprites/can/carrier%6
+	251	212	275	229	/sprites/can/carrier%17
+	288	180	304	202	/sprites/can/carrier%23
+static	430	121	436	130	00000000	254	/sprites/can/hvc%10
+draw	411	178	419	183	/sprites/can/hvc%17
+	391		394	180	/sprites/dev/anti%2
+	504	277	506	280	/sprites/dev/cm%10
+	310	271	316	276	/sprites/dev/onas%2
+	356	124	365	129	/sprites/sfx/explosion/gas%20
+	368	109	375	113	/sprites/sfx/explosion/gas%24
+	339	119	348	126	/sprites/sfx/explosion/gas%15
+	342	146	344	149	/sprites/dev/cm%11
+	267	303	273	307	/sprites/dev/onas%4
+	359	250	365	254	/sprites/dev/onas%1
+	371	222	374	224	/sprites/dev/anti%0
+	306	207	314	215	/sprites/sfx/explosion/gas%7
 line	331	436	341	424	489048
 			326	421	
 	341	424			204020

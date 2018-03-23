@@ -206,30 +206,30 @@ line	247	335	243	335	ff7f00
 	-38	299	-33	299	ff7f00
 	316	257	321	256	ffff7f
 	347	245	350	244	
-draw	235	348	239	352	/sprites/573.SMIV/0
-	227	378	232	382	/sprites/570.SMIV/1
-	216	325	221	329	/sprites/570.SMIV/0
-	261	347	266	351	/sprites/570.SMIV/1
-	140	443	178	488	/sprites/647.SMIV/2
-	169	438	182	450	/sprites/546.SMIV/2
-	313	319	320	328	/sprites/521.SMIV/13
-	77	312	87	318	/sprites/521.SMIV/7
-static	287	235	311	266	ffffff	38	/sprites/648.SMIV/11
-draw	116	366	124	372	/sprites/530.SMIV/2
-	270	221	277	227	/sprites/530.SMIV/7
-	361	235	378	244	/sprites/646.SMIV/17
-	430	305	434	307	/sprites/566.SMIV/16
-	196	206	198	209	/sprites/566.SMIV/0
-	242	336	247	337	/sprites/566.SMIV/6
-	329	248	335	254	/sprites/522.SMIV/5
-	311	249	318		/sprites/541.SMIV/2
-	307	247	314	251	/sprites/541.SMIV/24
-	379	241	388	248	/sprites/541.SMIV/14
-	311	298	319	305	/sprites/541.SMIV/6
-	315	257	317	259	/sprites/554.SMIV/2
-	306	278	314	283	/sprites/541.SMIV/23
-	246	347	253	352	/sprites/522.SMIV/6
-	271	321	277	327	/sprites/522.SMIV/5
+draw	235	348	239	352	/sprites/sfx/invisible%0
+	227	378	232	382	/sprites/loc/jump/node%1
+	216	325	221	329	/sprites/loc/jump/node%0
+	261	347	266	351	/sprites/loc/jump/node%1
+	140	443	178	488	/sprites/ele/etc/liner%2
+	169	438	182	450	/sprites/ish/etc/astrominer%2
+	313	319	320	328	/sprites/ish/hvc%13
+	77	312	87	318	/sprites/ish/hvc%7
+static	287	235	311	266	ffffff	38	/sprites/sal/carrier%11
+draw	116	366	124	372	/sprites/sal/cruiser%2
+	270	221	277	227	/sprites/sal/cruiser%7
+	361	235	378	244	/sprites/ish/hvd%17
+	430	305	434	307	/sprites/sal/fighter%16
+	196	206	198	209	/sprites/sal/fighter%0
+	242	336	247	337	/sprites/sal/fighter%6
+	329	248	335	254	/sprites/dev/fullerene%5
+	311	249	318		/sprites/sfx/explosion/gas%2
+	307	247	314	251	/sprites/sfx/explosion/gas%24
+	379	241	388	248	/sprites/sfx/explosion/gas%14
+	311	298	319	305	/sprites/sfx/explosion/gas%6
+	315	257	317	259	/sprites/sfx/explosion/large-hit%2
+	306	278	314	283	/sprites/sfx/explosion/gas%23
+	246	347	253	352	/sprites/dev/fullerene%6
+	271	321	277	327	/sprites/dev/fullerene%5
 dither	132	326	229	343	303000
 crop	136	330	143	341	64	44	000000	/fonts/tactical.png
 	143		150		40	66		
@@ -522,7 +522,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		72	48		
 	51		57		24	60		
 	57		63		16			
-draw	17	206	33	224	/sprites/521.SMIV/0
+draw	17	206	33	224	/sprites/ish/hvc%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -603,7 +603,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		16			
 	51		57		72			
 	57		63		16			
-draw	16	279	34	295	/sprites/646.SMIV/0
+draw	16	279	34	295	/sprites/ish/hvd%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

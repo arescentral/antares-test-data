@@ -160,34 +160,34 @@ rect	190	0	191	481	000050
 line	230	338	232	329	00ff00
 	234	337	230		
 	241	365	241	359	007fff
-draw	355	232	384	251	/sprites/646.SMIV/20
-	205	267	215	284	/sprites/582.SMIV/11
-	384	426	404	439	/sprites/582.SMIV/16
-static	234	329	243	344	ffffff	40	/sprites/650.SMIV/12
-draw	204	260	214	275	/sprites/650.SMIV/11
-	32	171	52	190	/sprites/509.SMIV/7
-static	214	368	232	383	7878f0	3	/sprites/578.SMIV/8
-draw	211	308	225	321	/sprites/501.SMIV/10
-	235	284	247	295	/sprites/501.SMIV/12
-	265	393	279	404	/sprites/501.SMIV/0
-	107	168	128	187	/sprites/509.SMIV/10
-	175	264	226	295	/sprites/525.SMIV/16
-	279	69	286	75	/sprites/510.SMIV/14
-	229	378	247	393	/sprites/578.SMIV/8
-	213	358	231	372	/sprites/578.SMIV/22
-	316	294	323	301	/sprites/507.SMIV/5
-	270	413	273	415	/sprites/513.SMIV/12
-	93	41	96	43	/sprites/513.SMIV/20
-	237	175	240	178	/sprites/513.SMIV/23
-	233	361	238	365	/sprites/504.SMIV/19
-	309	393	314	396	/sprites/503.SMIV/9
-	208	368	212	372	/sprites/554.SMIV/1
-	218	317	221	321	/sprites/503.SMIV/10
-	185	390	194	396	/sprites/547.SMIV/4
-	232	351	240	359	/sprites/554.SMIV/7
-	243		246	356	/sprites/503.SMIV/12
-	221	311	230	317	/sprites/653.SMIV/2
-	234	366	238	371	/sprites/554.SMIV/2
+draw	355	232	384	251	/sprites/ish/hvd%20
+	205	267	215	284	/sprites/ele/cruiser%11
+	384	426	404	439	/sprites/ele/cruiser%16
+static	234	329	243	344	ffffff	40	/sprites/uns/cruiser%12
+draw	204	260	214	275	/sprites/uns/cruiser%11
+	32	171	52	190	/sprites/ish/gunship%7
+static	214	368	232	383	7878f0	3	/sprites/aud/cruiser%8
+draw	211	308	225	321	/sprites/ish/cruiser%10
+	235	284	247	295	/sprites/ish/cruiser%12
+	265	393	279	404	/sprites/ish/cruiser%0
+	107	168	128	187	/sprites/ish/gunship%10
+	175	264	226	295	/sprites/ish/carrier%16
+	279	69	286	75	/sprites/ish/fighter%14
+	229	378	247	393	/sprites/aud/cruiser%8
+	213	358	231	372	/sprites/aud/cruiser%22
+	316	294	323	301	/sprites/sfx/debris%5
+	270	413	273	415	/sprites/sfx/crew%12
+	93	41	96	43	/sprites/sfx/crew%20
+	237	175	240	178	/sprites/sfx/crew%23
+	233	361	238	365	/sprites/sfx/explosion/energy%19
+	309	393	314	396	/sprites/dev/fusion%9
+	208	368	212	372	/sprites/sfx/explosion/large-hit%1
+	218	317	221	321	/sprites/dev/fusion%10
+	185	390	194	396	/sprites/dev/pp%4
+	232	351	240	359	/sprites/sfx/explosion/large-hit%7
+	243		246	356	/sprites/dev/fusion%12
+	221	311	230	317	/sprites/dev/magneto%2
+	234	366	238	371	/sprites/sfx/explosion/large-hit%2
 dither	200	463	444	480	300000
 crop	204	467	211	478	0	22	000000	/fonts/tactical.png
 	211		218		24	44		
@@ -664,7 +664,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	69		75		40	72		
 	75		81		32	84		
 	81		87		8	72		
-draw	16	278	34	296	/sprites/1031.SMIV/0
+draw	16	278	34	296	/sprites/loc/planets/marshmellow%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		
