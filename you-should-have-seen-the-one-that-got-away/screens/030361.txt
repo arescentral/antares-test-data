@@ -154,8 +154,8 @@ triangle	98	191	106	199	c00000
 line	218	110	223	125	489048
 			233	113	
 	223	125			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41					
 	41		47		16			

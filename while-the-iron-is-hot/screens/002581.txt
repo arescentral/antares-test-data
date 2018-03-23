@@ -167,8 +167,8 @@ draw	280	400	286	406	/sprites/sfx/explosion/large-hit%0
 line	185	320	200	321	489048
 			194	308	
 	200	321			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		40			
 	41		47		0			

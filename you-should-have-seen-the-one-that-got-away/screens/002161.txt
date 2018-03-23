@@ -135,8 +135,8 @@ static	560	394	568	406	00000000	254	/sprites/can/cruiser%15
 line	303	50	301	65	489048
 			315	60	
 	301	65			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	40	36	ff0000	/fonts/computer.png
 	35		41		0			
 	41		47					

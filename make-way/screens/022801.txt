@@ -137,8 +137,8 @@ draw	582	146	626	171	/sprites/ish/aslttran%4
 line	392	42	383	54	489048
 			398	56	
 	383	54			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	389	00488f
 			623	360	
 	622			389	002850

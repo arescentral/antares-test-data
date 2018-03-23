@@ -137,8 +137,8 @@ draw	459	82	487	122	/sprites/can/aslttran%14
 line	275	64	275	79	489048
 			288	72	
 		79			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	398	00488f
 			623	360	
 	622			398	002850

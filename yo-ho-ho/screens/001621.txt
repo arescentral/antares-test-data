@@ -173,8 +173,8 @@ draw	440	259	448	262	/sprites/dev/cm%8
 line	173	199	184	209	489048
 			188	195	
 	184	209			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41		24			
 	41		47		16			

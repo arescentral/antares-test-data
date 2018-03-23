@@ -153,8 +153,8 @@ draw	463	230	469	236	/sprites/sfx/crew%14
 line	189	327	204	328	489048
 			197	314	
 	204	328			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		32			
 	41		47		16			

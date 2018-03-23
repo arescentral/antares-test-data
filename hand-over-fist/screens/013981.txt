@@ -140,8 +140,8 @@ rect	444	72	446	74	00ff00
 line	441	54	429	63	489048
 			443	69	
 	429	63			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	428	00488f
 			623	360	
 	622			428	002850

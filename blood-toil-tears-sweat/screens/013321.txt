@@ -284,8 +284,8 @@ draw	309	308	357	353	/sprites/uns/gunship%22
 line	485	79	471	85	489048
 			484	94	
 	471	85			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	32	36	ff0000	/fonts/computer.png
 	35		41		16			
 	41		47		56			

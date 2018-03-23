@@ -129,10 +129,10 @@ crop	249	435	257	447	32	60	202020	/fonts/button.png
 	331		339		80	72		
 	339		346		128	84		
 	346		350		64			
-draw	2	0	35	476	/interfaces/tablet/left.png
-	35		607	28	/interfaces/tablet/top.png
-	607		642	476	/interfaces/tablet/right.png
-	35	456	607		/interfaces/tablet/bottom.png
+draw	2	0	35	476	/pictures/gui/tablet/left.png
+	35		607	28	/pictures/gui/tablet/top.png
+	607		642	476	/pictures/gui/tablet/right.png
+	35	456	607		/pictures/gui/tablet/bottom.png
 rect	39	31	52	34	787561
 	590		603		
 	52		590	33	

@@ -227,8 +227,8 @@ draw	390	69	406	84	/sprites/sfx/debris%6
 line	297	55	295	70	489048
 			309	65	
 	295	70			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	400	00488f
 			623	360	
 	622			400	002850

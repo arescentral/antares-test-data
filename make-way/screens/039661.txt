@@ -198,8 +198,8 @@ draw	375	244	390	259	/sprites/sfx/explosion/large-hit%5
 line	505	382	502	367	489048
 			490	378	
 	502	367			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	413	00488f
 			623	360	
 	622			413	002850

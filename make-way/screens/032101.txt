@@ -508,8 +508,8 @@ rect	321	453	329	464	007fff
 line	199	345	214	345	489048
 			206	331	
 	214				204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	408	00488f
 			623	360	
 	622			408	002850

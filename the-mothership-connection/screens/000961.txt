@@ -124,8 +124,8 @@ line	167	287	166	291	808080
 triangle	363	235	371	243	00c000
 diamond	264	439	284	459	c00000
 rect	275	442	277	444	ff0000
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

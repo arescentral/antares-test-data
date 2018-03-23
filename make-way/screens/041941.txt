@@ -141,8 +141,8 @@ draw	504	205	539	240	/sprites/loc/planets/cloudtones%0
 line	566	249	553	241	489048
 			552	256	
 	553	241			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	406	00488f
 			623	360	
 	622			406	002850

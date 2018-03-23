@@ -155,8 +155,8 @@ draw	7	359	127	417	/sprites/uns/etc/bttlship%5
 line	509	99	494	103	489048
 			505	114	
 	494	103			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	394	00488f
 			623	360	
 	622			394	002850

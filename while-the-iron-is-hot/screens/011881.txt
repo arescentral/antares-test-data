@@ -139,8 +139,8 @@ diamond	495	102	511	118	900000
 line	357	40	350	54	489048
 			365	53	
 	350	54			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	457	007fff
 			623	360	
 	622			457	00488f

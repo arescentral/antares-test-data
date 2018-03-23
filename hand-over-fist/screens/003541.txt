@@ -200,8 +200,8 @@ draw	250	160	257	165	/sprites/sfx/explosion/energy%19
 line	206	122	212	136	489048
 			221	123	
 	212	136			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	457	007fff
 			623	360	
 	622			457	00488f

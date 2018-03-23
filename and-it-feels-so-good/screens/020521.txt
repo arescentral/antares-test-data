@@ -145,8 +145,8 @@ draw	357	230	387	254	/sprites/ish/hvd%22
 line	278	62	278	77	489048
 			291	70	
 		77			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		24			
 	41		47		48			

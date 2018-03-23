@@ -223,8 +223,8 @@ draw	401	187	413	193	/sprites/dev/fusion%6
 line	246	397	260	392	489048
 			248	382	
 	260	392			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	410	00488f
 			623	360	
 	622			410	002850

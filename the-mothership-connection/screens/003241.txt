@@ -137,8 +137,8 @@ draw	355	233	378	251	/sprites/ish/hvc%4
 line	548	155	533	154	489048
 			539	168	
 	533	154			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

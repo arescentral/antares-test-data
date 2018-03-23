@@ -260,8 +260,8 @@ rect	371	203	379	211	0060c0
 line	331	44	326	59	489048
 			341	56	
 	326	59			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		32			
 	41		47		0			

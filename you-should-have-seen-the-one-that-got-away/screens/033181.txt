@@ -202,8 +202,8 @@ crop	511	204	518	215	0	55	000000	/fonts/tactical.png
 line	501	92	486	96	489048
 			498	107	
 	486	96			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	24	36	ff0000	/fonts/computer.png
 	35		41		56			
 	41		47					

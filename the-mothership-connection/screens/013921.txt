@@ -152,8 +152,8 @@ draw	436	239	442	246	/sprites/can/hvc%2
 line	567	257	554	248	489048
 			553	263	
 	554	248			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

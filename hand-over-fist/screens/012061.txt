@@ -204,8 +204,8 @@ draw	425	127	441	144	/sprites/can/fighter%14
 line	542	336	534	323	489048
 			527	336	
 	534	323			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	401	00488f
 			623	360	
 	622			401	002850

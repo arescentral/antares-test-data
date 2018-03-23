@@ -215,8 +215,8 @@ draw	356	231	375	246	/sprites/ish/aslttran%2
 line	487	80	473	86	489048
 			486	95	
 	473	86			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41					
 	41		47					

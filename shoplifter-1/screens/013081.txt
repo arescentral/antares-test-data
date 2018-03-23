@@ -147,8 +147,8 @@ draw	481	173	505	226	/sprites/obi/etc/liner%0
 line	187	156	196	169	489048
 			202	155	
 	196	169			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41					
 	41		47		56			

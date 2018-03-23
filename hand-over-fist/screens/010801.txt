@@ -132,8 +132,8 @@ draw	427	105	478	176	/sprites/can/carrier%1
 line	478	74	464	81	489048
 			477	89	
 	464	81			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	363	00488f
 			623	360	
 	622			363	002850

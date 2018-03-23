@@ -152,8 +152,8 @@ draw	168	95	219	140	/sprites/can/transprt%6
 line	566	252	553	244	489048
 			552	259	
 	553	244			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	404	00488f
 			623	360	
 	622			404	002850

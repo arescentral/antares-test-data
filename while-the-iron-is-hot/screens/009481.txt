@@ -153,8 +153,8 @@ draw	240	83	280	113	/sprites/gai/cruiser%2
 line	535	132	520	132	489048
 			528	146	
 	520				204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		32			
 	41		47		24			

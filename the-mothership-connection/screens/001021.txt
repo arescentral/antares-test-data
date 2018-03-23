@@ -120,8 +120,8 @@ line	328	251	326	249	808080
 	248	400	246	397	
 draw	363	235	376	247	/sprites/ish/hvc%21
 	610	350	703	489	/sprites/can/gateship%1
-	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

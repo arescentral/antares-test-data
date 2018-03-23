@@ -223,8 +223,8 @@ draw	161	46	177	60	/sprites/ish/cruiser%8
 line	281	61	280	76	489048
 			294	69	
 	280	76			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	429	00488f
 			623	360	
 	622			429	002850

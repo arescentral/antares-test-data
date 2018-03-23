@@ -126,8 +126,8 @@ point	586	448	d0d0d0
 draw	346	222	386	248	/sprites/ish/hvc%7
 	216	42	312	140	/sprites/ast/nasty%10
 	217	323	249	344	/sprites/sfx/explosion/gas%22
-	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

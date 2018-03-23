@@ -138,8 +138,8 @@ draw	349	234	413	298	/sprites/loc/planets/graysplotch%0
 line	461	416	461	401	489048
 			448	408	
 		401			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	430	00488f
 			623	360	
 	622			430	002850

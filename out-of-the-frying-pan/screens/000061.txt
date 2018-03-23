@@ -137,8 +137,8 @@ rect	491	131	497	137	c00000
 line	326	434	336	423	489048
 			322	419	
 	336	423			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		40			
 	41		47		0			

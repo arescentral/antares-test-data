@@ -219,8 +219,8 @@ draw	42	221	46	227	/sprites/sfx/crew%16
 line	488	81	474	87	489048
 			487	96	
 	474	87			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	400	00488f
 			623	360	
 	622			400	002850

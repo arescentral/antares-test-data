@@ -141,8 +141,8 @@ diamond	198	239	218	259	c00000
 line	466	67	453	75	489048
 			466	83	
 	453	75			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	40	36	ff0000	/fonts/computer.png
 	35		41		0			
 	41		47					

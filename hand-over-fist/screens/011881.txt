@@ -228,8 +228,8 @@ draw	155	359	183	398	/sprites/can/cruiser%3
 line	429	429	432	414	489048
 			418	419	
 	432	414			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	400	00488f
 			623	360	
 	622			400	002850

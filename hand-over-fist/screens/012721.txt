@@ -182,8 +182,8 @@ draw	346	219	390	259	/sprites/ish/gunship%11
 line	432	429	435	414	489048
 			420	419	
 	435	414			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	416	00488f
 			623	360	
 	622			416	002850

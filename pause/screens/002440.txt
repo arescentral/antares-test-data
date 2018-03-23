@@ -313,8 +313,8 @@ crop	234	310	242	322	32	60	080808	/fonts/button.png
 	369		373		64	84		
 	373		377		32			
 	377		385		240	72		
-draw	0	245	178	456	/interfaces/main/left.png
-		0	640	245	/interfaces/main/top.png
-	460	245		456	/interfaces/main/right.png
-	0	456		480	/interfaces/main/bottom.png
+draw	0	245	178	456	/pictures/gui/main/left.png
+		0	640	245	/pictures/gui/main/top.png
+	460	245		456	/pictures/gui/main/right.png
+	0	456		480	/pictures/gui/main/bottom.png
 	320	240	332	250	/sprites/cursor%0

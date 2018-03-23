@@ -155,8 +155,8 @@ draw	468	302	480	312	/sprites/dev/anti%0
 line	169	250	183	257	489048
 			182	242	
 	183	257			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	396	00488f
 			623	360	
 	622			396	002850

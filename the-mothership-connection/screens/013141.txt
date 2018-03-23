@@ -173,8 +173,8 @@ draw	411	178	419	183	/sprites/can/hvc%17
 line	331	436	341	424	489048
 			326	421	
 	341	424			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	102	159	108	171	0	36	ff7f00	/fonts/computer.png
 	108		114					
 	114		120		40			

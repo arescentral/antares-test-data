@@ -165,8 +165,8 @@ draw	386	189	388	191	/sprites/sfx/explosion/energy%19
 line	493	394	491	379	489048
 			479	389	
 	491	379			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	24	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47		24			

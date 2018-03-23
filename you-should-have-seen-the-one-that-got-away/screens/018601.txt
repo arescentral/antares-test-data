@@ -189,8 +189,8 @@ draw	297	299	300	302	/sprites/can/fighter%12
 line	186	321	201	322	489048
 			195	309	
 	201	322			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	24	36	ff0000	/fonts/computer.png
 	35		41		72			
 	41		47		24			

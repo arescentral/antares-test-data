@@ -129,8 +129,8 @@ static	343	228	387	257	ffffff	33	/sprites/ish/hvd%4
 line	532	128	517	129	489048
 			526	142	
 	517	129			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	8	36	ff0000	/fonts/computer.png
 	35		41					
 	41		47		24			

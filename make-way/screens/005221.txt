@@ -132,8 +132,8 @@ draw	351	223	383	252	/sprites/ish/cruiser%9
 line	518	370	513	355	489048
 			503	368	
 	513	355			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 crop	29	159	35	171	0	36	ff0000	/fonts/computer.png
 	35		41		16			
 	41		47		0			

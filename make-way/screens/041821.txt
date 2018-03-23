@@ -159,8 +159,8 @@ rect	391	280	393	282	c00000
 line	469	68	456	75	489048
 			469	83	
 	456	75			204020
-draw	0	-144	128	624	/interfaces/instruments/left.png
-	608		640		/interfaces/instruments/right.png
+draw	0	-144	128	624	/pictures/gui/instruments/left.png
+	608		640		/pictures/gui/instruments/right.png
 rect	614	359	615	406	00488f
 			623	360	
 	622			406	002850
