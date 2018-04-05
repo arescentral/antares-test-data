@@ -132,7 +132,7 @@ line	379	349	378	340	ffff7f
 	369	250	368	245	
 draw	358	229	376	248	/sprites/ish/hvd%12
 	563	382	586	394	/sprites/aud/aslttran%7
-	340	367	368	383	/sprites/aud/transprt%8
+	340	367	368	383	/sprites/aud/transport%8
 	370	315	381	327	/sprites/dev/fullerene%1
 	378	391	389	399	/sprites/dev/fullerene%6
 	363	241	373	251	/sprites/dev/fullerene%5

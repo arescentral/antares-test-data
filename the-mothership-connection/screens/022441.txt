@@ -132,11 +132,11 @@ rect	233	0	234	481	000050
 		412		413	000050
 draw	396	321	434	360	/sprites/loc/planets/earth%0
 	364	235	371	244	/sprites/ish/hvc%11
-	417	342	419	343	/sprites/uns/transprt%21
-	416	341		344	/sprites/uns/transprt%22
-		340		341	/sprites/uns/transprt%18
-	415		416		/sprites/uns/transprt%9
-	416	342	417	343	/sprites/uns/transprt%2
+	417	342	419	343	/sprites/uns/transport%21
+	416	341		344	/sprites/uns/transport%22
+		340		341	/sprites/uns/transport%18
+	415		416		/sprites/uns/transport%9
+	416	342	417	343	/sprites/uns/transport%2
 	373	191	397	229	/sprites/uns/carrier%11
 	341	281	351	287	/sprites/uns/cruiser%4
 	392	249	401	260	/sprites/uns/gunship%11

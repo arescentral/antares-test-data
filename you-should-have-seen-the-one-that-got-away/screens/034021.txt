@@ -158,9 +158,9 @@ rect	578	0	579	481	000050
 line	361	253	373	242	7fff7f
 	241	379	251	368	
 draw	329	87	457	215	/sprites/loc/planets/aqua-minerale%0
-	486	266	550	294	/sprites/uns/transprt%18
+	486	266	550	294	/sprites/uns/transport%18
 	343	219	399	260	/sprites/uns/gunship%15
-	397	154	435	185	/sprites/uns/transprt%21
+	397	154	435	185	/sprites/uns/transport%21
 static	203	400	235	429	f0f078	72	/sprites/can/hvc%16
 draw	270	375	281	384	/sprites/sfx/explosion/energy%19
 	348	274	368	289	/sprites/dev/magneto%2

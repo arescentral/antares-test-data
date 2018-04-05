@@ -254,7 +254,7 @@ draw	562	349	580	372	/sprites/uns/gunship%1
 	397	166	429	180	/sprites/uns/gunship%7
 	470	444	488	466	/sprites/uns/gunship%0
 	395	156	427	170	/sprites/uns/gunship%5
-	5	432	21	456	/sprites/uns/transprt%23
+	5	432	21	456	/sprites/uns/transport%23
 	437	73	447	79	/sprites/dev/magneto%1
 	371	240	381	247	/sprites/dev/magneto%2
 	431	166	441	172	/sprites/dev/magneto%1

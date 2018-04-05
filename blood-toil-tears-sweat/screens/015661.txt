@@ -130,7 +130,7 @@ rect	228	0	229	481	000050
 		238		239	
 		366		367	
 draw	172	242	204	274	/sprites/loc/planets/fall%0
-	193	261	209	268	/sprites/uns/transprt%19
+	193	261	209	268	/sprites/uns/transport%19
 	365	235	372	246	/sprites/uns/gunship%12
 	222	265	237	272	/sprites/uns/gunship%19
 	196	321	200	325	/sprites/uns/fighter%23

@@ -132,7 +132,7 @@ rect	320	0	321	481	000050
 	128	186	609	187	
 		455		456	
 draw	225	227	243	245	/sprites/loc/flak%15
-	354	230	382	252	/sprites/ish/transprt%3
+	354	230	382	252	/sprites/ish/transport%3
 	226	213	242	227	/sprites/ish/cruiser%15
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
@@ -503,7 +503,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

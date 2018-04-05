@@ -192,7 +192,7 @@ line	124	-319	110	-309	00ff00
 draw	339	205	467	333	/sprites/loc/planets/cloudtones%0
 	345	218	389	260	/sprites/ish/gunship%7
 	527	313	559	340	/sprites/ish/cruiser%23
-static	512	224	564	270	f0f078	124	/sprites/can/transprt%17
+static	512	224	564	270	f0f078	124	/sprites/can/transport%17
 draw	100	46	132	75	/sprites/ish/cruiser%15
 	424	173	452	216	/sprites/can/cruiser%9
 	473	201	517	253	/sprites/can/gunship%13

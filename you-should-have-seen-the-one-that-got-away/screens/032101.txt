@@ -158,10 +158,10 @@ rect	345	0	346	481	000050
 line	16413	809	16427	802	7fff7f
 	16278	936	16290	927	
 	406	194	397	205	
-draw	529	99	553	149	/sprites/uns/transprt%12
+draw	529	99	553	149	/sprites/uns/transport%12
 	336	227	396	262	/sprites/uns/gunship%4
 static	484	71	508	111	f0f078	22	/sprites/can/cruiser%2
-draw	234	216	298	244	/sprites/uns/transprt%5
+draw	234	216	298	244	/sprites/uns/transport%5
 	499	54	510	63	/sprites/sfx/explosion/energy%19
 	503	63	511	70	/sprites/sfx/explosion/energy%18
 line	537	135	522	135	489048

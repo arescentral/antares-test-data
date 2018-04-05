@@ -128,7 +128,7 @@ rect	572	0	573	481	005000
 draw	226	85	354	213	/sprites/loc/planets/cloudtones%0
 	259	302	303	337	/sprites/ish/gunship%0
 	135	139	175	179	/sprites/ish/gunship%6
-	283	142	310	156	/sprites/ish/transprt%18
+	283	142	310	156	/sprites/ish/transport%18
 	363	144	391	170	/sprites/ish/cruiser%18
 	267	123	295	149	/sprites/ish/cruiser%6
 	226	46	258	75	/sprites/ish/cruiser%10
@@ -488,7 +488,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

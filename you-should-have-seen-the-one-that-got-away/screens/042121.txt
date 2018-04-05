@@ -164,7 +164,7 @@ line	243	442	244	456	7fff7f
 draw	201	288	290	377	/sprites/loc/planets/aqua-minerale%0
 	229	347	248		/sprites/uns/gunship%12
 	347	231	391	248	/sprites/uns/gunship%18
-	533	477	549	511	/sprites/uns/transprt%12
+	533	477	549	511	/sprites/uns/transport%12
 	439	455	483	474	/sprites/uns/gunship%7
 	639	409	650	421	/sprites/dev/magneto%0
 	629	451	640	463	/sprites/dev/magneto%3

@@ -161,7 +161,7 @@ line	272	193	281	196	7fff7f
 	158	217	168	218	
 	358	236	366	241	
 draw	360	229	381	253	/sprites/uns/gunship%23
-static	255	200	283	224	f0f078	44	/sprites/can/transprt%6
+static	255	200	283	224	f0f078	44	/sprites/can/transport%6
 line	296	54	294	69	489048
 			308	64	
 	294	69			204020

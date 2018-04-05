@@ -131,7 +131,7 @@ rect	190	0	191	481	000050
 		184		185	
 		312		313	002850
 		440		441	000050
-draw	449	250	463	257	/sprites/ish/transprt%5
+draw	449	250	463	257	/sprites/ish/transport%5
 	365	238	372	244	/sprites/ish/cruiser%5
 line	564	206	550	201	489048
 			552	216	
@@ -433,7 +433,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

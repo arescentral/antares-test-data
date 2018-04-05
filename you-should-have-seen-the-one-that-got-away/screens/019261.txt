@@ -142,7 +142,7 @@ rect	184	0	185	481	000050
 		280		281	002850
 		408		409	000050
 draw	506	58	538	90	/sprites/loc/planets/aqua-minerale%0
-	552	45	563	56	/sprites/can/transprt%14
+	552	45	563	56	/sprites/can/transport%14
 static	381	160	386	171	00000000	254	/sprites/can/cruiser%13
 draw	368	240	369	241	/sprites/sfx/crew%14
 	321	189	328	197	/sprites/can/cruiser%7

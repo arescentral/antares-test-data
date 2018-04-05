@@ -135,7 +135,7 @@ line	363	237	366	240	7fff7f
 	374	187	374	191	
 static	278	59	285	69	00000000	254	/sprites/can/cruiser%16
 draw	361	235	376	246	/sprites/uns/gunship%21
-	487	149	495	162	/sprites/uns/transprt%23
+	487	149	495	162	/sprites/uns/transport%23
 	634	245	636	246	/sprites/sfx/crew%7
 	518	170	519	171	/sprites/sfx/crew%6
 line	226	98	230	113	489048

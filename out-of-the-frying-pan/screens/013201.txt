@@ -129,7 +129,7 @@ draw	427	111	508	192	/sprites/loc/planets/bluegas%0
 	367	238	370	241	/sprites/sfx/crew%5
 	502	236	522	254	/sprites/ish/cruiser%22
 	500	112	525	132	/sprites/loc/flak%13
-	350	228	385	256	/sprites/ish/transprt%3
+	350	228	385	256	/sprites/ish/transport%3
 	490	216	510	234	/sprites/ish/cruiser%22
 	498	149	515	166	/sprites/ish/cruiser%13
 	311	287	313	291	/sprites/sfx/crew%17

@@ -129,9 +129,9 @@ line	335	477	338	462	7fff7f
 	332	283	343	271	
 	76	552	87	540	
 draw	297	99	425	227	/sprites/loc/planets/aqua-minerale%0
-	487	121	551	149	/sprites/uns/transprt%17
+	487	121	551	149	/sprites/uns/transport%17
 	349	218	385	264	/sprites/uns/gunship%11
-	275	53	327	95	/sprites/uns/transprt%9
+	275	53	327	95	/sprites/uns/transport%9
 	551	177	557	183	/sprites/sfx/crew%6
 	554	99	584	120	/sprites/sfx/explosion/energy%15
 dither	363	143	460	160	001830

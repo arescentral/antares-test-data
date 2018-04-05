@@ -146,7 +146,7 @@ line	14578	2470	14591	2471	7fff7f
 	14606	2440	14624	2441	
 	14773	2443	14790	2440	
 draw	347	222	380	265	/sprites/uns/gunship%1
-	377	410	426	453	/sprites/can/transprt%6
+	377	410	426	453	/sprites/can/transport%6
 	454	146	459	152	/sprites/sfx/crew%4
 	376	160	391	175	/sprites/sfx/explosion/large-hit%5
 	404	146	418	161	/sprites/sfx/explosion/large-hit%10

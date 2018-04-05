@@ -163,7 +163,7 @@ static	287	202	310	231	f0f078	22	/sprites/can/cruiser%7
 draw	298	35	321	57	/sprites/ish/cruiser%6
 static	350	221	387	255	ffffff	56	/sprites/ish/gunship%13
 draw	397	352	420	375	/sprites/ish/cruiser%11
-	638	382	682	421	/sprites/can/transprt%17
+	638	382	682	421	/sprites/can/transport%17
 	119	256	146	278	/sprites/ish/cruiser%4
 	557	460	587	502	/sprites/can/gunship%18
 	127	314	150	336	/sprites/ish/cruiser%6

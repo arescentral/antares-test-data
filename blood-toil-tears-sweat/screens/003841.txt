@@ -217,9 +217,9 @@ line	368	167	368	171	7fff7f
 	408	176	405	173	
 draw	125	-12	153	14	/sprites/loc/planets/marslike%0
 	360	236	376	243	/sprites/uns/gunship%7
-	137	0	139	4	/sprites/uns/transprt%0
-	132	-2	142	2	/sprites/uns/transprt%7
-	176	142	184	154	/sprites/uns/transprt%1
+	137	0	139	4	/sprites/uns/transport%0
+	132	-2	142	2	/sprites/uns/transport%7
+	176	142	184	154	/sprites/uns/transport%1
 static	419	373	437	394	f0f078	127	/sprites/can/carrier%22
 	368	178	373	189	00000000	5	/sprites/can/cruiser%13
 draw	443	426	447	430	/sprites/can/fighter%10

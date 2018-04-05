@@ -170,10 +170,10 @@ line	12331	678	12329	687	7fff7f
 	12266	779	12261	787	
 	527	179	517	183	
 	404	225	394	229	
-static	591	142	608	177	ffffff	124	/sprites/uns/transprt%12
+static	591	142	608	177	ffffff	124	/sprites/uns/transport%12
 draw	352	226	377	258	/sprites/uns/gunship%1
 static	541	160	560	184	f0f078	38	/sprites/can/cruiser%5
-draw	368	370	387	404	/sprites/uns/transprt%0
+draw	368	370	387	404	/sprites/uns/transport%0
 	604	138	609	142	/sprites/sfx/explosion/energy%18
 	579	152	587	158	/sprites/dev/anti%1
 	562	161	569	167	/sprites/sfx/explosion/energy%19

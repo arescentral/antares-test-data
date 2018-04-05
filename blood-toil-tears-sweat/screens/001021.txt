@@ -195,7 +195,7 @@ line	423	217	425	211	007fff
 	4231	1549	4229	1544	
 	4185	1503	4184	1498	
 draw	363	233	376	248	/sprites/uns/gunship%23
-	407	10	428	22	/sprites/aud/transprt%19
+	407	10	428	22	/sprites/aud/transport%19
 	422	161	435	171	/sprites/aud/cruiser%17
 	453	-7	466	4	/sprites/aud/cruiser%15
 	375	377	384	383	/sprites/dev/inasa%4

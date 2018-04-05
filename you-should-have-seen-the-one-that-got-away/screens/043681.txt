@@ -166,7 +166,7 @@ line	572	-361	572	-347	7fff7f
 	592	16	597	26	
 	647	143	653	157	
 draw	353	222	380	257	/sprites/uns/gunship%11
-	582	152	603	189	/sprites/uns/transprt%0
+	582	152	603	189	/sprites/uns/transport%0
 	539	195	576	229	/sprites/uns/gunship%22
 	510	336	537	371	/sprites/uns/gunship%1
 	621	25	667	44	/sprites/uns/gunship%6

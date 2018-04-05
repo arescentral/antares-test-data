@@ -127,7 +127,7 @@ draw	156	154	336	334	/sprites/loc/planets/bluegas%0
 	363	235	371	243	/sprites/sfx/crew%5
 	323	434	368	474	/sprites/ish/cruiser%22
 	319	158	375	204	/sprites/loc/flak%13
-	172	249	250	312	/sprites/ish/transprt%3
+	172	249	250	312	/sprites/ish/transport%3
 	296	388	341	428	/sprites/ish/cruiser%22
 	315	240	354	279	/sprites/ish/cruiser%13
 dither	310	414	365	431	303000

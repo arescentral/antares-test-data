@@ -130,10 +130,10 @@ line	13460	1060	13452	1070	7fff7f
 	13571	970	13560	978	
 	268	306	278	299	
 	13705	930	13693	936	
-draw	620	155	671	177	/sprites/uns/transprt%17
+draw	620	155	671	177	/sprites/uns/transport%17
 	345	224	392	251	/sprites/uns/gunship%16
 static	153	397	175	424	00000000	254	/sprites/can/cruiser%17
-draw	339	232	386	259	/sprites/uns/transprt%4
+draw	339	232	386	259	/sprites/uns/transport%4
 line	186	323	201	324	489048
 			195	310	
 	201	324			204020

@@ -134,7 +134,7 @@ line	441	251	436	250	7fff7f
 	395	242	390	241	
 draw	481	238	485	248	/sprites/can/cruiser%0
 	360	234	374	244	/sprites/uns/gunship%9
-	639	253	647	265	/sprites/uns/transprt%23
+	639	253	647	265	/sprites/uns/transport%23
 	621	279	623	280	/sprites/sfx/crew%7
 	549	232	550	233	/sprites/sfx/crew%6
 line	495	392	493	377	489048

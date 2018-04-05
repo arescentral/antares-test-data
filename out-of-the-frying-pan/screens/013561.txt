@@ -127,7 +127,7 @@ rect	216	0	217	481	002850
 draw	276	162	532	418	/sprites/loc/planets/bluegas%0
 	336	210	400	260	/sprites/ish/cruiser%7
 	510	166	590	232	/sprites/loc/flak%13
-	393	286	417	305	/sprites/ish/transprt%3
+	393	286	417	305	/sprites/ish/transport%3
 	504	284	560	340	/sprites/ish/cruiser%13
 dither	408	270	491	287	001830
 crop	412	274	419	285	8	44	000000	/fonts/tactical.png

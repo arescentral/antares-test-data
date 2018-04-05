@@ -132,7 +132,7 @@ draw	293	305	421	433	/sprites/loc/planets/marshmellow%0
 	434	466	474	495	/sprites/uns/cruiser%21
 	350	310	394	351	/sprites/ish/gunship%13
 	340	357	368	384	/sprites/ish/cruiser%5
-	347	346	372	387	/sprites/ish/transprt%12
+	347	346	372	387	/sprites/ish/transport%12
 	334	302	378	346	/sprites/ish/gunship%16
 	360	350	404	396	/sprites/ish/gunship%20
 	99	403	227	449	/sprites/ish/carrier%5
@@ -520,7 +520,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

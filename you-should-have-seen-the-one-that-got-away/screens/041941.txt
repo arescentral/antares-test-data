@@ -135,7 +135,7 @@ line	681	551	672	553	7fff7f
 draw	413	50	476	113	/sprites/loc/planets/aqua-minerale%0
 	418	375	441	397	/sprites/uns/gunship%2
 	352	232	379	252	/sprites/uns/gunship%3
-	435	71	466	84	/sprites/uns/transprt%7
+	435	71	466	84	/sprites/uns/transport%7
 	459	234		240	/sprites/can/fighter%20
 	532	143	535	145	/sprites/sfx/crew%11
 dither	200	50	367	67	003030

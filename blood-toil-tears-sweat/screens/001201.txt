@@ -258,7 +258,7 @@ line	181	579	179	592	007fff
 	13161	4147	13174	4153	
 	241	314	253	311	
 draw	352	221	387	264	/sprites/uns/gunship%0
-	130	70	192	107	/sprites/aud/transprt%19
+	130	70	192	107	/sprites/aud/transport%19
 static	149	386	180	417	7878f0	117	/sprites/aud/cruiser%1
 draw	307	148	334	169	/sprites/dev/inasa%2
 	340	106	355	123	/sprites/dev/magneto%0

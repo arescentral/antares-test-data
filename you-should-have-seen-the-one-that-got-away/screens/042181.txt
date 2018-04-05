@@ -148,7 +148,7 @@ line	510	504	511	497	7fff7f
 draw	264	286	317	339	/sprites/loc/planets/aqua-minerale%0
 	274	307	297	323	/sprites/uns/gunship%15
 	361	230	375	249	/sprites/uns/gunship%13
-	319	206	332	226	/sprites/uns/transprt%13
+	319	206	332	226	/sprites/uns/transport%13
 	380	268	391	286	/sprites/uns/gunship%12
 	512	365	536	379	/sprites/uns/gunship%16
 	243	325	267	336	/sprites/uns/gunship%19

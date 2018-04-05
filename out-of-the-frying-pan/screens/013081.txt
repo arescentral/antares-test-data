@@ -134,7 +134,7 @@ rect	195	0	196	481	000050
 draw	459	128	491	160	/sprites/loc/planets/bluegas%0
 	489	178	497	185	/sprites/ish/cruiser%22
 	488	129	498	137	/sprites/loc/flak%13
-	362	236	376	247	/sprites/ish/transprt%3
+	362	236	376	247	/sprites/ish/transport%3
 	484	170	492	177	/sprites/ish/cruiser%22
 	123	187	124	188	/sprites/sfx/crew%18
 	488	144	495	151	/sprites/ish/cruiser%13

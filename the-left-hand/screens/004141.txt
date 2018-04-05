@@ -241,7 +241,7 @@ line	-139	747	-125	736	ff7f00
 	519	273	508	270	
 static	334	218	397	255	ffffff	17	/sprites/ish/hvd%8
 	540	233	603	267	f0eac3	9	/sprites/sal/gunship%20
-	605	352	646	377	00000000	237	/sprites/sal/transprt%14
+	605	352	646	377	00000000	237	/sprites/sal/transport%14
 draw	486	251	500	266	/sprites/sfx/explosion/large-hit%6
 	520	224	538	240	/sprites/dev/fireball%0
 	552	239	570	255	/sprites/dev/fireball%1

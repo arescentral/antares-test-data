@@ -250,7 +250,7 @@ line	391	409	387	421	007fff
 	7926	3361	7930	3373	007fff
 	270	272	282	272	7fff7f
 static	348	233	389	252	ffffff	88	/sprites/uns/gunship%19
-	155	260	199	286	f0f078	112	/sprites/aud/transprt%19
+	155	260	199	286	f0f078	112	/sprites/aud/transport%19
 draw	189	297	216	319	/sprites/aud/cruiser%2
 	241	115	252	127	/sprites/dev/magneto%3
 	264	148	275	160	

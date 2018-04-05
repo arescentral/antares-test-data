@@ -126,7 +126,7 @@ point	354	363	808080
 rect	525	0	526	481	002850
 	128	161	609	162	000050
 draw	356	224	388	251	/sprites/ish/cruiser%16
-	222	265	274	311	/sprites/can/transprt%18
+	222	265	274	311	/sprites/can/transport%18
 	429	229	435	235	/sprites/sfx/crew%14
 line	189	327	204	328	489048
 			197	314	

@@ -133,7 +133,7 @@ draw	362	233	373	245	/sprites/ish/hvd%12
 	591	165	602	177	/sprites/ish/gunship%20
 	451	396	466	403	/sprites/aud/aslttran%7
 	342	49	349	56	/sprites/ish/cruiser%11
-	312	371	330	381	/sprites/aud/transprt%8
+	312	371	330	381	/sprites/aud/transport%8
 line	350	438	359	425	489048
 			344	424	
 	359	425			204020

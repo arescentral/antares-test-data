@@ -151,7 +151,7 @@ line	-733	2066	-730	2073	ff7f00
 	369	237	366	239	
 static	355	233	377	247	ffffff	136	/sprites/ish/hvd%4
 	445	172	466	187	f0eac3	121	/sprites/sal/gunship%15
-	486	200	501	209	f0f078	1	/sprites/sal/transprt%14
+	486	200	501	209	f0f078	1	/sprites/sal/transport%14
 draw	183	444	200	458	/sprites/ish/gunship%2
 	418	194	427	202	/sprites/dev/fullerene%2
 	451	175	454	178	/sprites/sfx/explosion/large-hit%1

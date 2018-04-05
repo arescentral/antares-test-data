@@ -130,7 +130,7 @@ rect	153	0	154	481	000050
 draw	363	233	377	247	/sprites/ish/cruiser%13
 	294	103	310	117	/sprites/ish/cruiser%10
 	309	112	325	126	
-	248	304	274	328	/sprites/ish/transprt%20
+	248	304	274	328	/sprites/ish/transport%20
 	435	330	438	333	/sprites/sfx/crew%5
 dither	536	459	591	476	001830
 crop	540	463	547	474	24	44	000000	/fonts/tactical.png

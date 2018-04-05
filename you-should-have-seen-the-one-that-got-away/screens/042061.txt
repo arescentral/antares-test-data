@@ -192,7 +192,7 @@ line	120	407	136	409	7fff7f
 draw	199	164	327	292	/sprites/loc/planets/aqua-minerale%0
 	240	386	304	415	/sprites/uns/gunship%17
 	355	221	395	267	/sprites/uns/gunship%23
-	600	281	632	330	/sprites/uns/transprt%11
+	600	281	632	330	/sprites/uns/transport%11
 	457	413	465	418	/sprites/sfx/crew%11
 	-11	322	5	340	/sprites/dev/magneto%0
 	164	428	184	443	/sprites/dev/magneto%2

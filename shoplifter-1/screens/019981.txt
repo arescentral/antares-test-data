@@ -138,7 +138,7 @@ line	99	431	114	419	00ff00
 	309	232	327	228	
 	187	311	205	303	
 draw	94	185	134	245	/sprites/gai/etc/lab%1
-static	153	321	193	366	ffffff	76	/sprites/obi/transprt%22
+static	153	321	193	366	ffffff	76	/sprites/obi/transport%22
 draw	350	225	390	253	/sprites/ish/hvc%18
 	558	27	590	64	/sprites/obi/escort%19
 	165	399	169	404	/sprites/obi/etc/obiard/turning%22
@@ -435,7 +435,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/obi/transprt%0
+draw	20	206	30	224	/sprites/obi/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

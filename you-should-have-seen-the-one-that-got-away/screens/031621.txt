@@ -130,10 +130,10 @@ rect	128	0	129	481	002850
 		284		285	000050
 line	7317	646	7311	646	7fff7f
 	7385	653	7379	653	
-draw	567	169	594	180	/sprites/uns/transprt%17
+draw	567	169	594	180	/sprites/uns/transport%17
 	356	234	381	248	/sprites/uns/gunship%20
 static	243	211	254	229	00000000	254	/sprites/can/cruiser%9
-draw	424	224	449	238	/sprites/uns/transprt%20
+draw	424	224	449	238	/sprites/uns/transport%20
 line	184	161	193	173	489048
 			199	160	
 	193	173			204020

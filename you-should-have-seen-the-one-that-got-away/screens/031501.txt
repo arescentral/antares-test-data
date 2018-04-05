@@ -135,7 +135,7 @@ line	5810	525	5815	525	7fff7f
 	278	132	281	136	
 draw	358	234	373	248	/sprites/uns/gunship%2
 static	199	94	208	108	00000000	254	/sprites/can/cruiser%15
-draw	554	169	575	178	/sprites/uns/transprt%17
+draw	554	169	575	178	/sprites/uns/transport%17
 line	448	57	436	66	489048
 			449	72	
 	436	66			204020

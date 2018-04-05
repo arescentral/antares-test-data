@@ -167,7 +167,7 @@ rect	487	0	488	481	000050
 	128	40	609	41	
 line	363	300	364	285	7fff7f
 draw	238	174	366	302	/sprites/loc/planets/aqua-minerale%0
-	451	57	503	99	/sprites/uns/transprt%21
+	451	57	503	99	/sprites/uns/transport%21
 	353	218	389	264	/sprites/uns/gunship%13
 static	330	347	374	399	f0f078	43	/sprites/can/gunship%13
 draw	501	179	517	193	/sprites/can/fighter%20

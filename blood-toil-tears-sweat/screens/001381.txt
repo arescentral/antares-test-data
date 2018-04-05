@@ -182,7 +182,7 @@ line	12640	5233	12626	5228	7fff7f
 	14085	5115	14084	5099	
 	14110	4749	14104	4735	
 draw	340	230	400	258	/sprites/uns/gunship%19
-static	211	151	275	189	f0f078	37	/sprites/aud/transprt%19
+static	211	151	275	189	f0f078	37	/sprites/aud/transport%19
 draw	123	321	139	339	/sprites/dev/magneto%3
 	349	243	365	261	/sprites/dev/magneto%0
 	230	251	246	269	/sprites/dev/magneto%3

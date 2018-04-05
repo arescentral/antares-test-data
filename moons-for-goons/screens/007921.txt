@@ -146,7 +146,7 @@ point	379	351	808080
 rect	575	0	576	481	002850
 	128	136	609	137	000050
 draw	356	224	388	251	/sprites/ish/cruiser%16
-static	280	234	324	284	f0f078	58	/sprites/can/transprt%2
+static	280	234	324	284	f0f078	58	/sprites/can/transport%2
 draw	463	230	469	236	/sprites/sfx/crew%14
 	280	268	288	275	/sprites/sfx/explosion/energy%18
 	300	262	316	278	/sprites/sfx/explosion/large-hit%5

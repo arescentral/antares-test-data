@@ -132,7 +132,7 @@ draw	260	141	324	205	/sprites/loc/planets/graysplotch%0
 	363	235	379	249	/sprites/ish/cruiser%21
 	268	136	290	156	/sprites/ish/gunship%11
 	281	131	303	151	
-	212	-19	228	8	/sprites/ish/transprt%11
+	212	-19	228	8	/sprites/ish/transport%11
 	262	229	276	243	/sprites/ish/cruiser%11
 	218	144	232	157	/sprites/ish/cruiser%12
 	166	263	182	277	/sprites/ish/cruiser%3

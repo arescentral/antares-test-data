@@ -130,7 +130,7 @@ rect	161	0	162	481	005000
 	128	108	609	109	002850
 		236		237	000050
 		364		365	
-draw	395	203	409	210	/sprites/ish/transprt%5
+draw	395	203	409	210	/sprites/ish/transport%5
 	327	20	334	26	/sprites/ish/cruiser%5
 	365	238	372	244	
 dither	401	186	470	203	001830
@@ -453,7 +453,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
@@ -505,7 +505,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	278	30	296	/sprites/ish/transprt%0
+draw	19	278	30	296	/sprites/ish/transport%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

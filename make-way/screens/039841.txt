@@ -175,7 +175,7 @@ draw	82	423	114	450	/sprites/ish/cruiser%4
 	42		82	465	/sprites/ish/gunship%5
 	85	474	117	502	/sprites/ish/cruiser%20
 	16	365	60	405	/sprites/ish/gunship%11
-	532	371	576	417	/sprites/can/transprt%14
+	532	371	576	417	/sprites/can/transport%14
 	85	368	101	382	/sprites/can/fighter%23
 	251	306	295	347	/sprites/can/gunship%0
 static	497	112	525	147	00000000	254	/sprites/can/cruiser%17

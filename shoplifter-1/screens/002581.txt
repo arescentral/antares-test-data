@@ -160,7 +160,7 @@ rect	267	0	268	481	002850
 line	443	332	437	326	00ff00
 	380	291	376	284	
 	453	277	462	278	ff007f
-draw	495	267	521	282	/sprites/obi/transprt%19
+draw	495	267	521	282	/sprites/obi/transport%19
 	362	231	376	249	/sprites/ish/hvc%12
 static	353	244	373	257	ffffff	103	/sprites/obi/escort%0
 draw	211	288	221	296	/sprites/gai/fighter%9
@@ -456,7 +456,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/obi/transprt%0
+draw	20	206	30	224	/sprites/obi/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

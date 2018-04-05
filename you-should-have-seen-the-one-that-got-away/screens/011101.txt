@@ -185,7 +185,7 @@ line	375	248	361	234	7fff7f
 	13871	2562	13876	2581	
 	13783	2626	13802	2622	
 draw	336	227	396	262	/sprites/uns/gunship%4
-static	394	242	442	290	f0f078	2	/sprites/can/transprt%12
+static	394	242	442	290	f0f078	2	/sprites/can/transport%12
 draw	416	246	427	255	/sprites/sfx/explosion/energy%19
 line	531	126	516	127	489048
 			525	140	

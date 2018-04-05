@@ -171,7 +171,7 @@ line	355	249	354	240	ffff7f
 draw	370	62	386	106	/sprites/can/cruiser%12
 	185	376	233	418	/sprites/ish/gunship%22
 	36	380	68	407	/sprites/ish/cruiser%1
-static	263	468	315	514	f0f078	46	/sprites/can/transprt%18
+static	263	468	315	514	f0f078	46	/sprites/can/transport%18
 draw	166	228	194	257	/sprites/ish/cruiser%2
 static	142	62	182	112	f0f078	94	/sprites/can/gunship%5
 	272	75	288	119	00000000	56	/sprites/can/cruiser%12

@@ -202,7 +202,7 @@ rect	239	0	240	481	000050
 		420		421	002850
 line	371	247	370	250	ff0000
 draw	433	197	465	229	/sprites/loc/planets/aqua-minerale%0
-	479	184	491	195	/sprites/can/transprt%21
+	479	184	491	195	/sprites/can/transport%21
 static	369	259	373	269	f0f078	75	/sprites/can/cruiser%0
 	365	235	372	246	ffffff	20	/sprites/uns/gunship%12
 draw	436	242	443	251	/sprites/can/cruiser%3

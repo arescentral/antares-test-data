@@ -158,7 +158,7 @@ rect	261	0	262	481	005000
 line	688	330	670	325	7fff7f
 	378	234	363	238	
 draw	343	230	391	250	/sprites/uns/gunship%6
-static	427	207	468	243	f0f078	92	/sprites/can/transprt%6
+static	427	207	468	243	f0f078	92	/sprites/can/transport%6
 draw	407	210	415	217	/sprites/sfx/explosion/energy%19
 	275	199	320	242	/sprites/sfx/warp%0
 line	566	222	552	216	489048

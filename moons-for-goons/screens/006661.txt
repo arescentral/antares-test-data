@@ -126,8 +126,8 @@ point	290	396	808080
 rect	365	0	366	427	002850
 	128	242	609	243	000050
 draw	354	228	386	253	/sprites/ish/cruiser%0
-	64	344	112	386	/sprites/can/transprt%4
-static	336	142	384	193	00000000	254	/sprites/can/transprt%23
+	64	344	112	386	/sprites/can/transport%4
+static	336	142	384	193	00000000	254	/sprites/can/transport%23
 rect	128	426	608	480	007fff
 		427		479	000810
 	132	431	139	442	

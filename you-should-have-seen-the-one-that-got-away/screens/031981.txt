@@ -191,7 +191,7 @@ line	13601	808	13591	814	7fff7f
 	636	326	626	319	ff0000
 draw	342	231	394	253	/sprites/uns/gunship%5
 static	499	225	521	253	f0f078	51	/sprites/can/cruiser%7
-draw	306	416	328	455	/sprites/uns/transprt%0
+draw	306	416	328	455	/sprites/uns/transport%0
 	512	245	520	252	/sprites/sfx/explosion/energy%19
 	540	248	549	255	/sprites/dev/anti%1
 	535	239	541	244	/sprites/sfx/explosion/energy%18

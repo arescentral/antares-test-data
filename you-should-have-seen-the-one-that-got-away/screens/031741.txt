@@ -133,10 +133,10 @@ line	7724	548	7727	553	7fff7f
 	7835	666	7838	671	
 	236	170	242	173	
 	7768	621	7773	626	
-draw	457	195	485	207	/sprites/uns/transprt%17
+draw	457	195	485	207	/sprites/uns/transport%17
 	355	231	381	246	/sprites/uns/gunship%16
 static	172	275	180	293	00000000	254	/sprites/can/cruiser%1
-draw	362	241	372	263	/sprites/uns/transprt%12
+draw	362	241	372	263	/sprites/uns/transport%12
 line	204	353	219	352	489048
 			210	339	
 	219	352			204020

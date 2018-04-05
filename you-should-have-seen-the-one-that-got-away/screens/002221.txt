@@ -134,7 +134,7 @@ draw	309	69	341	101	/sprites/loc/planets/purtygas%0
 	363	235	375	246	/sprites/uns/gunship%22
 static	492	437	498	447	00000000	254	/sprites/can/cruiser%22
 draw	328	118	338	131	/sprites/can/gunship%16
-	236	85	252	92	/sprites/uns/transprt%18
+	236	85	252	92	/sprites/uns/transport%18
 line	280	60	279	75	489048
 			293	68	
 	279	75			204020

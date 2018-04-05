@@ -128,8 +128,8 @@ rect	284	0	285	427	002850
 	128	174	609	175	
 		416		417	
 draw	363	234	378	247	/sprites/ish/cruiser%22
-	142	224	166	245	/sprites/can/transprt%7
-static	274	128	295	149	00000000	254	/sprites/can/transprt%10
+	142	224	166	245	/sprites/can/transport%7
+static	274	128	295	149	00000000	254	/sprites/can/transport%10
 rect	128	426	608	480	007fff
 		427		479	000810
 	132	431	139	442	

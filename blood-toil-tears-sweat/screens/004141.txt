@@ -167,7 +167,7 @@ line	367	224	367	227	7fff7f
 	505	48	502	50	
 	553	64	551	65	
 draw	362	235	374	246	/sprites/uns/gunship%10
-	318	15	333	23	/sprites/uns/transprt%16
+	318	15	333	23	/sprites/uns/transport%16
 	407	317	429	335	/sprites/can/carrier%20
 	573	228	577	231	/sprites/can/fighter%22
 	332	20	336	24	/sprites/uns/fighter%12

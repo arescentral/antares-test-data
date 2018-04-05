@@ -132,16 +132,16 @@ rect	154	0	155	416	000050
 		346		347	
 draw	317	128	355	167	/sprites/loc/planets/earth%0
 	366	236	374	244	/sprites/ish/hvc%23
-	336	144	343	152	/sprites/uns/transprt%22
-	350	176	358	188	/sprites/uns/transprt%23
-	371	212	382	223	/sprites/uns/transprt%22
+	336	144	343	152	/sprites/uns/transport%22
+	350	176	358	188	/sprites/uns/transport%23
+	371	212	382	223	/sprites/uns/transport%22
 	356	191	367	202	
-	335	143	340	152	/sprites/uns/transprt%0
-	333	142	342	149	/sprites/uns/transprt%9
-	332	144		148	/sprites/uns/transprt%7
-	348	172	359	183	/sprites/uns/transprt%22
+	335	143	340	152	/sprites/uns/transport%0
+	333	142	342	149	/sprites/uns/transport%9
+	332	144		148	/sprites/uns/transport%7
+	348	172	359	183	/sprites/uns/transport%22
 	345	167	356	178	
-	333	146	341	151	/sprites/uns/transprt%4
+	333	146	341	151	/sprites/uns/transport%4
 	345	177	371	214	/sprites/uns/carrier%23
 	410	266	420	273	/sprites/uns/cruiser%21
 	374	278	384	289	/sprites/uns/gunship%23

@@ -134,8 +134,8 @@ line	366	245	363	245	ffff7f
 	463	262	456	261	00ff00
 draw	585	307	639	361	/sprites/loc/planets/cloudtones%0
 static	420	321	430	337	00000000	77	/sprites/can/cruiser%22
-draw	588	326	608	343	/sprites/can/transprt%20
-	558	337	580	356	/sprites/can/transprt%5
+draw	588	326	608	343	/sprites/can/transport%20
+	558	337	580	356	/sprites/can/transport%5
 	506	367	512	373	/sprites/can/fighter%13
 static	556	297	567	312	00000000	254	/sprites/can/cruiser%20
 draw	593	253	609	274	/sprites/can/gunship%19

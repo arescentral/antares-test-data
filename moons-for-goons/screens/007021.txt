@@ -126,8 +126,8 @@ point	290	396	808080
 rect	365	0	366	481	002850
 	128	240	609	241	000050
 draw	358	232	378	248	/sprites/ish/cruiser%0
-	176	305	207	332	/sprites/can/transprt%4
-static	347	179	375	211	00000000	254	/sprites/can/transprt%22
+	176	305	207	332	/sprites/can/transport%4
+static	347	179	375	211	00000000	254	/sprites/can/transport%22
 dither	200	50	367	67	003030
 crop	204	54	211	65	80	55	000000	/fonts/tactical.png
 	211		218		120	66		

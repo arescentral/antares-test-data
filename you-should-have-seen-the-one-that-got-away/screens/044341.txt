@@ -178,7 +178,7 @@ line	706	344	706	349	7fff7f
 	758	354	760	358	
 	946	401	946	406	
 draw	358	234	376	244	/sprites/uns/gunship%8
-	302	61	321	69	/sprites/uns/transprt%7
+	302	61	321	69	/sprites/uns/transport%7
 dither	132	459	187	476	303000
 crop	136	463	143	474	56	44	000000	/fonts/tactical.png
 	143		150		40	77		

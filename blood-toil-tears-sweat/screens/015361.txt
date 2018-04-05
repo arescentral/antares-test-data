@@ -131,7 +131,7 @@ rect	148	0	149	481	000050
 		183		184	005000
 		311		312	000050
 		439		440	
-draw	455	18	471	25	/sprites/uns/transprt%19
+draw	455	18	471	25	/sprites/uns/transport%19
 	363	236	372	247	/sprites/uns/gunship%1
 	317	190	321	194	/sprites/uns/fighter%23
 	271	26	276	30	/sprites/uns/fighter%22

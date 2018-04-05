@@ -127,7 +127,7 @@ rect	475	0	476	481	002850
 	128	241	609	242	
 draw	490	127	618	255	/sprites/loc/planets/calmpurple%0
 	336	222	400	257	/sprites/ish/hvd%6
-	500	98	537	149	/sprites/ish/transprt%10
+	500	98	537	149	/sprites/ish/transport%10
 dither	200	50	346	67	300018
 crop	204	54	211	65	56	55	000000	/fonts/tactical.png
 	211		218		8	44		

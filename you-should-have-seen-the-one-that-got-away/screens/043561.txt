@@ -132,7 +132,7 @@ draw	340	-16	370	14	/sprites/loc/planets/purpleblue%0
 	366	357	382	378	/sprites/uns/gunship%1
 	354	231	376	252	/sprites/uns/gunship%2
 	432	170	439	187	/sprites/can/hvc%12
-	381	467	394	489	/sprites/uns/transprt%0
+	381	467	394	489	/sprites/uns/transport%0
 	364	422	386	443	/sprites/uns/gunship%2
 	360	402	376	423	/sprites/uns/gunship%1
 	365	334	381	354	/sprites/uns/gunship%0

@@ -168,8 +168,8 @@ line	368	225	367	228	7fff7f
 	611	393	609	390	
 draw	241	-8	269	18	/sprites/loc/planets/marslike%0
 	360	237	375	245	/sprites/uns/gunship%4
-	248	1	261	6	/sprites/uns/transprt%18
-	247	38	254	50	/sprites/uns/transprt%0
+	248	1	261	6	/sprites/uns/transport%18
+	247	38	254	50	/sprites/uns/transport%0
 	267	267	274	279	
 	24	59	30	63	/sprites/uns/fighter%21
 	561	414	577	436	/sprites/can/carrier%1

@@ -132,7 +132,7 @@ rect	253	0	254	481	000050
 line	381	142	379	147	7fff7f
 static	339	32	348	45	00000000	77	/sprites/can/cruiser%16
 draw	358	234	379	243	/sprites/uns/gunship%17
-	549	159	569	170	/sprites/uns/transprt%16
+	549	159	569	170	/sprites/uns/transport%16
 	524	169	526	171	/sprites/sfx/crew%6
 line	175	290	190	294	489048
 			186	279	

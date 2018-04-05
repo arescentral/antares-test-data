@@ -145,7 +145,7 @@ rect	598	0	599	481	000050
 line	514	295	495	288	ffff7f
 	626	351	599	342	00ff00
 	449	287	430	282	ffff7f
-draw	168	95	219	140	/sprites/can/transprt%6
+draw	168	95	219	140	/sprites/can/transport%6
 	-10	115	1	126	/sprites/can/fighter%6
 	45	171	60	185	/sprites/can/fighter%21
 	349	220	388	259	/sprites/ish/gunship%6

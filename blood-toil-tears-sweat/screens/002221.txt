@@ -148,7 +148,7 @@ line	2332	967	2331	959	007fff
 	376	244	363	236	7fff7f
 draw	64	-17	140	55	/sprites/loc/planets/marslike%0
 	346	226	387	250	/sprites/uns/gunship%8
-	105	77	126	110	/sprites/uns/transprt%23
+	105	77	126	110	/sprites/uns/transport%23
 dither	200	451	444	468	300000
 crop	204	455	211	466	0	22	000000	/fonts/tactical.png
 	211		218		24	44		

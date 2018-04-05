@@ -132,10 +132,10 @@ rect	210	0	211	481	002850
 line	5064	615	5064	611	7fff7f
 	5090	544	5087	541	
 	5057	503	5053	502	
-draw	558	172	576	180	/sprites/uns/transprt%17
+draw	558	172	576	180	/sprites/uns/transport%17
 	363	234	373	246	/sprites/uns/gunship%0
 static	209	208	217	218	00000000	254	/sprites/can/cruiser%7
-draw	462	216	480	224	/sprites/uns/transprt%17
+draw	462	216	480	224	/sprites/uns/transport%17
 line	357	40	350	54	489048
 			365	53	
 	350	54			204020

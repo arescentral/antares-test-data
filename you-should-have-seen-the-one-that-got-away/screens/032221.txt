@@ -188,10 +188,10 @@ rect	220	0	221	481	000050
 line	16082	986	16081	971	ff0000
 	310	253	323	251	7fff7f
 	248	-155	251	-138	
-draw	525	295	556	342	/sprites/uns/transprt%23
+draw	525	295	556	342	/sprites/uns/transport%23
 static	351	222	397	265	ffffff	116	/sprites/uns/gunship%22
-draw	230	303	261	350	/sprites/uns/transprt%1
-	512	354	562	394	/sprites/uns/transprt%21
+draw	230	303	261	350	/sprites/uns/transport%1
+	512	354	562	394	/sprites/uns/transport%21
 	270	282	273	287	/sprites/sfx/crew%15
 	250	184	257	189	/sprites/sfx/crew%20
 	285	202	354	258	/sprites/sfx/explosion/energy%6

@@ -153,9 +153,9 @@ line	514	329	515	335	7fff7f
 	1303	916	1300	913	007fff
 draw	328	43	360	74	/sprites/loc/planets/marslike%0
 	358	234	375	244	/sprites/uns/gunship%8
-	386	7	392	20	/sprites/uns/transprt%12
-	320	203	329	217	/sprites/uns/transprt%1
-	358	477	366	491	/sprites/uns/transprt%0
+	386	7	392	20	/sprites/uns/transport%12
+	320	203	329	217	/sprites/uns/transport%1
+	358	477	366	491	/sprites/uns/transport%0
 	123	247	127	252	/sprites/uns/fighter%0
 	576	123	583	126	/sprites/uns/fighter%18
 	557	307	561	312	/sprites/uns/fighter%23

@@ -128,9 +128,9 @@ rect	160	0	161	481	002850
 	128	378	609	379	
 line	57	162	70	165	7fff7f
 draw	388	53	497	162	/sprites/loc/planets/aqua-minerale%0
-	423	61	474	83	/sprites/uns/transprt%19
+	423	61	474	83	/sprites/uns/transport%19
 	355	221	385	260	/sprites/uns/gunship%13
-	451	114	470	129	/sprites/uns/transprt%21
+	451	114	470	129	/sprites/uns/transport%21
 	13	161	40	182	/sprites/can/hvc%4
 dither	444	87	541	104	001830
 crop	448	91	455	102	0	55	000000	/fonts/tactical.png

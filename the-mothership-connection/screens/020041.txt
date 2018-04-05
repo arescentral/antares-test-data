@@ -131,12 +131,12 @@ rect	151	0	152	416	000050
 		186		187	
 		314		315	002850
 draw	364	237	374	244	/sprites/ish/hvc%6
-	404	164	415	175	/sprites/uns/transprt%22
+	404	164	415	175	/sprites/uns/transport%22
 	508	235	519	246	
 	460	301	471	312	
 	504	251	515	262	
-	383	196	391	208	/sprites/uns/transprt%23
-	406	151	417	162	/sprites/uns/transprt%22
+	383	196	391	208	/sprites/uns/transport%23
+	406	151	417	162	/sprites/uns/transport%22
 	393	145	404	156	
 	418	269	429	280	
 	363	287	374	298	

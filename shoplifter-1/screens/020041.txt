@@ -138,7 +138,7 @@ rect	214	0	215	481	002850
 line	142	25	153	35	ff007f
 	237	-7	247	7	00ff00
 draw	302	98	342	164	/sprites/gai/etc/lab%5
-static	359	232	399	277	ffffff	64	/sprites/obi/transprt%22
+static	359	232	399	277	ffffff	64	/sprites/obi/transport%22
 draw	357	225	393	261	/sprites/ish/hvc%22
 	428	105	460	141	/sprites/obi/escort%18
 	219	177	247	210	/sprites/gai/cruiser%18
@@ -429,7 +429,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/obi/transprt%0
+draw	20	206	30	224	/sprites/obi/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

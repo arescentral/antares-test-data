@@ -191,7 +191,7 @@ line	8316	1554	8310	1558	7fff7f
 	8243	1596	8238	1601	
 	8179	1663	8176	1669	
 	361	235	369	241	
-static	288	180	314	203	f0f078	45	/sprites/can/transprt%7
+static	288	180	314	203	f0f078	45	/sprites/can/transport%7
 draw	354	233	384	250	/sprites/uns/gunship%20
 	246	137	260	157	/sprites/can/cruiser%8
 	292	190	296	193	/sprites/sfx/explosion/energy%18

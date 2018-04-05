@@ -164,7 +164,7 @@ line	279	270	290	284	7fff7f
 draw	297	-41	425	87	/sprites/loc/planets/aqua-minerale%0
 	367	353	423	394	/sprites/uns/gunship%21
 	352	221	388	265	/sprites/uns/gunship%0
-	518	39	582	67	/sprites/uns/transprt%7
+	518	39	582	67	/sprites/uns/transport%7
 	578	332	642	357	/sprites/uns/gunship%18
 	215	258	231	273	/sprites/can/fighter%8
 	549	178	557	183	/sprites/sfx/crew%11

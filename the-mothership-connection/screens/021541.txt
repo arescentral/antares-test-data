@@ -131,16 +131,16 @@ rect	128	0	129	416	002850
 		231		232	002850
 		359		360	000050
 draw	366	237	375	246	/sprites/ish/hvc%22
-	292	84	300	96	/sprites/uns/transprt%23
-	360	174	371	185	/sprites/uns/transprt%22
+	292	84	300	96	/sprites/uns/transport%23
+	360	174	371	185	/sprites/uns/transport%22
 	382	209	393	220	
 	404	170	415	181	
-	327	95	335	107	/sprites/uns/transprt%23
-	311	68	322	79	/sprites/uns/transprt%22
-	293	63	301	75	/sprites/uns/transprt%23
+	327	95	335	107	/sprites/uns/transport%23
+	311	68	322	79	/sprites/uns/transport%22
+	293	63	301	75	/sprites/uns/transport%23
 	357	170	365	182	
 	331	175	339	187	
-	312	33	323	44	/sprites/uns/transprt%22
+	312	33	323	44	/sprites/uns/transport%22
 	332	185	358	222	/sprites/uns/carrier%23
 	411	265	419	273	/sprites/uns/cruiser%22
 	423	259	438	267	/sprites/uns/gunship%20

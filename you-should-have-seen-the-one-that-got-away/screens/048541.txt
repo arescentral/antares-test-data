@@ -252,7 +252,7 @@ draw	355	235	381	246	/sprites/uns/gunship%5
 	377	199	396	217	/sprites/uns/gunship%2
 	437	267	456	285	
 	418	218	437	236	/sprites/uns/gunship%10
-	29	339	42	359	/sprites/uns/transprt%23
+	29	339	42	359	/sprites/uns/transport%23
 	459	122	462	124	/sprites/sfx/explosion/energy%18
 	453	135	457	138	/sprites/sfx/explosion/energy%19
 	475	162	488	173	/sprites/dev/magno%2

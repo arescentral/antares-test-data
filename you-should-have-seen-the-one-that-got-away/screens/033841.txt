@@ -139,9 +139,9 @@ line	785	112	770	116	7fff7f
 	240	437	249	424	
 	374	300	373	284	
 draw	256	168	384	296	/sprites/loc/planets/aqua-minerale%0
-static	479	182	511	231	ffffff	4	/sprites/uns/transprt%13
+static	479	182	511	231	ffffff	4	/sprites/uns/transport%13
 draw	353	218	389	264	/sprites/uns/gunship%13
-	123	-20	175	22	/sprites/uns/transprt%9
+	123	-20	175	22	/sprites/uns/transport%9
 	475	250	481	256	/sprites/sfx/crew%6
 	341	302	361	315	/sprites/dev/magneto%1
 		239		253	/sprites/dev/magneto%4

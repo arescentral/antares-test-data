@@ -211,7 +211,7 @@ line	369	170	366	171	ff0000
 	365	158	368	155	7fff7f
 	306	219	309	216	
 draw	363	235	375	246	/sprites/uns/gunship%14
-	206	82	222	89	/sprites/uns/transprt%5
+	206	82	222	89	/sprites/uns/transport%5
 	393	395	417	410	/sprites/can/carrier%5
 static	321	178	328	186	00000000	45	/sprites/can/cruiser%5
 draw	528	470	532	473	/sprites/can/fighter%3

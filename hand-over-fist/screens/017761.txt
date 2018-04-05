@@ -210,7 +210,7 @@ line	367	189	372	197	ffff7f
 	4961	-18582	4968	-18568	
 	296	106	305	119	ffff7f
 static	476	252	494	289	00000000	254	/sprites/can/cruiser%23
-draw	275	52	319	98	/sprites/can/transprt%1
+draw	275	52	319	98	/sprites/can/transport%1
 	348	222	388	258	/sprites/ish/gunship%23
 	295	116	305	124	/sprites/sfx/explosion/energy%19
 	289	77	300	89	/sprites/sfx/explosion/energy%1
@@ -552,7 +552,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

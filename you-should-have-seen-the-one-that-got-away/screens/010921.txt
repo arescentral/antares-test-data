@@ -186,7 +186,7 @@ line	6636	1444	6642	1449	7fff7f
 	6608	1367	6613	1361	
 	372	243	366	239	
 draw	355	232	379	246	/sprites/uns/gunship%8
-	509	344	530	363	/sprites/can/transprt%6
+	509	344	530	363	/sprites/can/transport%6
 	479	170	481	172	/sprites/sfx/crew%4
 dither	200	454	444	471	300000
 crop	204	458	211	469	0	22	000000	/fonts/tactical.png

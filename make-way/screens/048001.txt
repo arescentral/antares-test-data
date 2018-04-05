@@ -216,7 +216,7 @@ line	4299	-482	4294	-483	ffff7f
 	4237	-487	4236	-487	ffff7f
 	4262	-478	4259	-479	
 	4302	-476	4298	-476	00ff00
-draw	425	294	439	301	/sprites/ish/transprt%5
+draw	425	294	439	301	/sprites/ish/transport%5
 	365	238	372	244	/sprites/ish/cruiser%5
 dither	200	50	262	67	003030
 crop	204	54	211	65	8	33	000000	/fonts/tactical.png
@@ -536,7 +536,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	206	30	224	/sprites/ish/transprt%0
+draw	19	206	30	224	/sprites/ish/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

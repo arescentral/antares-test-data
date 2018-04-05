@@ -211,7 +211,7 @@ line	12193	5078	12179	5077	7fff7f
 	386	92	387	106	7fff7f
 	13369	4620	13375	4608	
 static	343	219	397	258	ffffff	4	/sprites/uns/gunship%15
-	124	283	186	320	f0f078	29	/sprites/aud/transprt%19
+	124	283	186	320	f0f078	29	/sprites/aud/transport%19
 	359	57	398	87	7878f0	68	/sprites/aud/cruiser%3
 draw	539	270	578	300	/sprites/aud/cruiser%3
 	635	43	677	72	/sprites/aud/cruiser%4

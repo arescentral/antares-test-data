@@ -247,7 +247,7 @@ line	6878	1444	6885	1439	7fff7f
 	6904	1527	6910	1532	
 draw	84	396	127	428	/sprites/can/carrier%7
 	353	232	382	244	/sprites/uns/gunship%7
-static	491	298	514	318	f0f078	109	/sprites/can/transprt%6
+static	491	298	514	318	f0f078	109	/sprites/can/transport%6
 draw	424	79	426	82	/sprites/sfx/crew%4
 	484	298	488	302	/sprites/sfx/explosion/energy%19
 	511	305	514	308	/sprites/sfx/explosion/energy%18

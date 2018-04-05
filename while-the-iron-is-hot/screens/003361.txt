@@ -128,7 +128,7 @@ rect	352	0	353	481	000050
 draw	363	235	379	249	/sprites/ish/cruiser%21
 	503	260	519	273	/sprites/ish/cruiser%19
 	507	256	521	269	/sprites/ish/cruiser%18
-	301	135	327	159	/sprites/ish/transprt%20
+	301	135	327	159	/sprites/ish/transport%20
 dither	312	127	381	144	001830
 crop	316	131	323	142	32	55	000000	/fonts/tactical.png
 	323		330		16	77		
@@ -441,7 +441,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	278	30	296	/sprites/ish/transprt%0
+draw	19	278	30	296	/sprites/ish/transport%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

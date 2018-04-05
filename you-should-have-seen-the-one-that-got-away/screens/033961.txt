@@ -137,9 +137,9 @@ rect	574	0	575	481	000050
 	128	425	609	426	
 line	369	254	368	238	7fff7f
 draw	325	47	453	175	/sprites/loc/planets/aqua-minerale%0
-	479	198	523	245	/sprites/uns/transprt%10
+	479	198	523	245	/sprites/uns/transport%10
 static	349	218	385	264	ffffff	59	/sprites/uns/gunship%11
-draw	399	100	427	144	/sprites/uns/transprt%13
+draw	399	100	427	144	/sprites/uns/transport%13
 static	359	289	383	319	00000000	128	/sprites/can/hvc%22
 draw	613	121	619	127	/sprites/sfx/crew%6
 	470	47	482	57	/sprites/dev/anti%3

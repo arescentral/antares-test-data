@@ -131,7 +131,7 @@ rect	130	0	131	481	000050
 draw	358	234	378	243	/sprites/uns/gunship%17
 static	632	320	638	333	00000000	254	/sprites/can/cruiser%23
 draw	598	261	611	278	/sprites/can/gunship%15
-	137	415	157	424	/sprites/uns/transprt%18
+	137	415	157	424	/sprites/uns/transport%18
 dither	200	50	339	67	003030
 crop	204	54	211	65	80	55	000000	/fonts/tactical.png
 	211		218		120	66		

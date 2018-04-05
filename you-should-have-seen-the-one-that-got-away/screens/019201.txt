@@ -186,7 +186,7 @@ line	378	230	378	234	ff0000
 	345	268	348	265	7fff7f
 	305	287	309	285	
 draw	474	127	506	159	/sprites/loc/planets/aqua-minerale%0
-	520	114	531	125	/sprites/can/transprt%14
+	520	114	531	125	/sprites/can/transport%14
 static	348	213	355	221	00000000	125	/sprites/can/cruiser%7
 draw	363	235	375	246	/sprites/uns/gunship%14
 	327	228	334	237	/sprites/can/cruiser%8

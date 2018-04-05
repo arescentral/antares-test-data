@@ -148,7 +148,7 @@ rect	300	0	301	481	000050
 	128	131	609	132	
 		387		388	
 line	160	269	157	263	ff007f
-static	106	201	132	216	ffffff	124	/sprites/obi/transprt%19
+static	106	201	132	216	ffffff	124	/sprites/obi/transport%19
 draw	357	234	377	249	/sprites/ish/hvc%4
 	42	117	60	133	/sprites/obi/escort%10
 	89	133	93	135	/sprites/sfx/crew%22
@@ -437,7 +437,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/obi/transprt%0
+draw	20	206	30	224	/sprites/obi/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		

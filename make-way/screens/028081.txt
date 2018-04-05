@@ -125,7 +125,7 @@ point	520	145	d0d0d0
 	367	49	d0d0d0
 rect	350	0	351	481	000050
 	128	278	609	279	
-draw	169	145	205	176	/sprites/can/transprt%6
+draw	169	145	205	176	/sprites/can/transport%6
 	109	201	117	209	/sprites/can/fighter%6
 	7	96	18	107	/sprites/can/fighter%9
 	352	226	382	254	/sprites/ish/gunship%1

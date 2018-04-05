@@ -130,7 +130,7 @@ draw	422	376	515	469	/sprites/loc/planets/calmpurple%0
 	344	226	390	251	/sprites/ish/hvd%6
 	489	-1	576	95	/sprites/baz/bttlship%33
 	448	138	471	156	/sprites/ish/cruiser%7
-	453	391	480	428	/sprites/ish/transprt%22
+	453	391	480	428	/sprites/ish/transport%22
 	466	134	501	164	/sprites/ish/gunship%22
 	355	211	360	216	/sprites/sfx/crew%0
 dither	470	402	602	419	001830

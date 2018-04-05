@@ -140,7 +140,7 @@ rect	168	0	169	481	005000
 line	411	162	405	168	7fff7f
 	-87	1051	-92	1055	ff0000
 draw	352	228	383	251	/sprites/uns/gunship%9
-	31	242	49	269	/sprites/uns/transprt%23
+	31	242	49	269	/sprites/uns/transport%23
 	561	307	601	360	/sprites/can/carrier%14
 	513	32	522	40	/sprites/can/fighter%16
 	409	295	418	305	/sprites/dev/magneto%0

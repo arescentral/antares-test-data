@@ -129,7 +129,7 @@ rect	227	0	228	481	000050
 draw	363	235	379	249	/sprites/ish/cruiser%21
 	409	161	425	176	/sprites/ish/cruiser%14
 	419	166	435	180	/sprites/ish/cruiser%15
-	249	172	275	196	/sprites/ish/transprt%20
+	249	172	275	196	/sprites/ish/transport%20
 	554	234	557	237	/sprites/sfx/crew%5
 	8	476	10	479	/sprites/sfx/crew%16
 dither	260	164	329	181	001830
@@ -444,7 +444,7 @@ crop	15	252	21	264	32	60	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	19	278	30	296	/sprites/ish/transprt%0
+draw	19	278	30	296	/sprites/ish/transport%0
 rect	14	276	36	277	489048
 			15	278	
 	35		36		

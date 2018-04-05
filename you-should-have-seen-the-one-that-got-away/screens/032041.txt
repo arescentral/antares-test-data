@@ -178,10 +178,10 @@ rect	318	0	319	481	000050
 line	16666	1037	16654	1030	7fff7f
 	428	215	410	221	
 	16465	957	16463	944	
-draw	485	183	545	218	/sprites/uns/transprt%20
+draw	485	183	545	218	/sprites/uns/transport%20
 	340	219	396	260	/sprites/uns/gunship%9
 static	453	210	473	251	f0f078	5	/sprites/can/cruiser%1
-draw	105	360	157	402	/sprites/uns/transprt%3
+draw	105	360	157	402	/sprites/uns/transport%3
 	437	334	453	352	/sprites/dev/magneto%3
 	556	375	576	388	/sprites/dev/magneto%1
 	415	276	435	290	/sprites/dev/magneto%4

@@ -163,7 +163,7 @@ line	577	387	583	396	ff0000
 	283	332	288	337	
 	375	242	369	240	
 draw	354	230	382	250	/sprites/uns/gunship%9
-	231	297	247	321	/sprites/uns/transprt%1
+	231	297	247	321	/sprites/uns/transport%1
 	6	329	18	337	/sprites/uns/fighter%3
 static	566	344	578	350	ffffff	5	/sprites/uns/fighter%18
 draw	214	316	222	325	/sprites/uns/fighter%0

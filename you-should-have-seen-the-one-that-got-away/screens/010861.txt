@@ -134,7 +134,7 @@ line	444	294	433	286	7fff7f
 	14363	2401	14373	2388	
 	14152	2633	14164	2623	
 static	339	230	397	255	ffffff	90	/sprites/uns/gunship%5
-draw	628	442	675	483	/sprites/can/transprt%6
+draw	628	442	675	483	/sprites/can/transport%6
 	632	121	637	127	/sprites/sfx/crew%4
 	448	156	550	241	/sprites/sfx/explosion/energy%14
 dither	200	451	444	468	300000

@@ -128,7 +128,7 @@ rect	308	0	309	481	000050
 	128	184	609	185	002850
 		393		394	000050
 draw	136	254	154	284	/sprites/gai/etc/lab%4
-static	201	388	217	406	ffffff	124	/sprites/obi/transprt%22
+static	201	388	217	406	ffffff	124	/sprites/obi/transport%22
 draw	362	234	376	247	/sprites/ish/hvc%21
 	227	457	243	470	/sprites/obi/escort%22
 	192	414	194	415	/sprites/obi/etc/obiard/waving%10
@@ -463,7 +463,7 @@ crop	15	180	21	192	24	48	000000	/fonts/computer.png
 	45		51		0			
 	51		57		16			
 	57		63		32			
-draw	20	206	30	224	/sprites/obi/transprt%0
+draw	20	206	30	224	/sprites/obi/transport%0
 rect	14	204	36	205	489048
 			15	206	
 	35		36		
