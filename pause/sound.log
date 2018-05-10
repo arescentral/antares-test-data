@@ -1,6 +1,6 @@
 quiet	3	0
 amp	3	0	255
-loop	3	0	/music/4001
+loop	3	0	/music/doomtroopers-unite
 quiet	0	1816
 amp	0	1816	192
 play	0	1816	/sounds/507
@@ -9,11 +9,11 @@ amp	0	1875	192
 play	0	1875	/sounds/507
 quiet	3	1936
 amp	3	1936	255
-loop	3	1936	/music/4002
+loop	3	1936	/music/autoregret
 quiet	3	1936
 quiet	3	1936
 amp	3	1936	255
-loop	3	1936	/music/3000
+loop	3	1936	/music/freds-theme
 quiet	1	1938
 amp	1	1938	64
 play	1	1938	/sounds/535
@@ -373,7 +373,7 @@ quiet	2	2380
 quiet	3	2380
 quiet	3	2380
 amp	3	2380	255
-loop	3	2380	/music/4001
+loop	3	2380	/music/doomtroopers-unite
 quiet	0	2440
 amp	0	2440	192
 play	0	2440	/sounds/507

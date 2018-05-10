@@ -1,10 +1,10 @@
 quiet	3	0
 amp	3	0	255
-loop	3	0	/music/3000
+loop	3	0	/music/freds-theme
 quiet	3	0
 quiet	3	0
 amp	3	0	215
-loop	3	0	/music/5000
+loop	3	0	/music/getalong
 quiet	0	1
 amp	0	1	128
 play	0	1	/sounds/510
