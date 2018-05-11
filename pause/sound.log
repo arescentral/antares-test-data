@@ -3,10 +3,10 @@ amp	3	0	255
 loop	3	0	/music/doomtroopers-unite
 quiet	0	1816
 amp	0	1816	192
-play	0	1816	/sounds/507
+play	0	1816	/sounds/gui/beep/select
 quiet	0	1875
 amp	0	1875	192
-play	0	1875	/sounds/507
+play	0	1875	/sounds/gui/beep/select
 quiet	3	1936
 amp	3	1936	255
 loop	3	1936	/music/autoregret
@@ -16,357 +16,357 @@ amp	3	1936	255
 loop	3	1936	/music/freds-theme
 quiet	1	1938
 amp	1	1938	64
-play	1	1938	/sounds/535
+play	1	1938	/sounds/gui/beep/message
 quiet	1	1941
 amp	1	1941	64
-play	1	1941	/sounds/535
+play	1	1941	/sounds/gui/beep/message
 quiet	1	1944
 amp	1	1944	64
-play	1	1944	/sounds/535
+play	1	1944	/sounds/gui/beep/message
 quiet	1	1947
 amp	1	1947	64
-play	1	1947	/sounds/535
+play	1	1947	/sounds/gui/beep/message
 quiet	1	1950
 amp	1	1950	64
-play	1	1950	/sounds/535
+play	1	1950	/sounds/gui/beep/message
 quiet	1	1953
 amp	1	1953	64
-play	1	1953	/sounds/535
+play	1	1953	/sounds/gui/beep/message
 quiet	1	1956
 amp	1	1956	64
-play	1	1956	/sounds/535
+play	1	1956	/sounds/gui/beep/message
 quiet	1	1959
 amp	1	1959	64
-play	1	1959	/sounds/535
+play	1	1959	/sounds/gui/beep/message
 quiet	1	1962
 amp	1	1962	64
-play	1	1962	/sounds/535
+play	1	1962	/sounds/gui/beep/message
 quiet	1	1965
 amp	1	1965	64
-play	1	1965	/sounds/535
+play	1	1965	/sounds/gui/beep/message
 quiet	1	1968
 amp	1	1968	64
-play	1	1968	/sounds/535
+play	1	1968	/sounds/gui/beep/message
 quiet	1	1971
 amp	1	1971	64
-play	1	1971	/sounds/535
+play	1	1971	/sounds/gui/beep/message
 quiet	1	1974
 amp	1	1974	64
-play	1	1974	/sounds/535
+play	1	1974	/sounds/gui/beep/message
 quiet	3	1979
 quiet	3	1979
 quiet	1	1979
 amp	1	1979	128
-play	1	1979	/sounds/509
+play	1	1979	/sounds/gui/beep/button
 quiet	2	1980
 amp	2	1980	128
-play	2	1980	/sounds/510
+play	2	1980	/sounds/gui/beep/zoom
 quiet	0	1981
 amp	0	1981	64
-play	0	1981	/sounds/535
+play	0	1981	/sounds/gui/beep/message
 quiet	0	1982
 amp	0	1982	64
-play	0	1982	/sounds/535
+play	0	1982	/sounds/gui/beep/message
 quiet	0	1983
 amp	0	1983	64
-play	0	1983	/sounds/535
+play	0	1983	/sounds/gui/beep/message
 quiet	0	1984
 amp	0	1984	64
-play	0	1984	/sounds/535
+play	0	1984	/sounds/gui/beep/message
 quiet	0	1985
 amp	0	1985	64
-play	0	1985	/sounds/535
+play	0	1985	/sounds/gui/beep/message
 quiet	0	1986
 amp	0	1986	64
-play	0	1986	/sounds/535
+play	0	1986	/sounds/gui/beep/message
 quiet	0	1987
 amp	0	1987	64
-play	0	1987	/sounds/535
+play	0	1987	/sounds/gui/beep/message
 quiet	0	1988
 amp	0	1988	64
-play	0	1988	/sounds/535
+play	0	1988	/sounds/gui/beep/message
 quiet	0	1989
 amp	0	1989	64
-play	0	1989	/sounds/535
+play	0	1989	/sounds/gui/beep/message
 quiet	0	1990
 amp	0	1990	64
-play	0	1990	/sounds/535
+play	0	1990	/sounds/gui/beep/message
 quiet	0	1991
 amp	0	1991	64
-play	0	1991	/sounds/535
+play	0	1991	/sounds/gui/beep/message
 quiet	0	1992
 amp	0	1992	64
-play	0	1992	/sounds/535
+play	0	1992	/sounds/gui/beep/message
 quiet	0	1993
 amp	0	1993	64
-play	0	1993	/sounds/535
+play	0	1993	/sounds/gui/beep/message
 quiet	0	1994
 amp	0	1994	64
-play	0	1994	/sounds/535
+play	0	1994	/sounds/gui/beep/message
 quiet	0	1995
 amp	0	1995	64
-play	0	1995	/sounds/535
+play	0	1995	/sounds/gui/beep/message
 quiet	2	1996
 amp	2	1996	128
-play	2	1996	/sounds/510
+play	2	1996	/sounds/gui/beep/zoom
 quiet	0	1996
 amp	0	1996	64
-play	0	1996	/sounds/535
+play	0	1996	/sounds/gui/beep/message
 quiet	0	1997
 amp	0	1997	64
-play	0	1997	/sounds/535
+play	0	1997	/sounds/gui/beep/message
 quiet	0	1998
 amp	0	1998	64
-play	0	1998	/sounds/535
+play	0	1998	/sounds/gui/beep/message
 quiet	0	1999
 amp	0	1999	64
-play	0	1999	/sounds/535
+play	0	1999	/sounds/gui/beep/message
 quiet	0	2000
 amp	0	2000	64
-play	0	2000	/sounds/535
+play	0	2000	/sounds/gui/beep/message
 quiet	0	2001
 amp	0	2001	64
-play	0	2001	/sounds/535
+play	0	2001	/sounds/gui/beep/message
 quiet	0	2002
 amp	0	2002	64
-play	0	2002	/sounds/535
+play	0	2002	/sounds/gui/beep/message
 quiet	0	2003
 amp	0	2003	64
-play	0	2003	/sounds/535
+play	0	2003	/sounds/gui/beep/message
 quiet	0	2004
 amp	0	2004	64
-play	0	2004	/sounds/535
+play	0	2004	/sounds/gui/beep/message
 quiet	0	2005
 amp	0	2005	64
-play	0	2005	/sounds/535
+play	0	2005	/sounds/gui/beep/message
 quiet	0	2006
 amp	0	2006	64
-play	0	2006	/sounds/535
+play	0	2006	/sounds/gui/beep/message
 quiet	0	2007
 amp	0	2007	64
-play	0	2007	/sounds/535
+play	0	2007	/sounds/gui/beep/message
 quiet	0	2008
 amp	0	2008	64
-play	0	2008	/sounds/535
+play	0	2008	/sounds/gui/beep/message
 quiet	0	2009
 amp	0	2009	64
-play	0	2009	/sounds/535
+play	0	2009	/sounds/gui/beep/message
 quiet	0	2010
 amp	0	2010	64
-play	0	2010	/sounds/535
+play	0	2010	/sounds/gui/beep/message
 quiet	0	2011
 amp	0	2011	64
-play	0	2011	/sounds/535
+play	0	2011	/sounds/gui/beep/message
 quiet	0	2012
 amp	0	2012	64
-play	0	2012	/sounds/535
+play	0	2012	/sounds/gui/beep/message
 quiet	0	2013
 amp	0	2013	64
-play	0	2013	/sounds/535
+play	0	2013	/sounds/gui/beep/message
 quiet	0	2014
 amp	0	2014	64
-play	0	2014	/sounds/535
+play	0	2014	/sounds/gui/beep/message
 quiet	0	2015
 amp	0	2015	64
-play	0	2015	/sounds/535
+play	0	2015	/sounds/gui/beep/message
 quiet	0	2016
 amp	0	2016	64
-play	0	2016	/sounds/535
+play	0	2016	/sounds/gui/beep/message
 quiet	0	2017
 amp	0	2017	64
-play	0	2017	/sounds/535
+play	0	2017	/sounds/gui/beep/message
 quiet	0	2018
 amp	0	2018	64
-play	0	2018	/sounds/535
+play	0	2018	/sounds/gui/beep/message
 quiet	0	2019
 amp	0	2019	64
-play	0	2019	/sounds/535
+play	0	2019	/sounds/gui/beep/message
 quiet	0	2020
 amp	0	2020	64
-play	0	2020	/sounds/535
+play	0	2020	/sounds/gui/beep/message
 quiet	2	2020
 amp	2	2020	255
-play	2	2020	/sounds/510
+play	2	2020	/sounds/gui/beep/zoom
 quiet	0	2142
 amp	0	2142	64
-play	0	2142	/sounds/535
+play	0	2142	/sounds/gui/beep/message
 quiet	0	2143
 amp	0	2143	64
-play	0	2143	/sounds/535
+play	0	2143	/sounds/gui/beep/message
 quiet	0	2144
 amp	0	2144	64
-play	0	2144	/sounds/535
+play	0	2144	/sounds/gui/beep/message
 quiet	0	2145
 amp	0	2145	64
-play	0	2145	/sounds/535
+play	0	2145	/sounds/gui/beep/message
 quiet	0	2146
 amp	0	2146	64
-play	0	2146	/sounds/535
+play	0	2146	/sounds/gui/beep/message
 quiet	0	2147
 amp	0	2147	64
-play	0	2147	/sounds/535
+play	0	2147	/sounds/gui/beep/message
 quiet	0	2148
 amp	0	2148	64
-play	0	2148	/sounds/535
+play	0	2148	/sounds/gui/beep/message
 quiet	0	2149
 amp	0	2149	64
-play	0	2149	/sounds/535
+play	0	2149	/sounds/gui/beep/message
 quiet	0	2150
 amp	0	2150	64
-play	0	2150	/sounds/535
+play	0	2150	/sounds/gui/beep/message
 quiet	0	2151
 amp	0	2151	64
-play	0	2151	/sounds/535
+play	0	2151	/sounds/gui/beep/message
 quiet	0	2152
 amp	0	2152	64
-play	0	2152	/sounds/535
+play	0	2152	/sounds/gui/beep/message
 quiet	0	2153
 amp	0	2153	64
-play	0	2153	/sounds/535
+play	0	2153	/sounds/gui/beep/message
 quiet	0	2154
 amp	0	2154	64
-play	0	2154	/sounds/535
+play	0	2154	/sounds/gui/beep/message
 quiet	0	2155
 amp	0	2155	64
-play	0	2155	/sounds/535
+play	0	2155	/sounds/gui/beep/message
 quiet	0	2156
 amp	0	2156	64
-play	0	2156	/sounds/535
+play	0	2156	/sounds/gui/beep/message
 quiet	0	2157
 amp	0	2157	64
-play	0	2157	/sounds/535
+play	0	2157	/sounds/gui/beep/message
 quiet	0	2158
 amp	0	2158	64
-play	0	2158	/sounds/535
+play	0	2158	/sounds/gui/beep/message
 quiet	0	2159
 amp	0	2159	64
-play	0	2159	/sounds/535
+play	0	2159	/sounds/gui/beep/message
 quiet	0	2160
 amp	0	2160	64
-play	0	2160	/sounds/535
+play	0	2160	/sounds/gui/beep/message
 quiet	0	2161
 amp	0	2161	64
-play	0	2161	/sounds/535
+play	0	2161	/sounds/gui/beep/message
 quiet	0	2162
 amp	0	2162	64
-play	0	2162	/sounds/535
+play	0	2162	/sounds/gui/beep/message
 quiet	0	2163
 amp	0	2163	64
-play	0	2163	/sounds/535
+play	0	2163	/sounds/gui/beep/message
 quiet	0	2164
 amp	0	2164	64
-play	0	2164	/sounds/535
+play	0	2164	/sounds/gui/beep/message
 quiet	0	2165
 amp	0	2165	64
-play	0	2165	/sounds/535
+play	0	2165	/sounds/gui/beep/message
 quiet	0	2166
 amp	0	2166	64
-play	0	2166	/sounds/535
+play	0	2166	/sounds/gui/beep/message
 quiet	0	2167
 amp	0	2167	64
-play	0	2167	/sounds/535
+play	0	2167	/sounds/gui/beep/message
 quiet	0	2168
 amp	0	2168	64
-play	0	2168	/sounds/535
+play	0	2168	/sounds/gui/beep/message
 quiet	0	2169
 amp	0	2169	64
-play	0	2169	/sounds/535
+play	0	2169	/sounds/gui/beep/message
 quiet	0	2170
 amp	0	2170	64
-play	0	2170	/sounds/535
+play	0	2170	/sounds/gui/beep/message
 quiet	0	2171
 amp	0	2171	64
-play	0	2171	/sounds/535
+play	0	2171	/sounds/gui/beep/message
 quiet	0	2172
 amp	0	2172	64
-play	0	2172	/sounds/535
+play	0	2172	/sounds/gui/beep/message
 quiet	0	2173
 amp	0	2173	64
-play	0	2173	/sounds/535
+play	0	2173	/sounds/gui/beep/message
 quiet	0	2174
 amp	0	2174	64
-play	0	2174	/sounds/535
+play	0	2174	/sounds/gui/beep/message
 quiet	0	2175
 amp	0	2175	64
-play	0	2175	/sounds/535
+play	0	2175	/sounds/gui/beep/message
 quiet	0	2176
 amp	0	2176	64
-play	0	2176	/sounds/535
+play	0	2176	/sounds/gui/beep/message
 quiet	0	2177
 amp	0	2177	64
-play	0	2177	/sounds/535
+play	0	2177	/sounds/gui/beep/message
 quiet	0	2178
 amp	0	2178	64
-play	0	2178	/sounds/535
+play	0	2178	/sounds/gui/beep/message
 quiet	0	2179
 amp	0	2179	64
-play	0	2179	/sounds/535
+play	0	2179	/sounds/gui/beep/message
 quiet	0	2180
 amp	0	2180	64
-play	0	2180	/sounds/535
+play	0	2180	/sounds/gui/beep/message
 quiet	0	2181
 amp	0	2181	64
-play	0	2181	/sounds/535
+play	0	2181	/sounds/gui/beep/message
 quiet	0	2182
 amp	0	2182	64
-play	0	2182	/sounds/535
+play	0	2182	/sounds/gui/beep/message
 quiet	0	2183
 amp	0	2183	64
-play	0	2183	/sounds/535
+play	0	2183	/sounds/gui/beep/message
 quiet	0	2184
 amp	0	2184	64
-play	0	2184	/sounds/535
+play	0	2184	/sounds/gui/beep/message
 quiet	0	2185
 amp	0	2185	64
-play	0	2185	/sounds/535
+play	0	2185	/sounds/gui/beep/message
 quiet	0	2186
 amp	0	2186	64
-play	0	2186	/sounds/535
+play	0	2186	/sounds/gui/beep/message
 quiet	0	2187
 amp	0	2187	64
-play	0	2187	/sounds/535
+play	0	2187	/sounds/gui/beep/message
 quiet	0	2188
 amp	0	2188	64
-play	0	2188	/sounds/535
+play	0	2188	/sounds/gui/beep/message
 quiet	0	2189
 amp	0	2189	64
-play	0	2189	/sounds/535
+play	0	2189	/sounds/gui/beep/message
 quiet	0	2190
 amp	0	2190	64
-play	0	2190	/sounds/535
+play	0	2190	/sounds/gui/beep/message
 quiet	0	2191
 amp	0	2191	64
-play	0	2191	/sounds/535
+play	0	2191	/sounds/gui/beep/message
 quiet	0	2192
 amp	0	2192	64
-play	0	2192	/sounds/535
+play	0	2192	/sounds/gui/beep/message
 quiet	0	2193
 amp	0	2193	64
-play	0	2193	/sounds/535
+play	0	2193	/sounds/gui/beep/message
 quiet	0	2194
 amp	0	2194	64
-play	0	2194	/sounds/535
+play	0	2194	/sounds/gui/beep/message
 quiet	0	2195
 amp	0	2195	64
-play	0	2195	/sounds/535
+play	0	2195	/sounds/gui/beep/message
 quiet	0	2196
 amp	0	2196	64
-play	0	2196	/sounds/535
+play	0	2196	/sounds/gui/beep/message
 quiet	0	2197
 amp	0	2197	64
-play	0	2197	/sounds/535
+play	0	2197	/sounds/gui/beep/message
 quiet	0	2198
 amp	0	2198	64
-play	0	2198	/sounds/535
+play	0	2198	/sounds/gui/beep/message
 quiet	0	2199
 amp	0	2199	64
-play	0	2199	/sounds/535
+play	0	2199	/sounds/gui/beep/message
 quiet	0	2200
 amp	0	2200	64
-play	0	2200	/sounds/535
+play	0	2200	/sounds/gui/beep/message
 quiet	0	2320
 amp	0	2320	192
-play	0	2320	/sounds/507
+play	0	2320	/sounds/gui/beep/select
 quiet	0	2380
 quiet	1	2380
 quiet	2	2380
@@ -376,4 +376,4 @@ amp	3	2380	255
 loop	3	2380	/music/doomtroopers-unite
 quiet	0	2440
 amp	0	2440	192
-play	0	2440	/sounds/507
+play	0	2440	/sounds/gui/beep/select

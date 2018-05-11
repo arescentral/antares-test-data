@@ -7,3319 +7,3319 @@ amp	3	0	215
 loop	3	0	/music/technobee
 quiet	0	1
 amp	0	1	128
-play	0	1	/sounds/510
+play	0	1	/sounds/gui/beep/zoom
 quiet	0	150
 amp	0	150	192
-play	0	150	/sounds/507
+play	0	150	/sounds/gui/beep/select
 quiet	0	276
 amp	0	276	192
-play	0	276	/sounds/507
+play	0	276	/sounds/gui/beep/select
 quiet	0	276
 amp	0	276	192
-play	0	276	/sounds/507
+play	0	276	/sounds/gui/beep/select
 quiet	0	297
 amp	0	297	192
-play	0	297	/sounds/507
+play	0	297	/sounds/gui/beep/select
 quiet	1	312
 amp	1	312	128
-play	1	312	/sounds/506
+play	1	312	/sounds/gui/beep/order
 quiet	0	315
 amp	0	315	192
-play	0	315	/sounds/507
+play	0	315	/sounds/gui/beep/select
 quiet	1	336
 amp	1	336	128
-play	1	336	/sounds/506
+play	1	336	/sounds/gui/beep/order
 quiet	2	468
 amp	2	468	128
-play	2	468	/sounds/509
+play	2	468	/sounds/gui/beep/button
 quiet	2	519
 amp	2	519	128
-play	2	519	/sounds/509
+play	2	519	/sounds/gui/beep/button
 quiet	0	597
 amp	0	597	192
-play	0	597	/sounds/507
+play	0	597	/sounds/gui/beep/select
 quiet	2	747
 amp	2	747	128
-play	2	747	/sounds/509
+play	2	747	/sounds/gui/beep/button
 quiet	2	756
 amp	2	756	128
-play	2	756	/sounds/509
+play	2	756	/sounds/gui/beep/button
 quiet	1	820
 amp	1	820	128
-play	1	820	/sounds/510
+play	1	820	/sounds/gui/beep/zoom
 quiet	0	825
 amp	0	825	128
-play	0	825	/sounds/508
+play	0	825	/sounds/gui/beep/build
 quiet	0	870
 amp	0	870	137
-play	0	870	/sounds/531
+play	0	870	/sounds/dev/repulser
 quiet	0	873
 amp	0	873	169
-play	0	873	/sounds/531
+play	0	873	/sounds/dev/repulser
 quiet	1	897
 amp	1	897	143
-play	1	897	/sounds/531
+play	1	897	/sounds/dev/repulser
 quiet	0	900
 amp	0	900	174
-play	0	900	/sounds/531
+play	0	900	/sounds/dev/repulser
 quiet	0	924
 amp	0	924	255
-play	0	924	/sounds/518
+play	0	924	/sounds/sfx/warp/out
 quiet	2	936
 amp	2	936	128
-play	2	936	/sounds/509
+play	2	936	/sounds/gui/beep/button
 quiet	1	990
 amp	1	990	255
-play	1	990	/sounds/502
+play	1	990	/sounds/dev/fusion
 quiet	2	1020
 amp	2	1020	255
-play	2	1020	/sounds/500
+play	2	1020	/sounds/dev/pk/ish
 quiet	1	1026
 amp	1	1026	255
-play	1	1026	/sounds/502
+play	1	1026	/sounds/dev/fusion
 quiet	2	1035
 amp	2	1035	255
-play	2	1035	/sounds/500
+play	2	1035	/sounds/dev/pk/ish
 quiet	1	1038
 amp	1	1038	255
-play	1	1038	/sounds/502
+play	1	1038	/sounds/dev/fusion
 quiet	2	1041
 amp	2	1041	255
-play	2	1041	/sounds/500
+play	2	1041	/sounds/dev/pk/ish
 quiet	2	1056
 amp	2	1056	255
-play	2	1056	/sounds/500
+play	2	1056	/sounds/dev/pk/ish
 quiet	1	1074
 amp	1	1074	255
-play	1	1074	/sounds/502
+play	1	1074	/sounds/dev/fusion
 quiet	2	1077
 amp	2	1077	255
-play	2	1077	/sounds/500
+play	2	1077	/sounds/dev/pk/ish
 quiet	0	1092
 amp	0	1092	255
-play	0	1092	/sounds/503
+play	0	1092	/sounds/sfx/explosion/energy
 quiet	1	1098
 amp	1	1098	104
-play	1	1098	/sounds/531
+play	1	1098	/sounds/dev/repulser
 quiet	1	1101
 amp	1	1101	137
-play	1	1101	/sounds/531
+play	1	1101	/sounds/dev/repulser
 quiet	2	1101
 amp	2	1101	128
-play	2	1101	/sounds/509
+play	2	1101	/sounds/gui/beep/button
 quiet	2	1107
 amp	2	1107	126
-play	2	1107	/sounds/503
+play	2	1107	/sounds/sfx/explosion/energy
 quiet	1	1125
 amp	1	1125	109
-play	1	1125	/sounds/531
+play	1	1125	/sounds/dev/repulser
 quiet	1	1167
 amp	1	1167	255
-play	1	1167	/sounds/502
+play	1	1167	/sounds/dev/fusion
 quiet	2	1167
 amp	2	1167	255
-play	2	1167	/sounds/500
+play	2	1167	/sounds/dev/pk/ish
 quiet	2	1167
 amp	2	1167	255
-play	2	1167	/sounds/500
+play	2	1167	/sounds/dev/pk/ish
 quiet	1	1170
 amp	1	1170	255
-play	1	1170	/sounds/502
+play	1	1170	/sounds/dev/fusion
 quiet	2	1188
 amp	2	1188	255
-play	2	1188	/sounds/500
+play	2	1188	/sounds/dev/pk/ish
 quiet	0	1188
 amp	0	1188	255
-play	0	1188	/sounds/518
+play	0	1188	/sounds/sfx/warp/out
 quiet	2	1188
 amp	2	1188	255
-play	2	1188	/sounds/500
+play	2	1188	/sounds/dev/pk/ish
 quiet	1	1200
 amp	1	1200	255
-play	1	1200	/sounds/503
+play	1	1200	/sounds/sfx/explosion/energy
 quiet	2	1206
 amp	2	1206	255
-play	2	1206	/sounds/502
+play	2	1206	/sounds/dev/fusion
 quiet	0	1209
 amp	0	1209	255
-play	0	1209	/sounds/500
+play	0	1209	/sounds/dev/pk/ish
 quiet	0	1230
 amp	0	1230	255
-play	0	1230	/sounds/500
+play	0	1230	/sounds/dev/pk/ish
 quiet	1	1233
 amp	1	1233	255
-play	1	1233	/sounds/503
+play	1	1233	/sounds/sfx/explosion/energy
 quiet	2	1242
 amp	2	1242	255
-play	2	1242	/sounds/502
+play	2	1242	/sounds/dev/fusion
 quiet	0	1245
 amp	0	1245	128
-play	0	1245	/sounds/508
+play	0	1245	/sounds/gui/beep/build
 quiet	0	1251
 amp	0	1251	255
-play	0	1251	/sounds/500
+play	0	1251	/sounds/dev/pk/ish
 quiet	0	1272
 amp	0	1272	255
-play	0	1272	/sounds/500
+play	0	1272	/sounds/dev/pk/ish
 quiet	2	1278
 amp	2	1278	255
-play	2	1278	/sounds/502
+play	2	1278	/sounds/dev/fusion
 quiet	0	1293
 amp	0	1293	255
-play	0	1293	/sounds/500
+play	0	1293	/sounds/dev/pk/ish
 quiet	1	1302
 amp	1	1302	255
-play	1	1302	/sounds/503
+play	1	1302	/sounds/sfx/explosion/energy
 quiet	2	1314
 amp	2	1314	255
-play	2	1314	/sounds/502
+play	2	1314	/sounds/dev/fusion
 quiet	0	1314
 amp	0	1314	255
-play	0	1314	/sounds/500
+play	0	1314	/sounds/dev/pk/ish
 quiet	0	1335
 amp	0	1335	255
-play	0	1335	/sounds/500
+play	0	1335	/sounds/dev/pk/ish
 quiet	2	1350
 amp	2	1350	255
-play	2	1350	/sounds/502
+play	2	1350	/sounds/dev/fusion
 quiet	0	1356
 amp	0	1356	255
-play	0	1356	/sounds/500
+play	0	1356	/sounds/dev/pk/ish
 quiet	1	1377
 amp	1	1377	247
-play	1	1377	/sounds/502
+play	1	1377	/sounds/dev/fusion
 quiet	1	1392
 amp	1	1392	250
-play	1	1392	/sounds/500
+play	1	1392	/sounds/dev/pk/ish
 quiet	2	1470
 amp	2	1470	245
-play	2	1470	/sounds/502
+play	2	1470	/sounds/dev/fusion
 quiet	2	1470
 amp	2	1470	246
-play	2	1470	/sounds/500
+play	2	1470	/sounds/dev/pk/ish
 quiet	0	1563
 amp	0	1563	128
-play	0	1563	/sounds/509
+play	0	1563	/sounds/gui/beep/button
 quiet	0	1581
 amp	0	1581	255
-play	0	1581	/sounds/502
+play	0	1581	/sounds/dev/fusion
 quiet	1	1581
 amp	1	1581	255
-play	1	1581	/sounds/500
+play	1	1581	/sounds/dev/pk/ish
 quiet	1	1602
 amp	1	1602	255
-play	1	1602	/sounds/500
+play	1	1602	/sounds/dev/pk/ish
 quiet	1	1602
 amp	1	1602	255
-play	1	1602	/sounds/500
+play	1	1602	/sounds/dev/pk/ish
 quiet	0	1605
 amp	0	1605	255
-play	0	1605	/sounds/502
+play	0	1605	/sounds/dev/fusion
 quiet	0	1617
 amp	0	1617	255
-play	0	1617	/sounds/502
+play	0	1617	/sounds/dev/fusion
 quiet	1	1623
 amp	1	1623	255
-play	1	1623	/sounds/500
+play	1	1623	/sounds/dev/pk/ish
 quiet	1	1623
 amp	1	1623	255
-play	1	1623	/sounds/500
+play	1	1623	/sounds/dev/pk/ish
 quiet	0	1641
 amp	0	1641	255
-play	0	1641	/sounds/502
+play	0	1641	/sounds/dev/fusion
 quiet	2	1641
 amp	2	1641	255
-play	2	1641	/sounds/503
+play	2	1641	/sounds/sfx/explosion/energy
 quiet	1	1644
 amp	1	1644	240
-play	1	1644	/sounds/518
+play	1	1644	/sounds/sfx/warp/out
 quiet	1	1644
 amp	1	1644	255
-play	1	1644	/sounds/500
+play	1	1644	/sounds/dev/pk/ish
 quiet	0	1656
 amp	0	1656	255
-play	0	1656	/sounds/502
+play	0	1656	/sounds/dev/fusion
 quiet	1	1665
 amp	1	1665	255
-play	1	1665	/sounds/500
+play	1	1665	/sounds/dev/pk/ish
 quiet	0	1677
 amp	0	1677	255
-play	0	1677	/sounds/502
+play	0	1677	/sounds/dev/fusion
 quiet	1	1689
 amp	1	1689	255
-play	1	1689	/sounds/500
+play	1	1689	/sounds/dev/pk/ish
 quiet	0	1695
 amp	0	1695	255
-play	0	1695	/sounds/502
+play	0	1695	/sounds/dev/fusion
 quiet	1	1695
 amp	1	1695	255
-play	1	1695	/sounds/500
+play	1	1695	/sounds/dev/pk/ish
 quiet	2	1701
 amp	2	1701	255
-play	2	1701	/sounds/503
+play	2	1701	/sounds/sfx/explosion/energy
 quiet	2	1707
 amp	2	1707	255
-play	2	1707	/sounds/503
+play	2	1707	/sounds/sfx/explosion/energy
 quiet	1	1710
 amp	1	1710	255
-play	1	1710	/sounds/500
+play	1	1710	/sounds/dev/pk/ish
 quiet	0	1713
 amp	0	1713	255
-play	0	1713	/sounds/550
+play	0	1713	/sounds/dev/conc
 quiet	0	1713
 amp	0	1713	198
-play	0	1713	/sounds/502
+play	0	1713	/sounds/dev/fusion
 quiet	0	1713
 amp	0	1713	255
-play	0	1713	/sounds/502
+play	0	1713	/sounds/dev/fusion
 quiet	2	1716
 amp	2	1716	255
-play	2	1716	/sounds/503
+play	2	1716	/sounds/sfx/explosion/energy
 quiet	1	1719
 amp	1	1719	255
-play	1	1719	/sounds/500
+play	1	1719	/sounds/dev/pk/ish
 quiet	0	1725
 amp	0	1725	255
-play	0	1725	/sounds/550
+play	0	1725	/sounds/dev/conc
 quiet	0	1725
 amp	0	1725	255
-play	0	1725	/sounds/553
+play	0	1725	/sounds/dev/conc/ricochet/2
 quiet	1	1731
 amp	1	1731	255
-play	1	1731	/sounds/502
+play	1	1731	/sounds/dev/fusion
 quiet	2	1731
 amp	2	1731	255
-play	2	1731	/sounds/503
+play	2	1731	/sounds/sfx/explosion/energy
 quiet	1	1749
 amp	1	1749	255
-play	1	1749	/sounds/502
+play	1	1749	/sounds/dev/fusion
 quiet	0	1752
 amp	0	1752	255
-play	0	1752	/sounds/500
+play	0	1752	/sounds/dev/pk/ish
 quiet	0	1773
 amp	0	1773	255
-play	0	1773	/sounds/500
+play	0	1773	/sounds/dev/pk/ish
 quiet	1	1785
 amp	1	1785	255
-play	1	1785	/sounds/502
+play	1	1785	/sounds/dev/fusion
 quiet	0	1794
 amp	0	1794	255
-play	0	1794	/sounds/500
+play	0	1794	/sounds/dev/pk/ish
 quiet	2	1806
 amp	2	1806	255
-play	2	1806	/sounds/503
+play	2	1806	/sounds/sfx/explosion/energy
 quiet	0	1815
 amp	0	1815	255
-play	0	1815	/sounds/500
+play	0	1815	/sounds/dev/pk/ish
 quiet	1	1821
 amp	1	1821	255
-play	1	1821	/sounds/502
+play	1	1821	/sounds/dev/fusion
 quiet	2	1827
 amp	2	1827	255
-play	2	1827	/sounds/503
+play	2	1827	/sounds/sfx/explosion/energy
 quiet	0	1836
 amp	0	1836	255
-play	0	1836	/sounds/500
+play	0	1836	/sounds/dev/pk/ish
 quiet	2	1845
 amp	2	1845	255
-play	2	1845	/sounds/503
+play	2	1845	/sounds/sfx/explosion/energy
 quiet	1	1848
 amp	1	1848	255
-play	1	1848	/sounds/550
+play	1	1848	/sounds/dev/conc
 quiet	1	1851
 amp	1	1851	112
-play	1	1851	/sounds/502
+play	1	1851	/sounds/dev/fusion
 quiet	1	1854
 amp	1	1854	255
-play	1	1854	/sounds/550
+play	1	1854	/sounds/dev/conc
 quiet	1	1857
 amp	1	1857	112
-play	1	1857	/sounds/500
+play	1	1857	/sounds/dev/pk/ish
 quiet	1	1857
 amp	1	1857	255
-play	1	1857	/sounds/502
+play	1	1857	/sounds/dev/fusion
 quiet	0	1857
 amp	0	1857	255
-play	0	1857	/sounds/500
+play	0	1857	/sounds/dev/pk/ish
 quiet	2	1872
 amp	2	1872	128
-play	2	1872	/sounds/508
+play	2	1872	/sounds/gui/beep/build
 quiet	1	1893
 amp	1	1893	255
-play	1	1893	/sounds/502
+play	1	1893	/sounds/dev/fusion
 quiet	0	1893
 amp	0	1893	255
-play	0	1893	/sounds/500
+play	0	1893	/sounds/dev/pk/ish
 quiet	1	1911
 amp	1	1911	255
-play	1	1911	/sounds/502
+play	1	1911	/sounds/dev/fusion
 quiet	2	1911
 amp	2	1911	113
-play	2	1911	/sounds/502
+play	2	1911	/sounds/dev/fusion
 quiet	0	1911
 amp	0	1911	112
-play	0	1911	/sounds/500
+play	0	1911	/sounds/dev/pk/ish
 quiet	0	1914
 amp	0	1914	255
-play	0	1914	/sounds/500
+play	0	1914	/sounds/dev/pk/ish
 quiet	2	1923
 amp	2	1923	124
-play	2	1923	/sounds/503
+play	2	1923	/sounds/sfx/explosion/energy
 quiet	1	1929
 amp	1	1929	255
-play	1	1929	/sounds/502
+play	1	1929	/sounds/dev/fusion
 quiet	0	1932
 amp	0	1932	255
-play	0	1932	/sounds/500
+play	0	1932	/sounds/dev/pk/ish
 quiet	0	1935
 amp	0	1935	255
-play	0	1935	/sounds/500
+play	0	1935	/sounds/dev/pk/ish
 quiet	1	1941
 amp	1	1941	255
-play	1	1941	/sounds/502
+play	1	1941	/sounds/dev/fusion
 quiet	0	1941
 amp	0	1941	255
-play	0	1941	/sounds/500
+play	0	1941	/sounds/dev/pk/ish
 quiet	0	1956
 amp	0	1956	255
-play	0	1956	/sounds/500
+play	0	1956	/sounds/dev/pk/ish
 quiet	0	1962
 amp	0	1962	255
-play	0	1962	/sounds/500
+play	0	1962	/sounds/dev/pk/ish
 quiet	1	1965
 amp	1	1965	255
-play	1	1965	/sounds/502
+play	1	1965	/sounds/dev/fusion
 quiet	1	1977
 amp	1	1977	255
-play	1	1977	/sounds/502
+play	1	1977	/sounds/dev/fusion
 quiet	0	1977
 amp	0	1977	255
-play	0	1977	/sounds/500
+play	0	1977	/sounds/dev/pk/ish
 quiet	0	1977
 amp	0	1977	255
-play	0	1977	/sounds/500
+play	0	1977	/sounds/dev/pk/ish
 quiet	0	1998
 amp	0	1998	255
-play	0	1998	/sounds/500
+play	0	1998	/sounds/dev/pk/ish
 quiet	1	2001
 amp	1	2001	255
-play	1	2001	/sounds/502
+play	1	2001	/sounds/dev/fusion
 quiet	2	2010
 amp	2	2010	255
-play	2	2010	/sounds/503
+play	2	2010	/sounds/sfx/explosion/energy
 quiet	0	2019
 amp	0	2019	255
-play	0	2019	/sounds/500
+play	0	2019	/sounds/dev/pk/ish
 quiet	1	2025
 amp	1	2025	255
-play	1	2025	/sounds/502
+play	1	2025	/sounds/dev/fusion
 quiet	0	2025
 amp	0	2025	255
-play	0	2025	/sounds/500
+play	0	2025	/sounds/dev/pk/ish
 quiet	2	2031
 amp	2	2031	255
-play	2	2031	/sounds/503
+play	2	2031	/sounds/sfx/explosion/energy
 quiet	1	2037
 amp	1	2037	255
-play	1	2037	/sounds/502
+play	1	2037	/sounds/dev/fusion
 quiet	0	2040
 amp	0	2040	255
-play	0	2040	/sounds/500
+play	0	2040	/sounds/dev/pk/ish
 quiet	0	2046
 amp	0	2046	255
-play	0	2046	/sounds/500
+play	0	2046	/sounds/dev/pk/ish
 quiet	1	2055
 amp	1	2055	255
-play	1	2055	/sounds/502
+play	1	2055	/sounds/dev/fusion
 quiet	0	2055
 amp	0	2055	255
-play	0	2055	/sounds/500
+play	0	2055	/sounds/dev/pk/ish
 quiet	2	2058
 amp	2	2058	255
-play	2	2058	/sounds/503
+play	2	2058	/sounds/sfx/explosion/energy
 quiet	0	2061
 amp	0	2061	255
-play	0	2061	/sounds/500
+play	0	2061	/sounds/dev/pk/ish
 quiet	2	2061
 amp	2	2061	255
-play	2	2061	/sounds/503
+play	2	2061	/sounds/sfx/explosion/energy
 quiet	1	2070
 amp	1	2070	255
-play	1	2070	/sounds/550
+play	1	2070	/sounds/dev/conc
 quiet	2	2070
 amp	2	2070	255
-play	2	2070	/sounds/503
+play	2	2070	/sounds/sfx/explosion/energy
 quiet	1	2073
 amp	1	2073	255
-play	1	2073	/sounds/502
+play	1	2073	/sounds/dev/fusion
 quiet	0	2073
 amp	0	2073	255
-play	0	2073	/sounds/553
+play	0	2073	/sounds/dev/conc/ricochet/2
 quiet	1	2091
 amp	1	2091	151
-play	1	2091	/sounds/502
+play	1	2091	/sounds/dev/fusion
 quiet	1	2103
 amp	1	2103	255
-play	1	2103	/sounds/502
+play	1	2103	/sounds/dev/fusion
 quiet	0	2103
 amp	0	2103	255
-play	0	2103	/sounds/500
+play	0	2103	/sounds/dev/pk/ish
 quiet	0	2103
 amp	0	2103	255
-play	0	2103	/sounds/500
+play	0	2103	/sounds/dev/pk/ish
 quiet	1	2109
 amp	1	2109	255
-play	1	2109	/sounds/502
+play	1	2109	/sounds/dev/fusion
 quiet	2	2109
 amp	2	2109	255
-play	2	2109	/sounds/503
+play	2	2109	/sounds/sfx/explosion/energy
 quiet	0	2112
 amp	0	2112	255
-play	0	2112	/sounds/515
+play	0	2112	/sounds/sfx/explosion/large
 quiet	2	2112
 amp	2	2112	255
-play	2	2112	/sounds/503
+play	2	2112	/sounds/sfx/explosion/energy
 quiet	1	2136
 amp	1	2136	255
-play	1	2136	/sounds/514
+play	1	2136	/sounds/sfx/energy
 quiet	2	2157
 amp	2	2157	255
-play	2	2157	/sounds/502
+play	2	2157	/sounds/dev/fusion
 quiet	1	2157
 amp	1	2157	255
-play	1	2157	/sounds/500
+play	1	2157	/sounds/dev/pk/ish
 quiet	1	2190
 amp	1	2190	248
-play	1	2190	/sounds/518
+play	1	2190	/sounds/sfx/warp/out
 quiet	2	2190
 amp	2	2190	114
-play	2	2190	/sounds/502
+play	2	2190	/sounds/dev/fusion
 quiet	0	2190
 amp	0	2190	114
-play	0	2190	/sounds/500
+play	0	2190	/sounds/dev/pk/ish
 quiet	0	2193
 amp	0	2193	255
-play	0	2193	/sounds/503
+play	0	2193	/sounds/sfx/explosion/energy
 quiet	2	2196
 amp	2	2196	128
-play	2	2196	/sounds/509
+play	2	2196	/sounds/gui/beep/button
 quiet	2	2202
 amp	2	2202	170
-play	2	2202	/sounds/502
+play	2	2202	/sounds/dev/fusion
 quiet	1	2277
 amp	1	2277	255
-play	1	2277	/sounds/500
+play	1	2277	/sounds/dev/pk/ish
 quiet	2	2280
 amp	2	2280	255
-play	2	2280	/sounds/502
+play	2	2280	/sounds/dev/fusion
 quiet	1	2298
 amp	1	2298	255
-play	1	2298	/sounds/500
+play	1	2298	/sounds/dev/pk/ish
 quiet	2	2307
 amp	2	2307	255
-play	2	2307	/sounds/502
+play	2	2307	/sounds/dev/fusion
 quiet	2	2316
 amp	2	2316	255
-play	2	2316	/sounds/502
+play	2	2316	/sounds/dev/fusion
 quiet	1	2319
 amp	1	2319	255
-play	1	2319	/sounds/500
+play	1	2319	/sounds/dev/pk/ish
 quiet	1	2340
 amp	1	2340	255
-play	1	2340	/sounds/500
+play	1	2340	/sounds/dev/pk/ish
 quiet	2	2352
 amp	2	2352	255
-play	2	2352	/sounds/502
+play	2	2352	/sounds/dev/fusion
 quiet	2	2361
 amp	2	2361	255
-play	2	2361	/sounds/502
+play	2	2361	/sounds/dev/fusion
 quiet	1	2361
 amp	1	2361	255
-play	1	2361	/sounds/500
+play	1	2361	/sounds/dev/pk/ish
 quiet	1	2361
 amp	1	2361	255
-play	1	2361	/sounds/500
+play	1	2361	/sounds/dev/pk/ish
 quiet	0	2376
 amp	0	2376	129
-play	0	2376	/sounds/502
+play	0	2376	/sounds/dev/fusion
 quiet	1	2376
 amp	1	2376	128
-play	1	2376	/sounds/500
+play	1	2376	/sounds/dev/pk/ish
 quiet	1	2382
 amp	1	2382	255
-play	1	2382	/sounds/500
+play	1	2382	/sounds/dev/pk/ish
 quiet	0	2382
 amp	0	2382	255
-play	0	2382	/sounds/503
+play	0	2382	/sounds/sfx/explosion/energy
 quiet	2	2385
 amp	2	2385	154
-play	2	2385	/sounds/503
+play	2	2385	/sounds/sfx/explosion/energy
 quiet	2	2409
 amp	2	2409	255
-play	2	2409	/sounds/502
+play	2	2409	/sounds/dev/fusion
 quiet	1	2412
 amp	1	2412	255
-play	1	2412	/sounds/500
+play	1	2412	/sounds/dev/pk/ish
 quiet	0	2415
 amp	0	2415	213
-play	0	2415	/sounds/502
+play	0	2415	/sounds/dev/fusion
 quiet	0	2418
 amp	0	2418	255
-play	0	2418	/sounds/503
+play	0	2418	/sounds/sfx/explosion/energy
 quiet	0	2421
 amp	0	2421	255
-play	0	2421	/sounds/503
+play	0	2421	/sounds/sfx/explosion/energy
 quiet	1	2433
 amp	1	2433	255
-play	1	2433	/sounds/500
+play	1	2433	/sounds/dev/pk/ish
 quiet	0	2439
 amp	0	2439	255
-play	0	2439	/sounds/503
+play	0	2439	/sounds/sfx/explosion/energy
 quiet	2	2445
 amp	2	2445	255
-play	2	2445	/sounds/502
+play	2	2445	/sounds/dev/fusion
 quiet	0	2451
 amp	0	2451	255
-play	0	2451	/sounds/503
+play	0	2451	/sounds/sfx/explosion/energy
 quiet	1	2454
 amp	1	2454	255
-play	1	2454	/sounds/500
+play	1	2454	/sounds/dev/pk/ish
 quiet	0	2460
 amp	0	2460	255
-play	0	2460	/sounds/503
+play	0	2460	/sounds/sfx/explosion/energy
 quiet	2	2466
 amp	2	2466	255
-play	2	2466	/sounds/550
+play	2	2466	/sounds/dev/conc
 quiet	2	2469
 amp	2	2469	255
-play	2	2469	/sounds/553
+play	2	2469	/sounds/dev/conc/ricochet/2
 quiet	1	2472
 amp	1	2472	255
-play	1	2472	/sounds/550
+play	1	2472	/sounds/dev/conc
 quiet	1	2475
 amp	1	2475	198
-play	1	2475	/sounds/502
+play	1	2475	/sounds/dev/fusion
 quiet	1	2475
 amp	1	2475	255
-play	1	2475	/sounds/500
+play	1	2475	/sounds/dev/pk/ish
 quiet	2	2475
 amp	2	2475	255
-play	2	2475	/sounds/553
+play	2	2475	/sounds/dev/conc/ricochet/2
 quiet	0	2481
 amp	0	2481	255
-play	0	2481	/sounds/502
+play	0	2481	/sounds/dev/fusion
 quiet	0	2487
 amp	0	2487	255
-play	0	2487	/sounds/502
+play	0	2487	/sounds/dev/fusion
 quiet	1	2487
 amp	1	2487	255
-play	1	2487	/sounds/500
+play	1	2487	/sounds/dev/pk/ish
 quiet	2	2493
 amp	2	2493	255
-play	2	2493	/sounds/503
+play	2	2493	/sounds/sfx/explosion/energy
 quiet	1	2496
 amp	1	2496	255
-play	1	2496	/sounds/500
+play	1	2496	/sounds/dev/pk/ish
 quiet	2	2499
 amp	2	2499	255
-play	2	2499	/sounds/503
+play	2	2499	/sounds/sfx/explosion/energy
 quiet	0	2502
 amp	0	2502	128
-play	0	2502	/sounds/508
+play	0	2502	/sounds/gui/beep/build
 quiet	0	2526
 amp	0	2526	170
-play	0	2526	/sounds/502
+play	0	2526	/sounds/dev/fusion
 quiet	0	2535
 amp	0	2535	255
-play	0	2535	/sounds/502
+play	0	2535	/sounds/dev/fusion
 quiet	1	2535
 amp	1	2535	255
-play	1	2535	/sounds/500
+play	1	2535	/sounds/dev/pk/ish
 quiet	0	2544
 amp	0	2544	255
-play	0	2544	/sounds/502
+play	0	2544	/sounds/dev/fusion
 quiet	2	2544
 amp	2	2544	255
-play	2	2544	/sounds/503
+play	2	2544	/sounds/sfx/explosion/energy
 quiet	1	2547
 amp	1	2547	255
-play	1	2547	/sounds/500
+play	1	2547	/sounds/dev/pk/ish
 quiet	1	2559
 amp	1	2559	255
-play	1	2559	/sounds/500
+play	1	2559	/sounds/dev/pk/ish
 quiet	2	2562
 amp	2	2562	255
-play	2	2562	/sounds/503
+play	2	2562	/sounds/sfx/explosion/energy
 quiet	1	2568
 amp	1	2568	255
-play	1	2568	/sounds/500
+play	1	2568	/sounds/dev/pk/ish
 quiet	0	2571
 amp	0	2571	255
-play	0	2571	/sounds/502
+play	0	2571	/sounds/dev/fusion
 quiet	1	2580
 amp	1	2580	255
-play	1	2580	/sounds/500
+play	1	2580	/sounds/dev/pk/ish
 quiet	0	2580
 amp	0	2580	255
-play	0	2580	/sounds/502
+play	0	2580	/sounds/dev/fusion
 quiet	2	2583
 amp	2	2583	148
-play	2	2583	/sounds/502
+play	2	2583	/sounds/dev/fusion
 quiet	0	2586
 amp	0	2586	255
-play	0	2586	/sounds/502
+play	0	2586	/sounds/dev/fusion
 quiet	1	2589
 amp	1	2589	255
-play	1	2589	/sounds/500
+play	1	2589	/sounds/dev/pk/ish
 quiet	2	2595
 amp	2	2595	255
-play	2	2595	/sounds/515
+play	2	2595	/sounds/sfx/explosion/large
 quiet	0	2604
 amp	0	2604	145
-play	0	2604	/sounds/500
+play	0	2604	/sounds/dev/pk/ish
 quiet	0	2610
 amp	0	2610	255
-play	0	2610	/sounds/500
+play	0	2610	/sounds/dev/pk/ish
 quiet	1	2610
 amp	1	2610	134
-play	1	2610	/sounds/503
+play	1	2610	/sounds/sfx/explosion/energy
 quiet	1	2616
 amp	1	2616	255
-play	1	2616	/sounds/502
+play	1	2616	/sounds/dev/fusion
 quiet	0	2622
 amp	0	2622	149
-play	0	2622	/sounds/550
+play	0	2622	/sounds/dev/conc
 quiet	0	2628
 amp	0	2628	151
-play	0	2628	/sounds/550
+play	0	2628	/sounds/dev/conc
 quiet	0	2628
 amp	0	2628	148
-play	0	2628	/sounds/552
+play	0	2628	/sounds/dev/conc/ricochet/1
 quiet	0	2631
 amp	0	2631	255
-play	0	2631	/sounds/500
+play	0	2631	/sounds/dev/pk/ish
 quiet	1	2634
 amp	1	2634	153
-play	1	2634	/sounds/550
+play	1	2634	/sounds/dev/conc
 quiet	1	2634
 amp	1	2634	153
-play	1	2634	/sounds/552
+play	1	2634	/sounds/dev/conc/ricochet/1
 quiet	1	2637
 amp	1	2637	255
-play	1	2637	/sounds/514
+play	1	2637	/sounds/sfx/energy
 quiet	0	2643
 amp	0	2643	158
-play	0	2643	/sounds/552
+play	0	2643	/sounds/dev/conc/ricochet/1
 quiet	0	2649
 amp	0	2649	159
-play	0	2649	/sounds/553
+play	0	2649	/sounds/dev/conc/ricochet/2
 quiet	0	2652
 amp	0	2652	160
-play	0	2652	/sounds/550
+play	0	2652	/sounds/dev/conc
 quiet	0	2658
 amp	0	2658	163
-play	0	2658	/sounds/550
+play	0	2658	/sounds/dev/conc
 quiet	0	2658
 amp	0	2658	162
-play	0	2658	/sounds/552
+play	0	2658	/sounds/dev/conc/ricochet/1
 quiet	0	2661
 amp	0	2661	163
-play	0	2661	/sounds/553
+play	0	2661	/sounds/dev/conc/ricochet/2
 quiet	0	2664
 amp	0	2664	164
-play	0	2664	/sounds/550
+play	0	2664	/sounds/dev/conc
 quiet	1	2670
 amp	1	2670	164
-play	1	2670	/sounds/550
+play	1	2670	/sounds/dev/conc
 quiet	0	2676
 amp	0	2676	150
-play	0	2676	/sounds/502
+play	0	2676	/sounds/dev/fusion
 quiet	1	2676
 amp	1	2676	149
-play	1	2676	/sounds/500
+play	1	2676	/sounds/dev/pk/ish
 quiet	0	2676
 amp	0	2676	163
-play	0	2676	/sounds/550
+play	0	2676	/sounds/dev/conc
 quiet	0	2676
 amp	0	2676	164
-play	0	2676	/sounds/553
+play	0	2676	/sounds/dev/conc/ricochet/2
 quiet	1	2679
 amp	1	2679	162
-play	1	2679	/sounds/553
+play	1	2679	/sounds/dev/conc/ricochet/2
 quiet	2	2682
 amp	2	2682	160
-play	2	2682	/sounds/550
+play	2	2682	/sounds/dev/conc
 quiet	2	2688
 amp	2	2688	159
-play	2	2688	/sounds/552
+play	2	2688	/sounds/dev/conc/ricochet/1
 quiet	0	2694
 amp	0	2694	155
-play	0	2694	/sounds/550
+play	0	2694	/sounds/dev/conc
 quiet	1	2700
 amp	1	2700	154
-play	1	2700	/sounds/550
+play	1	2700	/sounds/dev/conc
 quiet	0	2784
 amp	0	2784	171
-play	0	2784	/sounds/502
+play	0	2784	/sounds/dev/fusion
 quiet	2	2787
 amp	2	2787	117
-play	2	2787	/sounds/550
+play	2	2787	/sounds/dev/conc
 quiet	1	2793
 amp	1	2793	115
-play	1	2793	/sounds/550
+play	1	2793	/sounds/dev/conc
 quiet	1	2793
 amp	1	2793	115
-play	1	2793	/sounds/553
+play	1	2793	/sounds/dev/conc/ricochet/2
 quiet	2	2799
 amp	2	2799	105
-play	2	2799	/sounds/502
+play	2	2799	/sounds/dev/fusion
 quiet	0	2799
 amp	0	2799	104
-play	0	2799	/sounds/500
+play	0	2799	/sounds/dev/pk/ish
 quiet	0	2799
 amp	0	2799	113
-play	0	2799	/sounds/550
+play	0	2799	/sounds/dev/conc
 quiet	0	2805
 amp	0	2805	114
-play	0	2805	/sounds/503
+play	0	2805	/sounds/sfx/explosion/energy
 quiet	2	2805
 amp	2	2805	111
-play	2	2805	/sounds/553
+play	2	2805	/sounds/dev/conc/ricochet/2
 quiet	0	2820
 amp	0	2820	193
-play	0	2820	/sounds/502
+play	0	2820	/sounds/dev/fusion
 quiet	1	2820
 amp	1	2820	103
-play	1	2820	/sounds/500
+play	1	2820	/sounds/dev/pk/ish
 quiet	1	2826
 amp	1	2826	116
-play	1	2826	/sounds/503
+play	1	2826	/sounds/sfx/explosion/energy
 quiet	0	2835
 amp	0	2835	200
-play	0	2835	/sounds/500
+play	0	2835	/sounds/dev/pk/ish
 quiet	1	2850
 amp	1	2850	128
-play	1	2850	/sounds/509
+play	1	2850	/sounds/gui/beep/button
 quiet	1	2859
 amp	1	2859	128
-play	1	2859	/sounds/509
+play	1	2859	/sounds/gui/beep/button
 quiet	2	2862
 amp	2	2862	115
-play	2	2862	/sounds/502
+play	2	2862	/sounds/dev/fusion
 quiet	1	2862
 amp	1	2862	115
-play	1	2862	/sounds/500
+play	1	2862	/sounds/dev/pk/ish
 quiet	1	2868
 amp	1	2868	128
-play	1	2868	/sounds/503
+play	1	2868	/sounds/sfx/explosion/energy
 quiet	2	2868
 amp	2	2868	124
-play	2	2868	/sounds/515
+play	2	2868	/sounds/sfx/explosion/large
 quiet	0	2868
 amp	0	2868	122
-play	0	2868	/sounds/503
+play	0	2868	/sounds/sfx/explosion/energy
 quiet	0	2886
 amp	0	2886	128
-play	0	2886	/sounds/509
+play	0	2886	/sounds/gui/beep/button
 quiet	2	2900
 amp	2	2900	128
-play	2	2900	/sounds/510
+play	2	2900	/sounds/gui/beep/zoom
 quiet	0	2925
 amp	0	2925	128
-play	0	2925	/sounds/514
+play	0	2925	/sounds/sfx/energy
 quiet	1	2940
 amp	1	2940	128
-play	1	2940	/sounds/509
+play	1	2940	/sounds/gui/beep/button
 quiet	1	2940
 amp	1	2940	126
-play	1	2940	/sounds/503
+play	1	2940	/sounds/sfx/explosion/energy
 quiet	1	2958
 amp	1	2958	128
-play	1	2958	/sounds/509
+play	1	2958	/sounds/gui/beep/button
 quiet	0	2970
 amp	0	2970	186
-play	0	2970	/sounds/550
+play	0	2970	/sounds/dev/conc
 quiet	1	2976
 amp	1	2976	183
-play	1	2976	/sounds/550
+play	1	2976	/sounds/dev/conc
 quiet	0	3066
 amp	0	3066	128
-play	0	3066	/sounds/502
+play	0	3066	/sounds/dev/fusion
 quiet	1	3081
 amp	1	3081	119
-play	1	3081	/sounds/500
+play	1	3081	/sounds/dev/pk/ish
 quiet	1	3081
 amp	1	3081	127
-play	1	3081	/sounds/502
+play	1	3081	/sounds/dev/fusion
 quiet	2	3093
 amp	2	3093	115
-play	2	3093	/sounds/503
+play	2	3093	/sounds/sfx/explosion/energy
 quiet	0	3102
 amp	0	3102	107
-play	0	3102	/sounds/502
+play	0	3102	/sounds/dev/fusion
 quiet	0	3102
 amp	0	3102	108
-play	0	3102	/sounds/500
+play	0	3102	/sounds/dev/pk/ish
 quiet	0	3114
 amp	0	3114	109
-play	0	3114	/sounds/503
+play	0	3114	/sounds/sfx/explosion/energy
 quiet	1	3123
 amp	1	3123	105
-play	1	3123	/sounds/502
+play	1	3123	/sounds/dev/fusion
 quiet	2	3123
 amp	2	3123	104
-play	2	3123	/sounds/500
+play	2	3123	/sounds/dev/pk/ish
 quiet	1	3132
 amp	1	3132	106
-play	1	3132	/sounds/503
+play	1	3132	/sounds/sfx/explosion/energy
 quiet	2	3138
 amp	2	3138	104
-play	2	3138	/sounds/503
+play	2	3138	/sounds/sfx/explosion/energy
 quiet	0	3219
 amp	0	3219	61
-play	0	3219	/sounds/502
+play	0	3219	/sounds/dev/fusion
 quiet	0	3219
 amp	0	3219	62
-play	0	3219	/sounds/500
+play	0	3219	/sounds/dev/pk/ish
 quiet	1	3225
 amp	1	3225	33
-play	1	3225	/sounds/502
+play	1	3225	/sounds/dev/fusion
 quiet	0	3225
 amp	0	3225	68
-play	0	3225	/sounds/503
+play	0	3225	/sounds/sfx/explosion/energy
 quiet	1	3228
 amp	1	3228	62
-play	1	3228	/sounds/503
+play	1	3228	/sounds/sfx/explosion/energy
 quiet	1	3234
 amp	1	3234	63
-play	1	3234	/sounds/550
+play	1	3234	/sounds/dev/conc
 quiet	1	3240
 amp	1	3240	47
-play	1	3240	/sounds/500
+play	1	3240	/sounds/dev/pk/ish
 quiet	1	3240
 amp	1	3240	59
-play	1	3240	/sounds/550
+play	1	3240	/sounds/dev/conc
 quiet	1	3240
 amp	1	3240	61
-play	1	3240	/sounds/552
+play	1	3240	/sounds/dev/conc/ricochet/1
 quiet	2	3246
 amp	2	3246	55
-play	2	3246	/sounds/550
+play	2	3246	/sounds/dev/conc
 quiet	0	3246
 amp	0	3246	53
-play	0	3246	/sounds/515
+play	0	3246	/sounds/sfx/explosion/large
 quiet	2	3246
 amp	2	3246	53
-play	2	3246	/sounds/503
+play	2	3246	/sounds/sfx/explosion/energy
 quiet	0	3246
 amp	0	3246	56
-play	0	3246	/sounds/553
+play	0	3246	/sounds/dev/conc/ricochet/2
 quiet	0	3258
 amp	0	3258	128
-play	0	3258	/sounds/509
+play	0	3258	/sounds/gui/beep/button
 quiet	0	3282
 amp	0	3282	21
-play	0	3282	/sounds/514
+play	0	3282	/sounds/sfx/energy
 quiet	1	3294
 amp	1	3294	15
-play	1	3294	/sounds/503
+play	1	3294	/sounds/sfx/explosion/energy
 quiet	2	3381
 amp	2	3381	9
-play	2	3381	/sounds/518
+play	2	3381	/sounds/sfx/warp/out
 quiet	0	3384
 amp	0	3384	7
-play	0	3384	/sounds/503
+play	0	3384	/sounds/sfx/explosion/energy
 quiet	0	3387
 amp	0	3387	8
-play	0	3387	/sounds/503
+play	0	3387	/sounds/sfx/explosion/energy
 quiet	1	3402
 amp	1	3402	1
-play	1	3402	/sounds/500
+play	1	3402	/sounds/dev/pk/ish
 quiet	0	3408
 amp	0	3408	13
-play	0	3408	/sounds/503
+play	0	3408	/sounds/sfx/explosion/energy
 quiet	1	3417
 amp	1	3417	6
-play	1	3417	/sounds/502
+play	1	3417	/sounds/dev/fusion
 quiet	1	3423
 amp	1	3423	9
-play	1	3423	/sounds/500
+play	1	3423	/sounds/dev/pk/ish
 quiet	0	3432
 amp	0	3432	30
-play	0	3432	/sounds/502
+play	0	3432	/sounds/dev/fusion
 quiet	1	3432
 amp	1	3432	31
-play	1	3432	/sounds/500
+play	1	3432	/sounds/dev/pk/ish
 quiet	0	3432
 amp	0	3432	32
-play	0	3432	/sounds/503
+play	0	3432	/sounds/sfx/explosion/energy
 quiet	2	3432
 amp	2	3432	28
-play	2	3432	/sounds/503
+play	2	3432	/sounds/sfx/explosion/energy
 quiet	0	3435
 amp	0	3435	33
-play	0	3435	/sounds/503
+play	0	3435	/sounds/sfx/explosion/energy
 quiet	0	3438
 amp	0	3438	34
-play	0	3438	/sounds/503
+play	0	3438	/sounds/sfx/explosion/energy
 quiet	1	3444
 amp	1	3444	21
-play	1	3444	/sounds/500
+play	1	3444	/sounds/dev/pk/ish
 quiet	0	3450
 amp	0	3450	59
-play	0	3450	/sounds/502
+play	0	3450	/sounds/dev/fusion
 quiet	1	3450
 amp	1	3450	59
-play	1	3450	/sounds/500
+play	1	3450	/sounds/dev/pk/ish
 quiet	2	3453
 amp	2	3453	42
-play	2	3453	/sounds/500
+play	2	3453	/sounds/dev/pk/ish
 quiet	2	3453
 amp	2	3453	45
-play	2	3453	/sounds/503
+play	2	3453	/sounds/sfx/explosion/energy
 quiet	0	3465
 amp	0	3465	35
-play	0	3465	/sounds/500
+play	0	3465	/sounds/dev/pk/ish
 quiet	2	3468
 amp	2	3468	50
-play	2	3468	/sounds/503
+play	2	3468	/sounds/sfx/explosion/energy
 quiet	0	3486
 amp	0	3486	44
-play	0	3486	/sounds/500
+play	0	3486	/sounds/dev/pk/ish
 quiet	0	3489
 amp	0	3489	46
-play	0	3489	/sounds/502
+play	0	3489	/sounds/dev/fusion
 quiet	2	3492
 amp	2	3492	59
-play	2	3492	/sounds/503
+play	2	3492	/sounds/sfx/explosion/energy
 quiet	0	3498
 amp	0	3498	62
-play	0	3498	/sounds/550
+play	0	3498	/sounds/dev/conc
 quiet	0	3501
 amp	0	3501	85
-play	0	3501	/sounds/502
+play	0	3501	/sounds/dev/fusion
 quiet	1	3501
 amp	1	3501	85
-play	1	3501	/sounds/500
+play	1	3501	/sounds/dev/pk/ish
 quiet	2	3501
 amp	2	3501	65
-play	2	3501	/sounds/515
+play	2	3501	/sounds/sfx/explosion/large
 quiet	2	3513
 amp	2	3513	68
-play	2	3513	/sounds/503
+play	2	3513	/sounds/sfx/explosion/energy
 quiet	2	3525
 amp	2	3525	75
-play	2	3525	/sounds/503
+play	2	3525	/sounds/sfx/explosion/energy
 quiet	2	3528
 amp	2	3528	83
-play	2	3528	/sounds/514
+play	2	3528	/sounds/sfx/energy
 quiet	0	3534
 amp	0	3534	128
-play	0	3534	/sounds/509
+play	0	3534	/sounds/gui/beep/button
 quiet	0	3543
 amp	0	3543	128
-play	0	3543	/sounds/509
+play	0	3543	/sounds/gui/beep/button
 quiet	1	3564
 amp	1	3564	128
-play	1	3564	/sounds/508
+play	1	3564	/sounds/gui/beep/build
 quiet	0	3603
 amp	0	3603	31
-play	0	3603	/sounds/503
+play	0	3603	/sounds/sfx/explosion/energy
 quiet	0	3651
 amp	0	3651	128
-play	0	3651	/sounds/510
+play	0	3651	/sounds/gui/beep/zoom
 quiet	0	3699
 amp	0	3699	174
-play	0	3699	/sounds/518
+play	0	3699	/sounds/sfx/warp/out
 quiet	0	3723
 amp	0	3723	207
-play	0	3723	/sounds/518
+play	0	3723	/sounds/sfx/warp/out
 quiet	2	3732
 amp	2	3732	128
-play	2	3732	/sounds/510
+play	2	3732	/sounds/gui/beep/zoom
 quiet	1	3813
 amp	1	3813	186
-play	1	3813	/sounds/503
+play	1	3813	/sounds/sfx/explosion/energy
 quiet	1	3816
 amp	1	3816	200
-play	1	3816	/sounds/550
+play	1	3816	/sounds/dev/conc
 quiet	1	3822
 amp	1	3822	201
-play	1	3822	/sounds/550
+play	1	3822	/sounds/dev/conc
 quiet	1	3828
 amp	1	3828	202
-play	1	3828	/sounds/550
+play	1	3828	/sounds/dev/conc
 quiet	2	3830
 amp	2	3830	128
-play	2	3830	/sounds/510
+play	2	3830	/sounds/gui/beep/zoom
 quiet	1	3834
 amp	1	3834	204
-play	1	3834	/sounds/550
+play	1	3834	/sounds/dev/conc
 quiet	1	3840
 amp	1	3840	205
-play	1	3840	/sounds/550
+play	1	3840	/sounds/dev/conc
 quiet	0	3849
 amp	0	3849	234
-play	0	3849	/sounds/526
+play	0	3849	/sounds/sfx/warp/charge/1
 quiet	1	3873
 amp	1	3873	213
-play	1	3873	/sounds/526
+play	1	3873	/sounds/sfx/warp/charge/1
 quiet	0	3873
 amp	0	3873	248
-play	0	3873	/sounds/527
+play	0	3873	/sounds/sfx/warp/charge/2
 quiet	0	3879
 amp	0	3879	255
-play	0	3879	/sounds/502
+play	0	3879	/sounds/dev/fusion
 quiet	2	3888
 amp	2	3888	128
-play	2	3888	/sounds/509
+play	2	3888	/sounds/gui/beep/button
 quiet	1	3897
 amp	1	3897	226
-play	1	3897	/sounds/527
+play	1	3897	/sounds/sfx/warp/charge/2
 quiet	1	3897
 amp	1	3897	255
-play	1	3897	/sounds/528
+play	1	3897	/sounds/sfx/warp/charge/3
 quiet	2	3900
 amp	2	3900	255
-play	2	3900	/sounds/503
+play	2	3900	/sounds/sfx/explosion/energy
 quiet	0	3903
 amp	0	3903	255
-play	0	3903	/sounds/500
+play	0	3903	/sounds/dev/pk/ish
 quiet	2	3909
 amp	2	3909	255
-play	2	3909	/sounds/503
+play	2	3909	/sounds/sfx/explosion/energy
 quiet	0	3915
 amp	0	3915	255
-play	0	3915	/sounds/502
+play	0	3915	/sounds/dev/fusion
 quiet	1	3921
 amp	1	3921	238
-play	1	3921	/sounds/528
+play	1	3921	/sounds/sfx/warp/charge/3
 quiet	2	3921
 amp	2	3921	255
-play	2	3921	/sounds/503
+play	2	3921	/sounds/sfx/explosion/energy
 quiet	1	3924
 amp	1	3924	255
-play	1	3924	/sounds/529
+play	1	3924	/sounds/sfx/warp/charge/4
 quiet	0	3942
 amp	0	3942	255
-play	0	3942	/sounds/500
+play	0	3942	/sounds/dev/pk/ish
 quiet	2	3948
 amp	2	3948	240
-play	2	3948	/sounds/529
+play	2	3948	/sounds/sfx/warp/charge/4
 quiet	2	3948
 amp	2	3948	255
-play	2	3948	/sounds/517
+play	2	3948	/sounds/sfx/warp/in
 quiet	1	3948
 amp	1	3948	119
-play	1	3948	/sounds/503
+play	1	3948	/sounds/sfx/explosion/energy
 quiet	1	3951
 amp	1	3951	255
-play	1	3951	/sounds/502
+play	1	3951	/sounds/dev/fusion
 quiet	0	3957
 amp	0	3957	192
-play	0	3957	/sounds/507
+play	0	3957	/sounds/gui/beep/select
 quiet	0	3972
 amp	0	3972	236
-play	0	3972	/sounds/517
+play	0	3972	/sounds/sfx/warp/in
 quiet	1	4020
 amp	1	4020	128
-play	1	4020	/sounds/510
+play	1	4020	/sounds/gui/beep/zoom
 quiet	1	4062
 amp	1	4062	187
-play	1	4062	/sounds/544
+play	1	4062	/sounds/dev/kl
 quiet	1	4101
 amp	1	4101	227
-play	1	4101	/sounds/544
+play	1	4101	/sounds/dev/kl
 quiet	1	4113
 amp	1	4113	237
-play	1	4113	/sounds/544
+play	1	4113	/sounds/dev/kl
 quiet	2	4128
 amp	2	4128	128
-play	2	4128	/sounds/510
+play	2	4128	/sounds/gui/beep/zoom
 quiet	0	4134
 amp	0	4134	255
-play	0	4134	/sounds/500
+play	0	4134	/sounds/dev/pk/ish
 quiet	1	4137
 amp	1	4137	255
-play	1	4137	/sounds/502
+play	1	4137	/sounds/dev/fusion
 quiet	1	4140
 amp	1	4140	255
-play	1	4140	/sounds/502
+play	1	4140	/sounds/dev/fusion
 quiet	0	4155
 amp	0	4155	255
-play	0	4155	/sounds/500
+play	0	4155	/sounds/dev/pk/ish
 quiet	2	4167
 amp	2	4167	255
-play	2	4167	/sounds/518
+play	2	4167	/sounds/sfx/warp/out
 quiet	1	4173
 amp	1	4173	255
-play	1	4173	/sounds/502
+play	1	4173	/sounds/dev/fusion
 quiet	0	4176
 amp	0	4176	255
-play	0	4176	/sounds/500
+play	0	4176	/sounds/dev/pk/ish
 quiet	1	4194
 amp	1	4194	255
-play	1	4194	/sounds/502
+play	1	4194	/sounds/dev/fusion
 quiet	1	4233
 amp	1	4233	255
-play	1	4233	/sounds/502
+play	1	4233	/sounds/dev/fusion
 quiet	0	4236
 amp	0	4236	255
-play	0	4236	/sounds/500
+play	0	4236	/sounds/dev/pk/ish
 quiet	1	4254
 amp	1	4254	255
-play	1	4254	/sounds/502
+play	1	4254	/sounds/dev/fusion
 quiet	2	4257
 amp	2	4257	239
-play	2	4257	/sounds/502
+play	2	4257	/sounds/dev/fusion
 quiet	2	4257
 amp	2	4257	240
-play	2	4257	/sounds/500
+play	2	4257	/sounds/dev/pk/ish
 quiet	0	4257
 amp	0	4257	255
-play	0	4257	/sounds/500
+play	0	4257	/sounds/dev/pk/ish
 quiet	2	4260
 amp	2	4260	255
-play	2	4260	/sounds/503
+play	2	4260	/sounds/sfx/explosion/energy
 quiet	1	4269
 amp	1	4269	255
-play	1	4269	/sounds/502
+play	1	4269	/sounds/dev/fusion
 quiet	0	4269
 amp	0	4269	243
-play	0	4269	/sounds/501
+play	0	4269	/sounds/sfx/explosion/small
 quiet	0	4278
 amp	0	4278	255
-play	0	4278	/sounds/500
+play	0	4278	/sounds/dev/pk/ish
 quiet	1	4287
 amp	1	4287	255
-play	1	4287	/sounds/502
+play	1	4287	/sounds/dev/fusion
 quiet	0	4287
 amp	0	4287	255
-play	0	4287	/sounds/500
+play	0	4287	/sounds/dev/pk/ish
 quiet	1	4290
 amp	1	4290	255
-play	1	4290	/sounds/502
+play	1	4290	/sounds/dev/fusion
 quiet	2	4290
 amp	2	4290	64
-play	2	4290	/sounds/503
+play	2	4290	/sounds/sfx/explosion/energy
 quiet	2	4290
 amp	2	4290	255
-play	2	4290	/sounds/503
+play	2	4290	/sounds/sfx/explosion/energy
 quiet	0	4299
 amp	0	4299	255
-play	0	4299	/sounds/500
+play	0	4299	/sounds/dev/pk/ish
 quiet	2	4299
 amp	2	4299	255
-play	2	4299	/sounds/503
+play	2	4299	/sounds/sfx/explosion/energy
 quiet	0	4302
 amp	0	4302	255
-play	0	4302	/sounds/500
+play	0	4302	/sounds/dev/pk/ish
 quiet	1	4305
 amp	1	4305	255
-play	1	4305	/sounds/502
+play	1	4305	/sounds/dev/fusion
 quiet	2	4308
 amp	2	4308	255
-play	2	4308	/sounds/503
+play	2	4308	/sounds/sfx/explosion/energy
 quiet	0	4314
 amp	0	4314	7
-play	0	4314	/sounds/503
+play	0	4314	/sounds/sfx/explosion/energy
 quiet	0	4317
 amp	0	4317	255
-play	0	4317	/sounds/503
+play	0	4317	/sounds/sfx/explosion/energy
 quiet	1	4320
 amp	1	4320	255
-play	1	4320	/sounds/500
+play	1	4320	/sounds/dev/pk/ish
 quiet	0	4320
 amp	0	4320	255
-play	0	4320	/sounds/503
+play	0	4320	/sounds/sfx/explosion/energy
 quiet	1	4323
 amp	1	4323	255
-play	1	4323	/sounds/500
+play	1	4323	/sounds/dev/pk/ish
 quiet	0	4326
 amp	0	4326	255
-play	0	4326	/sounds/503
+play	0	4326	/sounds/sfx/explosion/energy
 quiet	2	4329
 amp	2	4329	195
-play	2	4329	/sounds/514
+play	2	4329	/sounds/sfx/energy
 quiet	2	4332
 amp	2	4332	255
-play	2	4332	/sounds/550
+play	2	4332	/sounds/dev/conc
 quiet	0	4335
 amp	0	4335	255
-play	0	4335	/sounds/503
+play	0	4335	/sounds/sfx/explosion/energy
 quiet	2	4341
 amp	2	4341	255
-play	2	4341	/sounds/502
+play	2	4341	/sounds/dev/fusion
 quiet	1	4341
 amp	1	4341	255
-play	1	4341	/sounds/500
+play	1	4341	/sounds/dev/pk/ish
 quiet	1	4344
 amp	1	4344	255
-play	1	4344	/sounds/500
+play	1	4344	/sounds/dev/pk/ish
 quiet	0	4350
 amp	0	4350	255
-play	0	4350	/sounds/503
+play	0	4350	/sounds/sfx/explosion/energy
 quiet	0	4353
 amp	0	4353	255
-play	0	4353	/sounds/503
+play	0	4353	/sounds/sfx/explosion/energy
 quiet	2	4356
 amp	2	4356	174
-play	2	4356	/sounds/544
+play	2	4356	/sounds/dev/kl
 quiet	2	4356
 amp	2	4356	255
-play	2	4356	/sounds/502
+play	2	4356	/sounds/dev/fusion
 quiet	1	4356
 amp	1	4356	255
-play	1	4356	/sounds/500
+play	1	4356	/sounds/dev/pk/ish
 quiet	2	4362
 amp	2	4362	255
-play	2	4362	/sounds/502
+play	2	4362	/sounds/dev/fusion
 quiet	1	4362
 amp	1	4362	255
-play	1	4362	/sounds/500
+play	1	4362	/sounds/dev/pk/ish
 quiet	1	4365
 amp	1	4365	255
-play	1	4365	/sounds/500
+play	1	4365	/sounds/dev/pk/ish
 quiet	1	4377
 amp	1	4377	255
-play	1	4377	/sounds/500
+play	1	4377	/sounds/dev/pk/ish
 quiet	2	4392
 amp	2	4392	255
-play	2	4392	/sounds/502
+play	2	4392	/sounds/dev/fusion
 quiet	2	4404
 amp	2	4404	255
-play	2	4404	/sounds/502
+play	2	4404	/sounds/dev/fusion
 quiet	1	4404
 amp	1	4404	255
-play	1	4404	/sounds/500
+play	1	4404	/sounds/dev/pk/ish
 quiet	1	4425
 amp	1	4425	255
-play	1	4425	/sounds/500
+play	1	4425	/sounds/dev/pk/ish
 quiet	2	4428
 amp	2	4428	255
-play	2	4428	/sounds/502
+play	2	4428	/sounds/dev/fusion
 quiet	2	4440
 amp	2	4440	255
-play	2	4440	/sounds/502
+play	2	4440	/sounds/dev/fusion
 quiet	1	4446
 amp	1	4446	255
-play	1	4446	/sounds/500
+play	1	4446	/sounds/dev/pk/ish
 quiet	1	4467
 amp	1	4467	255
-play	1	4467	/sounds/500
+play	1	4467	/sounds/dev/pk/ish
 quiet	2	4476
 amp	2	4476	255
-play	2	4476	/sounds/502
+play	2	4476	/sounds/dev/fusion
 quiet	0	4482
 amp	0	4482	255
-play	0	4482	/sounds/526
+play	0	4482	/sounds/sfx/warp/charge/1
 quiet	1	4500
 amp	1	4500	255
-play	1	4500	/sounds/500
+play	1	4500	/sounds/dev/pk/ish
 quiet	2	4506
 amp	2	4506	255
-play	2	4506	/sounds/527
+play	2	4506	/sounds/sfx/warp/charge/2
 quiet	0	4506
 amp	0	4506	255
-play	0	4506	/sounds/515
+play	0	4506	/sounds/sfx/explosion/large
 quiet	1	4512
 amp	1	4512	255
-play	1	4512	/sounds/502
+play	1	4512	/sounds/dev/fusion
 quiet	1	4530
 amp	1	4530	198
-play	1	4530	/sounds/500
+play	1	4530	/sounds/dev/pk/ish
 quiet	2	4545
 amp	2	4545	194
-play	2	4545	/sounds/502
+play	2	4545	/sounds/dev/fusion
 quiet	1	4557
 amp	1	4557	128
-play	1	4557	/sounds/508
+play	1	4557	/sounds/gui/beep/build
 quiet	1	4557
 amp	1	4557	255
-play	1	4557	/sounds/514
+play	1	4557	/sounds/sfx/energy
 quiet	2	4566
 amp	2	4566	255
-play	2	4566	/sounds/503
+play	2	4566	/sounds/sfx/explosion/energy
 quiet	0	4618
 amp	0	4618	128
-play	0	4618	/sounds/510
+play	0	4618	/sounds/gui/beep/zoom
 quiet	0	4620
 amp	0	4620	167
-play	0	4620	/sounds/502
+play	0	4620	/sounds/dev/fusion
 quiet	1	4623
 amp	1	4623	165
-play	1	4623	/sounds/500
+play	1	4623	/sounds/dev/pk/ish
 quiet	2	4641
 amp	2	4641	156
-play	2	4641	/sounds/544
+play	2	4641	/sounds/dev/kl
 quiet	1	4644
 amp	1	4644	166
-play	1	4644	/sounds/500
+play	1	4644	/sounds/dev/pk/ish
 quiet	0	4650
 amp	0	4650	155
-play	0	4650	/sounds/503
+play	0	4650	/sounds/sfx/explosion/energy
 quiet	2	4653
 amp	2	4653	156
-play	2	4653	/sounds/544
+play	2	4653	/sounds/dev/kl
 quiet	0	4656
 amp	0	4656	164
-play	0	4656	/sounds/502
+play	0	4656	/sounds/dev/fusion
 quiet	2	4662
 amp	2	4662	157
-play	2	4662	/sounds/501
+play	2	4662	/sounds/sfx/explosion/small
 quiet	2	4662
 amp	2	4662	158
-play	2	4662	/sounds/503
+play	2	4662	/sounds/sfx/explosion/energy
 quiet	2	4665
 amp	2	4665	164
-play	2	4665	/sounds/500
+play	2	4665	/sounds/dev/pk/ish
 quiet	0	4671
 amp	0	4671	167
-play	0	4671	/sounds/503
+play	0	4671	/sounds/sfx/explosion/energy
 quiet	1	4674
 amp	1	4674	163
-play	1	4674	/sounds/514
+play	1	4674	/sounds/sfx/energy
 quiet	0	4827
 amp	0	4827	255
-play	0	4827	/sounds/526
+play	0	4827	/sounds/sfx/warp/charge/1
 quiet	1	4851
 amp	1	4851	255
-play	1	4851	/sounds/527
+play	1	4851	/sounds/sfx/warp/charge/2
 quiet	2	4875
 amp	2	4875	255
-play	2	4875	/sounds/528
+play	2	4875	/sounds/sfx/warp/charge/3
 quiet	0	4902
 amp	0	4902	255
-play	0	4902	/sounds/529
+play	0	4902	/sounds/sfx/warp/charge/4
 quiet	1	4926
 amp	1	4926	255
-play	1	4926	/sounds/517
+play	1	4926	/sounds/sfx/warp/in
 quiet	2	4929
 amp	2	4929	255
-play	2	4929	/sounds/526
+play	2	4929	/sounds/sfx/warp/charge/1
 quiet	0	4941
 amp	0	4941	77
-play	0	4941	/sounds/503
+play	0	4941	/sounds/sfx/explosion/energy
 quiet	0	4953
 amp	0	4953	177
-play	0	4953	/sounds/527
+play	0	4953	/sounds/sfx/warp/charge/2
 quiet	1	4977
 amp	1	4977	55
-play	1	4977	/sounds/528
+play	1	4977	/sounds/sfx/warp/charge/3
 quiet	0	5163
 amp	0	5163	255
-play	0	5163	/sounds/518
+play	0	5163	/sounds/sfx/warp/out
 quiet	1	5244
 amp	1	5244	156
-play	1	5244	/sounds/518
+play	1	5244	/sounds/sfx/warp/out
 quiet	1	5340
 amp	1	5340	187
-play	1	5340	/sounds/518
+play	1	5340	/sounds/sfx/warp/out
 quiet	2	5340
 amp	2	5340	180
-play	2	5340	/sounds/518
+play	2	5340	/sounds/sfx/warp/out
 quiet	1	5340
 amp	1	5340	188
-play	1	5340	/sounds/518
+play	1	5340	/sounds/sfx/warp/out
 quiet	0	5340
 amp	0	5340	168
-play	0	5340	/sounds/518
+play	0	5340	/sounds/sfx/warp/out
 quiet	0	5700
 amp	0	5700	128
-play	0	5700	/sounds/509
+play	0	5700	/sounds/gui/beep/button
 quiet	0	5730
 amp	0	5730	128
-play	0	5730	/sounds/509
+play	0	5730	/sounds/gui/beep/button
 quiet	0	5736
 amp	0	5736	128
-play	0	5736	/sounds/509
+play	0	5736	/sounds/gui/beep/button
 quiet	0	5829
 amp	0	5829	128
-play	0	5829	/sounds/509
+play	0	5829	/sounds/gui/beep/button
 quiet	0	5841
 amp	0	5841	128
-play	0	5841	/sounds/509
+play	0	5841	/sounds/gui/beep/button
 quiet	1	5869
 amp	1	5869	128
-play	1	5869	/sounds/510
+play	1	5869	/sounds/gui/beep/zoom
 quiet	1	5896
 amp	1	5896	128
-play	1	5896	/sounds/510
+play	1	5896	/sounds/gui/beep/zoom
 quiet	2	6006
 amp	2	6006	128
-play	2	6006	/sounds/508
+play	2	6006	/sounds/gui/beep/build
 quiet	0	6021
 amp	0	6021	255
-play	0	6021	/sounds/533
+play	0	6021	/sounds/dev/cm
 quiet	0	6093
 amp	0	6093	255
-play	0	6093	/sounds/533
+play	0	6093	/sounds/dev/cm
 quiet	1	6150
 amp	1	6150	158
-play	1	6150	/sounds/531
+play	1	6150	/sounds/dev/repulser
 quiet	0	6165
 amp	0	6165	255
-play	0	6165	/sounds/533
+play	0	6165	/sounds/dev/cm
 quiet	2	6177
 amp	2	6177	153
-play	2	6177	/sounds/531
+play	2	6177	/sounds/dev/repulser
 quiet	1	6204
 amp	1	6204	143
-play	1	6204	/sounds/531
+play	1	6204	/sounds/dev/repulser
 quiet	1	6210
 amp	1	6210	162
-play	1	6210	/sounds/550
+play	1	6210	/sounds/dev/conc
 quiet	1	6216
 amp	1	6216	163
-play	1	6216	/sounds/550
+play	1	6216	/sounds/dev/conc
 quiet	1	6222
 amp	1	6222	164
-play	1	6222	/sounds/550
+play	1	6222	/sounds/dev/conc
 quiet	2	6222
 amp	2	6222	162
-play	2	6222	/sounds/553
+play	2	6222	/sounds/dev/conc/ricochet/2
 quiet	1	6231
 amp	1	6231	138
-play	1	6231	/sounds/531
+play	1	6231	/sounds/dev/repulser
 quiet	0	6237
 amp	0	6237	255
-play	0	6237	/sounds/533
+play	0	6237	/sounds/dev/cm
 quiet	1	6258
 amp	1	6258	151
-play	1	6258	/sounds/531
+play	1	6258	/sounds/dev/repulser
 quiet	1	6285
 amp	1	6285	178
-play	1	6285	/sounds/531
+play	1	6285	/sounds/dev/repulser
 quiet	1	6309
 amp	1	6309	203
-play	1	6309	/sounds/502
+play	1	6309	/sounds/dev/fusion
 quiet	1	6309
 amp	1	6309	204
-play	1	6309	/sounds/500
+play	1	6309	/sounds/dev/pk/ish
 quiet	0	6309
 amp	0	6309	255
-play	0	6309	/sounds/533
+play	0	6309	/sounds/dev/cm
 quiet	1	6312
 amp	1	6312	206
-play	1	6312	/sounds/531
+play	1	6312	/sounds/dev/repulser
 quiet	1	6330
 amp	1	6330	209
-play	1	6330	/sounds/500
+play	1	6330	/sounds/dev/pk/ish
 quiet	1	6339
 amp	1	6339	234
-play	1	6339	/sounds/531
+play	1	6339	/sounds/dev/repulser
 quiet	2	6345
 amp	2	6345	217
-play	2	6345	/sounds/502
+play	2	6345	/sounds/dev/fusion
 quiet	2	6351
 amp	2	6351	219
-play	2	6351	/sounds/500
+play	2	6351	/sounds/dev/pk/ish
 quiet	0	6358
 amp	0	6358	128
-play	0	6358	/sounds/510
+play	0	6358	/sounds/gui/beep/zoom
 quiet	2	6366
 amp	2	6366	255
-play	2	6366	/sounds/500
+play	2	6366	/sounds/dev/pk/ish
 quiet	0	6369
 amp	0	6369	255
-play	0	6369	/sounds/502
+play	0	6369	/sounds/dev/fusion
 quiet	1	6372
 amp	1	6372	233
-play	1	6372	/sounds/500
+play	1	6372	/sounds/dev/pk/ish
 quiet	1	6375
 amp	1	6375	255
-play	1	6375	/sounds/531
+play	1	6375	/sounds/dev/repulser
 quiet	2	6381
 amp	2	6381	237
-play	2	6381	/sounds/502
+play	2	6381	/sounds/dev/fusion
 quiet	0	6381
 amp	0	6381	236
-play	0	6381	/sounds/533
+play	0	6381	/sounds/dev/cm
 quiet	0	6387
 amp	0	6387	255
-play	0	6387	/sounds/500
+play	0	6387	/sounds/dev/pk/ish
 quiet	1	6396
 amp	1	6396	149
-play	1	6396	/sounds/518
+play	1	6396	/sounds/sfx/warp/out
 quiet	1	6396
 amp	1	6396	255
-play	1	6396	/sounds/503
+play	1	6396	/sounds/sfx/explosion/energy
 quiet	2	6405
 amp	2	6405	255
-play	2	6405	/sounds/502
+play	2	6405	/sounds/dev/fusion
 quiet	0	6408
 amp	0	6408	255
-play	0	6408	/sounds/500
+play	0	6408	/sounds/dev/pk/ish
 quiet	1	6414
 amp	1	6414	255
-play	1	6414	/sounds/503
+play	1	6414	/sounds/sfx/explosion/energy
 quiet	0	6429
 amp	0	6429	255
-play	0	6429	/sounds/500
+play	0	6429	/sounds/dev/pk/ish
 quiet	2	6435
 amp	2	6435	255
-play	2	6435	/sounds/502
+play	2	6435	/sounds/dev/fusion
 quiet	1	6435
 amp	1	6435	255
-play	1	6435	/sounds/531
+play	1	6435	/sounds/dev/repulser
 quiet	2	6441
 amp	2	6441	255
-play	2	6441	/sounds/502
+play	2	6441	/sounds/dev/fusion
 quiet	2	6441
 amp	2	6441	255
-play	2	6441	/sounds/502
+play	2	6441	/sounds/dev/fusion
 quiet	0	6441
 amp	0	6441	255
-play	0	6441	/sounds/503
+play	0	6441	/sounds/sfx/explosion/energy
 quiet	1	6450
 amp	1	6450	255
-play	1	6450	/sounds/500
+play	1	6450	/sounds/dev/pk/ish
 quiet	2	6453
 amp	2	6453	216
-play	2	6453	/sounds/533
+play	2	6453	/sounds/dev/cm
 quiet	0	6453
 amp	0	6453	255
-play	0	6453	/sounds/503
+play	0	6453	/sounds/sfx/explosion/energy
 quiet	0	6459
 amp	0	6459	255
-play	0	6459	/sounds/503
+play	0	6459	/sounds/sfx/explosion/energy
 quiet	1	6471
 amp	1	6471	255
-play	1	6471	/sounds/500
+play	1	6471	/sounds/dev/pk/ish
 quiet	2	6474
 amp	2	6474	238
-play	2	6474	/sounds/502
+play	2	6474	/sounds/dev/fusion
 quiet	2	6477
 amp	2	6477	255
-play	2	6477	/sounds/502
+play	2	6477	/sounds/dev/fusion
 quiet	0	6480
 amp	0	6480	255
-play	0	6480	/sounds/531
+play	0	6480	/sounds/dev/repulser
 quiet	1	6483
 amp	1	6483	255
-play	1	6483	/sounds/503
+play	1	6483	/sounds/sfx/explosion/energy
 quiet	2	6492
 amp	2	6492	255
-play	2	6492	/sounds/500
+play	2	6492	/sounds/dev/pk/ish
 quiet	0	6501
 amp	0	6501	245
-play	0	6501	/sounds/500
+play	0	6501	/sounds/dev/pk/ish
 quiet	0	6510
 amp	0	6510	255
-play	0	6510	/sounds/550
+play	0	6510	/sounds/dev/conc
 quiet	0	6510
 amp	0	6510	248
-play	0	6510	/sounds/502
+play	0	6510	/sounds/dev/fusion
 quiet	0	6513
 amp	0	6513	255
-play	0	6513	/sounds/502
+play	0	6513	/sounds/dev/fusion
 quiet	2	6513
 amp	2	6513	255
-play	2	6513	/sounds/500
+play	2	6513	/sounds/dev/pk/ish
 quiet	0	6516
 amp	0	6516	255
-play	0	6516	/sounds/532
+play	0	6516	/sounds/sfx/explosion/gas
 quiet	1	6522
 amp	1	6522	247
-play	1	6522	/sounds/500
+play	1	6522	/sounds/dev/pk/ish
 quiet	2	6525
 amp	2	6525	236
-play	2	6525	/sounds/533
+play	2	6525	/sounds/dev/cm
 quiet	0	6525
 amp	0	6525	255
-play	0	6525	/sounds/532
+play	0	6525	/sounds/sfx/explosion/gas
 quiet	1	6525
 amp	1	6525	255
-play	1	6525	/sounds/503
+play	1	6525	/sounds/sfx/explosion/energy
 quiet	2	6534
 amp	2	6534	255
-play	2	6534	/sounds/500
+play	2	6534	/sounds/dev/pk/ish
 quiet	1	6534
 amp	1	6534	255
-play	1	6534	/sounds/503
+play	1	6534	/sounds/sfx/explosion/energy
 quiet	1	6546
 amp	1	6546	255
-play	1	6546	/sounds/503
+play	1	6546	/sounds/sfx/explosion/energy
 quiet	2	6549
 amp	2	6549	255
-play	2	6549	/sounds/531
+play	2	6549	/sounds/dev/repulser
 quiet	1	6552
 amp	1	6552	255
-play	1	6552	/sounds/503
+play	1	6552	/sounds/sfx/explosion/energy
 quiet	0	6567
 amp	0	6567	255
-play	0	6567	/sounds/550
+play	0	6567	/sounds/dev/conc
 quiet	0	6570
 amp	0	6570	255
-play	0	6570	/sounds/536
+play	0	6570	/sounds/sfx/explosion/flak
 quiet	2	6573
 amp	2	6573	255
-play	2	6573	/sounds/550
+play	2	6573	/sounds/dev/conc
 quiet	2	6576
 amp	2	6576	255
-play	2	6576	/sounds/502
+play	2	6576	/sounds/dev/fusion
 quiet	1	6576
 amp	1	6576	255
-play	1	6576	/sounds/500
+play	1	6576	/sounds/dev/pk/ish
 quiet	1	6576
 amp	1	6576	255
-play	1	6576	/sounds/500
+play	1	6576	/sounds/dev/pk/ish
 quiet	0	6579
 amp	0	6579	255
-play	0	6579	/sounds/532
+play	0	6579	/sounds/sfx/explosion/gas
 quiet	2	6585
 amp	2	6585	255
-play	2	6585	/sounds/502
+play	2	6585	/sounds/dev/fusion
 quiet	1	6585
 amp	1	6585	255
-play	1	6585	/sounds/515
+play	1	6585	/sounds/sfx/explosion/large
 quiet	2	6597
 amp	2	6597	255
-play	2	6597	/sounds/500
+play	2	6597	/sounds/dev/pk/ish
 quiet	2	6597
 amp	2	6597	255
-play	2	6597	/sounds/500
+play	2	6597	/sounds/dev/pk/ish
 quiet	2	6618
 amp	2	6618	255
-play	2	6618	/sounds/500
+play	2	6618	/sounds/dev/pk/ish
 quiet	0	6621
 amp	0	6621	255
-play	0	6621	/sounds/502
+play	0	6621	/sounds/dev/fusion
 quiet	2	6636
 amp	2	6636	255
-play	2	6636	/sounds/536
+play	2	6636	/sounds/sfx/explosion/flak
 quiet	2	6636
 amp	2	6636	255
-play	2	6636	/sounds/536
+play	2	6636	/sounds/sfx/explosion/flak
 quiet	2	6636
 amp	2	6636	255
-play	2	6636	/sounds/536
+play	2	6636	/sounds/sfx/explosion/flak
 quiet	2	6645
 amp	2	6645	255
-play	2	6645	/sounds/536
+play	2	6645	/sounds/sfx/explosion/flak
 quiet	2	6660
 amp	2	6660	255
-play	2	6660	/sounds/536
+play	2	6660	/sounds/sfx/explosion/flak
 quiet	2	6663
 amp	2	6663	255
-play	2	6663	/sounds/536
+play	2	6663	/sounds/sfx/explosion/flak
 quiet	0	6669
 amp	0	6669	236
-play	0	6669	/sounds/536
+play	0	6669	/sounds/sfx/explosion/flak
 quiet	0	6672
 amp	0	6672	255
-play	0	6672	/sounds/536
+play	0	6672	/sounds/sfx/explosion/flak
 quiet	0	6678
 amp	0	6678	255
-play	0	6678	/sounds/536
+play	0	6678	/sounds/sfx/explosion/flak
 quiet	0	6681
 amp	0	6681	255
-play	0	6681	/sounds/536
+play	0	6681	/sounds/sfx/explosion/flak
 quiet	1	6699
 amp	1	6699	255
-play	1	6699	/sounds/502
+play	1	6699	/sounds/dev/fusion
 quiet	1	6708
 amp	1	6708	255
-play	1	6708	/sounds/502
+play	1	6708	/sounds/dev/fusion
 quiet	0	6708
 amp	0	6708	255
-play	0	6708	/sounds/536
+play	0	6708	/sounds/sfx/explosion/flak
 quiet	2	6711
 amp	2	6711	255
-play	2	6711	/sounds/500
+play	2	6711	/sounds/dev/pk/ish
 quiet	0	6714
 amp	0	6714	255
-play	0	6714	/sounds/536
+play	0	6714	/sounds/sfx/explosion/flak
 quiet	0	6720
 amp	0	6720	255
-play	0	6720	/sounds/536
+play	0	6720	/sounds/sfx/explosion/flak
 quiet	1	6723
 amp	1	6723	255
-play	1	6723	/sounds/503
+play	1	6723	/sounds/sfx/explosion/energy
 quiet	2	6726
 amp	2	6726	255
-play	2	6726	/sounds/533
+play	2	6726	/sounds/dev/cm
 quiet	0	6726
 amp	0	6726	255
-play	0	6726	/sounds/536
+play	0	6726	/sounds/sfx/explosion/flak
 quiet	0	6747
 amp	0	6747	255
-play	0	6747	/sounds/536
+play	0	6747	/sounds/sfx/explosion/flak
 quiet	1	6759
 amp	1	6759	255
-play	1	6759	/sounds/502
+play	1	6759	/sounds/dev/fusion
 quiet	2	6759
 amp	2	6759	255
-play	2	6759	/sounds/500
+play	2	6759	/sounds/dev/pk/ish
 quiet	1	6762
 amp	1	6762	255
-play	1	6762	/sounds/502
+play	1	6762	/sounds/dev/fusion
 quiet	2	6762
 amp	2	6762	255
-play	2	6762	/sounds/500
+play	2	6762	/sounds/dev/pk/ish
 quiet	0	6774
 amp	0	6774	255
-play	0	6774	/sounds/536
+play	0	6774	/sounds/sfx/explosion/flak
 quiet	0	6777
 amp	0	6777	255
-play	0	6777	/sounds/536
+play	0	6777	/sounds/sfx/explosion/flak
 quiet	2	6780
 amp	2	6780	255
-play	2	6780	/sounds/500
+play	2	6780	/sounds/dev/pk/ish
 quiet	1	6783
 amp	1	6783	255
-play	1	6783	/sounds/502
+play	1	6783	/sounds/dev/fusion
 quiet	2	6783
 amp	2	6783	255
-play	2	6783	/sounds/500
+play	2	6783	/sounds/dev/pk/ish
 quiet	0	6783
 amp	0	6783	255
-play	0	6783	/sounds/536
+play	0	6783	/sounds/sfx/explosion/flak
 quiet	1	6786
 amp	1	6786	255
-play	1	6786	/sounds/502
+play	1	6786	/sounds/dev/fusion
 quiet	2	6795
 amp	2	6795	255
-play	2	6795	/sounds/500
+play	2	6795	/sounds/dev/pk/ish
 quiet	1	6795
 amp	1	6795	255
-play	1	6795	/sounds/502
+play	1	6795	/sounds/dev/fusion
 quiet	0	6795
 amp	0	6795	255
-play	0	6795	/sounds/536
+play	0	6795	/sounds/sfx/explosion/flak
 quiet	2	6801
 amp	2	6801	255
-play	2	6801	/sounds/500
+play	2	6801	/sounds/dev/pk/ish
 quiet	0	6804
 amp	0	6804	255
-play	0	6804	/sounds/536
+play	0	6804	/sounds/sfx/explosion/flak
 quiet	1	6813
 amp	1	6813	255
-play	1	6813	/sounds/502
+play	1	6813	/sounds/dev/fusion
 quiet	0	6813
 amp	0	6813	255
-play	0	6813	/sounds/536
+play	0	6813	/sounds/sfx/explosion/flak
 quiet	0	6813
 amp	0	6813	255
-play	0	6813	/sounds/536
+play	0	6813	/sounds/sfx/explosion/flak
 quiet	2	6822
 amp	2	6822	255
-play	2	6822	/sounds/500
+play	2	6822	/sounds/dev/pk/ish
 quiet	1	6831
 amp	1	6831	255
-play	1	6831	/sounds/502
+play	1	6831	/sounds/dev/fusion
 quiet	0	6831
 amp	0	6831	255
-play	0	6831	/sounds/536
+play	0	6831	/sounds/sfx/explosion/flak
 quiet	1	6840
 amp	1	6840	255
-play	1	6840	/sounds/502
+play	1	6840	/sounds/dev/fusion
 quiet	2	6840
 amp	2	6840	255
-play	2	6840	/sounds/500
+play	2	6840	/sounds/dev/pk/ish
 quiet	2	6843
 amp	2	6843	255
-play	2	6843	/sounds/500
+play	2	6843	/sounds/dev/pk/ish
 quiet	1	6849
 amp	1	6849	255
-play	1	6849	/sounds/502
+play	1	6849	/sounds/dev/fusion
 quiet	2	6849
 amp	2	6849	255
-play	2	6849	/sounds/500
+play	2	6849	/sounds/dev/pk/ish
 quiet	2	6864
 amp	2	6864	255
-play	2	6864	/sounds/500
+play	2	6864	/sounds/dev/pk/ish
 quiet	1	6867
 amp	1	6867	255
-play	1	6867	/sounds/502
+play	1	6867	/sounds/dev/fusion
 quiet	2	6870
 amp	2	6870	255
-play	2	6870	/sounds/500
+play	2	6870	/sounds/dev/pk/ish
 quiet	0	6870
 amp	0	6870	202
-play	0	6870	/sounds/533
+play	0	6870	/sounds/dev/cm
 quiet	0	6870
 amp	0	6870	255
-play	0	6870	/sounds/532
+play	0	6870	/sounds/sfx/explosion/gas
 quiet	1	6876
 amp	1	6876	255
-play	1	6876	/sounds/502
+play	1	6876	/sounds/dev/fusion
 quiet	1	6885
 amp	1	6885	255
-play	1	6885	/sounds/502
+play	1	6885	/sounds/dev/fusion
 quiet	2	6885
 amp	2	6885	255
-play	2	6885	/sounds/500
+play	2	6885	/sounds/dev/pk/ish
 quiet	2	6891
 amp	2	6891	255
-play	2	6891	/sounds/500
+play	2	6891	/sounds/dev/pk/ish
 quiet	1	6903
 amp	1	6903	255
-play	1	6903	/sounds/502
+play	1	6903	/sounds/dev/fusion
 quiet	1	6906
 amp	1	6906	255
-play	1	6906	/sounds/502
+play	1	6906	/sounds/dev/fusion
 quiet	2	6906
 amp	2	6906	255
-play	2	6906	/sounds/500
+play	2	6906	/sounds/dev/pk/ish
 quiet	2	6909
 amp	2	6909	255
-play	2	6909	/sounds/500
+play	2	6909	/sounds/dev/pk/ish
 quiet	1	6912
 amp	1	6912	255
-play	1	6912	/sounds/502
+play	1	6912	/sounds/dev/fusion
 quiet	2	6918
 amp	2	6918	255
-play	2	6918	/sounds/500
+play	2	6918	/sounds/dev/pk/ish
 quiet	1	6918
 amp	1	6918	255
-play	1	6918	/sounds/515
+play	1	6918	/sounds/sfx/explosion/large
 quiet	0	6918
 amp	0	6918	255
-play	0	6918	/sounds/503
+play	0	6918	/sounds/sfx/explosion/energy
 quiet	2	6927
 amp	2	6927	255
-play	2	6927	/sounds/500
+play	2	6927	/sounds/dev/pk/ish
 quiet	0	6933
 amp	0	6933	255
-play	0	6933	/sounds/503
+play	0	6933	/sounds/sfx/explosion/energy
 quiet	2	6939
 amp	2	6939	255
-play	2	6939	/sounds/502
+play	2	6939	/sounds/dev/fusion
 quiet	2	6990
 amp	2	6990	255
-play	2	6990	/sounds/502
+play	2	6990	/sounds/dev/fusion
 quiet	0	6999
 amp	0	6999	255
-play	0	6999	/sounds/500
+play	0	6999	/sounds/dev/pk/ish
 quiet	2	7002
 amp	2	7002	255
-play	2	7002	/sounds/502
+play	2	7002	/sounds/dev/fusion
 quiet	1	7008
 amp	1	7008	255
-play	1	7008	/sounds/503
+play	1	7008	/sounds/sfx/explosion/energy
 quiet	2	7011
 amp	2	7011	255
-play	2	7011	/sounds/502
+play	2	7011	/sounds/dev/fusion
 quiet	0	7011
 amp	0	7011	255
-play	0	7011	/sounds/500
+play	0	7011	/sounds/dev/pk/ish
 quiet	0	7017
 amp	0	7017	255
-play	0	7017	/sounds/500
+play	0	7017	/sounds/dev/pk/ish
 quiet	0	7017
 amp	0	7017	255
-play	0	7017	/sounds/532
+play	0	7017	/sounds/sfx/explosion/gas
 quiet	2	7023
 amp	2	7023	128
-play	2	7023	/sounds/509
+play	2	7023	/sounds/gui/beep/button
 quiet	2	7032
 amp	2	7032	128
-play	2	7032	/sounds/509
+play	2	7032	/sounds/gui/beep/button
 quiet	2	7038
 amp	2	7038	255
-play	2	7038	/sounds/502
+play	2	7038	/sounds/dev/fusion
 quiet	1	7038
 amp	1	7038	255
-play	1	7038	/sounds/500
+play	1	7038	/sounds/dev/pk/ish
 quiet	2	7041
 amp	2	7041	255
-play	2	7041	/sounds/502
+play	2	7041	/sounds/dev/fusion
 quiet	1	7041
 amp	1	7041	255
-play	1	7041	/sounds/500
+play	1	7041	/sounds/dev/pk/ish
 quiet	1	7062
 amp	1	7062	255
-play	1	7062	/sounds/500
+play	1	7062	/sounds/dev/pk/ish
 quiet	2	7065
 amp	2	7065	255
-play	2	7065	/sounds/502
+play	2	7065	/sounds/dev/fusion
 quiet	1	7065
 amp	1	7065	255
-play	1	7065	/sounds/500
+play	1	7065	/sounds/dev/pk/ish
 quiet	1	7065
 amp	1	7065	226
-play	1	7065	/sounds/532
+play	1	7065	/sounds/sfx/explosion/gas
 quiet	0	7073
 amp	0	7073	128
-play	0	7073	/sounds/510
+play	0	7073	/sounds/gui/beep/zoom
 quiet	0	7077
 amp	0	7077	251
-play	0	7077	/sounds/502
+play	0	7077	/sounds/dev/fusion
 quiet	2	7086
 amp	2	7086	101
-play	2	7086	/sounds/533
+play	2	7086	/sounds/dev/cm
 quiet	2	7098
 amp	2	7098	148
-play	2	7098	/sounds/536
+play	2	7098	/sounds/sfx/explosion/flak
 quiet	1	7101
 amp	1	7101	240
-play	1	7101	/sounds/502
+play	1	7101	/sounds/dev/fusion
 quiet	2	7101
 amp	2	7101	154
-play	2	7101	/sounds/536
+play	2	7101	/sounds/sfx/explosion/flak
 quiet	0	7110
 amp	0	7110	147
-play	0	7110	/sounds/536
+play	0	7110	/sounds/sfx/explosion/flak
 quiet	0	7113
 amp	0	7113	219
-play	0	7113	/sounds/502
+play	0	7113	/sounds/dev/fusion
 quiet	2	7116
 amp	2	7116	164
-play	2	7116	/sounds/536
+play	2	7116	/sounds/sfx/explosion/flak
 quiet	2	7119
 amp	2	7119	191
-play	2	7119	/sounds/532
+play	2	7119	/sounds/sfx/explosion/gas
 quiet	2	7122
 amp	2	7122	211
-play	2	7122	/sounds/500
+play	2	7122	/sounds/dev/pk/ish
 quiet	1	7137
 amp	1	7137	169
-play	1	7137	/sounds/536
+play	1	7137	/sounds/sfx/explosion/flak
 quiet	0	7140
 amp	0	7140	139
-play	0	7140	/sounds/536
+play	0	7140	/sounds/sfx/explosion/flak
 quiet	0	7143
 amp	0	7143	197
-play	0	7143	/sounds/500
+play	0	7143	/sounds/dev/pk/ish
 quiet	1	7146
 amp	1	7146	189
-play	1	7146	/sounds/536
+play	1	7146	/sounds/sfx/explosion/flak
 quiet	1	7149
 amp	1	7149	194
-play	1	7149	/sounds/502
+play	1	7149	/sounds/dev/fusion
 quiet	1	7158
 amp	1	7158	195
-play	1	7158	/sounds/502
+play	1	7158	/sounds/dev/fusion
 quiet	2	7158
 amp	2	7158	195
-play	2	7158	/sounds/500
+play	2	7158	/sounds/dev/pk/ish
 quiet	0	7158
 amp	0	7158	83
-play	0	7158	/sounds/533
+play	0	7158	/sounds/dev/cm
 quiet	0	7167
 amp	0	7167	125
-play	0	7167	/sounds/536
+play	0	7167	/sounds/sfx/explosion/flak
 quiet	0	7167
 amp	0	7167	169
-play	0	7167	/sounds/515
+play	0	7167	/sounds/sfx/explosion/large
 quiet	0	7167
 amp	0	7167	170
-play	0	7167	/sounds/503
+play	0	7167	/sounds/sfx/explosion/energy
 quiet	1	7170
 amp	1	7170	152
-play	1	7170	/sounds/536
+play	1	7170	/sounds/sfx/explosion/flak
 quiet	1	7170
 amp	1	7170	171
-play	1	7170	/sounds/536
+play	1	7170	/sounds/sfx/explosion/flak
 quiet	2	7173
 amp	2	7173	168
-play	2	7173	/sounds/503
+play	2	7173	/sounds/sfx/explosion/energy
 quiet	0	7185
 amp	0	7185	192
-play	0	7185	/sounds/507
+play	0	7185	/sounds/gui/beep/select
 quiet	0	7206
 amp	0	7206	154
-play	0	7206	/sounds/536
+play	0	7206	/sounds/sfx/explosion/flak
 quiet	0	7224
 amp	0	7224	192
-play	0	7224	/sounds/507
+play	0	7224	/sounds/gui/beep/select
 quiet	0	7257
 amp	0	7257	154
-play	0	7257	/sounds/514
+play	0	7257	/sounds/sfx/energy
 quiet	0	7269
 amp	0	7269	192
-play	0	7269	/sounds/507
+play	0	7269	/sounds/gui/beep/select
 quiet	0	7296
 amp	0	7296	192
-play	0	7296	/sounds/507
+play	0	7296	/sounds/gui/beep/select
 quiet	0	7347
 amp	0	7347	192
-play	0	7347	/sounds/507
+play	0	7347	/sounds/gui/beep/select
 quiet	0	7503
 amp	0	7503	192
-play	0	7503	/sounds/507
+play	0	7503	/sounds/gui/beep/select
 quiet	0	7545
 amp	0	7545	192
-play	0	7545	/sounds/507
+play	0	7545	/sounds/gui/beep/select
 quiet	0	7575
 amp	0	7575	192
-play	0	7575	/sounds/507
+play	0	7575	/sounds/gui/beep/select
 quiet	0	7611
 amp	0	7611	192
-play	0	7611	/sounds/507
+play	0	7611	/sounds/gui/beep/select
 quiet	0	7641
 amp	0	7641	192
-play	0	7641	/sounds/507
+play	0	7641	/sounds/gui/beep/select
 quiet	0	7668
 amp	0	7668	192
-play	0	7668	/sounds/507
+play	0	7668	/sounds/gui/beep/select
 quiet	0	7671
 amp	0	7671	34
-play	0	7671	/sounds/503
+play	0	7671	/sounds/sfx/explosion/energy
 quiet	0	7710
 amp	0	7710	128
-play	0	7710	/sounds/506
+play	0	7710	/sounds/gui/beep/order
 quiet	0	8151
 amp	0	8151	171
-play	0	8151	/sounds/531
+play	0	8151	/sounds/dev/repulser
 quiet	1	8154
 amp	1	8154	1
-play	1	8154	/sounds/533
+play	1	8154	/sounds/dev/cm
 quiet	0	8178
 amp	0	8178	196
-play	0	8178	/sounds/531
+play	0	8178	/sounds/dev/repulser
 quiet	1	8181
 amp	1	8181	26
-play	1	8181	/sounds/503
+play	1	8181	/sounds/sfx/explosion/energy
 quiet	1	8181
 amp	1	8181	28
-play	1	8181	/sounds/532
+play	1	8181	/sounds/sfx/explosion/gas
 quiet	1	8226
 amp	1	8226	47
-play	1	8226	/sounds/533
+play	1	8226	/sounds/dev/cm
 quiet	1	8496
 amp	1	8496	128
-play	1	8496	/sounds/509
+play	1	8496	/sounds/gui/beep/button
 quiet	1	8505
 amp	1	8505	128
-play	1	8505	/sounds/509
+play	1	8505	/sounds/gui/beep/button
 quiet	1	8511
 amp	1	8511	23
-play	1	8511	/sounds/518
+play	1	8511	/sounds/sfx/warp/out
 quiet	1	8517
 amp	1	8517	206
-play	1	8517	/sounds/518
+play	1	8517	/sounds/sfx/warp/out
 quiet	2	8554
 amp	2	8554	128
-play	2	8554	/sounds/510
+play	2	8554	/sounds/gui/beep/zoom
 quiet	2	8564
 amp	2	8564	128
-play	2	8564	/sounds/510
+play	2	8564	/sounds/gui/beep/zoom
 quiet	0	8586
 amp	0	8586	211
-play	0	8586	/sounds/550
+play	0	8586	/sounds/dev/conc
 quiet	1	8592
 amp	1	8592	210
-play	1	8592	/sounds/550
+play	1	8592	/sounds/dev/conc
 quiet	0	8592
 amp	0	8592	215
-play	0	8592	/sounds/502
+play	0	8592	/sounds/dev/fusion
 quiet	0	8592
 amp	0	8592	216
-play	0	8592	/sounds/500
+play	0	8592	/sounds/dev/pk/ish
 quiet	2	8595
 amp	2	8595	197
-play	2	8595	/sounds/502
+play	2	8595	/sounds/dev/fusion
 quiet	2	8595
 amp	2	8595	210
-play	2	8595	/sounds/552
+play	2	8595	/sounds/dev/conc/ricochet/1
 quiet	1	8601
 amp	1	8601	211
-play	1	8601	/sounds/553
+play	1	8601	/sounds/dev/conc/ricochet/2
 quiet	0	8607
 amp	0	8607	194
-play	0	8607	/sounds/500
+play	0	8607	/sounds/dev/pk/ish
 quiet	0	8613
 amp	0	8613	197
-play	0	8613	/sounds/503
+play	0	8613	/sounds/sfx/explosion/energy
 quiet	2	8628
 amp	2	8628	182
-play	2	8628	/sounds/500
+play	2	8628	/sounds/dev/pk/ish
 quiet	2	8631
 amp	2	8631	196
-play	2	8631	/sounds/502
+play	2	8631	/sounds/dev/fusion
 quiet	2	8631
 amp	2	8631	197
-play	2	8631	/sounds/500
+play	2	8631	/sounds/dev/pk/ish
 quiet	1	8631
 amp	1	8631	180
-play	1	8631	/sounds/502
+play	1	8631	/sounds/dev/fusion
 quiet	1	8631
 amp	1	8631	186
-play	1	8631	/sounds/503
+play	1	8631	/sounds/sfx/explosion/energy
 quiet	1	8634
 amp	1	8634	193
-play	1	8634	/sounds/502
+play	1	8634	/sounds/dev/fusion
 quiet	0	8634
 amp	0	8634	193
-play	0	8634	/sounds/500
+play	0	8634	/sounds/dev/pk/ish
 quiet	2	8643
 amp	2	8643	179
-play	2	8643	/sounds/503
+play	2	8643	/sounds/sfx/explosion/energy
 quiet	0	8646
 amp	0	8646	174
-play	0	8646	/sounds/503
+play	0	8646	/sounds/sfx/explosion/energy
 quiet	0	8652
 amp	0	8652	183
-play	0	8652	/sounds/500
+play	0	8652	/sounds/dev/pk/ish
 quiet	2	8655
 amp	2	8655	180
-play	2	8655	/sounds/500
+play	2	8655	/sounds/dev/pk/ish
 quiet	1	8661
 amp	1	8661	142
-play	1	8661	/sounds/502
+play	1	8661	/sounds/dev/fusion
 quiet	1	8661
 amp	1	8661	165
-play	1	8661	/sounds/503
+play	1	8661	/sounds/sfx/explosion/energy
 quiet	1	8667
 amp	1	8667	175
-play	1	8667	/sounds/502
+play	1	8667	/sounds/dev/fusion
 quiet	0	8670
 amp	0	8670	172
-play	0	8670	/sounds/502
+play	0	8670	/sounds/dev/fusion
 quiet	0	8673
 amp	0	8673	173
-play	0	8673	/sounds/500
+play	0	8673	/sounds/dev/pk/ish
 quiet	2	8676
 amp	2	8676	170
-play	2	8676	/sounds/500
+play	2	8676	/sounds/dev/pk/ish
 quiet	1	8679
 amp	1	8679	160
-play	1	8679	/sounds/503
+play	1	8679	/sounds/sfx/explosion/energy
 quiet	0	8697
 amp	0	8697	147
-play	0	8697	/sounds/502
+play	0	8697	/sounds/dev/fusion
 quiet	0	8703
 amp	0	8703	148
-play	0	8703	/sounds/500
+play	0	8703	/sounds/dev/pk/ish
 quiet	2	8724
 amp	2	8724	129
-play	2	8724	/sounds/502
+play	2	8724	/sounds/dev/fusion
 quiet	1	8724
 amp	1	8724	129
-play	1	8724	/sounds/500
+play	1	8724	/sounds/dev/pk/ish
 quiet	1	8724
 amp	1	8724	141
-play	1	8724	/sounds/500
+play	1	8724	/sounds/dev/pk/ish
 quiet	2	8733
 amp	2	8733	139
-play	2	8733	/sounds/502
+play	2	8733	/sounds/dev/fusion
 quiet	1	8736
 amp	1	8736	143
-play	1	8736	/sounds/503
+play	1	8736	/sounds/sfx/explosion/energy
 quiet	0	8745
 amp	0	8745	117
-play	0	8745	/sounds/500
+play	0	8745	/sounds/dev/pk/ish
 quiet	2	8760
 amp	2	8760	110
-play	2	8760	/sounds/502
+play	2	8760	/sounds/dev/fusion
 quiet	2	8766
 amp	2	8766	117
-play	2	8766	/sounds/502
+play	2	8766	/sounds/dev/fusion
 quiet	0	8766
 amp	0	8766	117
-play	0	8766	/sounds/500
+play	0	8766	/sounds/dev/pk/ish
 quiet	1	8766
 amp	1	8766	109
-play	1	8766	/sounds/500
+play	1	8766	/sounds/dev/pk/ish
 quiet	0	8778
 amp	0	8778	133
-play	0	8778	/sounds/503
+play	0	8778	/sounds/sfx/explosion/energy
 quiet	1	8787
 amp	1	8787	109
-play	1	8787	/sounds/500
+play	1	8787	/sounds/dev/pk/ish
 quiet	2	8847
 amp	2	8847	79
-play	2	8847	/sounds/502
+play	2	8847	/sounds/dev/fusion
 quiet	1	8859
 amp	1	8859	79
-play	1	8859	/sounds/500
+play	1	8859	/sounds/dev/pk/ish
 quiet	2	8862
 amp	2	8862	85
-play	2	8862	/sounds/502
+play	2	8862	/sounds/dev/fusion
 quiet	1	8871
 amp	1	8871	82
-play	1	8871	/sounds/500
+play	1	8871	/sounds/dev/pk/ish
 quiet	2	8874
 amp	2	8874	87
-play	2	8874	/sounds/502
+play	2	8874	/sounds/dev/fusion
 quiet	1	8874
 amp	1	8874	86
-play	1	8874	/sounds/500
+play	1	8874	/sounds/dev/pk/ish
 quiet	1	8883
 amp	1	8883	92
-play	1	8883	/sounds/503
+play	1	8883	/sounds/sfx/explosion/energy
 quiet	0	8886
 amp	0	8886	77
-play	0	8886	/sounds/502
+play	0	8886	/sounds/dev/fusion
 quiet	2	8886
 amp	2	8886	77
-play	2	8886	/sounds/500
+play	2	8886	/sounds/dev/pk/ish
 quiet	1	8886
 amp	1	8886	93
-play	1	8886	/sounds/503
+play	1	8886	/sounds/sfx/explosion/energy
 quiet	0	8889
 amp	0	8889	84
-play	0	8889	/sounds/502
+play	0	8889	/sounds/dev/fusion
 quiet	2	8892
 amp	2	8892	79
-play	2	8892	/sounds/500
+play	2	8892	/sounds/dev/pk/ish
 quiet	2	8892
 amp	2	8892	84
-play	2	8892	/sounds/500
+play	2	8892	/sounds/dev/pk/ish
 quiet	0	8904
 amp	0	8904	77
-play	0	8904	/sounds/503
+play	0	8904	/sounds/sfx/explosion/energy
 quiet	2	8907
 amp	2	8907	67
-play	2	8907	/sounds/500
+play	2	8907	/sounds/dev/pk/ish
 quiet	2	8910
 amp	2	8910	68
-play	2	8910	/sounds/515
+play	2	8910	/sounds/sfx/explosion/large
 quiet	2	8910
 amp	2	8910	69
-play	2	8910	/sounds/503
+play	2	8910	/sounds/sfx/explosion/energy
 quiet	1	8919
 amp	1	8919	62
-play	1	8919	/sounds/503
+play	1	8919	/sounds/sfx/explosion/energy
 quiet	0	8964
 amp	0	8964	255
-play	0	8964	/sounds/500
+play	0	8964	/sounds/dev/pk/ish
 quiet	1	8970
 amp	1	8970	255
-play	1	8970	/sounds/502
+play	1	8970	/sounds/dev/fusion
 quiet	2	8979
 amp	2	8979	128
-play	2	8979	/sounds/510
+play	2	8979	/sounds/gui/beep/zoom
 quiet	2	8982
 amp	2	8982	31
-play	2	8982	/sounds/514
+play	2	8982	/sounds/sfx/energy
 quiet	0	8985
 amp	0	8985	255
-play	0	8985	/sounds/500
+play	0	8985	/sounds/dev/pk/ish
 quiet	0	9006
 amp	0	9006	255
-play	0	9006	/sounds/500
+play	0	9006	/sounds/dev/pk/ish
 quiet	2	9015
 amp	2	9015	255
-play	2	9015	/sounds/503
+play	2	9015	/sounds/sfx/explosion/energy
 quiet	0	9027
 amp	0	9027	255
-play	0	9027	/sounds/500
+play	0	9027	/sounds/dev/pk/ish
 quiet	0	9048
 amp	0	9048	255
-play	0	9048	/sounds/500
+play	0	9048	/sounds/dev/pk/ish
 quiet	0	9069
 amp	0	9069	255
-play	0	9069	/sounds/500
+play	0	9069	/sounds/dev/pk/ish
 quiet	1	9084
 amp	1	9084	255
-play	1	9084	/sounds/501
+play	1	9084	/sounds/sfx/explosion/small
 quiet	2	9084
 amp	2	9084	255
-play	2	9084	/sounds/503
+play	2	9084	/sounds/sfx/explosion/energy
 quiet	0	9090
 amp	0	9090	255
-play	0	9090	/sounds/500
+play	0	9090	/sounds/dev/pk/ish
 quiet	0	9111
 amp	0	9111	255
-play	0	9111	/sounds/500
+play	0	9111	/sounds/dev/pk/ish
 quiet	1	9120
 amp	1	9120	255
-play	1	9120	/sounds/514
+play	1	9120	/sounds/sfx/energy
 quiet	2	9176
 amp	2	9176	128
-play	2	9176	/sounds/510
+play	2	9176	/sounds/gui/beep/zoom
 quiet	0	9342
 amp	0	9342	128
-play	0	9342	/sounds/509
+play	0	9342	/sounds/gui/beep/button
 quiet	0	9393
 amp	0	9393	133
-play	0	9393	/sounds/533
+play	0	9393	/sounds/dev/cm
 quiet	0	9399
 amp	0	9399	134
-play	0	9399	/sounds/533
+play	0	9399	/sounds/dev/cm
 quiet	0	9465
 amp	0	9465	178
-play	0	9465	/sounds/533
+play	0	9465	/sounds/dev/cm
 quiet	0	9471
 amp	0	9471	205
-play	0	9471	/sounds/559
+play	0	9471	/sounds/dev/neutron
 quiet	0	9471
 amp	0	9471	208
-play	0	9471	/sounds/533
+play	0	9471	/sounds/dev/cm
 quiet	0	9483
 amp	0	9483	217
-play	0	9483	/sounds/559
+play	0	9483	/sounds/dev/neutron
 quiet	2	9484
 amp	2	9484	128
-play	2	9484	/sounds/510
+play	2	9484	/sounds/gui/beep/zoom
 quiet	0	9495
 amp	0	9495	228
-play	0	9495	/sounds/559
+play	0	9495	/sounds/dev/neutron
 quiet	0	9507
 amp	0	9507	239
-play	0	9507	/sounds/559
+play	0	9507	/sounds/dev/neutron
 quiet	0	9519
 amp	0	9519	251
-play	0	9519	/sounds/559
+play	0	9519	/sounds/dev/neutron
 quiet	0	9531
 amp	0	9531	255
-play	0	9531	/sounds/559
+play	0	9531	/sounds/dev/neutron
 quiet	2	9537
 amp	2	9537	210
-play	2	9537	/sounds/533
+play	2	9537	/sounds/dev/cm
 quiet	0	9543
 amp	0	9543	255
-play	0	9543	/sounds/559
+play	0	9543	/sounds/dev/neutron
 quiet	2	9543
 amp	2	9543	255
-play	2	9543	/sounds/533
+play	2	9543	/sounds/dev/cm
 quiet	0	9555
 amp	0	9555	255
-play	0	9555	/sounds/559
+play	0	9555	/sounds/dev/neutron
 quiet	1	9558
 amp	1	9558	252
-play	1	9558	/sounds/536
+play	1	9558	/sounds/sfx/explosion/flak
 quiet	1	9561
 amp	1	9561	255
-play	1	9561	/sounds/550
+play	1	9561	/sounds/dev/conc
 quiet	0	9567
 amp	0	9567	255
-play	0	9567	/sounds/559
+play	0	9567	/sounds/dev/neutron
 quiet	1	9570
 amp	1	9570	255
-play	1	9570	/sounds/536
+play	1	9570	/sounds/sfx/explosion/flak
 quiet	1	9579
 amp	1	9579	255
-play	1	9579	/sounds/536
+play	1	9579	/sounds/sfx/explosion/flak
 quiet	1	9579
 amp	1	9579	255
-play	1	9579	/sounds/536
+play	1	9579	/sounds/sfx/explosion/flak
 quiet	1	9606
 amp	1	9606	255
-play	1	9606	/sounds/536
+play	1	9606	/sounds/sfx/explosion/flak
 quiet	2	9609
 amp	2	9609	233
-play	2	9609	/sounds/533
+play	2	9609	/sounds/dev/cm
 quiet	0	9609
 amp	0	9609	255
-play	0	9609	/sounds/559
+play	0	9609	/sounds/dev/neutron
 quiet	2	9612
 amp	2	9612	255
-play	2	9612	/sounds/503
+play	2	9612	/sounds/sfx/explosion/energy
 quiet	1	9618
 amp	1	9618	255
-play	1	9618	/sounds/536
+play	1	9618	/sounds/sfx/explosion/flak
 quiet	0	9621
 amp	0	9621	255
-play	0	9621	/sounds/559
+play	0	9621	/sounds/dev/neutron
 quiet	1	9621
 amp	1	9621	255
-play	1	9621	/sounds/536
+play	1	9621	/sounds/sfx/explosion/flak
 quiet	0	9633
 amp	0	9633	255
-play	0	9633	/sounds/559
+play	0	9633	/sounds/dev/neutron
 quiet	1	9636
 amp	1	9636	255
-play	1	9636	/sounds/536
+play	1	9636	/sounds/sfx/explosion/flak
 quiet	2	9639
 amp	2	9639	255
-play	2	9639	/sounds/544
+play	2	9639	/sounds/dev/kl
 quiet	0	9648
 amp	0	9648	255
-play	0	9648	/sounds/559
+play	0	9648	/sounds/dev/neutron
 quiet	2	9651
 amp	2	9651	255
-play	2	9651	/sounds/544
+play	2	9651	/sounds/dev/kl
 quiet	1	9654
 amp	1	9654	255
-play	1	9654	/sounds/536
+play	1	9654	/sounds/sfx/explosion/flak
 quiet	1	9654
 amp	1	9654	255
-play	1	9654	/sounds/536
+play	1	9654	/sounds/sfx/explosion/flak
 quiet	1	9654
 amp	1	9654	255
-play	1	9654	/sounds/536
+play	1	9654	/sounds/sfx/explosion/flak
 quiet	0	9660
 amp	0	9660	249
-play	0	9660	/sounds/559
+play	0	9660	/sounds/dev/neutron
 quiet	2	9672
 amp	2	9672	240
-play	2	9672	/sounds/559
+play	2	9672	/sounds/dev/neutron
 quiet	0	9672
 amp	0	9672	255
-play	0	9672	/sounds/503
+play	0	9672	/sounds/sfx/explosion/energy
 quiet	2	9681
 amp	2	9681	250
-play	2	9681	/sounds/533
+play	2	9681	/sounds/dev/cm
 quiet	1	9687
 amp	1	9687	255
-play	1	9687	/sounds/536
+play	1	9687	/sounds/sfx/explosion/flak
 quiet	1	9696
 amp	1	9696	255
-play	1	9696	/sounds/536
+play	1	9696	/sounds/sfx/explosion/flak
 quiet	1	9714
 amp	1	9714	255
-play	1	9714	/sounds/536
+play	1	9714	/sounds/sfx/explosion/flak
 quiet	1	9717
 amp	1	9717	255
-play	1	9717	/sounds/536
+play	1	9717	/sounds/sfx/explosion/flak
 quiet	0	9720
 amp	0	9720	184
-play	0	9720	/sounds/502
+play	0	9720	/sounds/dev/fusion
 quiet	2	9720
 amp	2	9720	128
-play	2	9720	/sounds/509
+play	2	9720	/sounds/gui/beep/button
 quiet	1	9723
 amp	1	9723	255
-play	1	9723	/sounds/536
+play	1	9723	/sounds/sfx/explosion/flak
 quiet	1	9726
 amp	1	9726	255
-play	1	9726	/sounds/536
+play	1	9726	/sounds/sfx/explosion/flak
 quiet	1	9732
 amp	1	9732	255
-play	1	9732	/sounds/536
+play	1	9732	/sounds/sfx/explosion/flak
 quiet	0	9738
 amp	0	9738	185
-play	0	9738	/sounds/500
+play	0	9738	/sounds/dev/pk/ish
 quiet	1	9744
 amp	1	9744	255
-play	1	9744	/sounds/536
+play	1	9744	/sounds/sfx/explosion/flak
 quiet	0	9744
 amp	0	9744	255
-play	0	9744	/sounds/532
+play	0	9744	/sounds/sfx/explosion/gas
 quiet	2	9747
 amp	2	9747	202
-play	2	9747	/sounds/503
+play	2	9747	/sounds/sfx/explosion/energy
 quiet	1	9753
 amp	1	9753	255
-play	1	9753	/sounds/536
+play	1	9753	/sounds/sfx/explosion/flak
 quiet	2	9759
 amp	2	9759	249
-play	2	9759	/sounds/533
+play	2	9759	/sounds/dev/cm
 quiet	1	9765
 amp	1	9765	255
-play	1	9765	/sounds/536
+play	1	9765	/sounds/sfx/explosion/flak
 quiet	0	9775
 amp	0	9775	128
-play	0	9775	/sounds/510
+play	0	9775	/sounds/gui/beep/zoom
 quiet	1	9777
 amp	1	9777	255
-play	1	9777	/sounds/536
+play	1	9777	/sounds/sfx/explosion/flak
 quiet	1	9792
 amp	1	9792	255
-play	1	9792	/sounds/536
+play	1	9792	/sounds/sfx/explosion/flak
 quiet	1	9798
 amp	1	9798	255
-play	1	9798	/sounds/536
+play	1	9798	/sounds/sfx/explosion/flak
 quiet	0	9804
 amp	0	9804	170
-play	0	9804	/sounds/559
+play	0	9804	/sounds/dev/neutron
 quiet	2	9804
 amp	2	9804	170
-play	2	9804	/sounds/550
+play	2	9804	/sounds/dev/conc
 quiet	2	9804
 amp	2	9804	169
-play	2	9804	/sounds/533
+play	2	9804	/sounds/dev/cm
 quiet	1	9810
 amp	1	9810	255
-play	1	9810	/sounds/536
+play	1	9810	/sounds/sfx/explosion/flak
 quiet	0	9816
 amp	0	9816	163
-play	0	9816	/sounds/559
+play	0	9816	/sounds/dev/neutron
 quiet	0	9816
 amp	0	9816	164
-play	0	9816	/sounds/552
+play	0	9816	/sounds/dev/conc/ricochet/1
 quiet	1	9828
 amp	1	9828	255
-play	1	9828	/sounds/536
+play	1	9828	/sounds/sfx/explosion/flak
 quiet	1	9831
 amp	1	9831	255
-play	1	9831	/sounds/536
+play	1	9831	/sounds/sfx/explosion/flak
 quiet	1	9837
 amp	1	9837	255
-play	1	9837	/sounds/536
+play	1	9837	/sounds/sfx/explosion/flak
 quiet	1	9840
 amp	1	9840	255
-play	1	9840	/sounds/536
+play	1	9840	/sounds/sfx/explosion/flak
 quiet	1	9846
 amp	1	9846	255
-play	1	9846	/sounds/536
+play	1	9846	/sounds/sfx/explosion/flak
 quiet	0	9846
 amp	0	9846	145
-play	0	9846	/sounds/532
+play	0	9846	/sounds/sfx/explosion/gas
 quiet	2	9852
 amp	2	9852	217
-play	2	9852	/sounds/533
+play	2	9852	/sounds/dev/cm
 quiet	0	9858
 amp	0	9858	247
-play	0	9858	/sounds/536
+play	0	9858	/sounds/sfx/explosion/flak
 quiet	1	9876
 amp	1	9876	132
-play	1	9876	/sounds/559
+play	1	9876	/sounds/dev/neutron
 quiet	0	9876
 amp	0	9876	255
-play	0	9876	/sounds/536
+play	0	9876	/sounds/sfx/explosion/flak
 quiet	1	9876
 amp	1	9876	255
-play	1	9876	/sounds/532
+play	1	9876	/sounds/sfx/explosion/gas
 quiet	0	9885
 amp	0	9885	255
-play	0	9885	/sounds/536
+play	0	9885	/sounds/sfx/explosion/flak
 quiet	2	9888
 amp	2	9888	127
-play	2	9888	/sounds/559
+play	2	9888	/sounds/dev/neutron
 quiet	2	9900
 amp	2	9900	124
-play	2	9900	/sounds/559
+play	2	9900	/sounds/dev/neutron
 quiet	0	9906
 amp	0	9906	255
-play	0	9906	/sounds/536
+play	0	9906	/sounds/sfx/explosion/flak
 quiet	1	9912
 amp	1	9912	122
-play	1	9912	/sounds/559
+play	1	9912	/sounds/dev/neutron
 quiet	2	9924
 amp	2	9924	121
-play	2	9924	/sounds/559
+play	2	9924	/sounds/dev/neutron
 quiet	1	9924
 amp	1	9924	159
-play	1	9924	/sounds/536
+play	1	9924	/sounds/sfx/explosion/flak
 quiet	2	9924
 amp	2	9924	155
-play	2	9924	/sounds/536
+play	2	9924	/sounds/sfx/explosion/flak
 quiet	1	9936
 amp	1	9936	168
-play	1	9936	/sounds/536
+play	1	9936	/sounds/sfx/explosion/flak
 quiet	0	9939
 amp	0	9939	133
-play	0	9939	/sounds/536
+play	0	9939	/sounds/sfx/explosion/flak
 quiet	2	9957
 amp	2	9957	112
-play	2	9957	/sounds/536
+play	2	9957	/sounds/sfx/explosion/flak
 quiet	1	9960
 amp	1	9960	92
-play	1	9960	/sounds/502
+play	1	9960	/sounds/dev/fusion
 quiet	0	9960
 amp	0	9960	92
-play	0	9960	/sounds/500
+play	0	9960	/sounds/dev/pk/ish
 quiet	2	9966
 amp	2	9966	132
-play	2	9966	/sounds/536
+play	2	9966	/sounds/sfx/explosion/flak
 quiet	2	9969
 amp	2	9969	158
-play	2	9969	/sounds/536
+play	2	9969	/sounds/sfx/explosion/flak
 quiet	0	9978
 amp	0	9978	178
-play	0	9978	/sounds/505
+play	0	9978	/sounds/dev/anti
 quiet	1	9978
 amp	1	9978	178
-play	1	9978	/sounds/533
+play	1	9978	/sounds/dev/cm
 quiet	0	9990
 amp	0	9990	83
-play	0	9990	/sounds/531
+play	0	9990	/sounds/dev/repulser
 quiet	0	9996
 amp	0	9996	89
-play	0	9996	/sounds/502
+play	0	9996	/sounds/dev/fusion
 quiet	0	9996
 amp	0	9996	115
-play	0	9996	/sounds/503
+play	0	9996	/sounds/sfx/explosion/energy
 quiet	2	9999
 amp	2	9999	95
-play	2	9999	/sounds/502
+play	2	9999	/sounds/dev/fusion
 quiet	0	9999
 amp	0	9999	132
-play	0	9999	/sounds/536
+play	0	9999	/sounds/sfx/explosion/flak
 quiet	0	9999
 amp	0	9999	157
-play	0	9999	/sounds/536
+play	0	9999	/sounds/sfx/explosion/flak
 quiet	2	10002
 amp	2	10002	119
-play	2	10002	/sounds/536
+play	2	10002	/sounds/sfx/explosion/flak
 quiet	2	10002
 amp	2	10002	157
-play	2	10002	/sounds/503
+play	2	10002	/sounds/sfx/explosion/energy
 quiet	2	10002
 amp	2	10002	158
-play	2	10002	/sounds/503
+play	2	10002	/sounds/sfx/explosion/energy
 quiet	2	10002
 amp	2	10002	158
-play	2	10002	/sounds/503
+play	2	10002	/sounds/sfx/explosion/energy
 quiet	2	10002
 amp	2	10002	159
-play	2	10002	/sounds/503
+play	2	10002	/sounds/sfx/explosion/energy
 quiet	0	10002
 amp	0	10002	157
-play	0	10002	/sounds/515
+play	0	10002	/sounds/sfx/explosion/large
 quiet	2	10002
 amp	2	10002	159
-play	2	10002	/sounds/503
+play	2	10002	/sounds/sfx/explosion/energy
 quiet	0	10008
 amp	0	10008	255
-play	0	10008	/sounds/544
+play	0	10008	/sounds/dev/kl
 quiet	1	10011
 amp	1	10011	134
-play	1	10011	/sounds/536
+play	1	10011	/sounds/sfx/explosion/flak
 quiet	0	10020
 amp	0	10020	255
-play	0	10020	/sounds/544
+play	0	10020	/sounds/dev/kl
 quiet	0	10032
 amp	0	10032	255
-play	0	10032	/sounds/544
+play	0	10032	/sounds/dev/kl
 quiet	2	10032
 amp	2	10032	102
-play	2	10032	/sounds/503
+play	2	10032	/sounds/sfx/explosion/energy
 quiet	1	10035
 amp	1	10035	93
-play	1	10035	/sounds/502
+play	1	10035	/sounds/dev/fusion
 quiet	2	10035
 amp	2	10035	107
-play	2	10035	/sounds/503
+play	2	10035	/sounds/sfx/explosion/energy
 quiet	0	10044
 amp	0	10044	255
-play	0	10044	/sounds/544
+play	0	10044	/sounds/dev/kl
 quiet	1	10044
 amp	1	10044	107
-play	1	10044	/sounds/502
+play	1	10044	/sounds/dev/fusion
 quiet	0	10056
 amp	0	10056	255
-play	0	10056	/sounds/544
+play	0	10056	/sounds/dev/kl
 quiet	1	10059
 amp	1	10059	95
-play	1	10059	/sounds/559
+play	1	10059	/sounds/dev/neutron
 quiet	2	10059
 amp	2	10059	95
-play	2	10059	/sounds/550
+play	2	10059	/sounds/dev/conc
 quiet	2	10059
 amp	2	10059	93
-play	2	10059	/sounds/533
+play	2	10059	/sounds/dev/cm
 quiet	0	10071
 amp	0	10071	90
-play	0	10071	/sounds/559
+play	0	10071	/sounds/dev/neutron
 quiet	1	10071
 amp	1	10071	90
-play	1	10071	/sounds/550
+play	1	10071	/sounds/dev/conc
 quiet	0	10071
 amp	0	10071	91
-play	0	10071	/sounds/531
+play	0	10071	/sounds/dev/repulser
 quiet	0	10077
 amp	0	10077	92
-play	0	10077	/sounds/553
+play	0	10077	/sounds/dev/conc/ricochet/2
 quiet	1	10083
 amp	1	10083	86
-play	1	10083	/sounds/559
+play	1	10083	/sounds/dev/neutron
 quiet	0	10083
 amp	0	10083	139
-play	0	10083	/sounds/514
+play	0	10083	/sounds/sfx/energy
 quiet	1	10083
 amp	1	10083	90
-play	1	10083	/sounds/503
+play	1	10083	/sounds/sfx/explosion/energy
 quiet	2	10095
 amp	2	10095	83
-play	2	10095	/sounds/559
+play	2	10095	/sounds/dev/neutron
 quiet	0	10095
 amp	0	10095	83
-play	0	10095	/sounds/550
+play	0	10095	/sounds/dev/conc
 quiet	0	10098
 amp	0	10098	96
-play	0	10098	/sounds/531
+play	0	10098	/sounds/dev/repulser
 quiet	1	10104
 amp	1	10104	110
-play	1	10104	/sounds/503
+play	1	10104	/sounds/sfx/explosion/energy
 quiet	0	10107
 amp	0	10107	110
-play	0	10107	/sounds/536
+play	0	10107	/sounds/sfx/explosion/flak
 quiet	1	10110
 amp	1	10110	111
-play	1	10110	/sounds/503
+play	1	10110	/sounds/sfx/explosion/energy
 quiet	2	10119
 amp	2	10119	79
-play	2	10119	/sounds/559
+play	2	10119	/sounds/dev/neutron
 quiet	2	10125
 amp	2	10125	100
-play	2	10125	/sounds/531
+play	2	10125	/sounds/dev/repulser
 quiet	2	10131
 amp	2	10131	110
-play	2	10131	/sounds/503
+play	2	10131	/sounds/sfx/explosion/energy
 quiet	0	10143
 amp	0	10143	140
-play	0	10143	/sounds/533
+play	0	10143	/sounds/dev/cm
 quiet	1	10146
 amp	1	10146	55
-play	1	10146	/sounds/502
+play	1	10146	/sounds/dev/fusion
 quiet	1	10146
 amp	1	10146	56
-play	1	10146	/sounds/500
+play	1	10146	/sounds/dev/pk/ish
 quiet	1	10146
 amp	1	10146	86
-play	1	10146	/sounds/536
+play	1	10146	/sounds/sfx/explosion/flak
 quiet	1	10152
 amp	1	10152	100
-play	1	10152	/sounds/531
+play	1	10152	/sounds/dev/repulser
 quiet	1	10155
 amp	1	10155	106
-play	1	10155	/sounds/503
+play	1	10155	/sounds/sfx/explosion/energy
 quiet	1	10155
 amp	1	10155	112
-play	1	10155	/sounds/503
+play	1	10155	/sounds/sfx/explosion/energy
 quiet	2	10164
 amp	2	10164	92
-play	2	10164	/sounds/536
+play	2	10164	/sounds/sfx/explosion/flak
 quiet	2	10179
 amp	2	10179	109
-play	2	10179	/sounds/531
+play	2	10179	/sounds/dev/repulser
 quiet	1	10182
 amp	1	10182	114
-play	1	10182	/sounds/503
+play	1	10182	/sounds/sfx/explosion/energy
 quiet	0	10185
 amp	0	10185	89
-play	0	10185	/sounds/536
+play	0	10185	/sounds/sfx/explosion/flak
 quiet	2	10191
 amp	2	10191	82
-play	2	10191	/sounds/559
+play	2	10191	/sounds/dev/neutron
 quiet	2	10191
 amp	2	10191	84
-play	2	10191	/sounds/533
+play	2	10191	/sounds/dev/cm
 quiet	0	10197
 amp	0	10197	93
-play	0	10197	/sounds/536
+play	0	10197	/sounds/sfx/explosion/flak
 quiet	0	10197
 amp	0	10197	125
-play	0	10197	/sounds/536
+play	0	10197	/sounds/sfx/explosion/flak
 quiet	0	10200
 amp	0	10200	126
-play	0	10200	/sounds/532
+play	0	10200	/sounds/sfx/explosion/gas
 quiet	1	10200
 amp	1	10200	123
-play	1	10200	/sounds/503
+play	1	10200	/sounds/sfx/explosion/energy
 quiet	1	10200
 amp	1	10200	126
-play	1	10200	/sounds/503
+play	1	10200	/sounds/sfx/explosion/energy
 quiet	2	10200
 amp	2	10200	124
-play	2	10200	/sounds/503
+play	2	10200	/sounds/sfx/explosion/energy
 quiet	2	10200
 amp	2	10200	125
-play	2	10200	/sounds/503
+play	2	10200	/sounds/sfx/explosion/energy
 quiet	1	10200
 amp	1	10200	127
-play	1	10200	/sounds/503
+play	1	10200	/sounds/sfx/explosion/energy
 quiet	0	10203
 amp	0	10203	133
-play	0	10203	/sounds/536
+play	0	10203	/sounds/sfx/explosion/flak
 quiet	0	10212
 amp	0	10212	255
-play	0	10212	/sounds/544
+play	0	10212	/sounds/dev/kl
 quiet	1	10212
 amp	1	10212	128
-play	1	10212	/sounds/502
+play	1	10212	/sounds/dev/fusion
 quiet	1	10218
 amp	1	10218	130
-play	1	10218	/sounds/536
+play	1	10218	/sounds/sfx/explosion/flak
 quiet	2	10218
 amp	2	10218	128
-play	2	10218	/sounds/503
+play	2	10218	/sounds/sfx/explosion/energy
 quiet	0	10224
 amp	0	10224	255
-play	0	10224	/sounds/544
+play	0	10224	/sounds/dev/kl
 quiet	1	10224
 amp	1	10224	136
-play	1	10224	/sounds/536
+play	1	10224	/sounds/sfx/explosion/flak
 quiet	2	10227
 amp	2	10227	137
-play	2	10227	/sounds/503
+play	2	10227	/sounds/sfx/explosion/energy
 quiet	2	10227
 amp	2	10227	139
-play	2	10227	/sounds/503
+play	2	10227	/sounds/sfx/explosion/energy
 quiet	1	10230
 amp	1	10230	141
-play	1	10230	/sounds/531
+play	1	10230	/sounds/dev/repulser
 quiet	2	10233
 amp	2	10233	143
-play	2	10233	/sounds/503
+play	2	10233	/sounds/sfx/explosion/energy
 quiet	1	10233
 amp	1	10233	142
-play	1	10233	/sounds/515
+play	1	10233	/sounds/sfx/explosion/large
 quiet	2	10233
 amp	2	10233	143
-play	2	10233	/sounds/503
+play	2	10233	/sounds/sfx/explosion/energy
 quiet	0	10236
 amp	0	10236	255
-play	0	10236	/sounds/544
+play	0	10236	/sounds/dev/kl
 quiet	0	10248
 amp	0	10248	255
-play	0	10248	/sounds/544
+play	0	10248	/sounds/dev/kl
 quiet	1	10248
 amp	1	10248	155
-play	1	10248	/sounds/570
+play	1	10248	/sounds/tpl/engineer/arrive
 quiet	2	10260
 amp	2	10260	87
-play	2	10260	/sounds/518
+play	2	10260	/sounds/sfx/warp/out
 quiet	2	10260
 amp	2	10260	122
-play	2	10260	/sounds/500
+play	2	10260	/sounds/dev/pk/ish
 quiet	0	10260
 amp	0	10260	121
-play	0	10260	/sounds/536
+play	0	10260	/sounds/sfx/explosion/flak
 quiet	0	10260
 amp	0	10260	123
-play	0	10260	/sounds/536
+play	0	10260	/sounds/sfx/explosion/flak
 quiet	1	10263
 amp	1	10263	122
-play	1	10263	/sounds/503
+play	1	10263	/sounds/sfx/explosion/energy
 quiet	1	10263
 amp	1	10263	124
-play	1	10263	/sounds/503
+play	1	10263	/sounds/sfx/explosion/energy
 quiet	1	10263
 amp	1	10263	124
-play	1	10263	/sounds/503
+play	1	10263	/sounds/sfx/explosion/energy
 quiet	1	10263
 amp	1	10263	125
-play	1	10263	/sounds/503
+play	1	10263	/sounds/sfx/explosion/energy
 quiet	2	10263
 amp	2	10263	123
-play	2	10263	/sounds/503
+play	2	10263	/sounds/sfx/explosion/energy
 quiet	2	10263
 amp	2	10263	123
-play	2	10263	/sounds/503
+play	2	10263	/sounds/sfx/explosion/energy
 quiet	2	10263
 amp	2	10263	123
-play	2	10263	/sounds/503
+play	2	10263	/sounds/sfx/explosion/energy
 quiet	0	10266
 amp	0	10266	168
-play	0	10266	/sounds/514
+play	0	10266	/sounds/sfx/energy
 quiet	1	10269
 amp	1	10269	133
-play	1	10269	/sounds/550
+play	1	10269	/sounds/dev/conc
 quiet	2	10269
 amp	2	10269	132
-play	2	10269	/sounds/502
+play	2	10269	/sounds/dev/fusion
 quiet	1	10269
 amp	1	10269	104
-play	1	10269	/sounds/536
+play	1	10269	/sounds/sfx/explosion/flak
 quiet	1	10275
 amp	1	10275	136
-play	1	10275	/sounds/550
+play	1	10275	/sounds/dev/conc
 quiet	0	10278
 amp	0	10278	255
-play	0	10278	/sounds/544
+play	0	10278	/sounds/dev/kl
 quiet	1	10278
 amp	1	10278	168
-play	1	10278	/sounds/536
+play	1	10278	/sounds/sfx/explosion/flak
 quiet	2	10278
 amp	2	10278	141
-play	2	10278	/sounds/503
+play	2	10278	/sounds/sfx/explosion/energy
 quiet	2	10281
 amp	2	10281	145
-play	2	10281	/sounds/500
+play	2	10281	/sounds/dev/pk/ish
 quiet	1	10281
 amp	1	10281	170
-play	1	10281	/sounds/515
+play	1	10281	/sounds/sfx/explosion/large
 quiet	1	10281
 amp	1	10281	171
-play	1	10281	/sounds/503
+play	1	10281	/sounds/sfx/explosion/energy
 quiet	2	10287
 amp	2	10287	163
-play	2	10287	/sounds/536
+play	2	10287	/sounds/sfx/explosion/flak
 quiet	0	10290
 amp	0	10290	255
-play	0	10290	/sounds/544
+play	0	10290	/sounds/dev/kl
 quiet	1	10290
 amp	1	10290	173
-play	1	10290	/sounds/503
+play	1	10290	/sounds/sfx/explosion/energy
 quiet	0	10302
 amp	0	10302	135
-play	0	10302	/sounds/502
+play	0	10302	/sounds/dev/fusion
 quiet	0	10302
 amp	0	10302	255
-play	0	10302	/sounds/544
+play	0	10302	/sounds/dev/kl
 quiet	2	10302
 amp	2	10302	167
-play	2	10302	/sounds/500
+play	2	10302	/sounds/dev/pk/ish
 quiet	2	10305
 amp	2	10305	170
-play	2	10305	/sounds/502
+play	2	10305	/sounds/dev/fusion
 quiet	1	10305
 amp	1	10305	179
-play	1	10305	/sounds/503
+play	1	10305	/sounds/sfx/explosion/energy
 quiet	1	10311
 amp	1	10311	192
-play	1	10311	/sounds/503
+play	1	10311	/sounds/sfx/explosion/energy
 quiet	0	10314
 amp	0	10314	255
-play	0	10314	/sounds/544
+play	0	10314	/sounds/dev/kl
 quiet	2	10320
 amp	2	10320	159
-play	2	10320	/sounds/536
+play	2	10320	/sounds/sfx/explosion/flak
 quiet	0	10326
 amp	0	10326	255
-play	0	10326	/sounds/544
+play	0	10326	/sounds/dev/kl
 quiet	1	10332
 amp	1	10332	150
-play	1	10332	/sounds/502
+play	1	10332	/sounds/dev/fusion
 quiet	1	10341
 amp	1	10341	171
-play	1	10341	/sounds/502
+play	1	10341	/sounds/dev/fusion
 quiet	1	10341
 amp	1	10341	172
-play	1	10341	/sounds/500
+play	1	10341	/sounds/dev/pk/ish
 quiet	1	10341
 amp	1	10341	214
-play	1	10341	/sounds/559
+play	1	10341	/sounds/dev/neutron
 quiet	2	10341
 amp	2	10341	214
-play	2	10341	/sounds/550
+play	2	10341	/sounds/dev/conc
 quiet	1	10341
 amp	1	10341	216
-play	1	10341	/sounds/533
+play	1	10341	/sounds/dev/cm
 quiet	2	10341
 amp	2	10341	199
-play	2	10341	/sounds/514
+play	2	10341	/sounds/sfx/energy
 quiet	1	10347
 amp	1	10347	217
-play	1	10347	/sounds/550
+play	1	10347	/sounds/dev/conc
 quiet	1	10359
 amp	1	10359	155
-play	1	10359	/sounds/500
+play	1	10359	/sounds/dev/pk/ish
 quiet	1	10359
 amp	1	10359	203
-play	1	10359	/sounds/503
+play	1	10359	/sounds/sfx/explosion/energy
 quiet	0	10362
 amp	0	10362	185
-play	0	10362	/sounds/500
+play	0	10362	/sounds/dev/pk/ish
 quiet	2	10365
 amp	2	10365	167
-play	2	10365	/sounds/503
+play	2	10365	/sounds/sfx/explosion/energy
 quiet	0	10371
 amp	0	10371	213
-play	0	10371	/sounds/505
+play	0	10371	/sounds/dev/anti
 quiet	1	10371
 amp	1	10371	213
-play	1	10371	/sounds/533
+play	1	10371	/sounds/dev/cm
 quiet	2	10374
 amp	2	10374	207
-play	2	10374	/sounds/536
+play	2	10374	/sounds/sfx/explosion/flak
 quiet	2	10377
 amp	2	10377	209
-play	2	10377	/sounds/503
+play	2	10377	/sounds/sfx/explosion/energy
 quiet	2	10377
 amp	2	10377	209
-play	2	10377	/sounds/503
+play	2	10377	/sounds/sfx/explosion/energy
 quiet	2	10377
 amp	2	10377	210
-play	2	10377	/sounds/503
+play	2	10377	/sounds/sfx/explosion/energy
 quiet	2	10377
 amp	2	10377	210
-play	2	10377	/sounds/503
+play	2	10377	/sounds/sfx/explosion/energy
 quiet	2	10380
 amp	2	10380	213
-play	2	10380	/sounds/531
+play	2	10380	/sounds/dev/repulser
 quiet	0	10383
 amp	0	10383	198
-play	0	10383	/sounds/500
+play	0	10383	/sounds/dev/pk/ish
 quiet	0	10383
 amp	0	10383	215
-play	0	10383	/sounds/503
+play	0	10383	/sounds/sfx/explosion/energy
 quiet	0	10386
 amp	0	10386	211
-play	0	10386	/sounds/515
+play	0	10386	/sounds/sfx/explosion/large
 quiet	0	10386
 amp	0	10386	215
-play	0	10386	/sounds/532
+play	0	10386	/sounds/sfx/explosion/gas
 quiet	1	10386
 amp	1	10386	214
-play	1	10386	/sounds/503
+play	1	10386	/sounds/sfx/explosion/energy
 quiet	1	10386
 amp	1	10386	215
-play	1	10386	/sounds/503
+play	1	10386	/sounds/sfx/explosion/energy
 quiet	2	10392
 amp	2	10392	164
-play	2	10392	/sounds/536
+play	2	10392	/sounds/sfx/explosion/flak
 quiet	0	10395
 amp	0	10395	218
-play	0	10395	/sounds/532
+play	0	10395	/sounds/sfx/explosion/gas
 quiet	2	10395
 amp	2	10395	182
-play	2	10395	/sounds/503
+play	2	10395	/sounds/sfx/explosion/energy
 quiet	1	10401
 amp	1	10401	219
-play	1	10401	/sounds/503
+play	1	10401	/sounds/sfx/explosion/energy
 quiet	2	10404
 amp	2	10404	208
-play	2	10404	/sounds/500
+play	2	10404	/sounds/dev/pk/ish
 quiet	1	10404
 amp	1	10404	223
-play	1	10404	/sounds/503
+play	1	10404	/sounds/sfx/explosion/energy
 quiet	2	10413
 amp	2	10413	212
-play	2	10413	/sounds/502
+play	2	10413	/sounds/dev/fusion
 quiet	2	10425
 amp	2	10425	217
-play	2	10425	/sounds/500
+play	2	10425	/sounds/dev/pk/ish
 quiet	1	10437
 amp	1	10437	198
-play	1	10437	/sounds/503
+play	1	10437	/sounds/sfx/explosion/energy
 quiet	0	10437
 amp	0	10437	196
-play	0	10437	/sounds/503
+play	0	10437	/sounds/sfx/explosion/energy
 quiet	2	10452
 amp	2	10452	185
-play	2	10452	/sounds/502
+play	2	10452	/sounds/dev/fusion
 quiet	2	10467
 amp	2	10467	195
-play	2	10467	/sounds/503
+play	2	10467	/sounds/sfx/explosion/energy
 quiet	0	10521
 amp	0	10521	205
-play	0	10521	/sounds/544
+play	0	10521	/sounds/dev/kl
 quiet	1	10524
 amp	1	10524	192
-play	1	10524	/sounds/507
+play	1	10524	/sounds/gui/beep/select
 quiet	1	10533
 amp	1	10533	199
-play	1	10533	/sounds/544
+play	1	10533	/sounds/dev/kl
 quiet	2	10542
 amp	2	10542	158
-play	2	10542	/sounds/550
+play	2	10542	/sounds/dev/conc
 quiet	2	10545
 amp	2	10545	193
-play	2	10545	/sounds/544
+play	2	10545	/sounds/dev/kl
 quiet	0	10548
 amp	0	10548	169
-play	0	10548	/sounds/502
+play	0	10548	/sounds/dev/fusion
 quiet	1	10548
 amp	1	10548	169
-play	1	10548	/sounds/500
+play	1	10548	/sounds/dev/pk/ish
 quiet	0	10557
 amp	0	10557	184
-play	0	10557	/sounds/544
+play	0	10557	/sounds/dev/kl
 quiet	0	10560
 amp	0	10560	249
-play	0	10560	/sounds/559
+play	0	10560	/sounds/dev/neutron
 quiet	1	10560
 amp	1	10560	248
-play	1	10560	/sounds/533
+play	1	10560	/sounds/dev/cm
 quiet	2	10563
 amp	2	10563	192
-play	2	10563	/sounds/507
+play	2	10563	/sounds/gui/beep/select
 quiet	2	10572
 amp	2	10572	245
-play	2	10572	/sounds/559
+play	2	10572	/sounds/dev/neutron
 quiet	0	10584
 amp	0	10584	242
-play	0	10584	/sounds/559
+play	0	10584	/sounds/dev/neutron
 quiet	2	10608
 amp	2	10608	237
-play	2	10608	/sounds/559
+play	2	10608	/sounds/dev/neutron
 quiet	1	10608
 amp	1	10608	192
-play	1	10608	/sounds/507
+play	1	10608	/sounds/gui/beep/select
 quiet	1	10620
 amp	1	10620	235
-play	1	10620	/sounds/559
+play	1	10620	/sounds/dev/neutron
 quiet	0	10632
 amp	0	10632	234
-play	0	10632	/sounds/559
+play	0	10632	/sounds/dev/neutron
 quiet	2	10632
 amp	2	10632	234
-play	2	10632	/sounds/533
+play	2	10632	/sounds/dev/cm
 quiet	0	10644
 amp	0	10644	234
-play	0	10644	/sounds/559
+play	0	10644	/sounds/dev/neutron
 quiet	1	10782
 amp	1	10782	128
-play	1	10782	/sounds/509
+play	1	10782	/sounds/gui/beep/button
 quiet	1	10791
 amp	1	10791	128
-play	1	10791	/sounds/509
+play	1	10791	/sounds/gui/beep/button
 quiet	0	10802
 amp	0	10802	128
-play	0	10802	/sounds/510
+play	0	10802	/sounds/gui/beep/zoom
 quiet	1	10830
 amp	1	10830	128
-play	1	10830	/sounds/509
+play	1	10830	/sounds/gui/beep/button
 quiet	0	10880
 amp	0	10880	128
-play	0	10880	/sounds/510
+play	0	10880	/sounds/gui/beep/zoom
 quiet	0	10986
 amp	0	10986	192
-play	0	10986	/sounds/507
+play	0	10986	/sounds/gui/beep/select
 quiet	0	11079
 amp	0	11079	192
-play	0	11079	/sounds/507
+play	0	11079	/sounds/gui/beep/select
 quiet	2	11118
 amp	2	11118	128
-play	2	11118	/sounds/506
+play	2	11118	/sounds/gui/beep/order
 quiet	1	11211
 amp	1	11211	161
-play	1	11211	/sounds/526
+play	1	11211	/sounds/sfx/warp/charge/1
 quiet	2	11235
 amp	2	11235	158
-play	2	11235	/sounds/527
+play	2	11235	/sounds/sfx/warp/charge/2
 quiet	1	11256
 amp	1	11256	181
-play	1	11256	/sounds/536
+play	1	11256	/sounds/sfx/explosion/flak
 quiet	0	11259
 amp	0	11259	156
-play	0	11259	/sounds/528
+play	0	11259	/sounds/sfx/warp/charge/3
 quiet	1	11262
 amp	1	11262	192
-play	1	11262	/sounds/536
+play	1	11262	/sounds/sfx/explosion/flak
 quiet	2	11286
 amp	2	11286	153
-play	2	11286	/sounds/529
+play	2	11286	/sounds/sfx/warp/charge/4
 quiet	0	11286
 amp	0	11286	140
-play	0	11286	/sounds/536
+play	0	11286	/sounds/sfx/explosion/flak
 quiet	1	11289
 amp	1	11289	125
-play	1	11289	/sounds/533
+play	1	11289	/sounds/dev/cm
 quiet	0	11292
 amp	0	11292	166
-play	0	11292	/sounds/536
+play	0	11292	/sounds/sfx/explosion/flak
 quiet	1	11310
 amp	1	11310	151
-play	1	11310	/sounds/517
+play	1	11310	/sounds/sfx/warp/in
 quiet	2	11496
 amp	2	11496	128
-play	2	11496	/sounds/509
+play	2	11496	/sounds/gui/beep/button
 quiet	0	11805
 amp	0	11805	128
-play	0	11805	/sounds/508
+play	0	11805	/sounds/gui/beep/build
 quiet	0	12111
 amp	0	12111	46
-play	0	12111	/sounds/503
+play	0	12111	/sounds/sfx/explosion/energy
 quiet	2	12348
 amp	2	12348	35
-play	2	12348	/sounds/518
+play	2	12348	/sounds/sfx/warp/out
 quiet	0	12360
 amp	0	12360	103
-play	0	12360	/sounds/503
+play	0	12360	/sounds/sfx/explosion/energy
 quiet	0	12432
 amp	0	12432	128
-play	0	12432	/sounds/509
+play	0	12432	/sounds/gui/beep/button
 quiet	0	12441
 amp	0	12441	128
-play	0	12441	/sounds/509
+play	0	12441	/sounds/gui/beep/button
 quiet	2	12687
 amp	2	12687	68
-play	2	12687	/sounds/502
+play	2	12687	/sounds/dev/fusion
 quiet	0	12687
 amp	0	12687	68
-play	0	12687	/sounds/500
+play	0	12687	/sounds/dev/pk/ish
 quiet	2	12687
 amp	2	12687	90
-play	2	12687	/sounds/502
+play	2	12687	/sounds/dev/fusion
 quiet	0	12687
 amp	0	12687	89
-play	0	12687	/sounds/500
+play	0	12687	/sounds/dev/pk/ish
 quiet	1	12690
 amp	1	12690	88
-play	1	12690	/sounds/536
+play	1	12690	/sounds/sfx/explosion/flak
 quiet	1	12693
 amp	1	12693	89
-play	1	12693	/sounds/503
+play	1	12693	/sounds/sfx/explosion/energy
 quiet	1	12693
 amp	1	12693	90
-play	1	12693	/sounds/503
+play	1	12693	/sounds/sfx/explosion/energy
 quiet	1	12693
 amp	1	12693	91
-play	1	12693	/sounds/503
+play	1	12693	/sounds/sfx/explosion/energy
 quiet	1	12696
 amp	1	12696	92
-play	1	12696	/sounds/503
+play	1	12696	/sounds/sfx/explosion/energy
 quiet	1	12702
 amp	1	12702	102
-play	1	12702	/sounds/503
+play	1	12702	/sounds/sfx/explosion/energy
 quiet	0	12708
 amp	0	12708	100
-play	0	12708	/sounds/500
+play	0	12708	/sounds/dev/pk/ish
 quiet	1	12711
 amp	1	12711	102
-play	1	12711	/sounds/503
+play	1	12711	/sounds/sfx/explosion/energy
 quiet	0	12717
 amp	0	12717	154
-play	0	12717	/sounds/536
+play	0	12717	/sounds/sfx/explosion/flak
 quiet	1	12723
 amp	1	12723	148
-play	1	12723	/sounds/536
+play	1	12723	/sounds/sfx/explosion/flak
 quiet	2	12726
 amp	2	12726	144
-play	2	12726	/sounds/536
+play	2	12726	/sounds/sfx/explosion/flak
 quiet	0	12744
 amp	0	12744	122
-play	0	12744	/sounds/536
+play	0	12744	/sounds/sfx/explosion/flak
 quiet	0	12744
 amp	0	12744	122
-play	0	12744	/sounds/536
+play	0	12744	/sounds/sfx/explosion/flak
 quiet	1	12747
 amp	1	12747	122
-play	1	12747	/sounds/503
+play	1	12747	/sounds/sfx/explosion/energy
 quiet	1	12747
 amp	1	12747	122
-play	1	12747	/sounds/503
+play	1	12747	/sounds/sfx/explosion/energy
 quiet	1	12747
 amp	1	12747	122
-play	1	12747	/sounds/503
+play	1	12747	/sounds/sfx/explosion/energy
 quiet	1	12747
 amp	1	12747	126
-play	1	12747	/sounds/503
+play	1	12747	/sounds/sfx/explosion/energy
 quiet	2	12747
 amp	2	12747	122
-play	2	12747	/sounds/503
+play	2	12747	/sounds/sfx/explosion/energy
 quiet	0	12747
 amp	0	12747	123
-play	0	12747	/sounds/515
+play	0	12747	/sounds/sfx/explosion/large
 quiet	2	12747
 amp	2	12747	125
-play	2	12747	/sounds/503
+play	2	12747	/sounds/sfx/explosion/energy
 quiet	0	12750
 amp	0	12750	134
-play	0	12750	/sounds/536
+play	0	12750	/sounds/sfx/explosion/flak
 quiet	0	12753
 amp	0	12753	164
-play	0	12753	/sounds/536
+play	0	12753	/sounds/sfx/explosion/flak
 quiet	1	12759
 amp	1	12759	129
-play	1	12759	/sounds/536
+play	1	12759	/sounds/sfx/explosion/flak
 quiet	2	12759
 amp	2	12759	130
-play	2	12759	/sounds/503
+play	2	12759	/sounds/sfx/explosion/energy
 quiet	0	12786
 amp	0	12786	183
-play	0	12786	/sounds/536
+play	0	12786	/sounds/sfx/explosion/flak
 quiet	1	12789
 amp	1	12789	131
-play	1	12789	/sounds/514
+play	1	12789	/sounds/sfx/energy
 quiet	2	12855
 amp	2	12855	128
-play	2	12855	/sounds/509
+play	2	12855	/sounds/gui/beep/button
 quiet	2	12918
 amp	2	12918	128
-play	2	12918	/sounds/509
+play	2	12918	/sounds/gui/beep/button
 quiet	2	12948
 amp	2	12948	25
-play	2	12948	/sounds/503
+play	2	12948	/sounds/sfx/explosion/energy
 quiet	2	12982
 amp	2	12982	128
-play	2	12982	/sounds/510
+play	2	12982	/sounds/gui/beep/zoom
 quiet	1	13092
 amp	1	13092	128
-play	1	13092	/sounds/509
+play	1	13092	/sounds/gui/beep/button
 quiet	1	13131
 amp	1	13131	23
-play	1	13131	/sounds/503
+play	1	13131	/sounds/sfx/explosion/energy
 quiet	1	13185
 amp	1	13185	128
-play	1	13185	/sounds/509
+play	1	13185	/sounds/gui/beep/button
 quiet	0	13200
 amp	0	13200	255
-play	0	13200	/sounds/513
+play	0	13200	/sounds/tpl/transport/land
 quiet	1	13236
 amp	1	13236	128
-play	1	13236	/sounds/509
+play	1	13236	/sounds/gui/beep/button
 quiet	1	13338
 amp	1	13338	192
-play	1	13338	/sounds/507
+play	1	13338	/sounds/gui/beep/select
 quiet	1	13374
 amp	1	13374	9
-play	1	13374	/sounds/503
+play	1	13374	/sounds/sfx/explosion/energy
 quiet	1	13383
 amp	1	13383	128
-play	1	13383	/sounds/506
+play	1	13383	/sounds/gui/beep/order
 quiet	1	13752
 amp	1	13752	236
-play	1	13752	/sounds/503
+play	1	13752	/sounds/sfx/explosion/energy
 quiet	0	13860
 quiet	1	13860
 quiet	2	13860

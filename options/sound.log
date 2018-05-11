@@ -3,25 +3,25 @@ amp	3	0	255
 loop	3	0	/music/doomtroopers-unite
 quiet	0	960
 amp	0	960	192
-play	0	960	/sounds/507
+play	0	960	/sounds/gui/beep/select
 quiet	0	1080
 amp	0	1080	192
-play	0	1080	/sounds/507
+play	0	1080	/sounds/gui/beep/select
 quiet	0	1200
 amp	0	1200	192
-play	0	1200	/sounds/507
+play	0	1200	/sounds/gui/beep/select
 quiet	0	1320
 amp	0	1320	192
-play	0	1320	/sounds/507
+play	0	1320	/sounds/gui/beep/select
 quiet	0	1440
 amp	0	1440	192
-play	0	1440	/sounds/507
+play	0	1440	/sounds/gui/beep/select
 quiet	0	1560
 amp	0	1560	192
-play	0	1560	/sounds/507
+play	0	1560	/sounds/gui/beep/select
 quiet	0	1680
 amp	0	1680	192
-play	0	1680	/sounds/507
+play	0	1680	/sounds/gui/beep/select
 quiet	0	1800
 amp	0	1800	192
-play	0	1800	/sounds/507
+play	0	1800	/sounds/gui/beep/select
