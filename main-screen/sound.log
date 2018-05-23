@@ -1,6 +1,3 @@
-quiet	3	0
-amp	3	0	255
-loop	3	0	/music/doomtroopers-unite
-quiet	0	902
-amp	0	902	192
-play	0	902	/sounds/gui/beep/select
+0	3	quiet
+0	3	loop	music	255	doomtroopers-unite
+902	0	play	sound	192	gui/beep/select

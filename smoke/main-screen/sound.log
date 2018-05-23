@@ -1,6 +1,1 @@
-quiet	3	0
-amp	3	0	255
-loop	3	0	/music/doomtroopers-unite
-quiet	0	902
-amp	0	902	192
-play	0	902	/sounds/gui/beep/select
+../../main-screen/sound.log

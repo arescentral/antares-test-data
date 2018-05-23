@@ -1,5462 +1,1826 @@
-quiet	3	0
-amp	3	0	255
-loop	3	0	/music/freds-theme
-quiet	3	0
-quiet	3	0
-amp	3	0	215
-loop	3	0	/music/technobee
-quiet	0	1
-amp	0	1	128
-play	0	1	/sounds/gui/beep/zoom
-quiet	0	81
-amp	0	81	255
-play	0	81	/sounds/sfx/warp/charge/1
-quiet	1	105
-amp	1	105	255
-play	1	105	/sounds/sfx/warp/charge/2
-quiet	2	129
-amp	2	129	255
-play	2	129	/sounds/sfx/warp/charge/3
-quiet	0	156
-amp	0	156	255
-play	0	156	/sounds/sfx/warp/charge/4
-quiet	1	180
-amp	1	180	255
-play	1	180	/sounds/sfx/warp/in
-quiet	2	540
-amp	2	540	130
-play	2	540	/sounds/dev/magno
-quiet	0	579
-amp	0	579	128
-play	0	579	/sounds/gui/beep/zoom
-quiet	0	600
-amp	0	600	255
-play	0	600	/sounds/sfx/warp/out
-quiet	2	666
-amp	2	666	241
-play	2	666	/sounds/dev/magno
-quiet	1	768
-amp	1	768	128
-play	1	768	/sounds/gui/beep/zoom
-quiet	1	810
-amp	1	810	255
-play	1	810	/sounds/sfx/warp/charge/1
-quiet	2	834
-amp	2	834	255
-play	2	834	/sounds/sfx/warp/charge/2
-quiet	0	858
-amp	0	858	255
-play	0	858	/sounds/sfx/warp/charge/3
-quiet	1	885
-amp	1	885	255
-play	1	885	/sounds/sfx/warp/charge/4
-quiet	2	909
-amp	2	909	255
-play	2	909	/sounds/sfx/warp/in
-quiet	0	924
-amp	0	924	128
-play	0	924	/sounds/gui/beep/zoom
-quiet	0	939
-amp	0	939	128
-play	0	939	/sounds/gui/beep/zoom
-quiet	0	957
-amp	0	957	141
-play	0	957	/sounds/dev/magno
-quiet	1	988
-amp	1	988	128
-play	1	988	/sounds/gui/beep/zoom
-quiet	0	1038
-amp	0	1038	255
-play	0	1038	/sounds/sfx/warp/out
-quiet	1	1066
-amp	1	1066	128
-play	1	1066	/sounds/gui/beep/zoom
-quiet	1	1083
-amp	1	1083	137
-play	1	1083	/sounds/dev/magno
-quiet	2	1092
-amp	2	1092	128
-play	2	1092	/sounds/gui/beep/zoom
-quiet	2	1129
-amp	2	1129	128
-play	2	1129	/sounds/gui/beep/zoom
-quiet	1	1179
-amp	1	1179	255
-play	1	1179	/sounds/sfx/warp/charge/1
-quiet	2	1203
-amp	2	1203	255
-play	2	1203	/sounds/sfx/warp/charge/2
-quiet	0	1227
-amp	0	1227	255
-play	0	1227	/sounds/sfx/warp/charge/3
-quiet	1	1254
-amp	1	1254	255
-play	1	1254	/sounds/sfx/warp/charge/4
-quiet	2	1278
-amp	2	1278	255
-play	2	1278	/sounds/sfx/warp/in
-quiet	0	1707
-amp	0	1707	255
-play	0	1707	/sounds/sfx/warp/out
-quiet	1	1782
-amp	1	1782	255
-play	1	1782	/sounds/dev/onas
-quiet	1	1797
-amp	1	1797	255
-play	1	1797	/sounds/dev/onas
-quiet	1	1896
-amp	1	1896	255
-play	1	1896	/sounds/dev/onas
-quiet	1	1911
-amp	1	1911	255
-play	1	1911	/sounds/dev/onas
-quiet	1	1926
-amp	1	1926	255
-play	1	1926	/sounds/dev/onas
-quiet	1	1941
-amp	1	1941	255
-play	1	1941	/sounds/dev/onas
-quiet	0	1944
-amp	0	1944	226
-play	0	1944	/sounds/sfx/explosion/gas
-quiet	1	1956
-amp	1	1956	255
-play	1	1956	/sounds/dev/onas
-quiet	0	1956
-amp	0	1956	231
-play	0	1956	/sounds/sfx/explosion/gas
-quiet	1	1971
-amp	1	1971	255
-play	1	1971	/sounds/dev/onas
-quiet	0	1971
-amp	0	1971	232
-play	0	1971	/sounds/sfx/explosion/gas
-quiet	0	1983
-amp	0	1983	239
-play	0	1983	/sounds/sfx/explosion/gas
-quiet	2	1986
-amp	2	1986	128
-play	2	1986	/sounds/gui/beep/zoom
-quiet	2	1998
-amp	2	1998	238
-play	2	1998	/sounds/sfx/explosion/gas
-quiet	0	2010
-amp	0	2010	245
-play	0	2010	/sounds/sfx/explosion/gas
-quiet	1	2022
-amp	1	2022	255
-play	1	2022	/sounds/dev/onas
-quiet	1	2037
-amp	1	2037	255
-play	1	2037	/sounds/dev/onas
-quiet	1	2133
-amp	1	2133	255
-play	1	2133	/sounds/dev/onas
-quiet	1	2148
-amp	1	2148	255
-play	1	2148	/sounds/dev/onas
-quiet	0	2160
-amp	0	2160	255
-play	0	2160	/sounds/sfx/explosion/gas
-quiet	1	2163
-amp	1	2163	255
-play	1	2163	/sounds/dev/onas
-quiet	1	2178
-amp	1	2178	255
-play	1	2178	/sounds/dev/onas
-quiet	0	2187
-amp	0	2187	255
-play	0	2187	/sounds/sfx/explosion/gas
-quiet	1	2193
-amp	1	2193	255
-play	1	2193	/sounds/dev/onas
-quiet	0	2202
-amp	0	2202	255
-play	0	2202	/sounds/sfx/explosion/gas
-quiet	0	2217
-amp	0	2217	255
-play	0	2217	/sounds/sfx/explosion/gas
-quiet	1	2256
-amp	1	2256	255
-play	1	2256	/sounds/dev/onas
-quiet	1	2271
-amp	1	2271	255
-play	1	2271	/sounds/dev/onas
-quiet	0	2280
-amp	0	2280	255
-play	0	2280	/sounds/sfx/explosion/gas
-quiet	0	2295
-amp	0	2295	255
-play	0	2295	/sounds/sfx/explosion/gas
-quiet	2	2495
-amp	2	2495	128
-play	2	2495	/sounds/gui/beep/zoom
-quiet	1	2682
-amp	1	2682	128
-play	1	2682	/sounds/gui/beep/button
-quiet	1	2691
-amp	1	2691	128
-play	1	2691	/sounds/gui/beep/button
-quiet	1	2775
-amp	1	2775	128
-play	1	2775	/sounds/gui/beep/button
-quiet	1	2787
-amp	1	2787	128
-play	1	2787	/sounds/gui/beep/button
-quiet	1	2985
-amp	1	2985	255
-play	1	2985	/sounds/dev/onas
-quiet	1	3000
-amp	1	3000	255
-play	1	3000	/sounds/dev/onas
-quiet	1	3015
-amp	1	3015	255
-play	1	3015	/sounds/dev/onas
-quiet	1	3030
-amp	1	3030	255
-play	1	3030	/sounds/dev/onas
-quiet	1	3045
-amp	1	3045	255
-play	1	3045	/sounds/dev/onas
-quiet	1	3060
-amp	1	3060	255
-play	1	3060	/sounds/dev/onas
-quiet	1	3075
-amp	1	3075	255
-play	1	3075	/sounds/dev/onas
-quiet	1	3090
-amp	1	3090	255
-play	1	3090	/sounds/dev/onas
-quiet	1	3105
-amp	1	3105	255
-play	1	3105	/sounds/dev/onas
-quiet	1	3120
-amp	1	3120	255
-play	1	3120	/sounds/dev/onas
-quiet	1	3135
-amp	1	3135	255
-play	1	3135	/sounds/dev/onas
-quiet	2	3147
-amp	2	3147	250
-play	2	3147	/sounds/sfx/explosion/gas
-quiet	1	3150
-amp	1	3150	255
-play	1	3150	/sounds/dev/onas
-quiet	0	3152
-amp	0	3152	128
-play	0	3152	/sounds/gui/beep/zoom
-quiet	2	3159
-amp	2	3159	255
-play	2	3159	/sounds/sfx/explosion/gas
-quiet	1	3165
-amp	1	3165	255
-play	1	3165	/sounds/dev/onas
-quiet	2	3171
-amp	2	3171	255
-play	2	3171	/sounds/sfx/explosion/gas
-quiet	1	3180
-amp	1	3180	255
-play	1	3180	/sounds/dev/onas
-quiet	1	3195
-amp	1	3195	255
-play	1	3195	/sounds/dev/onas
-quiet	1	3210
-amp	1	3210	255
-play	1	3210	/sounds/dev/onas
-quiet	1	3225
-amp	1	3225	255
-play	1	3225	/sounds/dev/onas
-quiet	2	3231
-amp	2	3231	255
-play	2	3231	/sounds/sfx/explosion/gas
-quiet	1	3240
-amp	1	3240	255
-play	1	3240	/sounds/dev/onas
-quiet	2	3246
-amp	2	3246	255
-play	2	3246	/sounds/sfx/explosion/gas
-quiet	1	3255
-amp	1	3255	255
-play	1	3255	/sounds/dev/onas
-quiet	2	3258
-amp	2	3258	255
-play	2	3258	/sounds/sfx/explosion/gas
-quiet	2	3276
-amp	2	3276	255
-play	2	3276	/sounds/sfx/explosion/gas
-quiet	1	3348
-amp	1	3348	255
-play	1	3348	/sounds/dev/onas
-quiet	1	3363
-amp	1	3363	255
-play	1	3363	/sounds/dev/onas
-quiet	2	3369
-amp	2	3369	255
-play	2	3369	/sounds/sfx/explosion/gas
-quiet	1	3378
-amp	1	3378	255
-play	1	3378	/sounds/dev/onas
-quiet	2	3384
-amp	2	3384	255
-play	2	3384	/sounds/sfx/explosion/gas
-quiet	1	3393
-amp	1	3393	255
-play	1	3393	/sounds/dev/onas
-quiet	1	3408
-amp	1	3408	255
-play	1	3408	/sounds/dev/onas
-quiet	2	3414
-amp	2	3414	255
-play	2	3414	/sounds/sfx/explosion/gas
-quiet	1	3423
-amp	1	3423	255
-play	1	3423	/sounds/dev/onas
-quiet	2	3429
-amp	2	3429	255
-play	2	3429	/sounds/sfx/explosion/gas
-quiet	1	3438
-amp	1	3438	255
-play	1	3438	/sounds/dev/onas
-quiet	2	3444
-amp	2	3444	255
-play	2	3444	/sounds/sfx/explosion/gas
-quiet	2	3459
-amp	2	3459	255
-play	2	3459	/sounds/sfx/explosion/gas
-quiet	1	3465
-amp	1	3465	255
-play	1	3465	/sounds/dev/onas
-quiet	1	3480
-amp	1	3480	255
-play	1	3480	/sounds/dev/onas
-quiet	2	3486
-amp	2	3486	255
-play	2	3486	/sounds/sfx/explosion/gas
-quiet	2	3504
-amp	2	3504	255
-play	2	3504	/sounds/sfx/explosion/gas
-quiet	0	3718
-amp	0	3718	128
-play	0	3718	/sounds/gui/beep/zoom
-quiet	0	3753
-amp	0	3753	255
-play	0	3753	/sounds/sfx/warp/charge/1
-quiet	1	3768
-amp	1	3768	128
-play	1	3768	/sounds/gui/beep/button
-quiet	1	3774
-amp	1	3774	128
-play	1	3774	/sounds/gui/beep/button
-quiet	1	3777
-amp	1	3777	255
-play	1	3777	/sounds/sfx/warp/charge/2
-quiet	2	3801
-amp	2	3801	255
-play	2	3801	/sounds/sfx/warp/charge/3
-quiet	0	3828
-amp	0	3828	255
-play	0	3828	/sounds/sfx/warp/charge/4
-quiet	1	3852
-amp	1	3852	255
-play	1	3852	/sounds/sfx/warp/in
-quiet	2	3981
-amp	2	3981	255
-play	2	3981	/sounds/sfx/warp/out
-quiet	0	4203
-amp	0	4203	128
-play	0	4203	/sounds/gui/beep/button
-quiet	0	4215
-amp	0	4215	128
-play	0	4215	/sounds/gui/beep/button
-quiet	1	4382
-amp	1	4382	128
-play	1	4382	/sounds/gui/beep/zoom
-quiet	0	4386
-amp	0	4386	255
-play	0	4386	/sounds/dev/onas
-quiet	0	4401
-amp	0	4401	255
-play	0	4401	/sounds/dev/onas
-quiet	0	4416
-amp	0	4416	255
-play	0	4416	/sounds/dev/onas
-quiet	1	4422
-amp	1	4422	255
-play	1	4422	/sounds/sfx/explosion/gas
-quiet	0	4566
-amp	0	4566	255
-play	0	4566	/sounds/dev/onas
-quiet	0	4581
-amp	0	4581	255
-play	0	4581	/sounds/dev/onas
-quiet	0	4605
-amp	0	4605	255
-play	0	4605	/sounds/dev/onas
-quiet	0	4626
-amp	0	4626	255
-play	0	4626	/sounds/dev/onas
-quiet	0	4641
-amp	0	4641	255
-play	0	4641	/sounds/dev/onas
-quiet	0	4683
-amp	0	4683	255
-play	0	4683	/sounds/dev/onas
-quiet	1	4707
-amp	1	4707	255
-play	1	4707	/sounds/sfx/explosion/gas
-quiet	0	4710
-amp	0	4710	255
-play	0	4710	/sounds/dev/onas
-quiet	1	4734
-amp	1	4734	255
-play	1	4734	/sounds/sfx/explosion/gas
-quiet	2	4908
-amp	2	4908	128
-play	2	4908	/sounds/gui/beep/button
-quiet	0	4947
-amp	0	4947	128
-play	0	4947	/sounds/gui/beep/zoom
-quiet	2	4998
-amp	2	4998	128
-play	2	4998	/sounds/gui/beep/button
-quiet	2	5004
-amp	2	5004	128
-play	2	5004	/sounds/gui/beep/button
-quiet	2	5028
-amp	2	5028	128
-play	2	5028	/sounds/gui/beep/button
-quiet	2	5340
-amp	2	5340	128
-play	2	5340	/sounds/gui/beep/button
-quiet	0	5471
-amp	0	5471	128
-play	0	5471	/sounds/gui/beep/zoom
-quiet	0	5481
-amp	0	5481	255
-play	0	5481	/sounds/dev/onas
-quiet	0	5496
-amp	0	5496	255
-play	0	5496	/sounds/dev/onas
-quiet	0	5511
-amp	0	5511	255
-play	0	5511	/sounds/dev/onas
-quiet	0	5526
-amp	0	5526	255
-play	0	5526	/sounds/dev/onas
-quiet	0	5541
-amp	0	5541	255
-play	0	5541	/sounds/dev/onas
-quiet	0	5556
-amp	0	5556	255
-play	0	5556	/sounds/dev/onas
-quiet	0	5571
-amp	0	5571	255
-play	0	5571	/sounds/dev/onas
-quiet	1	5583
-amp	1	5583	255
-play	1	5583	/sounds/sfx/explosion/gas
-quiet	1	5598
-amp	1	5598	255
-play	1	5598	/sounds/sfx/explosion/gas
-quiet	2	5679
-amp	2	5679	128
-play	2	5679	/sounds/gui/beep/button
-quiet	2	5709
-amp	2	5709	128
-play	2	5709	/sounds/gui/beep/button
-quiet	2	5727
-amp	2	5727	128
-play	2	5727	/sounds/gui/beep/button
-quiet	2	5739
-amp	2	5739	128
-play	2	5739	/sounds/gui/beep/button
-quiet	2	5745
-amp	2	5745	128
-play	2	5745	/sounds/gui/beep/button
-quiet	0	5794
-amp	0	5794	128
-play	0	5794	/sounds/gui/beep/zoom
-quiet	2	5856
-amp	2	5856	128
-play	2	5856	/sounds/gui/beep/button
-quiet	2	5865
-amp	2	5865	128
-play	2	5865	/sounds/gui/beep/button
-quiet	2	5910
-amp	2	5910	128
-play	2	5910	/sounds/gui/beep/button
-quiet	0	5912
-amp	0	5912	128
-play	0	5912	/sounds/gui/beep/zoom
-quiet	2	5919
-amp	2	5919	128
-play	2	5919	/sounds/gui/beep/button
-quiet	0	5927
-amp	0	5927	128
-play	0	5927	/sounds/gui/beep/zoom
-quiet	2	6006
-amp	2	6006	128
-play	2	6006	/sounds/gui/beep/button
-quiet	2	6015
-amp	2	6015	128
-play	2	6015	/sounds/gui/beep/button
-quiet	0	6081
-amp	0	6081	255
-play	0	6081	/sounds/dev/onas
-quiet	0	6096
-amp	0	6096	255
-play	0	6096	/sounds/dev/onas
-quiet	0	6111
-amp	0	6111	255
-play	0	6111	/sounds/dev/onas
-quiet	0	6126
-amp	0	6126	255
-play	0	6126	/sounds/dev/onas
-quiet	0	6141
-amp	0	6141	255
-play	0	6141	/sounds/dev/onas
-quiet	0	6156
-amp	0	6156	255
-play	0	6156	/sounds/dev/onas
-quiet	0	6171
-amp	0	6171	255
-play	0	6171	/sounds/dev/onas
-quiet	0	6186
-amp	0	6186	255
-play	0	6186	/sounds/dev/onas
-quiet	0	6201
-amp	0	6201	255
-play	0	6201	/sounds/dev/onas
-quiet	0	6216
-amp	0	6216	255
-play	0	6216	/sounds/dev/onas
-quiet	0	6231
-amp	0	6231	255
-play	0	6231	/sounds/dev/onas
-quiet	0	6246
-amp	0	6246	255
-play	0	6246	/sounds/dev/onas
-quiet	2	6258
-amp	2	6258	233
-play	2	6258	/sounds/sfx/explosion/gas
-quiet	0	6261
-amp	0	6261	255
-play	0	6261	/sounds/dev/onas
-quiet	1	6269
-amp	1	6269	128
-play	1	6269	/sounds/gui/beep/zoom
-quiet	0	6276
-amp	0	6276	255
-play	0	6276	/sounds/dev/onas
-quiet	0	6396
-amp	0	6396	255
-play	0	6396	/sounds/dev/onas
-quiet	0	6441
-amp	0	6441	255
-play	0	6441	/sounds/dev/onas
-quiet	1	6453
-amp	1	6453	126
-play	1	6453	/sounds/dev/magno
-quiet	2	6459
-amp	2	6459	255
-play	2	6459	/sounds/sfx/explosion/gas
-quiet	2	6567
-amp	2	6567	255
-play	2	6567	/sounds/sfx/explosion/gas
-quiet	1	6579
-amp	1	6579	165
-play	1	6579	/sounds/dev/magno
-quiet	2	6696
-amp	2	6696	255
-play	2	6696	/sounds/sfx/explosion/gas
-quiet	1	6705
-amp	1	6705	205
-play	1	6705	/sounds/dev/magno
-quiet	1	6753
-amp	1	6753	246
-play	1	6753	/sounds/sfx/explosion/gas
-quiet	0	6822
-amp	0	6822	193
-play	0	6822	/sounds/sfx/explosion/large
-quiet	0	6831
-amp	0	6831	198
-play	0	6831	/sounds/dev/magno
-quiet	2	6842
-amp	2	6842	64
-play	2	6842	/sounds/gui/beep/message
-quiet	2	6845
-amp	2	6845	64
-play	2	6845	/sounds/gui/beep/message
-quiet	2	6846
-amp	2	6846	128
-play	2	6846	/sounds/gui/beep/zoom
-quiet	1	6848
-amp	1	6848	64
-play	1	6848	/sounds/gui/beep/message
-quiet	1	6851
-amp	1	6851	64
-play	1	6851	/sounds/gui/beep/message
-quiet	1	6854
-amp	1	6854	64
-play	1	6854	/sounds/gui/beep/message
-quiet	1	6857
-amp	1	6857	64
-play	1	6857	/sounds/gui/beep/message
-quiet	1	6860
-amp	1	6860	64
-play	1	6860	/sounds/gui/beep/message
-quiet	1	6863
-amp	1	6863	64
-play	1	6863	/sounds/gui/beep/message
-quiet	1	6864
-amp	1	6864	169
-play	1	6864	/sounds/sfx/explosion/gas
-quiet	0	6866
-amp	0	6866	64
-play	0	6866	/sounds/gui/beep/message
-quiet	0	6869
-amp	0	6869	64
-play	0	6869	/sounds/gui/beep/message
-quiet	0	6872
-amp	0	6872	64
-play	0	6872	/sounds/gui/beep/message
-quiet	0	6875
-amp	0	6875	64
-play	0	6875	/sounds/gui/beep/message
-quiet	0	6878
-amp	0	6878	64
-play	0	6878	/sounds/gui/beep/message
-quiet	0	6881
-amp	0	6881	64
-play	0	6881	/sounds/gui/beep/message
-quiet	0	6884
-amp	0	6884	64
-play	0	6884	/sounds/gui/beep/message
-quiet	0	6887
-amp	0	6887	64
-play	0	6887	/sounds/gui/beep/message
-quiet	0	6890
-amp	0	6890	64
-play	0	6890	/sounds/gui/beep/message
-quiet	0	6893
-amp	0	6893	64
-play	0	6893	/sounds/gui/beep/message
-quiet	0	6896
-amp	0	6896	64
-play	0	6896	/sounds/gui/beep/message
-quiet	0	6899
-amp	0	6899	64
-play	0	6899	/sounds/gui/beep/message
-quiet	0	6902
-amp	0	6902	64
-play	0	6902	/sounds/gui/beep/message
-quiet	0	6905
-amp	0	6905	64
-play	0	6905	/sounds/gui/beep/message
-quiet	0	6908
-amp	0	6908	64
-play	0	6908	/sounds/gui/beep/message
-quiet	0	6911
-amp	0	6911	64
-play	0	6911	/sounds/gui/beep/message
-quiet	0	6914
-amp	0	6914	64
-play	0	6914	/sounds/gui/beep/message
-quiet	0	6915
-amp	0	6915	199
-play	0	6915	/sounds/sfx/energy
-quiet	2	6917
-amp	2	6917	64
-play	2	6917	/sounds/gui/beep/message
-quiet	0	6918
-amp	0	6918	201
-play	0	6918	/sounds/sfx/energy
-quiet	2	6920
-amp	2	6920	64
-play	2	6920	/sounds/gui/beep/message
-quiet	2	6923
-amp	2	6923	64
-play	2	6923	/sounds/gui/beep/message
-quiet	2	6926
-amp	2	6926	64
-play	2	6926	/sounds/gui/beep/message
-quiet	0	6927
-amp	0	6927	206
-play	0	6927	/sounds/sfx/energy
-quiet	2	6929
-amp	2	6929	64
-play	2	6929	/sounds/gui/beep/message
-quiet	2	6929
-amp	2	6929	128
-play	2	6929	/sounds/gui/beep/zoom
-quiet	1	6932
-amp	1	6932	64
-play	1	6932	/sounds/gui/beep/message
-quiet	1	6935
-amp	1	6935	64
-play	1	6935	/sounds/gui/beep/message
-quiet	1	6938
-amp	1	6938	64
-play	1	6938	/sounds/gui/beep/message
-quiet	1	6941
-amp	1	6941	64
-play	1	6941	/sounds/gui/beep/message
-quiet	1	6944
-amp	1	6944	64
-play	1	6944	/sounds/gui/beep/message
-quiet	1	6947
-amp	1	6947	64
-play	1	6947	/sounds/gui/beep/message
-quiet	1	6950
-amp	1	6950	64
-play	1	6950	/sounds/gui/beep/message
-quiet	1	6953
-amp	1	6953	64
-play	1	6953	/sounds/gui/beep/message
-quiet	1	6956
-amp	1	6956	64
-play	1	6956	/sounds/gui/beep/message
-quiet	1	6959
-amp	1	6959	64
-play	1	6959	/sounds/gui/beep/message
-quiet	1	6962
-amp	1	6962	64
-play	1	6962	/sounds/gui/beep/message
-quiet	0	6963
-amp	0	6963	255
-play	0	6963	/sounds/dev/onas
-quiet	1	6965
-amp	1	6965	64
-play	1	6965	/sounds/gui/beep/message
-quiet	1	6966
-amp	1	6966	215
-play	1	6966	/sounds/sfx/energy
-quiet	2	6968
-amp	2	6968	64
-play	2	6968	/sounds/gui/beep/message
-quiet	2	6971
-amp	2	6971	64
-play	2	6971	/sounds/gui/beep/message
-quiet	2	6974
-amp	2	6974	64
-play	2	6974	/sounds/gui/beep/message
-quiet	2	6977
-amp	2	6977	64
-play	2	6977	/sounds/gui/beep/message
-quiet	2	6978
-amp	2	6978	213
-play	2	6978	/sounds/dev/magno
-quiet	0	6978
-amp	0	6978	255
-play	0	6978	/sounds/dev/onas
-quiet	1	6980
-amp	1	6980	64
-play	1	6980	/sounds/gui/beep/message
-quiet	1	6983
-amp	1	6983	64
-play	1	6983	/sounds/gui/beep/message
-quiet	1	6986
-amp	1	6986	64
-play	1	6986	/sounds/gui/beep/message
-quiet	1	6989
-amp	1	6989	64
-play	1	6989	/sounds/gui/beep/message
-quiet	1	6992
-amp	1	6992	64
-play	1	6992	/sounds/gui/beep/message
-quiet	0	6993
-amp	0	6993	255
-play	0	6993	/sounds/dev/onas
-quiet	1	6995
-amp	1	6995	64
-play	1	6995	/sounds/gui/beep/message
-quiet	1	6998
-amp	1	6998	64
-play	1	6998	/sounds/gui/beep/message
-quiet	1	7001
-amp	1	7001	64
-play	1	7001	/sounds/gui/beep/message
-quiet	1	7004
-amp	1	7004	64
-play	1	7004	/sounds/gui/beep/message
-quiet	1	7007
-amp	1	7007	64
-play	1	7007	/sounds/gui/beep/message
-quiet	0	7008
-amp	0	7008	255
-play	0	7008	/sounds/dev/onas
-quiet	1	7010
-amp	1	7010	64
-play	1	7010	/sounds/gui/beep/message
-quiet	1	7013
-amp	1	7013	64
-play	1	7013	/sounds/gui/beep/message
-quiet	1	7016
-amp	1	7016	64
-play	1	7016	/sounds/gui/beep/message
-quiet	1	7019
-amp	1	7019	64
-play	1	7019	/sounds/gui/beep/message
-quiet	1	7022
-amp	1	7022	64
-play	1	7022	/sounds/gui/beep/message
-quiet	0	7023
-amp	0	7023	255
-play	0	7023	/sounds/dev/onas
-quiet	1	7025
-amp	1	7025	64
-play	1	7025	/sounds/gui/beep/message
-quiet	1	7028
-amp	1	7028	64
-play	1	7028	/sounds/gui/beep/message
-quiet	1	7031
-amp	1	7031	64
-play	1	7031	/sounds/gui/beep/message
-quiet	1	7032
-amp	1	7032	255
-play	1	7032	/sounds/sfx/explosion/gas
-quiet	2	7034
-amp	2	7034	64
-play	2	7034	/sounds/gui/beep/message
-quiet	2	7037
-amp	2	7037	64
-play	2	7037	/sounds/gui/beep/message
-quiet	0	7038
-amp	0	7038	255
-play	0	7038	/sounds/dev/onas
-quiet	2	7040
-amp	2	7040	64
-play	2	7040	/sounds/gui/beep/message
-quiet	2	7043
-amp	2	7043	64
-play	2	7043	/sounds/gui/beep/message
-quiet	2	7046
-amp	2	7046	64
-play	2	7046	/sounds/gui/beep/message
-quiet	1	7047
-amp	1	7047	255
-play	1	7047	/sounds/sfx/explosion/gas
-quiet	2	7049
-amp	2	7049	64
-play	2	7049	/sounds/gui/beep/message
-quiet	2	7052
-amp	2	7052	64
-play	2	7052	/sounds/gui/beep/message
-quiet	0	7053
-amp	0	7053	255
-play	0	7053	/sounds/dev/onas
-quiet	2	7055
-amp	2	7055	64
-play	2	7055	/sounds/gui/beep/message
-quiet	2	7058
-amp	2	7058	64
-play	2	7058	/sounds/gui/beep/message
-quiet	2	7061
-amp	2	7061	64
-play	2	7061	/sounds/gui/beep/message
-quiet	1	7062
-amp	1	7062	255
-play	1	7062	/sounds/sfx/explosion/gas
-quiet	2	7064
-amp	2	7064	64
-play	2	7064	/sounds/gui/beep/message
-quiet	2	7065
-amp	2	7065	149
-play	2	7065	/sounds/sfx/explosion/energy
-quiet	0	7067
-amp	0	7067	64
-play	0	7067	/sounds/gui/beep/message
-quiet	0	7068
-amp	0	7068	255
-play	0	7068	/sounds/dev/onas
-quiet	1	7077
-amp	1	7077	255
-play	1	7077	/sounds/sfx/explosion/gas
-quiet	1	7077
-amp	1	7077	255
-play	1	7077	/sounds/sfx/explosion/gas
-quiet	0	7079
-amp	0	7079	64
-play	0	7079	/sounds/gui/beep/message
-quiet	0	7082
-amp	0	7082	64
-play	0	7082	/sounds/gui/beep/message
-quiet	0	7085
-amp	0	7085	64
-play	0	7085	/sounds/gui/beep/message
-quiet	0	7088
-amp	0	7088	64
-play	0	7088	/sounds/gui/beep/message
-quiet	0	7091
-amp	0	7091	64
-play	0	7091	/sounds/gui/beep/message
-quiet	0	7094
-amp	0	7094	64
-play	0	7094	/sounds/gui/beep/message
-quiet	0	7097
-amp	0	7097	64
-play	0	7097	/sounds/gui/beep/message
-quiet	0	7100
-amp	0	7100	64
-play	0	7100	/sounds/gui/beep/message
-quiet	0	7103
-amp	0	7103	64
-play	0	7103	/sounds/gui/beep/message
-quiet	0	7104
-amp	0	7104	163
-play	0	7104	/sounds/dev/magno
-quiet	2	7106
-amp	2	7106	64
-play	2	7106	/sounds/gui/beep/message
-quiet	2	7109
-amp	2	7109	64
-play	2	7109	/sounds/gui/beep/message
-quiet	2	7112
-amp	2	7112	64
-play	2	7112	/sounds/gui/beep/message
-quiet	2	7115
-amp	2	7115	64
-play	2	7115	/sounds/gui/beep/message
-quiet	2	7118
-amp	2	7118	64
-play	2	7118	/sounds/gui/beep/message
-quiet	2	7121
-amp	2	7121	64
-play	2	7121	/sounds/gui/beep/message
-quiet	2	7124
-amp	2	7124	64
-play	2	7124	/sounds/gui/beep/message
-quiet	2	7127
-amp	2	7127	64
-play	2	7127	/sounds/gui/beep/message
-quiet	2	7130
-amp	2	7130	64
-play	2	7130	/sounds/gui/beep/message
-quiet	2	7133
-amp	2	7133	64
-play	2	7133	/sounds/gui/beep/message
-quiet	2	7136
-amp	2	7136	64
-play	2	7136	/sounds/gui/beep/message
-quiet	2	7139
-amp	2	7139	64
-play	2	7139	/sounds/gui/beep/message
-quiet	2	7142
-amp	2	7142	64
-play	2	7142	/sounds/gui/beep/message
-quiet	2	7145
-amp	2	7145	64
-play	2	7145	/sounds/gui/beep/message
-quiet	2	7148
-amp	2	7148	64
-play	2	7148	/sounds/gui/beep/message
-quiet	2	7151
-amp	2	7151	64
-play	2	7151	/sounds/gui/beep/message
-quiet	2	7154
-amp	2	7154	64
-play	2	7154	/sounds/gui/beep/message
-quiet	2	7157
-amp	2	7157	64
-play	2	7157	/sounds/gui/beep/message
-quiet	2	7160
-amp	2	7160	64
-play	2	7160	/sounds/gui/beep/message
-quiet	2	7163
-amp	2	7163	64
-play	2	7163	/sounds/gui/beep/message
-quiet	2	7173
-amp	2	7173	128
-play	2	7173	/sounds/gui/beep/button
-quiet	2	7182
-amp	2	7182	128
-play	2	7182	/sounds/gui/beep/button
-quiet	0	7203
-amp	0	7203	255
-play	0	7203	/sounds/dev/pk/sal
-quiet	1	7206
-amp	1	7206	255
-play	1	7206	/sounds/sfx/explosion/gas
-quiet	2	7212
-amp	2	7212	255
-play	2	7212	/sounds/dev/onas
-quiet	0	7221
-amp	0	7221	255
-play	0	7221	/sounds/sfx/explosion/energy
-quiet	2	7227
-amp	2	7227	255
-play	2	7227	/sounds/dev/onas
-quiet	1	7233
-amp	1	7233	255
-play	1	7233	/sounds/sfx/explosion/gas
-quiet	2	7242
-amp	2	7242	255
-play	2	7242	/sounds/dev/onas
-quiet	0	7246
-amp	0	7246	128
-play	0	7246	/sounds/gui/beep/zoom
-quiet	1	7248
-amp	1	7248	255
-play	1	7248	/sounds/sfx/explosion/gas
-quiet	2	7257
-amp	2	7257	255
-play	2	7257	/sounds/dev/onas
-quiet	1	7263
-amp	1	7263	255
-play	1	7263	/sounds/sfx/explosion/gas
-quiet	2	7272
-amp	2	7272	255
-play	2	7272	/sounds/dev/onas
-quiet	1	7281
-amp	1	7281	255
-play	1	7281	/sounds/sfx/explosion/gas
-quiet	1	7341
-amp	1	7341	255
-play	1	7341	/sounds/sfx/explosion/gas
-quiet	0	7356
-amp	0	7356	131
-play	0	7356	/sounds/dev/magno
-quiet	2	7410
-amp	2	7410	255
-play	2	7410	/sounds/dev/onas
-quiet	2	7425
-amp	2	7425	255
-play	2	7425	/sounds/dev/onas
-quiet	1	7437
-amp	1	7437	255
-play	1	7437	/sounds/sfx/explosion/gas
-quiet	2	7440
-amp	2	7440	255
-play	2	7440	/sounds/dev/onas
-quiet	1	7452
-amp	1	7452	255
-play	1	7452	/sounds/sfx/explosion/gas
-quiet	1	7464
-amp	1	7464	255
-play	1	7464	/sounds/sfx/explosion/gas
-quiet	1	7467
-amp	1	7467	255
-play	1	7467	/sounds/sfx/explosion/gas
-quiet	0	7482
-amp	0	7482	134
-play	0	7482	/sounds/dev/magno
-quiet	2	7488
-amp	2	7488	255
-play	2	7488	/sounds/dev/onas
-quiet	2	7503
-amp	2	7503	255
-play	2	7503	/sounds/dev/onas
-quiet	2	7518
-amp	2	7518	255
-play	2	7518	/sounds/dev/onas
-quiet	1	7518
-amp	1	7518	255
-play	1	7518	/sounds/sfx/explosion/gas
-quiet	1	7533
-amp	1	7533	255
-play	1	7533	/sounds/sfx/explosion/gas
-quiet	1	7548
-amp	1	7548	255
-play	1	7548	/sounds/sfx/explosion/gas
-quiet	0	7581
-amp	0	7581	252
-play	0	7581	/sounds/sfx/explosion/gas
-quiet	2	7608
-amp	2	7608	159
-play	2	7608	/sounds/dev/magno
-quiet	0	7677
-amp	0	7677	255
-play	0	7677	/sounds/dev/onas
-quiet	1	7683
-amp	1	7683	255
-play	1	7683	/sounds/sfx/explosion/gas
-quiet	0	7692
-amp	0	7692	255
-play	0	7692	/sounds/dev/onas
-quiet	1	7704
-amp	1	7704	255
-play	1	7704	/sounds/sfx/explosion/gas
-quiet	1	7719
-amp	1	7719	255
-play	1	7719	/sounds/sfx/explosion/gas
-quiet	2	7734
-amp	2	7734	177
-play	2	7734	/sounds/dev/magno
-quiet	0	7818
-amp	0	7818	255
-play	0	7818	/sounds/dev/onas
-quiet	0	7833
-amp	0	7833	255
-play	0	7833	/sounds/dev/onas
-quiet	1	7845
-amp	1	7845	255
-play	1	7845	/sounds/sfx/explosion/gas
-quiet	0	7848
-amp	0	7848	255
-play	0	7848	/sounds/dev/onas
-quiet	1	7857
-amp	1	7857	255
-play	1	7857	/sounds/sfx/explosion/gas
-quiet	2	7860
-amp	2	7860	176
-play	2	7860	/sounds/dev/magno
-quiet	0	7863
-amp	0	7863	255
-play	0	7863	/sounds/dev/onas
-quiet	1	7875
-amp	1	7875	255
-play	1	7875	/sounds/sfx/explosion/gas
-quiet	0	7878
-amp	0	7878	255
-play	0	7878	/sounds/dev/onas
-quiet	1	7887
-amp	1	7887	255
-play	1	7887	/sounds/sfx/explosion/gas
-quiet	0	7893
-amp	0	7893	255
-play	0	7893	/sounds/dev/onas
-quiet	1	7902
-amp	1	7902	255
-play	1	7902	/sounds/sfx/explosion/gas
-quiet	0	7908
-amp	0	7908	255
-play	0	7908	/sounds/dev/onas
-quiet	1	7920
-amp	1	7920	255
-play	1	7920	/sounds/sfx/explosion/gas
-quiet	0	7923
-amp	0	7923	255
-play	0	7923	/sounds/dev/onas
-quiet	0	7938
-amp	0	7938	255
-play	0	7938	/sounds/dev/onas
-quiet	1	7938
-amp	1	7938	255
-play	1	7938	/sounds/sfx/explosion/gas
-quiet	0	7953
-amp	0	7953	255
-play	0	7953	/sounds/dev/onas
-quiet	1	7953
-amp	1	7953	255
-play	1	7953	/sounds/sfx/explosion/gas
-quiet	2	7965
-amp	2	7965	249
-play	2	7965	/sounds/sfx/explosion/gas
-quiet	0	7968
-amp	0	7968	255
-play	0	7968	/sounds/dev/onas
-quiet	0	7986
-amp	0	7986	146
-play	0	7986	/sounds/dev/magno
-quiet	0	8022
-amp	0	8022	255
-play	0	8022	/sounds/dev/onas
-quiet	0	8037
-amp	0	8037	255
-play	0	8037	/sounds/dev/onas
-quiet	2	8055
-amp	2	8055	254
-play	2	8055	/sounds/sfx/explosion/gas
-quiet	0	8091
-amp	0	8091	242
-play	0	8091	/sounds/sfx/explosion/gas
-quiet	1	8112
-amp	1	8112	111
-play	1	8112	/sounds/dev/magno
-quiet	0	8115
-amp	0	8115	255
-play	0	8115	/sounds/dev/onas
-quiet	2	8148
-amp	2	8148	255
-play	2	8148	/sounds/sfx/explosion/gas
-quiet	0	8163
-amp	0	8163	255
-play	0	8163	/sounds/dev/onas
-quiet	1	8199
-amp	1	8199	248
-play	1	8199	/sounds/sfx/explosion/gas
-quiet	0	8205
-amp	0	8205	255
-play	0	8205	/sounds/dev/onas
-quiet	0	8229
-amp	0	8229	243
-play	0	8229	/sounds/sfx/explosion/gas
-quiet	2	8238
-amp	2	8238	93
-play	2	8238	/sounds/dev/magno
-quiet	0	8241
-amp	0	8241	248
-play	0	8241	/sounds/sfx/explosion/gas
-quiet	2	8301
-amp	2	8301	128
-play	2	8301	/sounds/gui/beep/button
-quiet	1	8302
-amp	1	8302	128
-play	1	8302	/sounds/gui/beep/zoom
-quiet	0	8358
-amp	0	8358	255
-play	0	8358	/sounds/sfx/explosion/gas
-quiet	1	8364
-amp	1	8364	109
-play	1	8364	/sounds/dev/magno
-quiet	1	8478
-amp	1	8478	252
-play	1	8478	/sounds/sfx/explosion/gas
-quiet	2	8490
-amp	2	8490	121
-play	2	8490	/sounds/dev/magno
-quiet	0	8586
-amp	0	8586	255
-play	0	8586	/sounds/sfx/explosion/gas
-quiet	2	8616
-amp	2	8616	176
-play	2	8616	/sounds/dev/magno
-quiet	1	8658
-amp	1	8658	128
-play	1	8658	/sounds/gui/beep/button
-quiet	0	8682
-amp	0	8682	255
-play	0	8682	/sounds/sfx/explosion/gas
-quiet	2	8722
-amp	2	8722	128
-play	2	8722	/sounds/gui/beep/zoom
-quiet	1	8742
-amp	1	8742	238
-play	1	8742	/sounds/dev/magno
-quiet	0	8763
-amp	0	8763	255
-play	0	8763	/sounds/sfx/explosion/gas
-quiet	1	8766
-amp	1	8766	255
-play	1	8766	/sounds/sfx/explosion/large
-quiet	2	8880
-amp	2	8880	255
-play	2	8880	/sounds/sfx/explosion/small
-quiet	1	8901
-amp	1	8901	255
-play	1	8901	/sounds/sfx/explosion/energy
-quiet	1	8901
-amp	1	8901	255
-play	1	8901	/sounds/sfx/explosion/energy
-quiet	1	8901
-amp	1	8901	255
-play	1	8901	/sounds/sfx/explosion/energy
-quiet	1	8922
-amp	1	8922	255
-play	1	8922	/sounds/sfx/explosion/large
-quiet	2	8943
-amp	2	8943	255
-play	2	8943	/sounds/sfx/explosion/small
-quiet	1	8961
-amp	1	8961	255
-play	1	8961	/sounds/sfx/explosion/large
-quiet	0	8973
-amp	0	8973	255
-play	0	8973	/sounds/sfx/energy
-quiet	0	8976
-amp	0	8976	255
-play	0	8976	/sounds/sfx/energy
-quiet	0	8976
-amp	0	8976	255
-play	0	8976	/sounds/sfx/energy
-quiet	0	8976
-amp	0	8976	255
-play	0	8976	/sounds/sfx/energy
-quiet	0	8976
-amp	0	8976	255
-play	0	8976	/sounds/sfx/energy
-quiet	0	8979
-amp	0	8979	255
-play	0	8979	/sounds/sfx/energy
-quiet	0	8979
-amp	0	8979	255
-play	0	8979	/sounds/sfx/energy
-quiet	0	8982
-amp	0	8982	255
-play	0	8982	/sounds/sfx/energy
-quiet	0	8985
-amp	0	8985	255
-play	0	8985	/sounds/sfx/energy
-quiet	0	9003
-amp	0	9003	255
-play	0	9003	/sounds/sfx/energy
-quiet	0	9006
-amp	0	9006	255
-play	0	9006	/sounds/sfx/energy
-quiet	0	9006
-amp	0	9006	255
-play	0	9006	/sounds/sfx/energy
-quiet	1	9012
-amp	1	9012	255
-play	1	9012	/sounds/sfx/explosion/large
-quiet	1	9012
-amp	1	9012	255
-play	1	9012	/sounds/sfx/explosion/large
-quiet	0	9015
-amp	0	9015	255
-play	0	9015	/sounds/sfx/energy
-quiet	2	9054
-amp	2	9054	255
-play	2	9054	/sounds/sfx/explosion/small
-quiet	2	9054
-amp	2	9054	255
-play	2	9054	/sounds/sfx/explosion/small
-quiet	2	9054
-amp	2	9054	255
-play	2	9054	/sounds/sfx/explosion/small
-quiet	1	9099
-amp	1	9099	255
-play	1	9099	/sounds/sfx/explosion/large
-quiet	0	9141
-amp	0	9141	245
-play	0	9141	/sounds/sfx/explosion/small
-quiet	0	9159
-amp	0	9159	254
-play	0	9159	/sounds/sfx/explosion/large
-quiet	2	9159
-amp	2	9159	234
-play	2	9159	/sounds/sfx/explosion/large
-quiet	2	9180
-amp	2	9180	251
-play	2	9180	/sounds/sfx/explosion/large
-quiet	1	9201
-amp	1	9201	221
-play	1	9201	/sounds/sfx/explosion/small
-quiet	1	9249
-amp	1	9249	244
-play	1	9249	/sounds/sfx/explosion/large
-quiet	2	9291
-amp	2	9291	229
-play	2	9291	/sounds/sfx/explosion/small
-quiet	0	9291
-amp	0	9291	227
-play	0	9291	/sounds/sfx/explosion/small
-quiet	1	9321
-amp	1	9321	250
-play	1	9321	/sounds/sfx/explosion/large
-quiet	0	9321
-amp	0	9321	247
-play	0	9321	/sounds/sfx/explosion/large
-quiet	2	9363
-amp	2	9363	255
-play	2	9363	/sounds/sfx/explosion/small
-quiet	2	9363
-amp	2	9363	255
-play	2	9363	/sounds/sfx/explosion/small
-quiet	0	9363
-amp	0	9363	252
-play	0	9363	/sounds/sfx/explosion/small
-quiet	0	9384
-amp	0	9384	255
-play	0	9384	/sounds/sfx/explosion/energy
-quiet	0	9384
-amp	0	9384	255
-play	0	9384	/sounds/sfx/explosion/energy
-quiet	0	9384
-amp	0	9384	255
-play	0	9384	/sounds/sfx/explosion/energy
-quiet	1	9390
-amp	1	9390	59
-play	1	9390	/sounds/sfx/warp/out
-quiet	1	9408
-amp	1	9408	255
-play	1	9408	/sounds/sfx/explosion/large
-quiet	1	9408
-amp	1	9408	255
-play	1	9408	/sounds/sfx/explosion/large
-quiet	2	9414
-amp	2	9414	55
-play	2	9414	/sounds/sfx/warp/out
-quiet	1	9429
-amp	1	9429	255
-play	1	9429	/sounds/sfx/explosion/large
-quiet	2	9450
-amp	2	9450	255
-play	2	9450	/sounds/sfx/explosion/small
-quiet	2	9450
-amp	2	9450	255
-play	2	9450	/sounds/sfx/explosion/small
-quiet	1	9465
-amp	1	9465	255
-play	1	9465	/sounds/sfx/explosion/large
-quiet	1	9465
-amp	1	9465	255
-play	1	9465	/sounds/sfx/explosion/large
-quiet	0	9471
-amp	0	9471	255
-play	0	9471	/sounds/sfx/explosion/energy
-quiet	0	9471
-amp	0	9471	255
-play	0	9471	/sounds/sfx/explosion/energy
-quiet	0	9471
-amp	0	9471	255
-play	0	9471	/sounds/sfx/explosion/energy
-quiet	1	9489
-amp	1	9489	255
-play	1	9489	/sounds/sfx/explosion/large
-quiet	2	9534
-amp	2	9534	65
-play	2	9534	/sounds/sfx/warp/out
-quiet	0	9543
-amp	0	9543	60
-play	0	9543	/sounds/sfx/warp/out
-quiet	0	9552
-amp	0	9552	75
-play	0	9552	/sounds/sfx/warp/out
-quiet	1	9573
-amp	1	9573	62
-play	1	9573	/sounds/sfx/warp/out
-quiet	0	9723
-amp	0	9723	129
-play	0	9723	/sounds/dev/cm
-quiet	1	9753
-amp	1	9753	128
-play	1	9753	/sounds/dev/cm
-quiet	0	9795
-amp	0	9795	155
-play	0	9795	/sounds/dev/cm
-quiet	1	9801
-amp	1	9801	129
-play	1	9801	/sounds/dev/cm
-quiet	1	9825
-amp	1	9825	146
-play	1	9825	/sounds/dev/cm
-quiet	2	9828
-amp	2	9828	129
-play	2	9828	/sounds/dev/cm
-quiet	0	9867
-amp	0	9867	161
-play	0	9867	/sounds/dev/cm
-quiet	1	9873
-amp	1	9873	155
-play	1	9873	/sounds/dev/cm
-quiet	0	9894
-amp	0	9894	255
-play	0	9894	/sounds/dev/onas
-quiet	2	9897
-amp	2	9897	154
-play	2	9897	/sounds/dev/cm
-quiet	1	9897
-amp	1	9897	255
-play	1	9897	/sounds/dev/pk/sal
-quiet	0	9909
-amp	0	9909	255
-play	0	9909	/sounds/dev/onas
-quiet	1	9915
-amp	1	9915	255
-play	1	9915	/sounds/dev/pk/sal
-quiet	0	9924
-amp	0	9924	130
-play	0	9924	/sounds/dev/cm
-quiet	0	9924
-amp	0	9924	255
-play	0	9924	/sounds/dev/onas
-quiet	1	9933
-amp	1	9933	255
-play	1	9933	/sounds/dev/pk/sal
-quiet	2	9939
-amp	2	9939	128
-play	2	9939	/sounds/dev/cm
-quiet	2	9939
-amp	2	9939	169
-play	2	9939	/sounds/dev/cm
-quiet	0	9939
-amp	0	9939	255
-play	0	9939	/sounds/dev/onas
-quiet	2	9945
-amp	2	9945	184
-play	2	9945	/sounds/dev/cm
-quiet	1	9951
-amp	1	9951	255
-play	1	9951	/sounds/dev/pk/sal
-quiet	0	9954
-amp	0	9954	255
-play	0	9954	/sounds/dev/onas
-quiet	2	9954
-amp	2	9954	255
-play	2	9954	/sounds/sfx/explosion/energy
-quiet	2	9966
-amp	2	9966	255
-play	2	9966	/sounds/sfx/explosion/energy
-quiet	0	9966
-amp	0	9966	255
-play	0	9966	/sounds/sfx/explosion/gas
-quiet	1	9969
-amp	1	9969	177
-play	1	9969	/sounds/dev/cm
-quiet	1	9969
-amp	1	9969	255
-play	1	9969	/sounds/dev/onas
-quiet	1	9969
-amp	1	9969	235
-play	1	9969	/sounds/sfx/explosion/gas
-quiet	1	9984
-amp	1	9984	255
-play	1	9984	/sounds/dev/onas
-quiet	2	9987
-amp	2	9987	255
-play	2	9987	/sounds/dev/pk/sal
-quiet	1	9996
-amp	1	9996	163
-play	1	9996	/sounds/dev/cm
-quiet	1	9999
-amp	1	9999	255
-play	1	9999	/sounds/dev/onas
-quiet	2	10005
-amp	2	10005	255
-play	2	10005	/sounds/dev/pk/sal
-quiet	0	10011
-amp	0	10011	159
-play	0	10011	/sounds/dev/cm
-quiet	0	10011
-amp	0	10011	183
-play	0	10011	/sounds/dev/cm
-quiet	1	10014
-amp	1	10014	255
-play	1	10014	/sounds/dev/onas
-quiet	0	10017
-amp	0	10017	212
-play	0	10017	/sounds/dev/cm
-quiet	0	10017
-amp	0	10017	230
-play	0	10017	/sounds/sfx/explosion/energy
-quiet	2	10017
-amp	2	10017	223
-play	2	10017	/sounds/sfx/explosion/energy
-quiet	0	10023
-amp	0	10023	255
-play	0	10023	/sounds/dev/pk/sal
-quiet	1	10029
-amp	1	10029	255
-play	1	10029	/sounds/dev/onas
-quiet	0	10035
-amp	0	10035	219
-play	0	10035	/sounds/sfx/explosion/gas
-quiet	2	10041
-amp	2	10041	191
-play	2	10041	/sounds/dev/cm
-quiet	0	10041
-amp	0	10041	255
-play	0	10041	/sounds/dev/pk/sal
-quiet	2	10041
-amp	2	10041	255
-play	2	10041	/sounds/sfx/explosion/energy
-quiet	0	10041
-amp	0	10041	255
-play	0	10041	/sounds/sfx/explosion/gas
-quiet	1	10044
-amp	1	10044	212
-play	1	10044	/sounds/dev/cm
-quiet	1	10044
-amp	1	10044	255
-play	1	10044	/sounds/dev/onas
-quiet	1	10050
-amp	1	10050	220
-play	1	10050	/sounds/sfx/explosion/gas
-quiet	1	10059
-amp	1	10059	255
-play	1	10059	/sounds/dev/onas
-quiet	2	10068
-amp	2	10068	190
-play	2	10068	/sounds/dev/cm
-quiet	1	10074
-amp	1	10074	255
-play	1	10074	/sounds/dev/onas
-quiet	2	10077
-amp	2	10077	255
-play	2	10077	/sounds/dev/pk/sal
-quiet	0	10083
-amp	0	10083	188
-play	0	10083	/sounds/dev/cm
-quiet	0	10083
-amp	0	10083	195
-play	0	10083	/sounds/dev/cm
-quiet	0	10089
-amp	0	10089	224
-play	0	10089	/sounds/dev/cm
-quiet	1	10089
-amp	1	10089	255
-play	1	10089	/sounds/dev/onas
-quiet	0	10092
-amp	0	10092	255
-play	0	10092	/sounds/sfx/explosion/energy
-quiet	0	10092
-amp	0	10092	255
-play	0	10092	/sounds/sfx/explosion/gas
-quiet	2	10095
-amp	2	10095	255
-play	2	10095	/sounds/dev/pk/sal
-quiet	1	10101
-amp	1	10101	255
-play	1	10101	/sounds/sfx/explosion/energy
-quiet	0	10101
-amp	0	10101	255
-play	0	10101	/sounds/sfx/explosion/gas
-quiet	1	10110
-amp	1	10110	255
-play	1	10110	/sounds/sfx/explosion/energy
-quiet	1	10110
-amp	1	10110	255
-play	1	10110	/sounds/sfx/explosion/energy
-quiet	2	10113
-amp	2	10113	215
-play	2	10113	/sounds/dev/cm
-quiet	2	10113
-amp	2	10113	255
-play	2	10113	/sounds/dev/pk/sal
-quiet	2	10131
-amp	2	10131	255
-play	2	10131	/sounds/dev/pk/sal
-quiet	1	10134
-amp	1	10134	255
-play	1	10134	/sounds/dev/onas
-quiet	0	10134
-amp	0	10134	255
-play	0	10134	/sounds/sfx/explosion/energy
-quiet	0	10134
-amp	0	10134	255
-play	0	10134	/sounds/sfx/explosion/energy
-quiet	1	10149
-amp	1	10149	255
-play	1	10149	/sounds/dev/onas
-quiet	2	10149
-amp	2	10149	255
-play	2	10149	/sounds/dev/pk/sal
-quiet	0	10149
-amp	0	10149	255
-play	0	10149	/sounds/sfx/explosion/energy
-quiet	0	10149
-amp	0	10149	249
-play	0	10149	/sounds/sfx/explosion/gas
-quiet	0	10161
-amp	0	10161	255
-play	0	10161	/sounds/dev/cm
-quiet	0	10161
-amp	0	10161	255
-play	0	10161	/sounds/sfx/explosion/gas
-quiet	1	10161
-amp	1	10161	255
-play	1	10161	/sounds/sfx/explosion/energy
-quiet	0	10161
-amp	0	10161	255
-play	0	10161	/sounds/sfx/explosion/gas
-quiet	0	10161
-amp	0	10161	255
-play	0	10161	/sounds/sfx/explosion/gas
-quiet	1	10161
-amp	1	10161	255
-play	1	10161	/sounds/sfx/explosion/energy
-quiet	2	10164
-amp	2	10164	255
-play	2	10164	/sounds/dev/stealth/on
-quiet	1	10185
-amp	1	10185	255
-play	1	10185	/sounds/dev/pk/sal
-quiet	2	10188
-amp	2	10188	255
-play	2	10188	/sounds/dev/cm
-quiet	0	10194
-amp	0	10194	255
-play	0	10194	/sounds/dev/onas
-quiet	1	10203
-amp	1	10203	255
-play	1	10203	/sounds/dev/bay
-quiet	0	10206
-amp	0	10206	255
-play	0	10206	/sounds/sfx/explosion/gas
-quiet	2	10212
-amp	2	10212	255
-play	2	10212	/sounds/dev/cm
-quiet	1	10218
-amp	1	10218	255
-play	1	10218	/sounds/dev/cluster
-quiet	1	10221
-amp	1	10221	255
-play	1	10221	/sounds/dev/pk/sal
-quiet	0	10230
-amp	0	10230	255
-play	0	10230	/sounds/sfx/explosion/gas
-quiet	1	10233
-amp	1	10233	255
-play	1	10233	/sounds/dev/cluster
-quiet	2	10233
-amp	2	10233	255
-play	2	10233	/sounds/dev/cm
-quiet	1	10236
-amp	1	10236	255
-play	1	10236	/sounds/sfx/explosion/energy
-quiet	1	10251
-amp	1	10251	255
-play	1	10251	/sounds/sfx/explosion/energy
-quiet	0	10251
-amp	0	10251	255
-play	0	10251	/sounds/sfx/explosion/gas
-quiet	0	10257
-amp	0	10257	255
-play	0	10257	/sounds/sfx/explosion/gas
-quiet	1	10266
-amp	1	10266	255
-play	1	10266	/sounds/sfx/explosion/energy
-quiet	2	10269
-amp	2	10269	255
-play	2	10269	/sounds/dev/onas
-quiet	0	10272
-amp	0	10272	255
-play	0	10272	/sounds/sfx/explosion/gas
-quiet	2	10284
-amp	2	10284	255
-play	2	10284	/sounds/dev/onas
-quiet	1	10284
-amp	1	10284	255
-play	1	10284	/sounds/sfx/explosion/energy
-quiet	0	10287
-amp	0	10287	255
-play	0	10287	/sounds/sfx/explosion/gas
-quiet	2	10299
-amp	2	10299	255
-play	2	10299	/sounds/dev/onas
-quiet	0	10302
-amp	0	10302	255
-play	0	10302	/sounds/sfx/explosion/gas
-quiet	1	10308
-amp	1	10308	255
-play	1	10308	/sounds/dev/pk/can
-quiet	2	10311
-amp	2	10311	255
-play	2	10311	/sounds/dev/pk/sal
-quiet	0	10320
-amp	0	10320	255
-play	0	10320	/sounds/sfx/explosion/gas
-quiet	1	10323
-amp	1	10323	255
-play	1	10323	/sounds/dev/cluster
-quiet	1	10329
-amp	1	10329	255
-play	1	10329	/sounds/dev/onas
-quiet	2	10329
-amp	2	10329	255
-play	2	10329	/sounds/dev/pk/sal
-quiet	0	10338
-amp	0	10338	255
-play	0	10338	/sounds/sfx/explosion/gas
-quiet	1	10344
-amp	1	10344	255
-play	1	10344	/sounds/dev/onas
-quiet	2	10344
-amp	2	10344	94
-play	2	10344	/sounds/sfx/explosion/energy
-quiet	2	10347
-amp	2	10347	255
-play	2	10347	/sounds/dev/pk/sal
-quiet	0	10353
-amp	0	10353	255
-play	0	10353	/sounds/sfx/explosion/gas
-quiet	1	10359
-amp	1	10359	255
-play	1	10359	/sounds/dev/onas
-quiet	2	10365
-amp	2	10365	255
-play	2	10365	/sounds/dev/pk/sal
-quiet	0	10368
-amp	0	10368	255
-play	0	10368	/sounds/sfx/explosion/gas
-quiet	1	10374
-amp	1	10374	255
-play	1	10374	/sounds/dev/onas
-quiet	2	10380
-amp	2	10380	255
-play	2	10380	/sounds/dev/cm
-quiet	0	10383
-amp	0	10383	255
-play	0	10383	/sounds/sfx/explosion/gas
-quiet	1	10386
-amp	1	10386	255
-play	1	10386	/sounds/sfx/explosion/energy
-quiet	0	10401
-amp	0	10401	255
-play	0	10401	/sounds/sfx/explosion/gas
-quiet	1	10410
-amp	1	10410	95
-play	1	10410	/sounds/sfx/explosion/energy
-quiet	1	10413
-amp	1	10413	255
-play	1	10413	/sounds/sfx/explosion/energy
-quiet	2	10419
-amp	2	10419	255
-play	2	10419	/sounds/dev/onas
-quiet	0	10419
-amp	0	10419	255
-play	0	10419	/sounds/sfx/explosion/gas
-quiet	2	10431
-amp	2	10431	255
-play	2	10431	/sounds/dev/cm
-quiet	1	10431
-amp	1	10431	255
-play	1	10431	/sounds/sfx/explosion/energy
-quiet	2	10434
-amp	2	10434	255
-play	2	10434	/sounds/dev/cm
-quiet	0	10434
-amp	0	10434	255
-play	0	10434	/sounds/sfx/explosion/gas
-quiet	1	10446
-amp	1	10446	255
-play	1	10446	/sounds/sfx/explosion/energy
-quiet	0	10449
-amp	0	10449	255
-play	0	10449	/sounds/sfx/explosion/gas
-quiet	1	10461
-amp	1	10461	255
-play	1	10461	/sounds/sfx/explosion/energy
-quiet	0	10467
-amp	0	10467	255
-play	0	10467	/sounds/sfx/explosion/gas
-quiet	2	10473
-amp	2	10473	255
-play	2	10473	/sounds/dev/pk/sal
-quiet	0	10476
-amp	0	10476	255
-play	0	10476	/sounds/sfx/explosion/gas
-quiet	1	10476
-amp	1	10476	255
-play	1	10476	/sounds/sfx/explosion/energy
-quiet	2	10485
-amp	2	10485	86
-play	2	10485	/sounds/sfx/explosion/energy
-quiet	2	10491
-amp	2	10491	255
-play	2	10491	/sounds/dev/pk/sal
-quiet	0	10491
-amp	0	10491	255
-play	0	10491	/sounds/sfx/explosion/gas
-quiet	1	10494
-amp	1	10494	255
-play	1	10494	/sounds/sfx/explosion/energy
-quiet	2	10503
-amp	2	10503	255
-play	2	10503	/sounds/dev/pk/can
-quiet	0	10506
-amp	0	10506	255
-play	0	10506	/sounds/sfx/explosion/gas
-quiet	1	10512
-amp	1	10512	255
-play	1	10512	/sounds/sfx/explosion/energy
-quiet	2	10518
-amp	2	10518	224
-play	2	10518	/sounds/sfx/explosion/energy
-quiet	0	10521
-amp	0	10521	255
-play	0	10521	/sounds/sfx/explosion/gas
-quiet	1	10521
-amp	1	10521	255
-play	1	10521	/sounds/sfx/explosion/energy
-quiet	2	10524
-amp	2	10524	255
-play	2	10524	/sounds/dev/pk/can
-quiet	1	10530
-amp	1	10530	255
-play	1	10530	/sounds/sfx/explosion/energy
-quiet	2	10539
-amp	2	10539	255
-play	2	10539	/sounds/dev/onas
-quiet	0	10542
-amp	0	10542	255
-play	0	10542	/sounds/sfx/explosion/gas
-quiet	1	10551
-amp	1	10551	255
-play	1	10551	/sounds/sfx/explosion/energy
-quiet	2	10554
-amp	2	10554	255
-play	2	10554	/sounds/dev/onas
-quiet	0	10554
-amp	0	10554	255
-play	0	10554	/sounds/sfx/explosion/gas
-quiet	2	10566
-amp	2	10566	255
-play	2	10566	/sounds/dev/pk/can
-quiet	0	10569
-amp	0	10569	255
-play	0	10569	/sounds/sfx/explosion/gas
-quiet	1	10572
-amp	1	10572	255
-play	1	10572	/sounds/sfx/explosion/energy
-quiet	2	10578
-amp	2	10578	255
-play	2	10578	/sounds/dev/cm
-quiet	0	10587
-amp	0	10587	255
-play	0	10587	/sounds/sfx/explosion/gas
-quiet	1	10599
-amp	1	10599	255
-play	1	10599	/sounds/dev/pk/sal
-quiet	1	10605
-amp	1	10605	254
-play	1	10605	/sounds/sfx/explosion/gas
-quiet	2	10620
-amp	2	10620	252
-play	2	10620	/sounds/dev/cm
-quiet	0	10641
-amp	0	10641	230
-play	0	10641	/sounds/dev/cm
-quiet	0	10647
-amp	0	10647	237
-play	0	10647	/sounds/dev/cm
-quiet	0	10650
-amp	0	10650	249
-play	0	10650	/sounds/dev/cm
-quiet	0	10674
-amp	0	10674	255
-play	0	10674	/sounds/dev/onas
-quiet	0	10689
-amp	0	10689	255
-play	0	10689	/sounds/dev/onas
-quiet	1	10692
-amp	1	10692	250
-play	1	10692	/sounds/dev/cm
-quiet	1	10692
-amp	1	10692	255
-play	1	10692	/sounds/sfx/explosion/small
-quiet	2	10692
-amp	2	10692	255
-play	2	10692	/sounds/sfx/explosion/gas
-quiet	0	10704
-amp	0	10704	255
-play	0	10704	/sounds/dev/onas
-quiet	1	10713
-amp	1	10713	250
-play	1	10713	/sounds/dev/cm
-quiet	0	10719
-amp	0	10719	232
-play	0	10719	/sounds/dev/cm
-quiet	0	10719
-amp	0	10719	255
-play	0	10719	/sounds/dev/onas
-quiet	0	10734
-amp	0	10734	255
-play	0	10734	/sounds/dev/onas
-quiet	2	10734
-amp	2	10734	255
-play	2	10734	/sounds/sfx/explosion/gas
-quiet	1	10734
-amp	1	10734	255
-play	1	10734	/sounds/sfx/explosion/energy
-quiet	0	10749
-amp	0	10749	255
-play	0	10749	/sounds/dev/onas
-quiet	0	10755
-amp	0	10755	252
-play	0	10755	/sounds/sfx/explosion/gas
-quiet	1	10761
-amp	1	10761	247
-play	1	10761	/sounds/sfx/explosion/energy
-quiet	0	10761
-amp	0	10761	255
-play	0	10761	/sounds/sfx/explosion/gas
-quiet	1	10764
-amp	1	10764	255
-play	1	10764	/sounds/dev/onas
-quiet	1	10779
-amp	1	10779	255
-play	1	10779	/sounds/dev/onas
-quiet	2	10782
-amp	2	10782	255
-play	2	10782	/sounds/sfx/explosion/energy
-quiet	0	10782
-amp	0	10782	255
-play	0	10782	/sounds/sfx/explosion/gas
-quiet	1	10794
-amp	1	10794	255
-play	1	10794	/sounds/dev/onas
-quiet	0	10806
-amp	0	10806	255
-play	0	10806	/sounds/sfx/explosion/gas
-quiet	1	10809
-amp	1	10809	255
-play	1	10809	/sounds/dev/onas
-quiet	0	10821
-amp	0	10821	255
-play	0	10821	/sounds/sfx/explosion/gas
-quiet	1	10824
-amp	1	10824	255
-play	1	10824	/sounds/dev/onas
-quiet	2	10836
-amp	2	10836	249
-play	2	10836	/sounds/dev/cm
-quiet	1	10839
-amp	1	10839	255
-play	1	10839	/sounds/dev/onas
-quiet	0	10839
-amp	0	10839	255
-play	0	10839	/sounds/sfx/explosion/gas
-quiet	1	10854
-amp	1	10854	255
-play	1	10854	/sounds/dev/onas
-quiet	0	10854
-amp	0	10854	255
-play	0	10854	/sounds/sfx/explosion/gas
-quiet	1	10869
-amp	1	10869	205
-play	1	10869	/sounds/dev/cm
-quiet	1	10869
-amp	1	10869	255
-play	1	10869	/sounds/dev/onas
-quiet	0	10872
-amp	0	10872	255
-play	0	10872	/sounds/sfx/explosion/gas
-quiet	1	10884
-amp	1	10884	255
-play	1	10884	/sounds/dev/onas
-quiet	1	10899
-amp	1	10899	255
-play	1	10899	/sounds/dev/onas
-quiet	1	10914
-amp	1	10914	255
-play	1	10914	/sounds/dev/onas
-quiet	2	10929
-amp	2	10929	224
-play	2	10929	/sounds/dev/cm
-quiet	1	10929
-amp	1	10929	255
-play	1	10929	/sounds/dev/onas
-quiet	0	10941
-amp	0	10941	166
-play	0	10941	/sounds/dev/cm
-quiet	1	10944
-amp	1	10944	255
-play	1	10944	/sounds/dev/onas
-quiet	0	10947
-amp	0	10947	255
-play	0	10947	/sounds/sfx/explosion/gas
-quiet	1	10959
-amp	1	10959	255
-play	1	10959	/sounds/dev/onas
-quiet	0	10962
-amp	0	10962	255
-play	0	10962	/sounds/sfx/explosion/gas
-quiet	2	10965
-amp	2	10965	253
-play	2	10965	/sounds/dev/cm
-quiet	0	10968
-amp	0	10968	255
-play	0	10968	/sounds/sfx/explosion/gas
-quiet	2	10971
-amp	2	10971	255
-play	2	10971	/sounds/dev/bay
-quiet	1	10974
-amp	1	10974	255
-play	1	10974	/sounds/dev/onas
-quiet	1	10989
-amp	1	10989	255
-play	1	10989	/sounds/dev/onas
-quiet	2	11001
-amp	2	11001	218
-play	2	11001	/sounds/dev/cm
-quiet	0	11001
-amp	0	11001	255
-play	0	11001	/sounds/sfx/explosion/gas
-quiet	1	11004
-amp	1	11004	255
-play	1	11004	/sounds/dev/onas
-quiet	1	11019
-amp	1	11019	255
-play	1	11019	/sounds/dev/onas
-quiet	2	11025
-amp	2	11025	255
-play	2	11025	/sounds/sfx/explosion/energy
-quiet	0	11025
-amp	0	11025	255
-play	0	11025	/sounds/sfx/explosion/gas
-quiet	1	11034
-amp	1	11034	255
-play	1	11034	/sounds/dev/onas
-quiet	1	11046
-amp	1	11046	255
-play	1	11046	/sounds/dev/cm
-quiet	2	11049
-amp	2	11049	255
-play	2	11049	/sounds/dev/onas
-quiet	1	11052
-amp	1	11052	252
-play	1	11052	/sounds/sfx/explosion/gas
-quiet	2	11064
-amp	2	11064	255
-play	2	11064	/sounds/dev/onas
-quiet	2	11070
-amp	2	11070	243
-play	2	11070	/sounds/sfx/explosion/gas
-quiet	0	11073
-amp	0	11073	201
-play	0	11073	/sounds/dev/cm
-quiet	0	11079
-amp	0	11079	255
-play	0	11079	/sounds/dev/onas
-quiet	0	11088
-amp	0	11088	235
-play	0	11088	/sounds/sfx/explosion/gas
-quiet	0	11091
-amp	0	11091	236
-play	0	11091	/sounds/dev/cm
-quiet	0	11094
-amp	0	11094	255
-play	0	11094	/sounds/dev/onas
-quiet	0	11109
-amp	0	11109	255
-play	0	11109	/sounds/dev/onas
-quiet	1	11118
-amp	1	11118	225
-play	1	11118	/sounds/dev/cm
-quiet	0	11124
-amp	0	11124	255
-play	0	11124	/sounds/dev/onas
-quiet	2	11136
-amp	2	11136	252
-play	2	11136	/sounds/sfx/explosion/gas
-quiet	0	11139
-amp	0	11139	255
-play	0	11139	/sounds/dev/onas
-quiet	1	11142
-amp	1	11142	248
-play	1	11142	/sounds/dev/cm
-quiet	0	11154
-amp	0	11154	255
-play	0	11154	/sounds/dev/onas
-quiet	1	11163
-amp	1	11163	255
-play	1	11163	/sounds/dev/cm
-quiet	0	11169
-amp	0	11169	255
-play	0	11169	/sounds/dev/onas
-quiet	2	11169
-amp	2	11169	255
-play	2	11169	/sounds/sfx/explosion/gas
-quiet	0	11184
-amp	0	11184	255
-play	0	11184	/sounds/dev/onas
-quiet	0	11199
-amp	0	11199	255
-play	0	11199	/sounds/dev/onas
-quiet	1	11214
-amp	1	11214	255
-play	1	11214	/sounds/dev/cm
-quiet	0	11214
-amp	0	11214	255
-play	0	11214	/sounds/dev/onas
-quiet	2	11214
-amp	2	11214	255
-play	2	11214	/sounds/sfx/explosion/gas
-quiet	0	11229
-amp	0	11229	255
-play	0	11229	/sounds/dev/onas
-quiet	1	11238
-amp	1	11238	255
-play	1	11238	/sounds/dev/cm
-quiet	0	11244
-amp	0	11244	255
-play	0	11244	/sounds/dev/onas
-quiet	0	11247
-amp	0	11247	210
-play	0	11247	/sounds/sfx/explosion/gas
-quiet	0	11259
-amp	0	11259	255
-play	0	11259	/sounds/dev/cluster
-quiet	0	11259
-amp	0	11259	255
-play	0	11259	/sounds/dev/onas
-quiet	2	11265
-amp	2	11265	209
-play	2	11265	/sounds/dev/cm
-quiet	2	11265
-amp	2	11265	243
-play	2	11265	/sounds/sfx/explosion/gas
-quiet	0	11265
-amp	0	11265	202
-play	0	11265	/sounds/sfx/explosion/gas
-quiet	0	11274
-amp	0	11274	255
-play	0	11274	/sounds/dev/cluster
-quiet	2	11274
-amp	2	11274	255
-play	2	11274	/sounds/dev/onas
-quiet	0	11274
-amp	0	11274	255
-play	0	11274	/sounds/sfx/explosion/energy
-quiet	0	11274
-amp	0	11274	255
-play	0	11274	/sounds/sfx/explosion/gas
-quiet	1	11280
-amp	1	11280	244
-play	1	11280	/sounds/sfx/explosion/gas
-quiet	2	11286
-amp	2	11286	232
-play	2	11286	/sounds/dev/cm
-quiet	1	11289
-amp	1	11289	255
-play	1	11289	/sounds/dev/cluster
-quiet	2	11289
-amp	2	11289	255
-play	2	11289	/sounds/dev/onas
-quiet	0	11295
-amp	0	11295	255
-play	0	11295	/sounds/sfx/explosion/gas
-quiet	1	11304
-amp	1	11304	255
-play	1	11304	/sounds/dev/cluster
-quiet	2	11304
-amp	2	11304	255
-play	2	11304	/sounds/dev/onas
-quiet	1	11310
-amp	1	11310	255
-play	1	11310	/sounds/dev/cm
-quiet	0	11310
-amp	0	11310	255
-play	0	11310	/sounds/sfx/explosion/gas
-quiet	2	11319
-amp	2	11319	255
-play	2	11319	/sounds/dev/cluster
-quiet	2	11319
-amp	2	11319	255
-play	2	11319	/sounds/dev/onas
-quiet	0	11328
-amp	0	11328	255
-play	0	11328	/sounds/sfx/explosion/gas
-quiet	2	11331
-amp	2	11331	255
-play	2	11331	/sounds/sfx/explosion/energy
-quiet	1	11349
-amp	1	11349	255
-play	1	11349	/sounds/dev/onas
-quiet	2	11358
-amp	2	11358	200
-play	2	11358	/sounds/dev/cm
-quiet	0	11361
-amp	0	11361	255
-play	0	11361	/sounds/sfx/explosion/gas
-quiet	1	11364
-amp	1	11364	255
-play	1	11364	/sounds/dev/onas
-quiet	2	11367
-amp	2	11367	202
-play	2	11367	/sounds/sfx/explosion/gas
-quiet	1	11379
-amp	1	11379	255
-play	1	11379	/sounds/dev/onas
-quiet	2	11382
-amp	2	11382	241
-play	2	11382	/sounds/dev/cm
-quiet	2	11382
-amp	2	11382	255
-play	2	11382	/sounds/sfx/explosion/energy
-quiet	0	11382
-amp	0	11382	255
-play	0	11382	/sounds/sfx/explosion/gas
-quiet	1	11385
-amp	1	11385	238
-play	1	11385	/sounds/sfx/explosion/gas
-quiet	1	11394
-amp	1	11394	255
-play	1	11394	/sounds/dev/onas
-quiet	1	11409
-amp	1	11409	255
-play	1	11409	/sounds/dev/onas
-quiet	1	11424
-amp	1	11424	255
-play	1	11424	/sounds/dev/onas
-quiet	2	11433
-amp	2	11433	255
-play	2	11433	/sounds/sfx/explosion/energy
-quiet	0	11433
-amp	0	11433	255
-play	0	11433	/sounds/sfx/explosion/gas
-quiet	1	11439
-amp	1	11439	195
-play	1	11439	/sounds/dev/bay
-quiet	1	11439
-amp	1	11439	255
-play	1	11439	/sounds/dev/onas
-quiet	1	11454
-amp	1	11454	255
-play	1	11454	/sounds/dev/onas
-quiet	2	11463
-amp	2	11463	129
-play	2	11463	/sounds/dev/cm
-quiet	2	11469
-amp	2	11469	255
-play	2	11469	/sounds/dev/anti
-quiet	1	11469
-amp	1	11469	255
-play	1	11469	/sounds/dev/onas
-quiet	0	11481
-amp	0	11481	255
-play	0	11481	/sounds/dev/pk/can
-quiet	1	11484
-amp	1	11484	255
-play	1	11484	/sounds/dev/onas
-quiet	0	11487
-amp	0	11487	255
-play	0	11487	/sounds/sfx/explosion/gas
-quiet	1	11499
-amp	1	11499	255
-play	1	11499	/sounds/dev/onas
-quiet	1	11514
-amp	1	11514	255
-play	1	11514	/sounds/dev/onas
-quiet	1	11529
-amp	1	11529	255
-play	1	11529	/sounds/dev/onas
-quiet	1	11544
-amp	1	11544	255
-play	1	11544	/sounds/dev/onas
-quiet	2	11553
-amp	2	11553	143
-play	2	11553	/sounds/dev/cm
-quiet	1	11559
-amp	1	11559	255
-play	1	11559	/sounds/dev/onas
-quiet	1	11574
-amp	1	11574	255
-play	1	11574	/sounds/dev/onas
-quiet	1	11589
-amp	1	11589	255
-play	1	11589	/sounds/dev/onas
-quiet	1	11604
-amp	1	11604	255
-play	1	11604	/sounds/dev/onas
-quiet	1	11619
-amp	1	11619	255
-play	1	11619	/sounds/dev/onas
-quiet	2	11625
-amp	2	11625	192
-play	2	11625	/sounds/dev/cm
-quiet	2	11628
-amp	2	11628	250
-play	2	11628	/sounds/sfx/explosion/energy
-quiet	2	11628
-amp	2	11628	252
-play	2	11628	/sounds/sfx/explosion/gas
-quiet	1	11634
-amp	1	11634	255
-play	1	11634	/sounds/dev/onas
-quiet	1	11649
-amp	1	11649	255
-play	1	11649	/sounds/dev/onas
-quiet	2	11658
-amp	2	11658	253
-play	2	11658	/sounds/sfx/explosion/small
-quiet	1	11658
-amp	1	11658	252
-play	1	11658	/sounds/sfx/explosion/gas
-quiet	1	11664
-amp	1	11664	255
-play	1	11664	/sounds/dev/onas
-quiet	1	11679
-amp	1	11679	255
-play	1	11679	/sounds/dev/onas
-quiet	1	11685
-amp	1	11685	228
-play	1	11685	/sounds/sfx/explosion/gas
-quiet	1	11694
-amp	1	11694	255
-play	1	11694	/sounds/dev/onas
-quiet	1	11709
-amp	1	11709	255
-play	1	11709	/sounds/dev/onas
-quiet	1	11724
-amp	1	11724	255
-play	1	11724	/sounds/dev/onas
-quiet	1	11739
-amp	1	11739	255
-play	1	11739	/sounds/dev/onas
-quiet	1	11754
-amp	1	11754	255
-play	1	11754	/sounds/dev/onas
-quiet	1	11769
-amp	1	11769	255
-play	1	11769	/sounds/dev/onas
-quiet	0	11772
-amp	0	11772	255
-play	0	11772	/sounds/sfx/explosion/gas
-quiet	1	11784
-amp	1	11784	255
-play	1	11784	/sounds/dev/onas
-quiet	0	11787
-amp	0	11787	255
-play	0	11787	/sounds/sfx/explosion/gas
-quiet	1	11799
-amp	1	11799	255
-play	1	11799	/sounds/dev/onas
-quiet	2	11802
-amp	2	11802	214
-play	2	11802	/sounds/sfx/energy
-quiet	1	11814
-amp	1	11814	255
-play	1	11814	/sounds/dev/onas
-quiet	0	11817
-amp	0	11817	255
-play	0	11817	/sounds/sfx/explosion/gas
-quiet	1	11829
-amp	1	11829	255
-play	1	11829	/sounds/dev/onas
-quiet	0	11832
-amp	0	11832	255
-play	0	11832	/sounds/sfx/explosion/gas
-quiet	2	11835
-amp	2	11835	255
-play	2	11835	/sounds/dev/bay
-quiet	1	11844
-amp	1	11844	255
-play	1	11844	/sounds/dev/onas
-quiet	1	11859
-amp	1	11859	255
-play	1	11859	/sounds/dev/onas
-quiet	0	11859
-amp	0	11859	255
-play	0	11859	/sounds/sfx/explosion/gas
-quiet	2	11865
-amp	2	11865	255
-play	2	11865	/sounds/dev/pk/sal
-quiet	1	11874
-amp	1	11874	255
-play	1	11874	/sounds/dev/onas
-quiet	0	11877
-amp	0	11877	255
-play	0	11877	/sounds/sfx/explosion/gas
-quiet	2	11883
-amp	2	11883	255
-play	2	11883	/sounds/dev/pk/sal
-quiet	1	11889
-amp	1	11889	255
-play	1	11889	/sounds/dev/onas
-quiet	2	11901
-amp	2	11901	255
-play	2	11901	/sounds/dev/pk/sal
-quiet	1	11904
-amp	1	11904	255
-play	1	11904	/sounds/dev/onas
-quiet	1	11910
-amp	1	11910	253
-play	1	11910	/sounds/sfx/explosion/large
-quiet	0	11910
-amp	0	11910	255
-play	0	11910	/sounds/sfx/explosion/gas
-quiet	1	11919
-amp	1	11919	255
-play	1	11919	/sounds/dev/onas
-quiet	2	11919
-amp	2	11919	255
-play	2	11919	/sounds/dev/pk/sal
-quiet	1	11934
-amp	1	11934	255
-play	1	11934	/sounds/dev/onas
-quiet	2	11937
-amp	2	11937	255
-play	2	11937	/sounds/dev/pk/sal
-quiet	0	11937
-amp	0	11937	255
-play	0	11937	/sounds/sfx/explosion/gas
-quiet	1	11949
-amp	1	11949	255
-play	1	11949	/sounds/dev/onas
-quiet	2	11955
-amp	2	11955	255
-play	2	11955	/sounds/dev/pk/sal
-quiet	2	11973
-amp	2	11973	255
-play	2	11973	/sounds/dev/pk/sal
-quiet	1	11976
-amp	1	11976	255
-play	1	11976	/sounds/dev/onas
-quiet	0	11976
-amp	0	11976	255
-play	0	11976	/sounds/sfx/explosion/gas
-quiet	2	11985
-amp	2	11985	255
-play	2	11985	/sounds/sfx/energy
-quiet	2	11985
-amp	2	11985	255
-play	2	11985	/sounds/sfx/energy
-quiet	2	11985
-amp	2	11985	255
-play	2	11985	/sounds/sfx/energy
-quiet	1	11991
-amp	1	11991	255
-play	1	11991	/sounds/dev/onas
-quiet	2	11991
-amp	2	11991	255
-play	2	11991	/sounds/sfx/energy
-quiet	2	12000
-amp	2	12000	255
-play	2	12000	/sounds/sfx/energy
-quiet	1	12006
-amp	1	12006	255
-play	1	12006	/sounds/dev/onas
-quiet	0	12012
-amp	0	12012	241
-play	0	12012	/sounds/sfx/explosion/energy
-quiet	1	12021
-amp	1	12021	255
-play	1	12021	/sounds/dev/onas
-quiet	0	12021
-amp	0	12021	255
-play	0	12021	/sounds/dev/pk/sal
-quiet	0	12030
-amp	0	12030	250
-play	0	12030	/sounds/sfx/explosion/gas
-quiet	1	12036
-amp	1	12036	255
-play	1	12036	/sounds/dev/onas
-quiet	0	12039
-amp	0	12039	255
-play	0	12039	/sounds/dev/pk/sal
-quiet	1	12051
-amp	1	12051	255
-play	1	12051	/sounds/dev/onas
-quiet	0	12057
-amp	0	12057	255
-play	0	12057	/sounds/dev/pk/sal
-quiet	2	12057
-amp	2	12057	249
-play	2	12057	/sounds/sfx/explosion/energy
-quiet	1	12066
-amp	1	12066	255
-play	1	12066	/sounds/dev/onas
-quiet	2	12072
-amp	2	12072	253
-play	2	12072	/sounds/sfx/explosion/energy
-quiet	0	12075
-amp	0	12075	255
-play	0	12075	/sounds/dev/pk/sal
-quiet	1	12081
-amp	1	12081	255
-play	1	12081	/sounds/dev/onas
-quiet	2	12087
-amp	2	12087	255
-play	2	12087	/sounds/sfx/explosion/gas
-quiet	0	12093
-amp	0	12093	255
-play	0	12093	/sounds/dev/pk/sal
-quiet	1	12096
-amp	1	12096	255
-play	1	12096	/sounds/dev/onas
-quiet	0	12105
-amp	0	12105	255
-play	0	12105	/sounds/sfx/explosion/energy
-quiet	1	12111
-amp	1	12111	255
-play	1	12111	/sounds/dev/onas
-quiet	1	12126
-amp	1	12126	255
-play	1	12126	/sounds/dev/onas
-quiet	2	12129
-amp	2	12129	255
-play	2	12129	/sounds/dev/pk/sal
-quiet	1	12141
-amp	1	12141	255
-play	1	12141	/sounds/dev/onas
-quiet	2	12147
-amp	2	12147	255
-play	2	12147	/sounds/dev/pk/sal
-quiet	0	12150
-amp	0	12150	255
-play	0	12150	/sounds/sfx/explosion/energy
-quiet	1	12156
-amp	1	12156	255
-play	1	12156	/sounds/dev/onas
-quiet	2	12165
-amp	2	12165	255
-play	2	12165	/sounds/dev/pk/sal
-quiet	0	12165
-amp	0	12165	255
-play	0	12165	/sounds/sfx/explosion/energy
-quiet	1	12168
-amp	1	12168	223
-play	1	12168	/sounds/sfx/energy
-quiet	1	12171
-amp	1	12171	255
-play	1	12171	/sounds/dev/onas
-quiet	2	12177
-amp	2	12177	255
-play	2	12177	/sounds/dev/bay
-quiet	0	12177
-amp	0	12177	255
-play	0	12177	/sounds/sfx/explosion/gas
-quiet	1	12183
-amp	1	12183	255
-play	1	12183	/sounds/dev/pk/sal
-quiet	2	12198
-amp	2	12198	255
-play	2	12198	/sounds/sfx/explosion/energy
-quiet	1	12198
-amp	1	12198	255
-play	1	12198	/sounds/sfx/explosion/small
-quiet	0	12198
-amp	0	12198	255
-play	0	12198	/sounds/sfx/explosion/gas
-quiet	1	12219
-amp	1	12219	255
-play	1	12219	/sounds/dev/pk/sal
-quiet	2	12231
-amp	2	12231	255
-play	2	12231	/sounds/dev/cluster
-quiet	2	12231
-amp	2	12231	255
-play	2	12231	/sounds/dev/onas
-quiet	1	12237
-amp	1	12237	255
-play	1	12237	/sounds/dev/pk/sal
-quiet	2	12246
-amp	2	12246	255
-play	2	12246	/sounds/dev/onas
-quiet	1	12255
-amp	1	12255	255
-play	1	12255	/sounds/dev/pk/sal
-quiet	0	12258
-amp	0	12258	255
-play	0	12258	/sounds/sfx/explosion/energy
-quiet	2	12261
-amp	2	12261	255
-play	2	12261	/sounds/dev/onas
-quiet	1	12273
-amp	1	12273	255
-play	1	12273	/sounds/dev/pk/sal
-quiet	0	12273
-amp	0	12273	255
-play	0	12273	/sounds/sfx/explosion/gas
-quiet	2	12276
-amp	2	12276	255
-play	2	12276	/sounds/dev/onas
-quiet	1	12288
-amp	1	12288	253
-play	1	12288	/sounds/sfx/explosion/energy
-quiet	2	12291
-amp	2	12291	255
-play	2	12291	/sounds/dev/onas
-quiet	1	12291
-amp	1	12291	255
-play	1	12291	/sounds/dev/pk/sal
-quiet	0	12291
-amp	0	12291	255
-play	0	12291	/sounds/sfx/explosion/gas
-quiet	2	12306
-amp	2	12306	255
-play	2	12306	/sounds/dev/onas
-quiet	1	12309
-amp	1	12309	255
-play	1	12309	/sounds/dev/pk/sal
-quiet	2	12318
-amp	2	12318	255
-play	2	12318	/sounds/dev/bay
-quiet	1	12321
-amp	1	12321	255
-play	1	12321	/sounds/dev/onas
-quiet	0	12327
-amp	0	12327	255
-play	0	12327	/sounds/dev/pk/sal
-quiet	0	12327
-amp	0	12327	255
-play	0	12327	/sounds/sfx/explosion/gas
-quiet	2	12336
-amp	2	12336	224
-play	2	12336	/sounds/dev/cm
-quiet	1	12336
-amp	1	12336	255
-play	1	12336	/sounds/dev/onas
-quiet	2	12345
-amp	2	12345	255
-play	2	12345	/sounds/dev/pk/sal
-quiet	0	12345
-amp	0	12345	255
-play	0	12345	/sounds/sfx/explosion/gas
-quiet	1	12351
-amp	1	12351	255
-play	1	12351	/sounds/dev/onas
-quiet	0	12360
-amp	0	12360	255
-play	0	12360	/sounds/sfx/explosion/gas
-quiet	2	12363
-amp	2	12363	255
-play	2	12363	/sounds/dev/pk/sal
-quiet	1	12363
-amp	1	12363	213
-play	1	12363	/sounds/sfx/energy
-quiet	1	12366
-amp	1	12366	255
-play	1	12366	/sounds/dev/onas
-quiet	0	12372
-amp	0	12372	255
-play	0	12372	/sounds/sfx/explosion/gas
-quiet	1	12381
-amp	1	12381	255
-play	1	12381	/sounds/dev/onas
-quiet	2	12381
-amp	2	12381	255
-play	2	12381	/sounds/dev/pk/sal
-quiet	0	12390
-amp	0	12390	255
-play	0	12390	/sounds/sfx/explosion/gas
-quiet	1	12396
-amp	1	12396	255
-play	1	12396	/sounds/dev/onas
-quiet	2	12399
-amp	2	12399	255
-play	2	12399	/sounds/dev/pk/sal
-quiet	0	12405
-amp	0	12405	255
-play	0	12405	/sounds/sfx/explosion/gas
-quiet	1	12408
-amp	1	12408	179
-play	1	12408	/sounds/dev/cm
-quiet	1	12411
-amp	1	12411	255
-play	1	12411	/sounds/dev/onas
-quiet	2	12417
-amp	2	12417	255
-play	2	12417	/sounds/dev/pk/sal
-quiet	1	12423
-amp	1	12423	255
-play	1	12423	/sounds/dev/cm
-quiet	2	12435
-amp	2	12435	255
-play	2	12435	/sounds/dev/pk/sal
-quiet	0	12435
-amp	0	12435	255
-play	0	12435	/sounds/sfx/explosion/gas
-quiet	2	12447
-amp	2	12447	218
-play	2	12447	/sounds/dev/cm
-quiet	2	12453
-amp	2	12453	255
-play	2	12453	/sounds/dev/pk/sal
-quiet	1	12456
-amp	1	12456	255
-play	1	12456	/sounds/dev/onas
-quiet	2	12468
-amp	2	12468	255
-play	2	12468	/sounds/sfx/explosion/energy
-quiet	0	12468
-amp	0	12468	255
-play	0	12468	/sounds/sfx/explosion/gas
-quiet	1	12471
-amp	1	12471	255
-play	1	12471	/sounds/dev/cluster
-quiet	1	12471
-amp	1	12471	255
-play	1	12471	/sounds/dev/onas
-quiet	2	12471
-amp	2	12471	255
-play	2	12471	/sounds/sfx/explosion/energy
-quiet	1	12486
-amp	1	12486	255
-play	1	12486	/sounds/dev/cluster
-quiet	1	12486
-amp	1	12486	255
-play	1	12486	/sounds/dev/onas
-quiet	2	12489
-amp	2	12489	255
-play	2	12489	/sounds/sfx/explosion/energy
-quiet	0	12492
-amp	0	12492	255
-play	0	12492	/sounds/sfx/explosion/gas
-quiet	1	12501
-amp	1	12501	255
-play	1	12501	/sounds/dev/cluster
-quiet	1	12501
-amp	1	12501	255
-play	1	12501	/sounds/dev/onas
-quiet	2	12507
-amp	2	12507	255
-play	2	12507	/sounds/sfx/explosion/energy
-quiet	0	12510
-amp	0	12510	255
-play	0	12510	/sounds/sfx/explosion/gas
-quiet	1	12516
-amp	1	12516	255
-play	1	12516	/sounds/dev/cluster
-quiet	1	12516
-amp	1	12516	255
-play	1	12516	/sounds/dev/onas
-quiet	2	12528
-amp	2	12528	255
-play	2	12528	/sounds/sfx/explosion/energy
-quiet	1	12531
-amp	1	12531	255
-play	1	12531	/sounds/dev/onas
-quiet	0	12543
-amp	0	12543	255
-play	0	12543	/sounds/dev/pk/sal
-quiet	2	12543
-amp	2	12543	255
-play	2	12543	/sounds/sfx/explosion/energy
-quiet	1	12546
-amp	1	12546	255
-play	1	12546	/sounds/dev/onas
-quiet	0	12552
-amp	0	12552	255
-play	0	12552	/sounds/sfx/explosion/gas
-quiet	0	12555
-amp	0	12555	255
-play	0	12555	/sounds/sfx/explosion/gas
-quiet	1	12558
-amp	1	12558	213
-play	1	12558	/sounds/dev/cm
-quiet	1	12561
-amp	1	12561	255
-play	1	12561	/sounds/dev/onas
-quiet	2	12561
-amp	2	12561	255
-play	2	12561	/sounds/sfx/explosion/energy
-quiet	1	12576
-amp	1	12576	255
-play	1	12576	/sounds/dev/onas
-quiet	2	12579
-amp	2	12579	255
-play	2	12579	/sounds/sfx/explosion/energy
-quiet	1	12591
-amp	1	12591	255
-play	1	12591	/sounds/dev/onas
-quiet	0	12597
-amp	0	12597	255
-play	0	12597	/sounds/dev/pk/sal
-quiet	1	12606
-amp	1	12606	255
-play	1	12606	/sounds/dev/onas
-quiet	0	12615
-amp	0	12615	255
-play	0	12615	/sounds/dev/pk/sal
-quiet	2	12618
-amp	2	12618	255
-play	2	12618	/sounds/sfx/explosion/energy
-quiet	1	12621
-amp	1	12621	255
-play	1	12621	/sounds/dev/onas
-quiet	0	12633
-amp	0	12633	255
-play	0	12633	/sounds/dev/pk/sal
-quiet	1	12636
-amp	1	12636	255
-play	1	12636	/sounds/dev/onas
-quiet	2	12636
-amp	2	12636	255
-play	2	12636	/sounds/sfx/explosion/energy
-quiet	0	12648
-amp	0	12648	255
-play	0	12648	/sounds/sfx/explosion/gas
-quiet	1	12651
-amp	1	12651	255
-play	1	12651	/sounds/dev/onas
-quiet	2	12654
-amp	2	12654	255
-play	2	12654	/sounds/sfx/explosion/energy
-quiet	0	12660
-amp	0	12660	255
-play	0	12660	/sounds/sfx/explosion/gas
-quiet	1	12663
-amp	1	12663	255
-play	1	12663	/sounds/dev/cm
-quiet	0	12678
-amp	0	12678	255
-play	0	12678	/sounds/sfx/explosion/gas
-quiet	2	12681
-amp	2	12681	255
-play	2	12681	/sounds/dev/onas
-quiet	2	12696
-amp	2	12696	185
-play	2	12696	/sounds/dev/cm
-quiet	2	12696
-amp	2	12696	255
-play	2	12696	/sounds/dev/onas
-quiet	1	12705
-amp	1	12705	255
-play	1	12705	/sounds/dev/stealth/off
-quiet	2	12711
-amp	2	12711	141
-play	2	12711	/sounds/dev/cm
-quiet	2	12711
-amp	2	12711	255
-play	2	12711	/sounds/dev/onas
-quiet	0	12723
-amp	0	12723	255
-play	0	12723	/sounds/dev/anti
-quiet	2	12723
-amp	2	12723	255
-play	2	12723	/sounds/dev/pk/sal
-quiet	0	12723
-amp	0	12723	255
-play	0	12723	/sounds/sfx/explosion/gas
-quiet	1	12726
-amp	1	12726	131
-play	1	12726	/sounds/dev/cm
-quiet	1	12726
-amp	1	12726	255
-play	1	12726	/sounds/dev/onas
-quiet	2	12735
-amp	2	12735	255
-play	2	12735	/sounds/dev/cm
-quiet	1	12741
-amp	1	12741	255
-play	1	12741	/sounds/dev/anti
-quiet	1	12756
-amp	1	12756	255
-play	1	12756	/sounds/dev/onas
-quiet	0	12759
-amp	0	12759	255
-play	0	12759	/sounds/dev/pk/sal
-quiet	2	12768
-amp	2	12768	226
-play	2	12768	/sounds/dev/cm
-quiet	1	12771
-amp	1	12771	255
-play	1	12771	/sounds/dev/onas
-quiet	0	12777
-amp	0	12777	255
-play	0	12777	/sounds/dev/pk/sal
-quiet	2	12783
-amp	2	12783	255
-play	2	12783	/sounds/sfx/explosion/gas
-quiet	1	12783
-amp	1	12783	255
-play	1	12783	/sounds/sfx/explosion/energy
-quiet	0	12795
-amp	0	12795	255
-play	0	12795	/sounds/dev/pk/sal
-quiet	2	12798
-amp	2	12798	255
-play	2	12798	/sounds/sfx/explosion/gas
-quiet	1	12807
-amp	1	12807	255
-play	1	12807	/sounds/dev/cm
-quiet	0	12813
-amp	0	12813	255
-play	0	12813	/sounds/dev/pk/sal
-quiet	2	12816
-amp	2	12816	255
-play	2	12816	/sounds/sfx/explosion/gas
-quiet	0	12831
-amp	0	12831	255
-play	0	12831	/sounds/dev/onas
-quiet	1	12840
-amp	1	12840	255
-play	1	12840	/sounds/dev/cm
-quiet	0	12843
-amp	0	12843	255
-play	0	12843	/sounds/dev/anti
-quiet	2	12849
-amp	2	12849	255
-play	2	12849	/sounds/dev/pk/sal
-quiet	0	12861
-amp	0	12861	255
-play	0	12861	/sounds/dev/anti
-quiet	2	12861
-amp	2	12861	255
-play	2	12861	/sounds/dev/cluster
-quiet	2	12861
-amp	2	12861	255
-play	2	12861	/sounds/dev/bay
-quiet	0	12864
-amp	0	12864	255
-play	0	12864	/sounds/sfx/explosion/gas
-quiet	1	12873
-amp	1	12873	255
-play	1	12873	/sounds/dev/pk/can
-quiet	2	12873
-amp	2	12873	255
-play	2	12873	/sounds/sfx/explosion/energy
-quiet	0	12879
-amp	0	12879	255
-play	0	12879	/sounds/sfx/explosion/gas
-quiet	1	12885
-amp	1	12885	255
-play	1	12885	/sounds/dev/pk/sal
-quiet	0	12891
-amp	0	12891	255
-play	0	12891	/sounds/sfx/explosion/gas
-quiet	2	12894
-amp	2	12894	255
-play	2	12894	/sounds/sfx/explosion/energy
-quiet	1	12900
-amp	1	12900	255
-play	1	12900	/sounds/dev/anti
-quiet	0	12909
-amp	0	12909	255
-play	0	12909	/sounds/sfx/explosion/gas
-quiet	1	12918
-amp	1	12918	255
-play	1	12918	/sounds/dev/anti
-quiet	2	12921
-amp	2	12921	255
-play	2	12921	/sounds/dev/cluster
-quiet	2	12921
-amp	2	12921	255
-play	2	12921	/sounds/dev/onas
-quiet	1	12930
-amp	1	12930	233
-play	1	12930	/sounds/dev/cm
-quiet	1	12933
-amp	1	12933	255
-play	1	12933	/sounds/sfx/explosion/energy
-quiet	2	12936
-amp	2	12936	255
-play	2	12936	/sounds/dev/cluster
-quiet	2	12936
-amp	2	12936	255
-play	2	12936	/sounds/dev/onas
-quiet	0	12939
-amp	0	12939	255
-play	0	12939	/sounds/sfx/explosion/gas
-quiet	1	12948
-amp	1	12948	232
-play	1	12948	/sounds/sfx/explosion/gas
-quiet	1	12951
-amp	1	12951	255
-play	1	12951	/sounds/dev/cluster
-quiet	2	12951
-amp	2	12951	255
-play	2	12951	/sounds/dev/onas
-quiet	1	12954
-amp	1	12954	230
-play	1	12954	/sounds/dev/bay
-quiet	1	12954
-amp	1	12954	255
-play	1	12954	/sounds/sfx/explosion/energy
-quiet	0	12957
-amp	0	12957	255
-play	0	12957	/sounds/sfx/explosion/gas
-quiet	2	12966
-amp	2	12966	255
-play	2	12966	/sounds/dev/anti
-quiet	0	12972
-amp	0	12972	255
-play	0	12972	/sounds/sfx/explosion/gas
-quiet	1	12975
-amp	1	12975	255
-play	1	12975	/sounds/dev/pk/sal
-quiet	2	12981
-amp	2	12981	255
-play	2	12981	/sounds/dev/cluster
-quiet	2	12981
-amp	2	12981	255
-play	2	12981	/sounds/dev/onas
-quiet	1	12987
-amp	1	12987	255
-play	1	12987	/sounds/dev/pk/can
-quiet	2	12993
-amp	2	12993	255
-play	2	12993	/sounds/dev/pk/sal
-quiet	0	13002
-amp	0	13002	255
-play	0	13002	/sounds/sfx/explosion/gas
-quiet	1	13011
-amp	1	13011	255
-play	1	13011	/sounds/dev/cm
-quiet	2	13011
-amp	2	13011	255
-play	2	13011	/sounds/dev/cluster
-quiet	2	13011
-amp	2	13011	255
-play	2	13011	/sounds/dev/onas
-quiet	0	13017
-amp	0	13017	255
-play	0	13017	/sounds/sfx/explosion/gas
-quiet	2	13026
-amp	2	13026	255
-play	2	13026	/sounds/dev/cluster
-quiet	2	13026
-amp	2	13026	255
-play	2	13026	/sounds/dev/onas
-quiet	2	13041
-amp	2	13041	255
-play	2	13041	/sounds/dev/onas
-quiet	1	13047
-amp	1	13047	255
-play	1	13047	/sounds/dev/anti
-quiet	0	13050
-amp	0	13050	255
-play	0	13050	/sounds/dev/pk/can
-quiet	0	13050
-amp	0	13050	255
-play	0	13050	/sounds/sfx/explosion/gas
-quiet	2	13056
-amp	2	13056	255
-play	2	13056	/sounds/dev/onas
-quiet	1	13065
-amp	1	13065	255
-play	1	13065	/sounds/dev/pk/sal
-quiet	0	13065
-amp	0	13065	255
-play	0	13065	/sounds/sfx/explosion/gas
-quiet	2	13071
-amp	2	13071	255
-play	2	13071	/sounds/dev/onas
-quiet	1	13083
-amp	1	13083	255
-play	1	13083	/sounds/dev/pk/sal
-quiet	0	13083
-amp	0	13083	255
-play	0	13083	/sounds/sfx/explosion/gas
-quiet	2	13086
-amp	2	13086	255
-play	2	13086	/sounds/dev/onas
-quiet	2	13101
-amp	2	13101	255
-play	2	13101	/sounds/dev/onas
-quiet	1	13101
-amp	1	13101	255
-play	1	13101	/sounds/dev/pk/sal
-quiet	0	13113
-amp	0	13113	255
-play	0	13113	/sounds/sfx/explosion/gas
-quiet	2	13116
-amp	2	13116	255
-play	2	13116	/sounds/dev/onas
-quiet	1	13119
-amp	1	13119	255
-play	1	13119	/sounds/dev/pk/sal
-quiet	2	13128
-amp	2	13128	255
-play	2	13128	/sounds/dev/anti
-quiet	1	13131
-amp	1	13131	255
-play	1	13131	/sounds/dev/onas
-quiet	1	13146
-amp	1	13146	255
-play	1	13146	/sounds/dev/onas
-quiet	2	13155
-amp	2	13155	255
-play	2	13155	/sounds/dev/pk/sal
-quiet	1	13161
-amp	1	13161	255
-play	1	13161	/sounds/dev/onas
-quiet	2	13173
-amp	2	13173	255
-play	2	13173	/sounds/dev/pk/sal
-quiet	1	13176
-amp	1	13176	255
-play	1	13176	/sounds/dev/onas
-quiet	1	13191
-amp	1	13191	255
-play	1	13191	/sounds/dev/onas
-quiet	2	13191
-amp	2	13191	255
-play	2	13191	/sounds/dev/pk/sal
-quiet	0	13206
-amp	0	13206	255
-play	0	13206	/sounds/dev/bay
-quiet	1	13206
-amp	1	13206	255
-play	1	13206	/sounds/dev/onas
-quiet	2	13209
-amp	2	13209	255
-play	2	13209	/sounds/dev/pk/sal
-quiet	1	13221
-amp	1	13221	255
-play	1	13221	/sounds/dev/onas
-quiet	2	13227
-amp	2	13227	255
-play	2	13227	/sounds/dev/pk/sal
-quiet	1	13236
-amp	1	13236	255
-play	1	13236	/sounds/dev/onas
-quiet	2	13245
-amp	2	13245	255
-play	2	13245	/sounds/dev/pk/sal
-quiet	0	13245
-amp	0	13245	255
-play	0	13245	/sounds/sfx/explosion/large
-quiet	1	13245
-amp	1	13245	255
-play	1	13245	/sounds/sfx/explosion/gas
-quiet	2	13248
-amp	2	13248	243
-play	2	13248	/sounds/sfx/explosion/gas
-quiet	2	13251
-amp	2	13251	255
-play	2	13251	/sounds/dev/onas
-quiet	2	13263
-amp	2	13263	255
-play	2	13263	/sounds/dev/pk/sal
-quiet	0	13266
-amp	0	13266	255
-play	0	13266	/sounds/dev/onas
-quiet	1	13275
-amp	1	13275	255
-play	1	13275	/sounds/sfx/explosion/gas
-quiet	0	13281
-amp	0	13281	255
-play	0	13281	/sounds/dev/onas
-quiet	2	13281
-amp	2	13281	255
-play	2	13281	/sounds/dev/pk/sal
-quiet	1	13290
-amp	1	13290	255
-play	1	13290	/sounds/sfx/explosion/gas
-quiet	0	13296
-amp	0	13296	255
-play	0	13296	/sounds/dev/onas
-quiet	2	13299
-amp	2	13299	255
-play	2	13299	/sounds/dev/pk/sal
-quiet	1	13308
-amp	1	13308	255
-play	1	13308	/sounds/sfx/explosion/gas
-quiet	0	13308
-amp	0	13308	255
-play	0	13308	/sounds/sfx/explosion/energy
-quiet	2	13311
-amp	2	13311	255
-play	2	13311	/sounds/dev/onas
-quiet	2	13326
-amp	2	13326	255
-play	2	13326	/sounds/dev/onas
-quiet	0	13335
-amp	0	13335	255
-play	0	13335	/sounds/dev/pk/sal
-quiet	2	13341
-amp	2	13341	255
-play	2	13341	/sounds/dev/onas
-quiet	1	13350
-amp	1	13350	255
-play	1	13350	/sounds/sfx/energy
-quiet	0	13353
-amp	0	13353	255
-play	0	13353	/sounds/dev/pk/sal
-quiet	2	13356
-amp	2	13356	255
-play	2	13356	/sounds/dev/onas
-quiet	1	13362
-amp	1	13362	255
-play	1	13362	/sounds/sfx/energy
-quiet	0	13365
-amp	0	13365	249
-play	0	13365	/sounds/sfx/explosion/gas
-quiet	1	13365
-amp	1	13365	255
-play	1	13365	/sounds/sfx/energy
-quiet	1	13368
-amp	1	13368	255
-play	1	13368	/sounds/sfx/energy
-quiet	2	13371
-amp	2	13371	255
-play	2	13371	/sounds/dev/onas
-quiet	0	13371
-amp	0	13371	255
-play	0	13371	/sounds/dev/pk/sal
-quiet	1	13374
-amp	1	13374	255
-play	1	13374	/sounds/sfx/energy
-quiet	1	13377
-amp	1	13377	255
-play	1	13377	/sounds/sfx/energy
-quiet	1	13377
-amp	1	13377	255
-play	1	13377	/sounds/sfx/energy
-quiet	2	13386
-amp	2	13386	255
-play	2	13386	/sounds/dev/onas
-quiet	0	13389
-amp	0	13389	255
-play	0	13389	/sounds/dev/pk/sal
-quiet	2	13401
-amp	2	13401	255
-play	2	13401	/sounds/dev/onas
-quiet	0	13401
-amp	0	13401	221
-play	0	13401	/sounds/sfx/explosion/large
-quiet	0	13401
-amp	0	13401	223
-play	0	13401	/sounds/sfx/explosion/energy
-quiet	0	13407
-amp	0	13407	255
-play	0	13407	/sounds/dev/pk/sal
-quiet	2	13416
-amp	2	13416	255
-play	2	13416	/sounds/dev/onas
-quiet	0	13416
-amp	0	13416	255
-play	0	13416	/sounds/sfx/explosion/large
-quiet	1	13416
-amp	1	13416	255
-play	1	13416	/sounds/sfx/explosion/energy
-quiet	1	13416
-amp	1	13416	255
-play	1	13416	/sounds/sfx/explosion/energy
-quiet	1	13425
-amp	1	13425	255
-play	1	13425	/sounds/sfx/explosion/gas
-quiet	2	13431
-amp	2	13431	255
-play	2	13431	/sounds/dev/onas
-quiet	0	13443
-amp	0	13443	255
-play	0	13443	/sounds/dev/pk/sal
-quiet	2	13446
-amp	2	13446	255
-play	2	13446	/sounds/dev/onas
-quiet	2	13461
-amp	2	13461	255
-play	2	13461	/sounds/dev/onas
-quiet	0	13461
-amp	0	13461	255
-play	0	13461	/sounds/dev/pk/sal
-quiet	1	13461
-amp	1	13461	251
-play	1	13461	/sounds/sfx/energy
-quiet	1	13464
-amp	1	13464	255
-play	1	13464	/sounds/sfx/explosion/energy
-quiet	0	13470
-amp	0	13470	255
-play	0	13470	/sounds/sfx/explosion/gas
-quiet	2	13476
-amp	2	13476	255
-play	2	13476	/sounds/dev/onas
-quiet	0	13509
-amp	0	13509	255
-play	0	13509	/sounds/sfx/explosion/gas
-quiet	1	13539
-amp	1	13539	255
-play	1	13539	/sounds/sfx/explosion/energy
-quiet	1	13539
-amp	1	13539	255
-play	1	13539	/sounds/sfx/explosion/energy
-quiet	2	13548
-amp	2	13548	187
-play	2	13548	/sounds/sfx/energy
-quiet	2	13632
-amp	2	13632	255
-play	2	13632	/sounds/dev/pk/sal
-quiet	0	13635
-amp	0	13635	255
-play	0	13635	/sounds/dev/onas
-quiet	0	13650
-amp	0	13650	255
-play	0	13650	/sounds/dev/onas
-quiet	2	13650
-amp	2	13650	255
-play	2	13650	/sounds/dev/pk/sal
-quiet	0	13665
-amp	0	13665	255
-play	0	13665	/sounds/dev/onas
-quiet	1	13665
-amp	1	13665	168
-play	1	13665	/sounds/sfx/energy
-quiet	2	13668
-amp	2	13668	255
-play	2	13668	/sounds/dev/pk/sal
-quiet	1	13671
-amp	1	13671	172
-play	1	13671	/sounds/sfx/energy
-quiet	1	13671
-amp	1	13671	172
-play	1	13671	/sounds/sfx/energy
-quiet	0	13680
-amp	0	13680	255
-play	0	13680	/sounds/dev/onas
-quiet	2	13686
-amp	2	13686	255
-play	2	13686	/sounds/dev/pk/sal
-quiet	0	13695
-amp	0	13695	255
-play	0	13695	/sounds/dev/onas
-quiet	1	13698
-amp	1	13698	178
-play	1	13698	/sounds/sfx/energy
-quiet	2	13704
-amp	2	13704	255
-play	2	13704	/sounds/dev/pk/sal
-quiet	0	13710
-amp	0	13710	255
-play	0	13710	/sounds/dev/onas
-quiet	2	13722
-amp	2	13722	255
-play	2	13722	/sounds/dev/pk/sal
-quiet	1	13722
-amp	1	13722	255
-play	1	13722	/sounds/sfx/explosion/energy
-quiet	0	13725
-amp	0	13725	255
-play	0	13725	/sounds/dev/onas
-quiet	0	13740
-amp	0	13740	255
-play	0	13740	/sounds/dev/onas
-quiet	2	13740
-amp	2	13740	255
-play	2	13740	/sounds/dev/pk/sal
-quiet	1	13743
-amp	1	13743	212
-play	1	13743	/sounds/sfx/energy
-quiet	1	13743
-amp	1	13743	212
-play	1	13743	/sounds/sfx/energy
-quiet	1	13752
-amp	1	13752	215
-play	1	13752	/sounds/sfx/energy
-quiet	0	13755
-amp	0	13755	255
-play	0	13755	/sounds/dev/onas
-quiet	2	13758
-amp	2	13758	255
-play	2	13758	/sounds/dev/pk/sal
-quiet	1	13758
-amp	1	13758	255
-play	1	13758	/sounds/sfx/explosion/small
-quiet	0	13758
-amp	0	13758	255
-play	0	13758	/sounds/sfx/explosion/gas
-quiet	2	13770
-amp	2	13770	255
-play	2	13770	/sounds/dev/onas
-quiet	2	13785
-amp	2	13785	255
-play	2	13785	/sounds/dev/onas
-quiet	1	13794
-amp	1	13794	255
-play	1	13794	/sounds/dev/pk/sal
-quiet	2	13836
-amp	2	13836	255
-play	2	13836	/sounds/dev/onas
-quiet	1	13836
-amp	1	13836	255
-play	1	13836	/sounds/dev/pk/sal
-quiet	2	13851
-amp	2	13851	255
-play	2	13851	/sounds/dev/onas
-quiet	1	13854
-amp	1	13854	255
-play	1	13854	/sounds/dev/pk/sal
-quiet	2	13866
-amp	2	13866	255
-play	2	13866	/sounds/dev/onas
-quiet	1	13872
-amp	1	13872	255
-play	1	13872	/sounds/dev/pk/sal
-quiet	2	13881
-amp	2	13881	255
-play	2	13881	/sounds/dev/onas
-quiet	1	13890
-amp	1	13890	255
-play	1	13890	/sounds/dev/pk/sal
-quiet	2	13896
-amp	2	13896	255
-play	2	13896	/sounds/dev/onas
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	0	13899
-amp	0	13899	255
-play	0	13899	/sounds/sfx/energy
-quiet	1	13902
-amp	1	13902	255
-play	1	13902	/sounds/sfx/explosion/small
-quiet	0	13902
-amp	0	13902	255
-play	0	13902	/sounds/sfx/explosion/gas
-quiet	2	13908
-amp	2	13908	255
-play	2	13908	/sounds/dev/pk/sal
-quiet	2	13926
-amp	2	13926	255
-play	2	13926	/sounds/dev/onas
-quiet	1	13926
-amp	1	13926	255
-play	1	13926	/sounds/dev/pk/sal
-quiet	2	13941
-amp	2	13941	255
-play	2	13941	/sounds/dev/onas
-quiet	1	13944
-amp	1	13944	255
-play	1	13944	/sounds/dev/pk/sal
-quiet	2	13956
-amp	2	13956	255
-play	2	13956	/sounds/dev/onas
-quiet	1	13962
-amp	1	13962	255
-play	1	13962	/sounds/dev/pk/sal
-quiet	2	13971
-amp	2	13971	255
-play	2	13971	/sounds/dev/onas
-quiet	1	13980
-amp	1	13980	255
-play	1	13980	/sounds/dev/pk/sal
-quiet	2	13986
-amp	2	13986	255
-play	2	13986	/sounds/dev/onas
-quiet	1	13998
-amp	1	13998	255
-play	1	13998	/sounds/dev/pk/sal
-quiet	2	14001
-amp	2	14001	255
-play	2	14001	/sounds/dev/onas
-quiet	2	14016
-amp	2	14016	255
-play	2	14016	/sounds/dev/onas
-quiet	1	14016
-amp	1	14016	255
-play	1	14016	/sounds/dev/pk/sal
-quiet	2	14031
-amp	2	14031	255
-play	2	14031	/sounds/dev/onas
-quiet	1	14034
-amp	1	14034	255
-play	1	14034	/sounds/dev/pk/sal
-quiet	2	14046
-amp	2	14046	255
-play	2	14046	/sounds/dev/onas
-quiet	1	14052
-amp	1	14052	255
-play	1	14052	/sounds/dev/pk/sal
-quiet	2	14061
-amp	2	14061	255
-play	2	14061	/sounds/dev/onas
-quiet	1	14070
-amp	1	14070	255
-play	1	14070	/sounds/dev/pk/sal
-quiet	2	14076
-amp	2	14076	255
-play	2	14076	/sounds/dev/onas
-quiet	1	14088
-amp	1	14088	255
-play	1	14088	/sounds/dev/pk/sal
-quiet	2	14091
-amp	2	14091	255
-play	2	14091	/sounds/dev/onas
-quiet	0	14100
-amp	0	14100	255
-play	0	14100	/sounds/sfx/explosion/energy
-quiet	2	14106
-amp	2	14106	255
-play	2	14106	/sounds/dev/onas
-quiet	1	14106
-amp	1	14106	255
-play	1	14106	/sounds/dev/pk/sal
-quiet	2	14121
-amp	2	14121	255
-play	2	14121	/sounds/dev/onas
-quiet	1	14124
-amp	1	14124	255
-play	1	14124	/sounds/dev/pk/sal
-quiet	2	14136
-amp	2	14136	255
-play	2	14136	/sounds/dev/onas
-quiet	1	14142
-amp	1	14142	255
-play	1	14142	/sounds/dev/pk/sal
-quiet	2	14160
-amp	2	14160	255
-play	2	14160	/sounds/dev/onas
-quiet	1	14160
-amp	1	14160	255
-play	1	14160	/sounds/dev/pk/sal
-quiet	2	14175
-amp	2	14175	255
-play	2	14175	/sounds/dev/onas
-quiet	1	14178
-amp	1	14178	255
-play	1	14178	/sounds/dev/pk/sal
-quiet	0	14184
-amp	0	14184	151
-play	0	14184	/sounds/dev/cm
-quiet	2	14190
-amp	2	14190	255
-play	2	14190	/sounds/dev/onas
-quiet	1	14196
-amp	1	14196	255
-play	1	14196	/sounds/dev/pk/sal
-quiet	2	14205
-amp	2	14205	255
-play	2	14205	/sounds/dev/onas
-quiet	1	14214
-amp	1	14214	255
-play	1	14214	/sounds/dev/pk/sal
-quiet	0	14214
-amp	0	14214	255
-play	0	14214	/sounds/sfx/explosion/gas
-quiet	2	14220
-amp	2	14220	255
-play	2	14220	/sounds/dev/stealth/on
-quiet	1	14232
-amp	1	14232	186
-play	1	14232	/sounds/dev/cm
-quiet	1	14232
-amp	1	14232	255
-play	1	14232	/sounds/dev/pk/sal
-quiet	2	14250
-amp	2	14250	255
-play	2	14250	/sounds/dev/onas
-quiet	1	14250
-amp	1	14250	255
-play	1	14250	/sounds/dev/pk/sal
-quiet	0	14256
-amp	0	14256	183
-play	0	14256	/sounds/dev/cm
-quiet	0	14259
-amp	0	14259	255
-play	0	14259	/sounds/dev/pk/can
-quiet	1	14262
-amp	1	14262	255
-play	1	14262	/sounds/sfx/explosion/energy
-quiet	2	14265
-amp	2	14265	255
-play	2	14265	/sounds/dev/onas
-quiet	1	14268
-amp	1	14268	255
-play	1	14268	/sounds/sfx/explosion/energy
-quiet	2	14280
-amp	2	14280	255
-play	2	14280	/sounds/dev/onas
-quiet	0	14286
-amp	0	14286	255
-play	0	14286	/sounds/dev/pk/sal
-quiet	2	14295
-amp	2	14295	255
-play	2	14295	/sounds/dev/onas
-quiet	1	14304
-amp	1	14304	185
-play	1	14304	/sounds/dev/cm
-quiet	0	14304
-amp	0	14304	255
-play	0	14304	/sounds/dev/pk/sal
-quiet	2	14310
-amp	2	14310	255
-play	2	14310	/sounds/dev/onas
-quiet	1	14316
-amp	1	14316	255
-play	1	14316	/sounds/sfx/explosion/gas
-quiet	0	14316
-amp	0	14316	255
-play	0	14316	/sounds/sfx/explosion/energy
-quiet	2	14322
-amp	2	14322	255
-play	2	14322	/sounds/dev/pk/sal
-quiet	0	14337
-amp	0	14337	255
-play	0	14337	/sounds/sfx/explosion/large
-quiet	2	14337
-amp	2	14337	255
-play	2	14337	/sounds/sfx/explosion/energy
-quiet	1	14343
-amp	1	14343	255
-play	1	14343	/sounds/sfx/explosion/gas
-quiet	2	14358
-amp	2	14358	255
-play	2	14358	/sounds/dev/pk/sal
-quiet	2	14370
-amp	2	14370	255
-play	2	14370	/sounds/dev/onas
-quiet	1	14376
-amp	1	14376	151
-play	1	14376	/sounds/dev/cm
-quiet	1	14376
-amp	1	14376	255
-play	1	14376	/sounds/dev/pk/sal
-quiet	2	14400
-amp	2	14400	133
-play	2	14400	/sounds/dev/cm
-quiet	2	14412
-amp	2	14412	255
-play	2	14412	/sounds/dev/onas
-quiet	1	14412
-amp	1	14412	255
-play	1	14412	/sounds/dev/pk/sal
-quiet	2	14427
-amp	2	14427	255
-play	2	14427	/sounds/dev/onas
-quiet	1	14430
-amp	1	14430	255
-play	1	14430	/sounds/dev/pk/sal
-quiet	2	14442
-amp	2	14442	255
-play	2	14442	/sounds/dev/onas
-quiet	1	14448
-amp	1	14448	255
-play	1	14448	/sounds/dev/pk/sal
-quiet	0	14454
-amp	0	14454	255
-play	0	14454	/sounds/sfx/energy
-quiet	2	14457
-amp	2	14457	255
-play	2	14457	/sounds/dev/onas
-quiet	1	14466
-amp	1	14466	255
-play	1	14466	/sounds/dev/pk/sal
-quiet	0	14466
-amp	0	14466	250
-play	0	14466	/sounds/sfx/explosion/energy
-quiet	2	14472
-amp	2	14472	255
-play	2	14472	/sounds/dev/onas
-quiet	1	14478
-amp	1	14478	240
-play	1	14478	/sounds/sfx/explosion/small
-quiet	0	14478
-amp	0	14478	240
-play	0	14478	/sounds/sfx/explosion/gas
-quiet	0	14484
-amp	0	14484	255
-play	0	14484	/sounds/dev/pk/sal
-quiet	2	14487
-amp	2	14487	255
-play	2	14487	/sounds/dev/onas
-quiet	2	14502
-amp	2	14502	255
-play	2	14502	/sounds/dev/onas
-quiet	0	14502
-amp	0	14502	255
-play	0	14502	/sounds/dev/pk/sal
-quiet	2	14517
-amp	2	14517	255
-play	2	14517	/sounds/dev/onas
-quiet	0	14520
-amp	0	14520	255
-play	0	14520	/sounds/dev/pk/sal
-quiet	2	14532
-amp	2	14532	255
-play	2	14532	/sounds/dev/onas
-quiet	0	14538
-amp	0	14538	255
-play	0	14538	/sounds/dev/pk/sal
-quiet	2	14547
-amp	2	14547	255
-play	2	14547	/sounds/dev/onas
-quiet	0	14556
-amp	0	14556	255
-play	0	14556	/sounds/dev/pk/sal
-quiet	2	14562
-amp	2	14562	255
-play	2	14562	/sounds/dev/onas
-quiet	0	14574
-amp	0	14574	255
-play	0	14574	/sounds/dev/pk/sal
-quiet	2	14577
-amp	2	14577	255
-play	2	14577	/sounds/dev/onas
-quiet	2	14592
-amp	2	14592	255
-play	2	14592	/sounds/dev/onas
-quiet	0	14592
-amp	0	14592	255
-play	0	14592	/sounds/dev/pk/sal
-quiet	2	14607
-amp	2	14607	255
-play	2	14607	/sounds/dev/onas
-quiet	0	14610
-amp	0	14610	255
-play	0	14610	/sounds/dev/pk/sal
-quiet	1	14616
-amp	1	14616	255
-play	1	14616	/sounds/sfx/explosion/small
-quiet	0	14616
-amp	0	14616	255
-play	0	14616	/sounds/sfx/explosion/gas
-quiet	2	14622
-amp	2	14622	255
-play	2	14622	/sounds/dev/onas
-quiet	2	14634
-amp	2	14634	253
-play	2	14634	/sounds/sfx/energy
-quiet	2	14637
-amp	2	14637	255
-play	2	14637	/sounds/dev/onas
-quiet	1	14646
-amp	1	14646	255
-play	1	14646	/sounds/dev/pk/sal
-quiet	0	14646
-amp	0	14646	255
-play	0	14646	/sounds/sfx/explosion/gas
-quiet	2	14652
-amp	2	14652	255
-play	2	14652	/sounds/dev/onas
-quiet	1	14658
-amp	1	14658	255
-play	1	14658	/sounds/sfx/energy
-quiet	2	14664
-amp	2	14664	255
-play	2	14664	/sounds/dev/pk/sal
-quiet	1	14682
-amp	1	14682	255
-play	1	14682	/sounds/dev/onas
-quiet	2	14682
-amp	2	14682	255
-play	2	14682	/sounds/dev/pk/sal
-quiet	1	14697
-amp	1	14697	255
-play	1	14697	/sounds/dev/onas
-quiet	2	14700
-amp	2	14700	255
-play	2	14700	/sounds/dev/pk/sal
-quiet	0	14703
-amp	0	14703	255
-play	0	14703	/sounds/sfx/energy
-quiet	1	14712
-amp	1	14712	255
-play	1	14712	/sounds/dev/onas
-quiet	2	14718
-amp	2	14718	255
-play	2	14718	/sounds/dev/pk/sal
-quiet	1	14727
-amp	1	14727	255
-play	1	14727	/sounds/dev/onas
-quiet	2	14736
-amp	2	14736	255
-play	2	14736	/sounds/dev/pk/sal
-quiet	0	14736
-amp	0	14736	246
-play	0	14736	/sounds/sfx/explosion/energy
-quiet	0	14736
-amp	0	14736	255
-play	0	14736	/sounds/sfx/energy
-quiet	1	14742
-amp	1	14742	255
-play	1	14742	/sounds/dev/anti
-quiet	0	14745
-amp	0	14745	227
-play	0	14745	/sounds/sfx/explosion/gas
-quiet	0	14748
-amp	0	14748	255
-play	0	14748	/sounds/sfx/explosion/energy
-quiet	2	14751
-amp	2	14751	255
-play	2	14751	/sounds/dev/pk/can
-quiet	1	14754
-amp	1	14754	255
-play	1	14754	/sounds/dev/pk/sal
-quiet	0	14760
-amp	0	14760	255
-play	0	14760	/sounds/sfx/explosion/energy
-quiet	0	14760
-amp	0	14760	255
-play	0	14760	/sounds/sfx/explosion/energy
-quiet	2	14763
-amp	2	14763	255
-play	2	14763	/sounds/dev/pk/can
-quiet	2	14769
-amp	2	14769	255
-play	2	14769	/sounds/dev/pk/can
-quiet	0	14769
-amp	0	14769	255
-play	0	14769	/sounds/sfx/explosion/gas
-quiet	1	14772
-amp	1	14772	255
-play	1	14772	/sounds/dev/onas
-quiet	0	14775
-amp	0	14775	255
-play	0	14775	/sounds/gui/klaxon
-quiet	1	14787
-amp	1	14787	255
-play	1	14787	/sounds/dev/onas
-quiet	2	14790
-amp	2	14790	255
-play	2	14790	/sounds/dev/pk/sal
-quiet	1	14802
-amp	1	14802	255
-play	1	14802	/sounds/dev/onas
-quiet	2	14817
-amp	2	14817	255
-play	2	14817	/sounds/dev/pk/can
-quiet	1	14856
-amp	1	14856	255
-play	1	14856	/sounds/dev/onas
-quiet	2	14859
-amp	2	14859	255
-play	2	14859	/sounds/dev/pk/sal
-quiet	1	14871
-amp	1	14871	255
-play	1	14871	/sounds/dev/onas
-quiet	2	14877
-amp	2	14877	255
-play	2	14877	/sounds/dev/pk/sal
-quiet	1	14886
-amp	1	14886	255
-play	1	14886	/sounds/dev/onas
-quiet	2	14895
-amp	2	14895	255
-play	2	14895	/sounds/dev/pk/sal
-quiet	1	14901
-amp	1	14901	255
-play	1	14901	/sounds/dev/onas
-quiet	0	14901
-amp	0	14901	128
-play	0	14901	/sounds/gui/klaxon
-quiet	2	14913
-amp	2	14913	255
-play	2	14913	/sounds/dev/pk/sal
-quiet	1	14916
-amp	1	14916	255
-play	1	14916	/sounds/dev/onas
-quiet	1	14931
-amp	1	14931	255
-play	1	14931	/sounds/dev/onas
-quiet	2	14931
-amp	2	14931	255
-play	2	14931	/sounds/dev/pk/sal
-quiet	1	14946
-amp	1	14946	255
-play	1	14946	/sounds/dev/onas
-quiet	2	14949
-amp	2	14949	255
-play	2	14949	/sounds/dev/pk/sal
-quiet	1	14961
-amp	1	14961	255
-play	1	14961	/sounds/dev/onas
-quiet	0	14961
-amp	0	14961	255
-play	0	14961	/sounds/sfx/explosion/small
-quiet	0	14961
-amp	0	14961	255
-play	0	14961	/sounds/sfx/explosion/gas
-quiet	2	14967
-amp	2	14967	255
-play	2	14967	/sounds/dev/pk/sal
-quiet	1	14976
-amp	1	14976	255
-play	1	14976	/sounds/dev/onas
-quiet	2	14985
-amp	2	14985	255
-play	2	14985	/sounds/dev/pk/sal
-quiet	1	14991
-amp	1	14991	255
-play	1	14991	/sounds/dev/onas
-quiet	2	15003
-amp	2	15003	255
-play	2	15003	/sounds/dev/pk/sal
-quiet	1	15006
-amp	1	15006	255
-play	1	15006	/sounds/dev/onas
-quiet	1	15021
-amp	1	15021	255
-play	1	15021	/sounds/dev/onas
-quiet	2	15021
-amp	2	15021	255
-play	2	15021	/sounds/dev/pk/sal
-quiet	0	15027
-amp	0	15027	128
-play	0	15027	/sounds/gui/klaxon
-quiet	1	15036
-amp	1	15036	255
-play	1	15036	/sounds/dev/onas
-quiet	0	15036
-amp	0	15036	242
-play	0	15036	/sounds/sfx/explosion/gas
-quiet	2	15039
-amp	2	15039	255
-play	2	15039	/sounds/dev/pk/sal
-quiet	0	15048
-amp	0	15048	249
-play	0	15048	/sounds/sfx/explosion/gas
-quiet	1	15051
-amp	1	15051	255
-play	1	15051	/sounds/dev/onas
-quiet	2	15057
-amp	2	15057	255
-play	2	15057	/sounds/dev/pk/sal
-quiet	0	15057
-amp	0	15057	255
-play	0	15057	/sounds/sfx/energy
-quiet	1	15063
-amp	1	15063	251
-play	1	15063	/sounds/dev/cm
-quiet	1	15066
-amp	1	15066	255
-play	1	15066	/sounds/dev/onas
-quiet	0	15072
-amp	0	15072	236
-play	0	15072	/sounds/sfx/explosion/gas
-quiet	2	15075
-amp	2	15075	255
-play	2	15075	/sounds/dev/pk/sal
-quiet	0	15075
-amp	0	15075	255
-play	0	15075	/sounds/sfx/explosion/gas
-quiet	1	15081
-amp	1	15081	255
-play	1	15081	/sounds/dev/onas
-quiet	2	15087
-amp	2	15087	255
-play	2	15087	/sounds/sfx/explosion/energy
-quiet	1	15093
-amp	1	15093	255
-play	1	15093	/sounds/dev/pk/sal
-quiet	2	15102
-amp	2	15102	255
-play	2	15102	/sounds/sfx/explosion/energy
-quiet	2	15105
-amp	2	15105	255
-play	2	15105	/sounds/sfx/explosion/energy
-quiet	0	15105
-amp	0	15105	255
-play	0	15105	/sounds/sfx/explosion/gas
-quiet	1	15111
-amp	1	15111	255
-play	1	15111	/sounds/dev/onas
-quiet	1	15126
-amp	1	15126	255
-play	1	15126	/sounds/dev/onas
-quiet	0	15126
-amp	0	15126	255
-play	0	15126	/sounds/sfx/explosion/gas
-quiet	2	15126
-amp	2	15126	253
-play	2	15126	/sounds/sfx/explosion/energy
-quiet	2	15129
-amp	2	15129	255
-play	2	15129	/sounds/dev/pk/sal
-quiet	1	15138
-amp	1	15138	255
-play	1	15138	/sounds/sfx/explosion/energy
-quiet	2	15141
-amp	2	15141	255
-play	2	15141	/sounds/dev/onas
-quiet	2	15153
-amp	2	15153	128
-play	2	15153	/sounds/gui/klaxon
-quiet	2	15156
-amp	2	15156	255
-play	2	15156	/sounds/dev/onas
-quiet	1	15156
-amp	1	15156	255
-play	1	15156	/sounds/sfx/explosion/energy
-quiet	0	15165
-amp	0	15165	255
-play	0	15165	/sounds/dev/pk/sal
-quiet	2	15171
-amp	2	15171	255
-play	2	15171	/sounds/dev/onas
-quiet	1	15171
-amp	1	15171	255
-play	1	15171	/sounds/sfx/explosion/energy
-quiet	0	15183
-amp	0	15183	255
-play	0	15183	/sounds/dev/pk/sal
-quiet	0	15183
-amp	0	15183	255
-play	0	15183	/sounds/sfx/explosion/gas
-quiet	2	15186
-amp	2	15186	255
-play	2	15186	/sounds/dev/onas
-quiet	0	15198
-amp	0	15198	255
-play	0	15198	/sounds/sfx/explosion/gas
-quiet	2	15201
-amp	2	15201	255
-play	2	15201	/sounds/dev/onas
-quiet	1	15201
-amp	1	15201	255
-play	1	15201	/sounds/dev/pk/sal
-quiet	1	15216
-amp	1	15216	255
-play	1	15216	/sounds/dev/cm
-quiet	2	15216
-amp	2	15216	255
-play	2	15216	/sounds/dev/onas
-quiet	2	15231
-amp	2	15231	255
-play	2	15231	/sounds/dev/onas
-quiet	0	15237
-amp	0	15237	255
-play	0	15237	/sounds/dev/pk/sal
-quiet	2	15246
-amp	2	15246	255
-play	2	15246	/sounds/dev/onas
-quiet	0	15252
-amp	0	15252	244
-play	0	15252	/sounds/sfx/explosion/gas
-quiet	0	15255
-amp	0	15255	255
-play	0	15255	/sounds/dev/pk/sal
-quiet	2	15261
-amp	2	15261	255
-play	2	15261	/sounds/dev/onas
-quiet	0	15264
-amp	0	15264	255
-play	0	15264	/sounds/sfx/explosion/gas
-quiet	1	15273
-amp	1	15273	255
-play	1	15273	/sounds/dev/pk/sal
-quiet	2	15276
-amp	2	15276	255
-play	2	15276	/sounds/dev/onas
-quiet	0	15279
-amp	0	15279	255
-play	0	15279	/sounds/sfx/explosion/gas
-quiet	1	15288
-amp	1	15288	246
-play	1	15288	/sounds/dev/cm
-quiet	2	15291
-amp	2	15291	255
-play	2	15291	/sounds/dev/onas
-quiet	1	15291
-amp	1	15291	255
-play	1	15291	/sounds/dev/pk/sal
-quiet	1	15300
-amp	1	15300	241
-play	1	15300	/sounds/sfx/explosion/gas
-quiet	2	15306
-amp	2	15306	255
-play	2	15306	/sounds/dev/onas
-quiet	1	15309
-amp	1	15309	255
-play	1	15309	/sounds/dev/pk/sal
-quiet	2	15321
-amp	2	15321	255
-play	2	15321	/sounds/dev/onas
-quiet	1	15327
-amp	1	15327	255
-play	1	15327	/sounds/dev/pk/sal
-quiet	2	15336
-amp	2	15336	255
-play	2	15336	/sounds/dev/onas
-quiet	0	15339
-amp	0	15339	237
-play	0	15339	/sounds/dev/cm
-quiet	1	15345
-amp	1	15345	255
-play	1	15345	/sounds/dev/pk/sal
-quiet	0	15348
-amp	0	15348	237
-play	0	15348	/sounds/sfx/explosion/gas
-quiet	2	15351
-amp	2	15351	255
-play	2	15351	/sounds/dev/onas
-quiet	1	15363
-amp	1	15363	255
-play	1	15363	/sounds/dev/pk/sal
-quiet	0	15363
-amp	0	15363	240
-play	0	15363	/sounds/sfx/explosion/gas
-quiet	2	15366
-amp	2	15366	255
-play	2	15366	/sounds/dev/onas
-quiet	1	15378
-amp	1	15378	239
-play	1	15378	/sounds/sfx/explosion/gas
-quiet	2	15381
-amp	2	15381	255
-play	2	15381	/sounds/dev/onas
-quiet	0	15381
-amp	0	15381	255
-play	0	15381	/sounds/dev/pk/sal
-quiet	1	15390
-amp	1	15390	247
-play	1	15390	/sounds/sfx/explosion/gas
-quiet	2	15396
-amp	2	15396	255
-play	2	15396	/sounds/dev/onas
-quiet	0	15399
-amp	0	15399	255
-play	0	15399	/sounds/dev/pk/sal
-quiet	2	15411
-amp	2	15411	239
-play	2	15411	/sounds/dev/cm
-quiet	1	15411
-amp	1	15411	255
-play	1	15411	/sounds/dev/onas
-quiet	0	15417
-amp	0	15417	255
-play	0	15417	/sounds/dev/pk/sal
-quiet	1	15426
-amp	1	15426	255
-play	1	15426	/sounds/dev/onas
-quiet	0	15435
-amp	0	15435	255
-play	0	15435	/sounds/dev/pk/sal
-quiet	2	15435
-amp	2	15435	253
-play	2	15435	/sounds/sfx/explosion/energy
-quiet	0	15435
-amp	0	15435	249
-play	0	15435	/sounds/sfx/explosion/gas
-quiet	1	15441
-amp	1	15441	255
-play	1	15441	/sounds/dev/onas
-quiet	0	15447
-amp	0	15447	255
-play	0	15447	/sounds/sfx/explosion/gas
-quiet	2	15450
-amp	2	15450	255
-play	2	15450	/sounds/sfx/explosion/energy
-quiet	1	15453
-amp	1	15453	255
-play	1	15453	/sounds/dev/pk/sal
-quiet	1	15459
-amp	1	15459	255
-play	1	15459	/sounds/sfx/explosion/large
-quiet	0	15459
-amp	0	15459	255
-play	0	15459	/sounds/sfx/explosion/gas
-quiet	2	15471
-amp	2	15471	255
-play	2	15471	/sounds/dev/onas
-quiet	0	15474
-amp	0	15474	255
-play	0	15474	/sounds/sfx/explosion/gas
-quiet	1	15480
-amp	1	15480	252
-play	1	15480	/sounds/sfx/energy
-quiet	2	15486
-amp	2	15486	255
-play	2	15486	/sounds/dev/onas
-quiet	1	15489
-amp	1	15489	255
-play	1	15489	/sounds/dev/pk/sal
-quiet	0	15492
-amp	0	15492	255
-play	0	15492	/sounds/sfx/explosion/gas
-quiet	2	15501
-amp	2	15501	255
-play	2	15501	/sounds/dev/onas
-quiet	0	15504
-amp	0	15504	255
-play	0	15504	/sounds/sfx/explosion/gas
-quiet	1	15507
-amp	1	15507	255
-play	1	15507	/sounds/dev/pk/sal
-quiet	2	15516
-amp	2	15516	255
-play	2	15516	/sounds/dev/onas
-quiet	0	15519
-amp	0	15519	255
-play	0	15519	/sounds/sfx/explosion/gas
-quiet	1	15525
-amp	1	15525	255
-play	1	15525	/sounds/dev/pk/sal
-quiet	2	15531
-amp	2	15531	255
-play	2	15531	/sounds/dev/onas
-quiet	0	15534
-amp	0	15534	255
-play	0	15534	/sounds/sfx/explosion/gas
-quiet	1	15543
-amp	1	15543	255
-play	1	15543	/sounds/dev/pk/sal
-quiet	2	15546
-amp	2	15546	255
-play	2	15546	/sounds/dev/onas
-quiet	2	15561
-amp	2	15561	255
-play	2	15561	/sounds/dev/onas
-quiet	1	15561
-amp	1	15561	255
-play	1	15561	/sounds/dev/pk/sal
-quiet	1	15567
-amp	1	15567	254
-play	1	15567	/sounds/sfx/explosion/gas
-quiet	2	15576
-amp	2	15576	255
-play	2	15576	/sounds/dev/onas
-quiet	0	15576
-amp	0	15576	175
-play	0	15576	/sounds/sfx/explosion/energy
-quiet	0	15579
-amp	0	15579	255
-play	0	15579	/sounds/dev/pk/sal
-quiet	1	15582
-amp	1	15582	255
-play	1	15582	/sounds/sfx/explosion/gas
-quiet	2	15591
-amp	2	15591	255
-play	2	15591	/sounds/dev/onas
-quiet	0	15591
-amp	0	15591	255
-play	0	15591	/sounds/sfx/explosion/energy
-quiet	2	15606
-amp	2	15606	255
-play	2	15606	/sounds/dev/onas
-quiet	1	15609
-amp	1	15609	255
-play	1	15609	/sounds/sfx/explosion/gas
-quiet	0	15615
-amp	0	15615	255
-play	0	15615	/sounds/dev/pk/sal
-quiet	2	15621
-amp	2	15621	255
-play	2	15621	/sounds/dev/onas
-quiet	1	15624
-amp	1	15624	255
-play	1	15624	/sounds/sfx/explosion/gas
-quiet	0	15633
-amp	0	15633	255
-play	0	15633	/sounds/dev/pk/sal
-quiet	2	15636
-amp	2	15636	255
-play	2	15636	/sounds/dev/onas
-quiet	1	15639
-amp	1	15639	255
-play	1	15639	/sounds/sfx/explosion/gas
-quiet	2	15651
-amp	2	15651	255
-play	2	15651	/sounds/dev/onas
-quiet	0	15651
-amp	0	15651	255
-play	0	15651	/sounds/dev/pk/sal
-quiet	0	15663
-amp	0	15663	255
-play	0	15663	/sounds/sfx/explosion/energy
-quiet	2	15666
-amp	2	15666	255
-play	2	15666	/sounds/dev/onas
-quiet	2	15681
-amp	2	15681	255
-play	2	15681	/sounds/dev/onas
-quiet	0	15681
-amp	0	15681	255
-play	0	15681	/sounds/sfx/explosion/energy
-quiet	1	15687
-amp	1	15687	255
-play	1	15687	/sounds/dev/pk/sal
-quiet	2	15696
-amp	2	15696	255
-play	2	15696	/sounds/dev/onas
-quiet	1	15705
-amp	1	15705	255
-play	1	15705	/sounds/dev/pk/sal
-quiet	2	15711
-amp	2	15711	255
-play	2	15711	/sounds/dev/onas
-quiet	0	15720
-amp	0	15720	253
-play	0	15720	/sounds/sfx/explosion/energy
-quiet	1	15723
-amp	1	15723	255
-play	1	15723	/sounds/dev/pk/sal
-quiet	2	15726
-amp	2	15726	255
-play	2	15726	/sounds/dev/onas
-quiet	0	15738
-amp	0	15738	253
-play	0	15738	/sounds/sfx/explosion/energy
-quiet	2	15741
-amp	2	15741	255
-play	2	15741	/sounds/dev/onas
-quiet	1	15741
-amp	1	15741	255
-play	1	15741	/sounds/dev/pk/sal
-quiet	2	15756
-amp	2	15756	255
-play	2	15756	/sounds/dev/onas
-quiet	0	15756
-amp	0	15756	253
-play	0	15756	/sounds/sfx/explosion/energy
-quiet	1	15759
-amp	1	15759	255
-play	1	15759	/sounds/dev/pk/sal
-quiet	0	15759
-amp	0	15759	255
-play	0	15759	/sounds/sfx/explosion/gas
-quiet	2	15771
-amp	2	15771	255
-play	2	15771	/sounds/dev/onas
-quiet	1	15777
-amp	1	15777	255
-play	1	15777	/sounds/dev/pk/sal
-quiet	1	15777
-amp	1	15777	251
-play	1	15777	/sounds/sfx/explosion/gas
-quiet	2	15783
-amp	2	15783	128
-play	2	15783	/sounds/gui/klaxon
-quiet	1	15786
-amp	1	15786	255
-play	1	15786	/sounds/dev/onas
-quiet	2	15792
-amp	2	15792	246
-play	2	15792	/sounds/sfx/energy
-quiet	2	15792
-amp	2	15792	246
-play	2	15792	/sounds/sfx/energy
-quiet	2	15795
-amp	2	15795	255
-play	2	15795	/sounds/dev/pk/sal
-quiet	0	15795
-amp	0	15795	247
-play	0	15795	/sounds/sfx/explosion/energy
-quiet	1	15801
-amp	1	15801	255
-play	1	15801	/sounds/dev/onas
-quiet	0	15810
-amp	0	15810	243
-play	0	15810	/sounds/sfx/explosion/gas
-quiet	2	15813
-amp	2	15813	255
-play	2	15813	/sounds/dev/pk/sal
-quiet	1	15816
-amp	1	15816	255
-play	1	15816	/sounds/dev/onas
-quiet	0	15825
-amp	0	15825	249
-play	0	15825	/sounds/sfx/explosion/gas
-quiet	1	15831
-amp	1	15831	255
-play	1	15831	/sounds/dev/onas
-quiet	2	15831
-amp	2	15831	255
-play	2	15831	/sounds/dev/pk/sal
-quiet	1	15840
-amp	1	15840	244
-play	1	15840	/sounds/sfx/explosion/large
-quiet	0	15840
-amp	0	15840	250
-play	0	15840	/sounds/sfx/explosion/gas
-quiet	0	15846
-amp	0	15846	255
-play	0	15846	/sounds/dev/onas
-quiet	2	15849
-amp	2	15849	255
-play	2	15849	/sounds/dev/pk/sal
-quiet	0	15861
-amp	0	15861	255
-play	0	15861	/sounds/dev/onas
-quiet	1	15864
-amp	1	15864	254
-play	1	15864	/sounds/sfx/explosion/energy
-quiet	2	15867
-amp	2	15867	255
-play	2	15867	/sounds/dev/pk/sal
-quiet	0	15876
-amp	0	15876	255
-play	0	15876	/sounds/dev/onas
-quiet	1	15879
-amp	1	15879	255
-play	1	15879	/sounds/sfx/explosion/gas
-quiet	2	15882
-amp	2	15882	255
-play	2	15882	/sounds/sfx/explosion/energy
-quiet	0	15891
-amp	0	15891	255
-play	0	15891	/sounds/dev/onas
-quiet	2	15891
-amp	2	15891	255
-play	2	15891	/sounds/sfx/explosion/energy
-quiet	1	15891
-amp	1	15891	255
-play	1	15891	/sounds/sfx/explosion/gas
-quiet	0	15903
-amp	0	15903	255
-play	0	15903	/sounds/dev/pk/sal
-quiet	2	15903
-amp	2	15903	255
-play	2	15903	/sounds/sfx/explosion/energy
-quiet	0	15918
-amp	0	15918	255
-play	0	15918	/sounds/sfx/energy
-quiet	0	15918
-amp	0	15918	255
-play	0	15918	/sounds/sfx/energy
-quiet	0	15927
-amp	0	15927	255
-play	0	15927	/sounds/sfx/energy
-quiet	0	15927
-amp	0	15927	255
-play	0	15927	/sounds/sfx/energy
-quiet	0	15930
-amp	0	15930	255
-play	0	15930	/sounds/sfx/energy
-quiet	0	15930
-amp	0	15930	255
-play	0	15930	/sounds/sfx/energy
-quiet	1	15936
-amp	1	15936	255
-play	1	15936	/sounds/dev/onas
-quiet	2	15939
-amp	2	15939	255
-play	2	15939	/sounds/dev/pk/sal
-quiet	1	15951
-amp	1	15951	255
-play	1	15951	/sounds/dev/onas
-quiet	2	15957
-amp	2	15957	255
-play	2	15957	/sounds/dev/pk/sal
-quiet	1	15966
-amp	1	15966	255
-play	1	15966	/sounds/dev/onas
-quiet	0	15966
-amp	0	15966	235
-play	0	15966	/sounds/sfx/explosion/energy
-quiet	2	15975
-amp	2	15975	255
-play	2	15975	/sounds/dev/pk/sal
-quiet	1	15981
-amp	1	15981	255
-play	1	15981	/sounds/dev/onas
-quiet	0	15990
-amp	0	15990	255
-play	0	15990	/sounds/sfx/explosion/energy
-quiet	2	15993
-amp	2	15993	255
-play	2	15993	/sounds/dev/pk/sal
-quiet	1	15996
-amp	1	15996	255
-play	1	15996	/sounds/dev/onas
-quiet	1	16011
-amp	1	16011	255
-play	1	16011	/sounds/dev/onas
-quiet	2	16011
-amp	2	16011	255
-play	2	16011	/sounds/dev/pk/sal
-quiet	1	16026
-amp	1	16026	255
-play	1	16026	/sounds/dev/onas
-quiet	2	16029
-amp	2	16029	255
-play	2	16029	/sounds/dev/pk/sal
-quiet	0	16035
-amp	0	16035	128
-play	0	16035	/sounds/gui/klaxon
-quiet	1	16041
-amp	1	16041	255
-play	1	16041	/sounds/dev/onas
-quiet	2	16047
-amp	2	16047	255
-play	2	16047	/sounds/dev/pk/sal
-quiet	1	16056
-amp	1	16056	255
-play	1	16056	/sounds/dev/onas
-quiet	2	16065
-amp	2	16065	255
-play	2	16065	/sounds/dev/pk/sal
-quiet	1	16071
-amp	1	16071	255
-play	1	16071	/sounds/dev/onas
-quiet	2	16083
-amp	2	16083	255
-play	2	16083	/sounds/dev/pk/sal
-quiet	1	16086
-amp	1	16086	255
-play	1	16086	/sounds/dev/onas
-quiet	1	16101
-amp	1	16101	255
-play	1	16101	/sounds/dev/onas
-quiet	2	16101
-amp	2	16101	255
-play	2	16101	/sounds/dev/pk/sal
-quiet	1	16116
-amp	1	16116	255
-play	1	16116	/sounds/dev/onas
-quiet	2	16119
-amp	2	16119	255
-play	2	16119	/sounds/dev/pk/sal
-quiet	1	16131
-amp	1	16131	255
-play	1	16131	/sounds/dev/onas
-quiet	2	16137
-amp	2	16137	255
-play	2	16137	/sounds/dev/pk/sal
-quiet	1	16146
-amp	1	16146	255
-play	1	16146	/sounds/dev/onas
-quiet	2	16158
-amp	2	16158	255
-play	2	16158	/sounds/dev/pk/sal
-quiet	0	16161
-amp	0	16161	128
-play	0	16161	/sounds/gui/klaxon
-quiet	2	16191
-amp	2	16191	255
-play	2	16191	/sounds/dev/pk/sal
-quiet	1	16194
-amp	1	16194	255
-play	1	16194	/sounds/dev/onas
-quiet	1	16209
-amp	1	16209	255
-play	1	16209	/sounds/dev/onas
-quiet	2	16209
-amp	2	16209	255
-play	2	16209	/sounds/dev/pk/sal
-quiet	1	16224
-amp	1	16224	255
-play	1	16224	/sounds/dev/onas
-quiet	2	16227
-amp	2	16227	255
-play	2	16227	/sounds/dev/pk/sal
-quiet	1	16239
-amp	1	16239	255
-play	1	16239	/sounds/dev/onas
-quiet	2	16245
-amp	2	16245	255
-play	2	16245	/sounds/dev/pk/sal
-quiet	1	16254
-amp	1	16254	255
-play	1	16254	/sounds/dev/onas
-quiet	2	16263
-amp	2	16263	255
-play	2	16263	/sounds/dev/pk/sal
-quiet	1	16269
-amp	1	16269	255
-play	1	16269	/sounds/dev/onas
-quiet	0	16272
-amp	0	16272	255
-play	0	16272	/sounds/sfx/energy
-quiet	0	16272
-amp	0	16272	255
-play	0	16272	/sounds/sfx/energy
-quiet	0	16275
-amp	0	16275	255
-play	0	16275	/sounds/sfx/energy
-quiet	0	16278
-amp	0	16278	255
-play	0	16278	/sounds/sfx/energy
-quiet	0	16278
-amp	0	16278	255
-play	0	16278	/sounds/sfx/energy
-quiet	2	16281
-amp	2	16281	255
-play	2	16281	/sounds/dev/pk/sal
-quiet	1	16284
-amp	1	16284	255
-play	1	16284	/sounds/dev/onas
-quiet	1	16299
-amp	1	16299	255
-play	1	16299	/sounds/dev/onas
-quiet	2	16299
-amp	2	16299	255
-play	2	16299	/sounds/dev/pk/sal
-quiet	0	16299
-amp	0	16299	255
-play	0	16299	/sounds/sfx/explosion/energy
-quiet	0	16305
-amp	0	16305	255
-play	0	16305	/sounds/sfx/explosion/gas
-quiet	1	16314
-amp	1	16314	255
-play	1	16314	/sounds/dev/onas
-quiet	2	16317
-amp	2	16317	255
-play	2	16317	/sounds/dev/pk/sal
-quiet	1	16329
-amp	1	16329	255
-play	1	16329	/sounds/dev/onas
-quiet	2	16335
-amp	2	16335	255
-play	2	16335	/sounds/dev/pk/sal
-quiet	1	16344
-amp	1	16344	255
-play	1	16344	/sounds/dev/onas
-quiet	2	16353
-amp	2	16353	255
-play	2	16353	/sounds/dev/pk/sal
-quiet	0	16356
-amp	0	16356	255
-play	0	16356	/sounds/sfx/energy
-quiet	1	16359
-amp	1	16359	255
-play	1	16359	/sounds/dev/onas
-quiet	2	16371
-amp	2	16371	255
-play	2	16371	/sounds/dev/pk/sal
-quiet	1	16446
-amp	1	16446	255
-play	1	16446	/sounds/dev/onas
-quiet	2	16446
-amp	2	16446	255
-play	2	16446	/sounds/dev/pk/sal
-quiet	1	16461
-amp	1	16461	255
-play	1	16461	/sounds/dev/onas
-quiet	2	16464
-amp	2	16464	255
-play	2	16464	/sounds/dev/pk/sal
-quiet	1	16476
-amp	1	16476	255
-play	1	16476	/sounds/dev/onas
-quiet	2	16482
-amp	2	16482	255
-play	2	16482	/sounds/dev/pk/sal
-quiet	1	16491
-amp	1	16491	255
-play	1	16491	/sounds/dev/onas
-quiet	2	16500
-amp	2	16500	255
-play	2	16500	/sounds/dev/pk/sal
-quiet	1	16506
-amp	1	16506	255
-play	1	16506	/sounds/dev/onas
-quiet	2	16518
-amp	2	16518	255
-play	2	16518	/sounds/dev/pk/sal
-quiet	1	16521
-amp	1	16521	255
-play	1	16521	/sounds/dev/onas
-quiet	1	16536
-amp	1	16536	255
-play	1	16536	/sounds/dev/onas
-quiet	2	16536
-amp	2	16536	255
-play	2	16536	/sounds/dev/pk/sal
-quiet	1	16551
-amp	1	16551	255
-play	1	16551	/sounds/dev/onas
-quiet	2	16554
-amp	2	16554	255
-play	2	16554	/sounds/dev/pk/sal
-quiet	0	16557
-amp	0	16557	255
-play	0	16557	/sounds/sfx/explosion/small
-quiet	0	16557
-amp	0	16557	255
-play	0	16557	/sounds/sfx/explosion/gas
-quiet	1	16566
-amp	1	16566	255
-play	1	16566	/sounds/dev/onas
-quiet	2	16572
-amp	2	16572	255
-play	2	16572	/sounds/dev/pk/sal
-quiet	1	16632
-amp	1	16632	255
-play	1	16632	/sounds/sfx/energy
-quiet	2	16782
-amp	2	16782	255
-play	2	16782	/sounds/dev/onas
-quiet	0	16785
-amp	0	16785	255
-play	0	16785	/sounds/dev/pk/sal
-quiet	2	16797
-amp	2	16797	255
-play	2	16797	/sounds/dev/onas
-quiet	0	16803
-amp	0	16803	255
-play	0	16803	/sounds/dev/pk/sal
-quiet	2	16812
-amp	2	16812	255
-play	2	16812	/sounds/dev/onas
-quiet	0	16821
-amp	0	16821	255
-play	0	16821	/sounds/dev/pk/sal
-quiet	2	16827
-amp	2	16827	255
-play	2	16827	/sounds/dev/onas
-quiet	0	16839
-amp	0	16839	255
-play	0	16839	/sounds/dev/pk/sal
-quiet	2	16842
-amp	2	16842	255
-play	2	16842	/sounds/dev/onas
-quiet	2	16857
-amp	2	16857	255
-play	2	16857	/sounds/dev/onas
-quiet	0	16857
-amp	0	16857	255
-play	0	16857	/sounds/dev/pk/sal
-quiet	1	16872
-amp	1	16872	255
-play	1	16872	/sounds/dev/stealth/off
-quiet	0	16872
-amp	0	16872	255
-play	0	16872	/sounds/dev/anti
-quiet	2	16872
-amp	2	16872	255
-play	2	16872	/sounds/dev/onas
-quiet	2	16887
-amp	2	16887	255
-play	2	16887	/sounds/dev/onas
-quiet	0	16890
-amp	0	16890	255
-play	0	16890	/sounds/dev/anti
-quiet	1	16893
-amp	1	16893	255
-play	1	16893	/sounds/dev/pk/sal
-quiet	2	16902
-amp	2	16902	255
-play	2	16902	/sounds/dev/onas
-quiet	1	16911
-amp	1	16911	255
-play	1	16911	/sounds/dev/pk/sal
-quiet	2	16917
-amp	2	16917	255
-play	2	16917	/sounds/dev/onas
-quiet	1	16929
-amp	1	16929	255
-play	1	16929	/sounds/dev/pk/sal
-quiet	2	16932
-amp	2	16932	255
-play	2	16932	/sounds/dev/onas
-quiet	2	16947
-amp	2	16947	255
-play	2	16947	/sounds/dev/onas
-quiet	1	16947
-amp	1	16947	255
-play	1	16947	/sounds/dev/pk/sal
-quiet	2	16962
-amp	2	16962	255
-play	2	16962	/sounds/dev/onas
-quiet	1	16965
-amp	1	16965	255
-play	1	16965	/sounds/dev/pk/sal
-quiet	2	16977
-amp	2	16977	255
-play	2	16977	/sounds/dev/onas
-quiet	1	16983
-amp	1	16983	255
-play	1	16983	/sounds/dev/pk/sal
-quiet	2	17031
-amp	2	17031	255
-play	2	17031	/sounds/dev/onas
-quiet	1	17034
-amp	1	17034	255
-play	1	17034	/sounds/dev/pk/sal
-quiet	2	17046
-amp	2	17046	255
-play	2	17046	/sounds/dev/onas
-quiet	1	17052
-amp	1	17052	255
-play	1	17052	/sounds/dev/pk/sal
-quiet	2	17061
-amp	2	17061	255
-play	2	17061	/sounds/dev/onas
-quiet	1	17070
-amp	1	17070	255
-play	1	17070	/sounds/dev/pk/sal
-quiet	2	17076
-amp	2	17076	255
-play	2	17076	/sounds/dev/onas
-quiet	1	17088
-amp	1	17088	255
-play	1	17088	/sounds/dev/pk/sal
-quiet	2	17091
-amp	2	17091	255
-play	2	17091	/sounds/dev/onas
-quiet	2	17106
-amp	2	17106	255
-play	2	17106	/sounds/dev/onas
-quiet	1	17106
-amp	1	17106	255
-play	1	17106	/sounds/dev/pk/sal
-quiet	0	17115
-amp	0	17115	251
-play	0	17115	/sounds/sfx/explosion/gas
-quiet	2	17121
-amp	2	17121	255
-play	2	17121	/sounds/dev/onas
-quiet	1	17124
-amp	1	17124	255
-play	1	17124	/sounds/dev/pk/sal
-quiet	2	17136
-amp	2	17136	255
-play	2	17136	/sounds/dev/onas
-quiet	1	17142
-amp	1	17142	255
-play	1	17142	/sounds/dev/pk/sal
-quiet	2	17151
-amp	2	17151	255
-play	2	17151	/sounds/dev/onas
-quiet	1	17160
-amp	1	17160	255
-play	1	17160	/sounds/dev/pk/sal
-quiet	2	17166
-amp	2	17166	255
-play	2	17166	/sounds/dev/onas
-quiet	0	17166
-amp	0	17166	255
-play	0	17166	/sounds/sfx/explosion/energy
-quiet	1	17178
-amp	1	17178	255
-play	1	17178	/sounds/dev/pk/sal
-quiet	2	17181
-amp	2	17181	255
-play	2	17181	/sounds/dev/onas
-quiet	2	17196
-amp	2	17196	255
-play	2	17196	/sounds/dev/onas
-quiet	1	17196
-amp	1	17196	255
-play	1	17196	/sounds/dev/pk/sal
-quiet	2	17211
-amp	2	17211	255
-play	2	17211	/sounds/dev/onas
-quiet	1	17214
-amp	1	17214	255
-play	1	17214	/sounds/dev/pk/sal
-quiet	0	17250
-amp	0	17250	253
-play	0	17250	/sounds/sfx/explosion/energy
-quiet	2	17280
-amp	2	17280	255
-play	2	17280	/sounds/dev/onas
-quiet	1	17283
-amp	1	17283	255
-play	1	17283	/sounds/dev/pk/sal
-quiet	2	17295
-amp	2	17295	255
-play	2	17295	/sounds/dev/onas
-quiet	1	17301
-amp	1	17301	255
-play	1	17301	/sounds/dev/pk/sal
-quiet	2	17310
-amp	2	17310	255
-play	2	17310	/sounds/dev/onas
-quiet	1	17319
-amp	1	17319	255
-play	1	17319	/sounds/dev/pk/sal
-quiet	2	17325
-amp	2	17325	255
-play	2	17325	/sounds/dev/onas
-quiet	1	17337
-amp	1	17337	255
-play	1	17337	/sounds/dev/pk/sal
-quiet	2	17340
-amp	2	17340	255
-play	2	17340	/sounds/dev/onas
-quiet	0	17349
-amp	0	17349	255
-play	0	17349	/sounds/sfx/explosion/gas
-quiet	1	17352
-amp	1	17352	255
-play	1	17352	/sounds/dev/anti
-quiet	2	17352
-amp	2	17352	255
-play	2	17352	/sounds/dev/stealth/on
-quiet	1	17364
-amp	1	17364	255
-play	1	17364	/sounds/dev/pk/can
-quiet	2	17373
-amp	2	17373	255
-play	2	17373	/sounds/dev/pk/sal
-quiet	1	17385
-amp	1	17385	255
-play	1	17385	/sounds/dev/onas
-quiet	0	17385
-amp	0	17385	255
-play	0	17385	/sounds/sfx/explosion/gas
-quiet	2	17391
-amp	2	17391	255
-play	2	17391	/sounds/dev/pk/sal
-quiet	1	17400
-amp	1	17400	255
-play	1	17400	/sounds/dev/onas
-quiet	2	17409
-amp	2	17409	255
-play	2	17409	/sounds/dev/pk/sal
-quiet	1	17415
-amp	1	17415	255
-play	1	17415	/sounds/dev/onas
-quiet	2	17427
-amp	2	17427	255
-play	2	17427	/sounds/dev/pk/sal
-quiet	1	17430
-amp	1	17430	255
-play	1	17430	/sounds/dev/onas
-quiet	1	17445
-amp	1	17445	255
-play	1	17445	/sounds/dev/onas
-quiet	2	17445
-amp	2	17445	255
-play	2	17445	/sounds/dev/pk/sal
-quiet	1	17460
-amp	1	17460	255
-play	1	17460	/sounds/dev/onas
-quiet	2	17463
-amp	2	17463	255
-play	2	17463	/sounds/dev/pk/sal
-quiet	1	17475
-amp	1	17475	255
-play	1	17475	/sounds/dev/onas
-quiet	2	17481
-amp	2	17481	255
-play	2	17481	/sounds/dev/pk/sal
-quiet	1	17490
-amp	1	17490	255
-play	1	17490	/sounds/dev/onas
-quiet	2	17499
-amp	2	17499	255
-play	2	17499	/sounds/dev/pk/sal
-quiet	1	17505
-amp	1	17505	255
-play	1	17505	/sounds/dev/onas
-quiet	2	17517
-amp	2	17517	255
-play	2	17517	/sounds/dev/pk/sal
-quiet	1	17520
-amp	1	17520	255
-play	1	17520	/sounds/dev/onas
-quiet	1	17535
-amp	1	17535	255
-play	1	17535	/sounds/dev/onas
-quiet	2	17535
-amp	2	17535	255
-play	2	17535	/sounds/dev/pk/sal
-quiet	1	17550
-amp	1	17550	255
-play	1	17550	/sounds/dev/onas
-quiet	2	17553
-amp	2	17553	255
-play	2	17553	/sounds/dev/pk/sal
-quiet	0	17565
-amp	0	17565	255
-play	0	17565	/sounds/dev/pk/can
-quiet	1	17613
-amp	1	17613	255
-play	1	17613	/sounds/dev/onas
-quiet	2	17616
-amp	2	17616	255
-play	2	17616	/sounds/dev/pk/sal
-quiet	1	17628
-amp	1	17628	255
-play	1	17628	/sounds/dev/onas
-quiet	2	17634
-amp	2	17634	255
-play	2	17634	/sounds/dev/pk/sal
-quiet	1	17643
-amp	1	17643	255
-play	1	17643	/sounds/dev/onas
-quiet	2	17652
-amp	2	17652	255
-play	2	17652	/sounds/dev/pk/sal
-quiet	1	17658
-amp	1	17658	255
-play	1	17658	/sounds/dev/onas
-quiet	2	17670
-amp	2	17670	255
-play	2	17670	/sounds/dev/pk/sal
-quiet	0	17670
-amp	0	17670	229
-play	0	17670	/sounds/sfx/explosion/small
-quiet	0	17670
-amp	0	17670	232
-play	0	17670	/sounds/sfx/explosion/gas
-quiet	1	17673
-amp	1	17673	255
-play	1	17673	/sounds/dev/onas
-quiet	1	17688
-amp	1	17688	255
-play	1	17688	/sounds/dev/onas
-quiet	2	17688
-amp	2	17688	255
-play	2	17688	/sounds/dev/pk/sal
-quiet	0	17823
-amp	0	17823	255
-play	0	17823	/sounds/sfx/energy
-quiet	1	17913
-amp	1	17913	255
-play	1	17913	/sounds/dev/onas
-quiet	2	17916
-amp	2	17916	255
-play	2	17916	/sounds/dev/pk/sal
-quiet	1	17928
-amp	1	17928	255
-play	1	17928	/sounds/dev/onas
-quiet	2	17934
-amp	2	17934	255
-play	2	17934	/sounds/dev/pk/sal
-quiet	1	17943
-amp	1	17943	255
-play	1	17943	/sounds/dev/onas
-quiet	2	17952
-amp	2	17952	255
-play	2	17952	/sounds/dev/pk/sal
-quiet	1	17958
-amp	1	17958	255
-play	1	17958	/sounds/dev/onas
-quiet	2	17970
-amp	2	17970	255
-play	2	17970	/sounds/dev/pk/sal
-quiet	1	17973
-amp	1	17973	255
-play	1	17973	/sounds/dev/onas
-quiet	0	17973
-amp	0	17973	255
-play	0	17973	/sounds/sfx/explosion/energy
-quiet	0	17985
-amp	0	17985	255
-play	0	17985	/sounds/sfx/explosion/large
-quiet	1	17985
-amp	1	17985	255
-play	1	17985	/sounds/sfx/explosion/gas
-quiet	2	18027
-amp	2	18027	255
-play	2	18027	/sounds/sfx/explosion/energy
-quiet	1	18030
-amp	1	18030	255
-play	1	18030	/sounds/sfx/energy
-quiet	1	18099
-amp	1	18099	128
-play	1	18099	/sounds/gui/beep/button
-quiet	0	18100
-amp	0	18100	128
-play	0	18100	/sounds/gui/beep/zoom
-quiet	1	18108
-amp	1	18108	128
-play	1	18108	/sounds/gui/beep/button
-quiet	1	18114
-amp	1	18114	128
-play	1	18114	/sounds/gui/beep/button
-quiet	0	18170
-amp	0	18170	128
-play	0	18170	/sounds/gui/beep/zoom
-quiet	1	18171
-amp	1	18171	128
-play	1	18171	/sounds/gui/beep/button
-quiet	0	18173
-amp	0	18173	128
-play	0	18173	/sounds/gui/beep/zoom
-quiet	2	18362
-amp	2	18362	64
-play	2	18362	/sounds/gui/beep/message
-quiet	2	18365
-amp	2	18365	64
-play	2	18365	/sounds/gui/beep/message
-quiet	2	18368
-amp	2	18368	64
-play	2	18368	/sounds/gui/beep/message
-quiet	2	18371
-amp	2	18371	64
-play	2	18371	/sounds/gui/beep/message
-quiet	2	18374
-amp	2	18374	64
-play	2	18374	/sounds/gui/beep/message
-quiet	2	18377
-amp	2	18377	64
-play	2	18377	/sounds/gui/beep/message
-quiet	2	18380
-amp	2	18380	64
-play	2	18380	/sounds/gui/beep/message
-quiet	2	18383
-amp	2	18383	64
-play	2	18383	/sounds/gui/beep/message
-quiet	2	18386
-amp	2	18386	64
-play	2	18386	/sounds/gui/beep/message
-quiet	2	18389
-amp	2	18389	64
-play	2	18389	/sounds/gui/beep/message
-quiet	2	18392
-amp	2	18392	64
-play	2	18392	/sounds/gui/beep/message
-quiet	2	18395
-amp	2	18395	64
-play	2	18395	/sounds/gui/beep/message
-quiet	2	18398
-amp	2	18398	64
-play	2	18398	/sounds/gui/beep/message
-quiet	2	18401
-amp	2	18401	64
-play	2	18401	/sounds/gui/beep/message
-quiet	2	18404
-amp	2	18404	64
-play	2	18404	/sounds/gui/beep/message
-quiet	2	18407
-amp	2	18407	64
-play	2	18407	/sounds/gui/beep/message
-quiet	2	18410
-amp	2	18410	64
-play	2	18410	/sounds/gui/beep/message
-quiet	2	18413
-amp	2	18413	64
-play	2	18413	/sounds/gui/beep/message
-quiet	2	18416
-amp	2	18416	64
-play	2	18416	/sounds/gui/beep/message
-quiet	2	18419
-amp	2	18419	64
-play	2	18419	/sounds/gui/beep/message
-quiet	2	18422
-amp	2	18422	64
-play	2	18422	/sounds/gui/beep/message
-quiet	2	18425
-amp	2	18425	64
-play	2	18425	/sounds/gui/beep/message
-quiet	2	18428
-amp	2	18428	64
-play	2	18428	/sounds/gui/beep/message
-quiet	2	18431
-amp	2	18431	64
-play	2	18431	/sounds/gui/beep/message
-quiet	2	18434
-amp	2	18434	64
-play	2	18434	/sounds/gui/beep/message
-quiet	2	18437
-amp	2	18437	64
-play	2	18437	/sounds/gui/beep/message
-quiet	2	18440
-amp	2	18440	64
-play	2	18440	/sounds/gui/beep/message
-quiet	2	18443
-amp	2	18443	64
-play	2	18443	/sounds/gui/beep/message
-quiet	2	18446
-amp	2	18446	64
-play	2	18446	/sounds/gui/beep/message
-quiet	2	18449
-amp	2	18449	64
-play	2	18449	/sounds/gui/beep/message
-quiet	2	18452
-amp	2	18452	64
-play	2	18452	/sounds/gui/beep/message
-quiet	2	18455
-amp	2	18455	64
-play	2	18455	/sounds/gui/beep/message
-quiet	2	18458
-amp	2	18458	64
-play	2	18458	/sounds/gui/beep/message
-quiet	2	18461
-amp	2	18461	64
-play	2	18461	/sounds/gui/beep/message
-quiet	2	18464
-amp	2	18464	64
-play	2	18464	/sounds/gui/beep/message
-quiet	2	18467
-amp	2	18467	64
-play	2	18467	/sounds/gui/beep/message
-quiet	2	18470
-amp	2	18470	64
-play	2	18470	/sounds/gui/beep/message
-quiet	2	18473
-amp	2	18473	64
-play	2	18473	/sounds/gui/beep/message
-quiet	2	18476
-amp	2	18476	64
-play	2	18476	/sounds/gui/beep/message
-quiet	2	18479
-amp	2	18479	64
-play	2	18479	/sounds/gui/beep/message
-quiet	2	18482
-amp	2	18482	64
-play	2	18482	/sounds/gui/beep/message
-quiet	2	18485
-amp	2	18485	64
-play	2	18485	/sounds/gui/beep/message
-quiet	2	18488
-amp	2	18488	64
-play	2	18488	/sounds/gui/beep/message
-quiet	2	18491
-amp	2	18491	64
-play	2	18491	/sounds/gui/beep/message
-quiet	2	18494
-amp	2	18494	64
-play	2	18494	/sounds/gui/beep/message
-quiet	2	18497
-amp	2	18497	64
-play	2	18497	/sounds/gui/beep/message
-quiet	2	18500
-amp	2	18500	64
-play	2	18500	/sounds/gui/beep/message
-quiet	2	18503
-amp	2	18503	64
-play	2	18503	/sounds/gui/beep/message
-quiet	2	18506
-amp	2	18506	64
-play	2	18506	/sounds/gui/beep/message
-quiet	2	18509
-amp	2	18509	64
-play	2	18509	/sounds/gui/beep/message
-quiet	2	18512
-amp	2	18512	64
-play	2	18512	/sounds/gui/beep/message
-quiet	2	18515
-amp	2	18515	64
-play	2	18515	/sounds/gui/beep/message
-quiet	2	18518
-amp	2	18518	64
-play	2	18518	/sounds/gui/beep/message
-quiet	2	18521
-amp	2	18521	64
-play	2	18521	/sounds/gui/beep/message
-quiet	2	18524
-amp	2	18524	64
-play	2	18524	/sounds/gui/beep/message
-quiet	2	18527
-amp	2	18527	64
-play	2	18527	/sounds/gui/beep/message
-quiet	2	18530
-amp	2	18530	64
-play	2	18530	/sounds/gui/beep/message
-quiet	2	18533
-amp	2	18533	64
-play	2	18533	/sounds/gui/beep/message
-quiet	2	18536
-amp	2	18536	64
-play	2	18536	/sounds/gui/beep/message
-quiet	2	18539
-amp	2	18539	64
-play	2	18539	/sounds/gui/beep/message
-quiet	2	18542
-amp	2	18542	64
-play	2	18542	/sounds/gui/beep/message
-quiet	2	18545
-amp	2	18545	64
-play	2	18545	/sounds/gui/beep/message
-quiet	2	18548
-amp	2	18548	64
-play	2	18548	/sounds/gui/beep/message
-quiet	2	18551
-amp	2	18551	64
-play	2	18551	/sounds/gui/beep/message
-quiet	2	18554
-amp	2	18554	64
-play	2	18554	/sounds/gui/beep/message
-quiet	2	18557
-amp	2	18557	64
-play	2	18557	/sounds/gui/beep/message
-quiet	2	18560
-amp	2	18560	64
-play	2	18560	/sounds/gui/beep/message
-quiet	2	18563
-amp	2	18563	64
-play	2	18563	/sounds/gui/beep/message
-quiet	2	18566
-amp	2	18566	64
-play	2	18566	/sounds/gui/beep/message
-quiet	2	18569
-amp	2	18569	64
-play	2	18569	/sounds/gui/beep/message
-quiet	2	18572
-amp	2	18572	64
-play	2	18572	/sounds/gui/beep/message
-quiet	2	18575
-amp	2	18575	64
-play	2	18575	/sounds/gui/beep/message
-quiet	2	18578
-amp	2	18578	64
-play	2	18578	/sounds/gui/beep/message
-quiet	2	18581
-amp	2	18581	64
-play	2	18581	/sounds/gui/beep/message
-quiet	2	18584
-amp	2	18584	64
-play	2	18584	/sounds/gui/beep/message
-quiet	2	18587
-amp	2	18587	64
-play	2	18587	/sounds/gui/beep/message
-quiet	2	18590
-amp	2	18590	64
-play	2	18590	/sounds/gui/beep/message
-quiet	2	18593
-amp	2	18593	64
-play	2	18593	/sounds/gui/beep/message
-quiet	2	18596
-amp	2	18596	64
-play	2	18596	/sounds/gui/beep/message
-quiet	2	18599
-amp	2	18599	64
-play	2	18599	/sounds/gui/beep/message
-quiet	2	18602
-amp	2	18602	64
-play	2	18602	/sounds/gui/beep/message
-quiet	2	18605
-amp	2	18605	64
-play	2	18605	/sounds/gui/beep/message
-quiet	2	18608
-amp	2	18608	64
-play	2	18608	/sounds/gui/beep/message
-quiet	2	18611
-amp	2	18611	64
-play	2	18611	/sounds/gui/beep/message
-quiet	1	18747
-amp	1	18747	128
-play	1	18747	/sounds/gui/beep/button
-quiet	1	18813
-amp	1	18813	128
-play	1	18813	/sounds/gui/beep/button
-quiet	0	18882
-amp	0	18882	255
-play	0	18882	/sounds/sfx/warp/charge/1
-quiet	1	18906
-amp	1	18906	255
-play	1	18906	/sounds/sfx/warp/charge/2
-quiet	2	18930
-amp	2	18930	255
-play	2	18930	/sounds/sfx/warp/charge/3
-quiet	0	18957
-amp	0	18957	255
-play	0	18957	/sounds/sfx/warp/charge/4
-quiet	1	18981
-amp	1	18981	255
-play	1	18981	/sounds/sfx/warp/in
-quiet	2	18996
-amp	2	18996	59
-play	2	18996	/sounds/sfx/explosion/energy
-quiet	2	19053
-amp	2	19053	128
-play	2	19053	/sounds/gui/beep/button
-quiet	2	19062
-amp	2	19062	128
-play	2	19062	/sounds/gui/beep/button
-quiet	2	19176
-amp	2	19176	41
-play	2	19176	/sounds/sfx/warp/out
-quiet	2	19218
-amp	2	19218	255
-play	2	19218	/sounds/sfx/warp/out
-quiet	0	19245
-amp	0	19245	128
-play	0	19245	/sounds/gui/beep/button
-quiet	0	19254
-amp	0	19254	128
-play	0	19254	/sounds/gui/beep/button
-quiet	1	19318
-amp	1	19318	128
-play	1	19318	/sounds/gui/beep/zoom
-quiet	0	19401
-amp	0	19401	192
-play	0	19401	/sounds/gui/beep/select
-quiet	0	19425
-amp	0	19425	192
-play	0	19425	/sounds/gui/beep/select
-quiet	0	19449
-amp	0	19449	192
-play	0	19449	/sounds/gui/beep/select
-quiet	2	19593
-amp	2	19593	255
-play	2	19593	/sounds/sfx/warp/out
-quiet	2	19611
-amp	2	19611	255
-play	2	19611	/sounds/sfx/warp/out
-quiet	0	20058
-amp	0	20058	192
-play	0	20058	/sounds/gui/beep/select
-quiet	0	20082
-amp	0	20082	192
-play	0	20082	/sounds/gui/beep/select
-quiet	0	21858
-amp	0	21858	255
-play	0	21858	/sounds/tpl/transport/land
-quiet	0	21885
-amp	0	21885	255
-play	0	21885	/sounds/tpl/transport/land
-quiet	0	21900
-amp	0	21900	255
-play	0	21900	/sounds/tpl/transport/land
-quiet	0	21912
-amp	0	21912	255
-play	0	21912	/sounds/tpl/transport/land
-quiet	0	21945
-amp	0	21945	255
-play	0	21945	/sounds/tpl/transport/land
-quiet	0	22044
-amp	0	22044	255
-play	0	22044	/sounds/tpl/transport/land
-quiet	0	22050
-amp	0	22050	255
-play	0	22050	/sounds/tpl/transport/land
-quiet	0	22059
-amp	0	22059	255
-play	0	22059	/sounds/tpl/transport/land
-quiet	0	22080
-amp	0	22080	255
-play	0	22080	/sounds/tpl/transport/land
-quiet	0	22113
-amp	0	22113	255
-play	0	22113	/sounds/tpl/transport/land
-quiet	0	22500
-quiet	1	22500
-quiet	2	22500
-quiet	3	22500
+0	3	quiet
+0	3	loop	music	255	freds-theme
+0	3	quiet
+0	3	quiet
+0	3	loop	music	215	technobee
+1	0	play	sound	128	gui/beep/zoom
+81	0	play	sound	255	sfx/warp/charge/1
+105	1	play	sound	255	sfx/warp/charge/2
+129	2	play	sound	255	sfx/warp/charge/3
+156	0	play	sound	255	sfx/warp/charge/4
+180	1	play	sound	255	sfx/warp/in
+540	2	play	sound	130	dev/magno
+579	0	play	sound	128	gui/beep/zoom
+600	0	play	sound	255	sfx/warp/out
+666	2	play	sound	241	dev/magno
+768	1	play	sound	128	gui/beep/zoom
+810	1	play	sound	255	sfx/warp/charge/1
+834	2	play	sound	255	sfx/warp/charge/2
+858	0	play	sound	255	sfx/warp/charge/3
+885	1	play	sound	255	sfx/warp/charge/4
+909	2	play	sound	255	sfx/warp/in
+924	0	play	sound	128	gui/beep/zoom
+939	0	play	sound	128	gui/beep/zoom
+957	0	play	sound	141	dev/magno
+988	1	play	sound	128	gui/beep/zoom
+1038	0	play	sound	255	sfx/warp/out
+1066	1	play	sound	128	gui/beep/zoom
+1083	1	play	sound	137	dev/magno
+1092	2	play	sound	128	gui/beep/zoom
+1129	2	play	sound	128	gui/beep/zoom
+1179	1	play	sound	255	sfx/warp/charge/1
+1203	2	play	sound	255	sfx/warp/charge/2
+1227	0	play	sound	255	sfx/warp/charge/3
+1254	1	play	sound	255	sfx/warp/charge/4
+1278	2	play	sound	255	sfx/warp/in
+1707	0	play	sound	255	sfx/warp/out
+1782	1	play	sound	255	dev/onas
+1797	1	play	sound	255	dev/onas
+1896	1	play	sound	255	dev/onas
+1911	1	play	sound	255	dev/onas
+1926	1	play	sound	255	dev/onas
+1941	1	play	sound	255	dev/onas
+1944	0	play	sound	226	sfx/explosion/gas
+1956	1	play	sound	255	dev/onas
+1956	0	play	sound	231	sfx/explosion/gas
+1971	1	play	sound	255	dev/onas
+1971	0	play	sound	232	sfx/explosion/gas
+1983	0	play	sound	239	sfx/explosion/gas
+1986	2	play	sound	128	gui/beep/zoom
+1998	2	play	sound	238	sfx/explosion/gas
+2010	0	play	sound	245	sfx/explosion/gas
+2022	1	play	sound	255	dev/onas
+2037	1	play	sound	255	dev/onas
+2133	1	play	sound	255	dev/onas
+2148	1	play	sound	255	dev/onas
+2160	0	play	sound	255	sfx/explosion/gas
+2163	1	play	sound	255	dev/onas
+2178	1	play	sound	255	dev/onas
+2187	0	play	sound	255	sfx/explosion/gas
+2193	1	play	sound	255	dev/onas
+2202	0	play	sound	255	sfx/explosion/gas
+2217	0	play	sound	255	sfx/explosion/gas
+2256	1	play	sound	255	dev/onas
+2271	1	play	sound	255	dev/onas
+2280	0	play	sound	255	sfx/explosion/gas
+2295	0	play	sound	255	sfx/explosion/gas
+2495	2	play	sound	128	gui/beep/zoom
+2682	1	play	sound	128	gui/beep/button
+2691	1	play	sound	128	gui/beep/button
+2775	1	play	sound	128	gui/beep/button
+2787	1	play	sound	128	gui/beep/button
+2985	1	play	sound	255	dev/onas
+3000	1	play	sound	255	dev/onas
+3015	1	play	sound	255	dev/onas
+3030	1	play	sound	255	dev/onas
+3045	1	play	sound	255	dev/onas
+3060	1	play	sound	255	dev/onas
+3075	1	play	sound	255	dev/onas
+3090	1	play	sound	255	dev/onas
+3105	1	play	sound	255	dev/onas
+3120	1	play	sound	255	dev/onas
+3135	1	play	sound	255	dev/onas
+3147	2	play	sound	250	sfx/explosion/gas
+3150	1	play	sound	255	dev/onas
+3152	0	play	sound	128	gui/beep/zoom
+3159	2	play	sound	255	sfx/explosion/gas
+3165	1	play	sound	255	dev/onas
+3171	2	play	sound	255	sfx/explosion/gas
+3180	1	play	sound	255	dev/onas
+3195	1	play	sound	255	dev/onas
+3210	1	play	sound	255	dev/onas
+3225	1	play	sound	255	dev/onas
+3231	2	play	sound	255	sfx/explosion/gas
+3240	1	play	sound	255	dev/onas
+3246	2	play	sound	255	sfx/explosion/gas
+3255	1	play	sound	255	dev/onas
+3258	2	play	sound	255	sfx/explosion/gas
+3276	2	play	sound	255	sfx/explosion/gas
+3348	1	play	sound	255	dev/onas
+3363	1	play	sound	255	dev/onas
+3369	2	play	sound	255	sfx/explosion/gas
+3378	1	play	sound	255	dev/onas
+3384	2	play	sound	255	sfx/explosion/gas
+3393	1	play	sound	255	dev/onas
+3408	1	play	sound	255	dev/onas
+3414	2	play	sound	255	sfx/explosion/gas
+3423	1	play	sound	255	dev/onas
+3429	2	play	sound	255	sfx/explosion/gas
+3438	1	play	sound	255	dev/onas
+3444	2	play	sound	255	sfx/explosion/gas
+3459	2	play	sound	255	sfx/explosion/gas
+3465	1	play	sound	255	dev/onas
+3480	1	play	sound	255	dev/onas
+3486	2	play	sound	255	sfx/explosion/gas
+3504	2	play	sound	255	sfx/explosion/gas
+3718	0	play	sound	128	gui/beep/zoom
+3753	0	play	sound	255	sfx/warp/charge/1
+3768	1	play	sound	128	gui/beep/button
+3774	1	play	sound	128	gui/beep/button
+3777	1	play	sound	255	sfx/warp/charge/2
+3801	2	play	sound	255	sfx/warp/charge/3
+3828	0	play	sound	255	sfx/warp/charge/4
+3852	1	play	sound	255	sfx/warp/in
+3981	2	play	sound	255	sfx/warp/out
+4203	0	play	sound	128	gui/beep/button
+4215	0	play	sound	128	gui/beep/button
+4382	1	play	sound	128	gui/beep/zoom
+4386	0	play	sound	255	dev/onas
+4401	0	play	sound	255	dev/onas
+4416	0	play	sound	255	dev/onas
+4422	1	play	sound	255	sfx/explosion/gas
+4566	0	play	sound	255	dev/onas
+4581	0	play	sound	255	dev/onas
+4605	0	play	sound	255	dev/onas
+4626	0	play	sound	255	dev/onas
+4641	0	play	sound	255	dev/onas
+4683	0	play	sound	255	dev/onas
+4707	1	play	sound	255	sfx/explosion/gas
+4710	0	play	sound	255	dev/onas
+4734	1	play	sound	255	sfx/explosion/gas
+4908	2	play	sound	128	gui/beep/button
+4947	0	play	sound	128	gui/beep/zoom
+4998	2	play	sound	128	gui/beep/button
+5004	2	play	sound	128	gui/beep/button
+5028	2	play	sound	128	gui/beep/button
+5340	2	play	sound	128	gui/beep/button
+5471	0	play	sound	128	gui/beep/zoom
+5481	0	play	sound	255	dev/onas
+5496	0	play	sound	255	dev/onas
+5511	0	play	sound	255	dev/onas
+5526	0	play	sound	255	dev/onas
+5541	0	play	sound	255	dev/onas
+5556	0	play	sound	255	dev/onas
+5571	0	play	sound	255	dev/onas
+5583	1	play	sound	255	sfx/explosion/gas
+5598	1	play	sound	255	sfx/explosion/gas
+5679	2	play	sound	128	gui/beep/button
+5709	2	play	sound	128	gui/beep/button
+5727	2	play	sound	128	gui/beep/button
+5739	2	play	sound	128	gui/beep/button
+5745	2	play	sound	128	gui/beep/button
+5794	0	play	sound	128	gui/beep/zoom
+5856	2	play	sound	128	gui/beep/button
+5865	2	play	sound	128	gui/beep/button
+5910	2	play	sound	128	gui/beep/button
+5912	0	play	sound	128	gui/beep/zoom
+5919	2	play	sound	128	gui/beep/button
+5927	0	play	sound	128	gui/beep/zoom
+6006	2	play	sound	128	gui/beep/button
+6015	2	play	sound	128	gui/beep/button
+6081	0	play	sound	255	dev/onas
+6096	0	play	sound	255	dev/onas
+6111	0	play	sound	255	dev/onas
+6126	0	play	sound	255	dev/onas
+6141	0	play	sound	255	dev/onas
+6156	0	play	sound	255	dev/onas
+6171	0	play	sound	255	dev/onas
+6186	0	play	sound	255	dev/onas
+6201	0	play	sound	255	dev/onas
+6216	0	play	sound	255	dev/onas
+6231	0	play	sound	255	dev/onas
+6246	0	play	sound	255	dev/onas
+6258	2	play	sound	233	sfx/explosion/gas
+6261	0	play	sound	255	dev/onas
+6269	1	play	sound	128	gui/beep/zoom
+6276	0	play	sound	255	dev/onas
+6396	0	play	sound	255	dev/onas
+6441	0	play	sound	255	dev/onas
+6453	1	play	sound	126	dev/magno
+6459	2	play	sound	255	sfx/explosion/gas
+6567	2	play	sound	255	sfx/explosion/gas
+6579	1	play	sound	165	dev/magno
+6696	2	play	sound	255	sfx/explosion/gas
+6705	1	play	sound	205	dev/magno
+6753	1	play	sound	246	sfx/explosion/gas
+6822	0	play	sound	193	sfx/explosion/large
+6831	0	play	sound	198	dev/magno
+6842	2	play	sound	64	gui/beep/message
+6845	2	play	sound	64	gui/beep/message
+6846	2	play	sound	128	gui/beep/zoom
+6848	1	play	sound	64	gui/beep/message
+6851	1	play	sound	64	gui/beep/message
+6854	1	play	sound	64	gui/beep/message
+6857	1	play	sound	64	gui/beep/message
+6860	1	play	sound	64	gui/beep/message
+6863	1	play	sound	64	gui/beep/message
+6864	1	play	sound	169	sfx/explosion/gas
+6866	0	play	sound	64	gui/beep/message
+6869	0	play	sound	64	gui/beep/message
+6872	0	play	sound	64	gui/beep/message
+6875	0	play	sound	64	gui/beep/message
+6878	0	play	sound	64	gui/beep/message
+6881	0	play	sound	64	gui/beep/message
+6884	0	play	sound	64	gui/beep/message
+6887	0	play	sound	64	gui/beep/message
+6890	0	play	sound	64	gui/beep/message
+6893	0	play	sound	64	gui/beep/message
+6896	0	play	sound	64	gui/beep/message
+6899	0	play	sound	64	gui/beep/message
+6902	0	play	sound	64	gui/beep/message
+6905	0	play	sound	64	gui/beep/message
+6908	0	play	sound	64	gui/beep/message
+6911	0	play	sound	64	gui/beep/message
+6914	0	play	sound	64	gui/beep/message
+6915	0	play	sound	199	sfx/energy
+6917	2	play	sound	64	gui/beep/message
+6918	0	play	sound	201	sfx/energy
+6920	2	play	sound	64	gui/beep/message
+6923	2	play	sound	64	gui/beep/message
+6926	2	play	sound	64	gui/beep/message
+6927	0	play	sound	206	sfx/energy
+6929	2	play	sound	64	gui/beep/message
+6929	2	play	sound	128	gui/beep/zoom
+6932	1	play	sound	64	gui/beep/message
+6935	1	play	sound	64	gui/beep/message
+6938	1	play	sound	64	gui/beep/message
+6941	1	play	sound	64	gui/beep/message
+6944	1	play	sound	64	gui/beep/message
+6947	1	play	sound	64	gui/beep/message
+6950	1	play	sound	64	gui/beep/message
+6953	1	play	sound	64	gui/beep/message
+6956	1	play	sound	64	gui/beep/message
+6959	1	play	sound	64	gui/beep/message
+6962	1	play	sound	64	gui/beep/message
+6963	0	play	sound	255	dev/onas
+6965	1	play	sound	64	gui/beep/message
+6966	1	play	sound	215	sfx/energy
+6968	2	play	sound	64	gui/beep/message
+6971	2	play	sound	64	gui/beep/message
+6974	2	play	sound	64	gui/beep/message
+6977	2	play	sound	64	gui/beep/message
+6978	2	play	sound	213	dev/magno
+6978	0	play	sound	255	dev/onas
+6980	1	play	sound	64	gui/beep/message
+6983	1	play	sound	64	gui/beep/message
+6986	1	play	sound	64	gui/beep/message
+6989	1	play	sound	64	gui/beep/message
+6992	1	play	sound	64	gui/beep/message
+6993	0	play	sound	255	dev/onas
+6995	1	play	sound	64	gui/beep/message
+6998	1	play	sound	64	gui/beep/message
+7001	1	play	sound	64	gui/beep/message
+7004	1	play	sound	64	gui/beep/message
+7007	1	play	sound	64	gui/beep/message
+7008	0	play	sound	255	dev/onas
+7010	1	play	sound	64	gui/beep/message
+7013	1	play	sound	64	gui/beep/message
+7016	1	play	sound	64	gui/beep/message
+7019	1	play	sound	64	gui/beep/message
+7022	1	play	sound	64	gui/beep/message
+7023	0	play	sound	255	dev/onas
+7025	1	play	sound	64	gui/beep/message
+7028	1	play	sound	64	gui/beep/message
+7031	1	play	sound	64	gui/beep/message
+7032	1	play	sound	255	sfx/explosion/gas
+7034	2	play	sound	64	gui/beep/message
+7037	2	play	sound	64	gui/beep/message
+7038	0	play	sound	255	dev/onas
+7040	2	play	sound	64	gui/beep/message
+7043	2	play	sound	64	gui/beep/message
+7046	2	play	sound	64	gui/beep/message
+7047	1	play	sound	255	sfx/explosion/gas
+7049	2	play	sound	64	gui/beep/message
+7052	2	play	sound	64	gui/beep/message
+7053	0	play	sound	255	dev/onas
+7055	2	play	sound	64	gui/beep/message
+7058	2	play	sound	64	gui/beep/message
+7061	2	play	sound	64	gui/beep/message
+7062	1	play	sound	255	sfx/explosion/gas
+7064	2	play	sound	64	gui/beep/message
+7065	2	play	sound	149	sfx/explosion/energy
+7067	0	play	sound	64	gui/beep/message
+7068	0	play	sound	255	dev/onas
+7077	1	play	sound	255	sfx/explosion/gas
+7077	1	play	sound	255	sfx/explosion/gas
+7079	0	play	sound	64	gui/beep/message
+7082	0	play	sound	64	gui/beep/message
+7085	0	play	sound	64	gui/beep/message
+7088	0	play	sound	64	gui/beep/message
+7091	0	play	sound	64	gui/beep/message
+7094	0	play	sound	64	gui/beep/message
+7097	0	play	sound	64	gui/beep/message
+7100	0	play	sound	64	gui/beep/message
+7103	0	play	sound	64	gui/beep/message
+7104	0	play	sound	163	dev/magno
+7106	2	play	sound	64	gui/beep/message
+7109	2	play	sound	64	gui/beep/message
+7112	2	play	sound	64	gui/beep/message
+7115	2	play	sound	64	gui/beep/message
+7118	2	play	sound	64	gui/beep/message
+7121	2	play	sound	64	gui/beep/message
+7124	2	play	sound	64	gui/beep/message
+7127	2	play	sound	64	gui/beep/message
+7130	2	play	sound	64	gui/beep/message
+7133	2	play	sound	64	gui/beep/message
+7136	2	play	sound	64	gui/beep/message
+7139	2	play	sound	64	gui/beep/message
+7142	2	play	sound	64	gui/beep/message
+7145	2	play	sound	64	gui/beep/message
+7148	2	play	sound	64	gui/beep/message
+7151	2	play	sound	64	gui/beep/message
+7154	2	play	sound	64	gui/beep/message
+7157	2	play	sound	64	gui/beep/message
+7160	2	play	sound	64	gui/beep/message
+7163	2	play	sound	64	gui/beep/message
+7173	2	play	sound	128	gui/beep/button
+7182	2	play	sound	128	gui/beep/button
+7203	0	play	sound	255	dev/pk/sal
+7206	1	play	sound	255	sfx/explosion/gas
+7212	2	play	sound	255	dev/onas
+7221	0	play	sound	255	sfx/explosion/energy
+7227	2	play	sound	255	dev/onas
+7233	1	play	sound	255	sfx/explosion/gas
+7242	2	play	sound	255	dev/onas
+7246	0	play	sound	128	gui/beep/zoom
+7248	1	play	sound	255	sfx/explosion/gas
+7257	2	play	sound	255	dev/onas
+7263	1	play	sound	255	sfx/explosion/gas
+7272	2	play	sound	255	dev/onas
+7281	1	play	sound	255	sfx/explosion/gas
+7341	1	play	sound	255	sfx/explosion/gas
+7356	0	play	sound	131	dev/magno
+7410	2	play	sound	255	dev/onas
+7425	2	play	sound	255	dev/onas
+7437	1	play	sound	255	sfx/explosion/gas
+7440	2	play	sound	255	dev/onas
+7452	1	play	sound	255	sfx/explosion/gas
+7464	1	play	sound	255	sfx/explosion/gas
+7467	1	play	sound	255	sfx/explosion/gas
+7482	0	play	sound	134	dev/magno
+7488	2	play	sound	255	dev/onas
+7503	2	play	sound	255	dev/onas
+7518	2	play	sound	255	dev/onas
+7518	1	play	sound	255	sfx/explosion/gas
+7533	1	play	sound	255	sfx/explosion/gas
+7548	1	play	sound	255	sfx/explosion/gas
+7581	0	play	sound	252	sfx/explosion/gas
+7608	2	play	sound	159	dev/magno
+7677	0	play	sound	255	dev/onas
+7683	1	play	sound	255	sfx/explosion/gas
+7692	0	play	sound	255	dev/onas
+7704	1	play	sound	255	sfx/explosion/gas
+7719	1	play	sound	255	sfx/explosion/gas
+7734	2	play	sound	177	dev/magno
+7818	0	play	sound	255	dev/onas
+7833	0	play	sound	255	dev/onas
+7845	1	play	sound	255	sfx/explosion/gas
+7848	0	play	sound	255	dev/onas
+7857	1	play	sound	255	sfx/explosion/gas
+7860	2	play	sound	176	dev/magno
+7863	0	play	sound	255	dev/onas
+7875	1	play	sound	255	sfx/explosion/gas
+7878	0	play	sound	255	dev/onas
+7887	1	play	sound	255	sfx/explosion/gas
+7893	0	play	sound	255	dev/onas
+7902	1	play	sound	255	sfx/explosion/gas
+7908	0	play	sound	255	dev/onas
+7920	1	play	sound	255	sfx/explosion/gas
+7923	0	play	sound	255	dev/onas
+7938	0	play	sound	255	dev/onas
+7938	1	play	sound	255	sfx/explosion/gas
+7953	0	play	sound	255	dev/onas
+7953	1	play	sound	255	sfx/explosion/gas
+7965	2	play	sound	249	sfx/explosion/gas
+7968	0	play	sound	255	dev/onas
+7986	0	play	sound	146	dev/magno
+8022	0	play	sound	255	dev/onas
+8037	0	play	sound	255	dev/onas
+8055	2	play	sound	254	sfx/explosion/gas
+8091	0	play	sound	242	sfx/explosion/gas
+8112	1	play	sound	111	dev/magno
+8115	0	play	sound	255	dev/onas
+8148	2	play	sound	255	sfx/explosion/gas
+8163	0	play	sound	255	dev/onas
+8199	1	play	sound	248	sfx/explosion/gas
+8205	0	play	sound	255	dev/onas
+8229	0	play	sound	243	sfx/explosion/gas
+8238	2	play	sound	93	dev/magno
+8241	0	play	sound	248	sfx/explosion/gas
+8301	2	play	sound	128	gui/beep/button
+8302	1	play	sound	128	gui/beep/zoom
+8358	0	play	sound	255	sfx/explosion/gas
+8364	1	play	sound	109	dev/magno
+8478	1	play	sound	252	sfx/explosion/gas
+8490	2	play	sound	121	dev/magno
+8586	0	play	sound	255	sfx/explosion/gas
+8616	2	play	sound	176	dev/magno
+8658	1	play	sound	128	gui/beep/button
+8682	0	play	sound	255	sfx/explosion/gas
+8722	2	play	sound	128	gui/beep/zoom
+8742	1	play	sound	238	dev/magno
+8763	0	play	sound	255	sfx/explosion/gas
+8766	1	play	sound	255	sfx/explosion/large
+8880	2	play	sound	255	sfx/explosion/small
+8901	1	play	sound	255	sfx/explosion/energy
+8901	1	play	sound	255	sfx/explosion/energy
+8901	1	play	sound	255	sfx/explosion/energy
+8922	1	play	sound	255	sfx/explosion/large
+8943	2	play	sound	255	sfx/explosion/small
+8961	1	play	sound	255	sfx/explosion/large
+8973	0	play	sound	255	sfx/energy
+8976	0	play	sound	255	sfx/energy
+8976	0	play	sound	255	sfx/energy
+8976	0	play	sound	255	sfx/energy
+8976	0	play	sound	255	sfx/energy
+8979	0	play	sound	255	sfx/energy
+8979	0	play	sound	255	sfx/energy
+8982	0	play	sound	255	sfx/energy
+8985	0	play	sound	255	sfx/energy
+9003	0	play	sound	255	sfx/energy
+9006	0	play	sound	255	sfx/energy
+9006	0	play	sound	255	sfx/energy
+9012	1	play	sound	255	sfx/explosion/large
+9012	1	play	sound	255	sfx/explosion/large
+9015	0	play	sound	255	sfx/energy
+9054	2	play	sound	255	sfx/explosion/small
+9054	2	play	sound	255	sfx/explosion/small
+9054	2	play	sound	255	sfx/explosion/small
+9099	1	play	sound	255	sfx/explosion/large
+9141	0	play	sound	245	sfx/explosion/small
+9159	0	play	sound	254	sfx/explosion/large
+9159	2	play	sound	234	sfx/explosion/large
+9180	2	play	sound	251	sfx/explosion/large
+9201	1	play	sound	221	sfx/explosion/small
+9249	1	play	sound	244	sfx/explosion/large
+9291	2	play	sound	229	sfx/explosion/small
+9291	0	play	sound	227	sfx/explosion/small
+9321	1	play	sound	250	sfx/explosion/large
+9321	0	play	sound	247	sfx/explosion/large
+9363	2	play	sound	255	sfx/explosion/small
+9363	2	play	sound	255	sfx/explosion/small
+9363	0	play	sound	252	sfx/explosion/small
+9384	0	play	sound	255	sfx/explosion/energy
+9384	0	play	sound	255	sfx/explosion/energy
+9384	0	play	sound	255	sfx/explosion/energy
+9390	1	play	sound	59	sfx/warp/out
+9408	1	play	sound	255	sfx/explosion/large
+9408	1	play	sound	255	sfx/explosion/large
+9414	2	play	sound	55	sfx/warp/out
+9429	1	play	sound	255	sfx/explosion/large
+9450	2	play	sound	255	sfx/explosion/small
+9450	2	play	sound	255	sfx/explosion/small
+9465	1	play	sound	255	sfx/explosion/large
+9465	1	play	sound	255	sfx/explosion/large
+9471	0	play	sound	255	sfx/explosion/energy
+9471	0	play	sound	255	sfx/explosion/energy
+9471	0	play	sound	255	sfx/explosion/energy
+9489	1	play	sound	255	sfx/explosion/large
+9534	2	play	sound	65	sfx/warp/out
+9543	0	play	sound	60	sfx/warp/out
+9552	0	play	sound	75	sfx/warp/out
+9573	1	play	sound	62	sfx/warp/out
+9723	0	play	sound	129	dev/cm
+9753	1	play	sound	128	dev/cm
+9795	0	play	sound	155	dev/cm
+9801	1	play	sound	129	dev/cm
+9825	1	play	sound	146	dev/cm
+9828	2	play	sound	129	dev/cm
+9867	0	play	sound	161	dev/cm
+9873	1	play	sound	155	dev/cm
+9894	0	play	sound	255	dev/onas
+9897	2	play	sound	154	dev/cm
+9897	1	play	sound	255	dev/pk/sal
+9909	0	play	sound	255	dev/onas
+9915	1	play	sound	255	dev/pk/sal
+9924	0	play	sound	130	dev/cm
+9924	0	play	sound	255	dev/onas
+9933	1	play	sound	255	dev/pk/sal
+9939	2	play	sound	128	dev/cm
+9939	2	play	sound	169	dev/cm
+9939	0	play	sound	255	dev/onas
+9945	2	play	sound	184	dev/cm
+9951	1	play	sound	255	dev/pk/sal
+9954	0	play	sound	255	dev/onas
+9954	2	play	sound	255	sfx/explosion/energy
+9966	2	play	sound	255	sfx/explosion/energy
+9966	0	play	sound	255	sfx/explosion/gas
+9969	1	play	sound	177	dev/cm
+9969	1	play	sound	255	dev/onas
+9969	1	play	sound	235	sfx/explosion/gas
+9984	1	play	sound	255	dev/onas
+9987	2	play	sound	255	dev/pk/sal
+9996	1	play	sound	163	dev/cm
+9999	1	play	sound	255	dev/onas
+10005	2	play	sound	255	dev/pk/sal
+10011	0	play	sound	159	dev/cm
+10011	0	play	sound	183	dev/cm
+10014	1	play	sound	255	dev/onas
+10017	0	play	sound	212	dev/cm
+10017	0	play	sound	230	sfx/explosion/energy
+10017	2	play	sound	223	sfx/explosion/energy
+10023	0	play	sound	255	dev/pk/sal
+10029	1	play	sound	255	dev/onas
+10035	0	play	sound	219	sfx/explosion/gas
+10041	2	play	sound	191	dev/cm
+10041	0	play	sound	255	dev/pk/sal
+10041	2	play	sound	255	sfx/explosion/energy
+10041	0	play	sound	255	sfx/explosion/gas
+10044	1	play	sound	212	dev/cm
+10044	1	play	sound	255	dev/onas
+10050	1	play	sound	220	sfx/explosion/gas
+10059	1	play	sound	255	dev/onas
+10068	2	play	sound	190	dev/cm
+10074	1	play	sound	255	dev/onas
+10077	2	play	sound	255	dev/pk/sal
+10083	0	play	sound	188	dev/cm
+10083	0	play	sound	195	dev/cm
+10089	0	play	sound	224	dev/cm
+10089	1	play	sound	255	dev/onas
+10092	0	play	sound	255	sfx/explosion/energy
+10092	0	play	sound	255	sfx/explosion/gas
+10095	2	play	sound	255	dev/pk/sal
+10101	1	play	sound	255	sfx/explosion/energy
+10101	0	play	sound	255	sfx/explosion/gas
+10110	1	play	sound	255	sfx/explosion/energy
+10110	1	play	sound	255	sfx/explosion/energy
+10113	2	play	sound	215	dev/cm
+10113	2	play	sound	255	dev/pk/sal
+10131	2	play	sound	255	dev/pk/sal
+10134	1	play	sound	255	dev/onas
+10134	0	play	sound	255	sfx/explosion/energy
+10134	0	play	sound	255	sfx/explosion/energy
+10149	1	play	sound	255	dev/onas
+10149	2	play	sound	255	dev/pk/sal
+10149	0	play	sound	255	sfx/explosion/energy
+10149	0	play	sound	249	sfx/explosion/gas
+10161	0	play	sound	255	dev/cm
+10161	0	play	sound	255	sfx/explosion/gas
+10161	1	play	sound	255	sfx/explosion/energy
+10161	0	play	sound	255	sfx/explosion/gas
+10161	0	play	sound	255	sfx/explosion/gas
+10161	1	play	sound	255	sfx/explosion/energy
+10164	2	play	sound	255	dev/stealth/on
+10185	1	play	sound	255	dev/pk/sal
+10188	2	play	sound	255	dev/cm
+10194	0	play	sound	255	dev/onas
+10203	1	play	sound	255	dev/bay
+10206	0	play	sound	255	sfx/explosion/gas
+10212	2	play	sound	255	dev/cm
+10218	1	play	sound	255	dev/cluster
+10221	1	play	sound	255	dev/pk/sal
+10230	0	play	sound	255	sfx/explosion/gas
+10233	1	play	sound	255	dev/cluster
+10233	2	play	sound	255	dev/cm
+10236	1	play	sound	255	sfx/explosion/energy
+10251	1	play	sound	255	sfx/explosion/energy
+10251	0	play	sound	255	sfx/explosion/gas
+10257	0	play	sound	255	sfx/explosion/gas
+10266	1	play	sound	255	sfx/explosion/energy
+10269	2	play	sound	255	dev/onas
+10272	0	play	sound	255	sfx/explosion/gas
+10284	2	play	sound	255	dev/onas
+10284	1	play	sound	255	sfx/explosion/energy
+10287	0	play	sound	255	sfx/explosion/gas
+10299	2	play	sound	255	dev/onas
+10302	0	play	sound	255	sfx/explosion/gas
+10308	1	play	sound	255	dev/pk/can
+10311	2	play	sound	255	dev/pk/sal
+10320	0	play	sound	255	sfx/explosion/gas
+10323	1	play	sound	255	dev/cluster
+10329	1	play	sound	255	dev/onas
+10329	2	play	sound	255	dev/pk/sal
+10338	0	play	sound	255	sfx/explosion/gas
+10344	1	play	sound	255	dev/onas
+10344	2	play	sound	94	sfx/explosion/energy
+10347	2	play	sound	255	dev/pk/sal
+10353	0	play	sound	255	sfx/explosion/gas
+10359	1	play	sound	255	dev/onas
+10365	2	play	sound	255	dev/pk/sal
+10368	0	play	sound	255	sfx/explosion/gas
+10374	1	play	sound	255	dev/onas
+10380	2	play	sound	255	dev/cm
+10383	0	play	sound	255	sfx/explosion/gas
+10386	1	play	sound	255	sfx/explosion/energy
+10401	0	play	sound	255	sfx/explosion/gas
+10410	1	play	sound	95	sfx/explosion/energy
+10413	1	play	sound	255	sfx/explosion/energy
+10419	2	play	sound	255	dev/onas
+10419	0	play	sound	255	sfx/explosion/gas
+10431	2	play	sound	255	dev/cm
+10431	1	play	sound	255	sfx/explosion/energy
+10434	2	play	sound	255	dev/cm
+10434	0	play	sound	255	sfx/explosion/gas
+10446	1	play	sound	255	sfx/explosion/energy
+10449	0	play	sound	255	sfx/explosion/gas
+10461	1	play	sound	255	sfx/explosion/energy
+10467	0	play	sound	255	sfx/explosion/gas
+10473	2	play	sound	255	dev/pk/sal
+10476	0	play	sound	255	sfx/explosion/gas
+10476	1	play	sound	255	sfx/explosion/energy
+10485	2	play	sound	86	sfx/explosion/energy
+10491	2	play	sound	255	dev/pk/sal
+10491	0	play	sound	255	sfx/explosion/gas
+10494	1	play	sound	255	sfx/explosion/energy
+10503	2	play	sound	255	dev/pk/can
+10506	0	play	sound	255	sfx/explosion/gas
+10512	1	play	sound	255	sfx/explosion/energy
+10518	2	play	sound	224	sfx/explosion/energy
+10521	0	play	sound	255	sfx/explosion/gas
+10521	1	play	sound	255	sfx/explosion/energy
+10524	2	play	sound	255	dev/pk/can
+10530	1	play	sound	255	sfx/explosion/energy
+10539	2	play	sound	255	dev/onas
+10542	0	play	sound	255	sfx/explosion/gas
+10551	1	play	sound	255	sfx/explosion/energy
+10554	2	play	sound	255	dev/onas
+10554	0	play	sound	255	sfx/explosion/gas
+10566	2	play	sound	255	dev/pk/can
+10569	0	play	sound	255	sfx/explosion/gas
+10572	1	play	sound	255	sfx/explosion/energy
+10578	2	play	sound	255	dev/cm
+10587	0	play	sound	255	sfx/explosion/gas
+10599	1	play	sound	255	dev/pk/sal
+10605	1	play	sound	254	sfx/explosion/gas
+10620	2	play	sound	252	dev/cm
+10641	0	play	sound	230	dev/cm
+10647	0	play	sound	237	dev/cm
+10650	0	play	sound	249	dev/cm
+10674	0	play	sound	255	dev/onas
+10689	0	play	sound	255	dev/onas
+10692	1	play	sound	250	dev/cm
+10692	1	play	sound	255	sfx/explosion/small
+10692	2	play	sound	255	sfx/explosion/gas
+10704	0	play	sound	255	dev/onas
+10713	1	play	sound	250	dev/cm
+10719	0	play	sound	232	dev/cm
+10719	0	play	sound	255	dev/onas
+10734	0	play	sound	255	dev/onas
+10734	2	play	sound	255	sfx/explosion/gas
+10734	1	play	sound	255	sfx/explosion/energy
+10749	0	play	sound	255	dev/onas
+10755	0	play	sound	252	sfx/explosion/gas
+10761	1	play	sound	247	sfx/explosion/energy
+10761	0	play	sound	255	sfx/explosion/gas
+10764	1	play	sound	255	dev/onas
+10779	1	play	sound	255	dev/onas
+10782	2	play	sound	255	sfx/explosion/energy
+10782	0	play	sound	255	sfx/explosion/gas
+10794	1	play	sound	255	dev/onas
+10806	0	play	sound	255	sfx/explosion/gas
+10809	1	play	sound	255	dev/onas
+10821	0	play	sound	255	sfx/explosion/gas
+10824	1	play	sound	255	dev/onas
+10836	2	play	sound	249	dev/cm
+10839	1	play	sound	255	dev/onas
+10839	0	play	sound	255	sfx/explosion/gas
+10854	1	play	sound	255	dev/onas
+10854	0	play	sound	255	sfx/explosion/gas
+10869	1	play	sound	205	dev/cm
+10869	1	play	sound	255	dev/onas
+10872	0	play	sound	255	sfx/explosion/gas
+10884	1	play	sound	255	dev/onas
+10899	1	play	sound	255	dev/onas
+10914	1	play	sound	255	dev/onas
+10929	2	play	sound	224	dev/cm
+10929	1	play	sound	255	dev/onas
+10941	0	play	sound	166	dev/cm
+10944	1	play	sound	255	dev/onas
+10947	0	play	sound	255	sfx/explosion/gas
+10959	1	play	sound	255	dev/onas
+10962	0	play	sound	255	sfx/explosion/gas
+10965	2	play	sound	253	dev/cm
+10968	0	play	sound	255	sfx/explosion/gas
+10971	2	play	sound	255	dev/bay
+10974	1	play	sound	255	dev/onas
+10989	1	play	sound	255	dev/onas
+11001	2	play	sound	218	dev/cm
+11001	0	play	sound	255	sfx/explosion/gas
+11004	1	play	sound	255	dev/onas
+11019	1	play	sound	255	dev/onas
+11025	2	play	sound	255	sfx/explosion/energy
+11025	0	play	sound	255	sfx/explosion/gas
+11034	1	play	sound	255	dev/onas
+11046	1	play	sound	255	dev/cm
+11049	2	play	sound	255	dev/onas
+11052	1	play	sound	252	sfx/explosion/gas
+11064	2	play	sound	255	dev/onas
+11070	2	play	sound	243	sfx/explosion/gas
+11073	0	play	sound	201	dev/cm
+11079	0	play	sound	255	dev/onas
+11088	0	play	sound	235	sfx/explosion/gas
+11091	0	play	sound	236	dev/cm
+11094	0	play	sound	255	dev/onas
+11109	0	play	sound	255	dev/onas
+11118	1	play	sound	225	dev/cm
+11124	0	play	sound	255	dev/onas
+11136	2	play	sound	252	sfx/explosion/gas
+11139	0	play	sound	255	dev/onas
+11142	1	play	sound	248	dev/cm
+11154	0	play	sound	255	dev/onas
+11163	1	play	sound	255	dev/cm
+11169	0	play	sound	255	dev/onas
+11169	2	play	sound	255	sfx/explosion/gas
+11184	0	play	sound	255	dev/onas
+11199	0	play	sound	255	dev/onas
+11214	1	play	sound	255	dev/cm
+11214	0	play	sound	255	dev/onas
+11214	2	play	sound	255	sfx/explosion/gas
+11229	0	play	sound	255	dev/onas
+11238	1	play	sound	255	dev/cm
+11244	0	play	sound	255	dev/onas
+11247	0	play	sound	210	sfx/explosion/gas
+11259	0	play	sound	255	dev/cluster
+11259	0	play	sound	255	dev/onas
+11265	2	play	sound	209	dev/cm
+11265	2	play	sound	243	sfx/explosion/gas
+11265	0	play	sound	202	sfx/explosion/gas
+11274	0	play	sound	255	dev/cluster
+11274	2	play	sound	255	dev/onas
+11274	0	play	sound	255	sfx/explosion/energy
+11274	0	play	sound	255	sfx/explosion/gas
+11280	1	play	sound	244	sfx/explosion/gas
+11286	2	play	sound	232	dev/cm
+11289	1	play	sound	255	dev/cluster
+11289	2	play	sound	255	dev/onas
+11295	0	play	sound	255	sfx/explosion/gas
+11304	1	play	sound	255	dev/cluster
+11304	2	play	sound	255	dev/onas
+11310	1	play	sound	255	dev/cm
+11310	0	play	sound	255	sfx/explosion/gas
+11319	2	play	sound	255	dev/cluster
+11319	2	play	sound	255	dev/onas
+11328	0	play	sound	255	sfx/explosion/gas
+11331	2	play	sound	255	sfx/explosion/energy
+11349	1	play	sound	255	dev/onas
+11358	2	play	sound	200	dev/cm
+11361	0	play	sound	255	sfx/explosion/gas
+11364	1	play	sound	255	dev/onas
+11367	2	play	sound	202	sfx/explosion/gas
+11379	1	play	sound	255	dev/onas
+11382	2	play	sound	241	dev/cm
+11382	2	play	sound	255	sfx/explosion/energy
+11382	0	play	sound	255	sfx/explosion/gas
+11385	1	play	sound	238	sfx/explosion/gas
+11394	1	play	sound	255	dev/onas
+11409	1	play	sound	255	dev/onas
+11424	1	play	sound	255	dev/onas
+11433	2	play	sound	255	sfx/explosion/energy
+11433	0	play	sound	255	sfx/explosion/gas
+11439	1	play	sound	195	dev/bay
+11439	1	play	sound	255	dev/onas
+11454	1	play	sound	255	dev/onas
+11463	2	play	sound	129	dev/cm
+11469	2	play	sound	255	dev/anti
+11469	1	play	sound	255	dev/onas
+11481	0	play	sound	255	dev/pk/can
+11484	1	play	sound	255	dev/onas
+11487	0	play	sound	255	sfx/explosion/gas
+11499	1	play	sound	255	dev/onas
+11514	1	play	sound	255	dev/onas
+11529	1	play	sound	255	dev/onas
+11544	1	play	sound	255	dev/onas
+11553	2	play	sound	143	dev/cm
+11559	1	play	sound	255	dev/onas
+11574	1	play	sound	255	dev/onas
+11589	1	play	sound	255	dev/onas
+11604	1	play	sound	255	dev/onas
+11619	1	play	sound	255	dev/onas
+11625	2	play	sound	192	dev/cm
+11628	2	play	sound	250	sfx/explosion/energy
+11628	2	play	sound	252	sfx/explosion/gas
+11634	1	play	sound	255	dev/onas
+11649	1	play	sound	255	dev/onas
+11658	2	play	sound	253	sfx/explosion/small
+11658	1	play	sound	252	sfx/explosion/gas
+11664	1	play	sound	255	dev/onas
+11679	1	play	sound	255	dev/onas
+11685	1	play	sound	228	sfx/explosion/gas
+11694	1	play	sound	255	dev/onas
+11709	1	play	sound	255	dev/onas
+11724	1	play	sound	255	dev/onas
+11739	1	play	sound	255	dev/onas
+11754	1	play	sound	255	dev/onas
+11769	1	play	sound	255	dev/onas
+11772	0	play	sound	255	sfx/explosion/gas
+11784	1	play	sound	255	dev/onas
+11787	0	play	sound	255	sfx/explosion/gas
+11799	1	play	sound	255	dev/onas
+11802	2	play	sound	214	sfx/energy
+11814	1	play	sound	255	dev/onas
+11817	0	play	sound	255	sfx/explosion/gas
+11829	1	play	sound	255	dev/onas
+11832	0	play	sound	255	sfx/explosion/gas
+11835	2	play	sound	255	dev/bay
+11844	1	play	sound	255	dev/onas
+11859	1	play	sound	255	dev/onas
+11859	0	play	sound	255	sfx/explosion/gas
+11865	2	play	sound	255	dev/pk/sal
+11874	1	play	sound	255	dev/onas
+11877	0	play	sound	255	sfx/explosion/gas
+11883	2	play	sound	255	dev/pk/sal
+11889	1	play	sound	255	dev/onas
+11901	2	play	sound	255	dev/pk/sal
+11904	1	play	sound	255	dev/onas
+11910	1	play	sound	253	sfx/explosion/large
+11910	0	play	sound	255	sfx/explosion/gas
+11919	1	play	sound	255	dev/onas
+11919	2	play	sound	255	dev/pk/sal
+11934	1	play	sound	255	dev/onas
+11937	2	play	sound	255	dev/pk/sal
+11937	0	play	sound	255	sfx/explosion/gas
+11949	1	play	sound	255	dev/onas
+11955	2	play	sound	255	dev/pk/sal
+11973	2	play	sound	255	dev/pk/sal
+11976	1	play	sound	255	dev/onas
+11976	0	play	sound	255	sfx/explosion/gas
+11985	2	play	sound	255	sfx/energy
+11985	2	play	sound	255	sfx/energy
+11985	2	play	sound	255	sfx/energy
+11991	1	play	sound	255	dev/onas
+11991	2	play	sound	255	sfx/energy
+12000	2	play	sound	255	sfx/energy
+12006	1	play	sound	255	dev/onas
+12012	0	play	sound	241	sfx/explosion/energy
+12021	1	play	sound	255	dev/onas
+12021	0	play	sound	255	dev/pk/sal
+12030	0	play	sound	250	sfx/explosion/gas
+12036	1	play	sound	255	dev/onas
+12039	0	play	sound	255	dev/pk/sal
+12051	1	play	sound	255	dev/onas
+12057	0	play	sound	255	dev/pk/sal
+12057	2	play	sound	249	sfx/explosion/energy
+12066	1	play	sound	255	dev/onas
+12072	2	play	sound	253	sfx/explosion/energy
+12075	0	play	sound	255	dev/pk/sal
+12081	1	play	sound	255	dev/onas
+12087	2	play	sound	255	sfx/explosion/gas
+12093	0	play	sound	255	dev/pk/sal
+12096	1	play	sound	255	dev/onas
+12105	0	play	sound	255	sfx/explosion/energy
+12111	1	play	sound	255	dev/onas
+12126	1	play	sound	255	dev/onas
+12129	2	play	sound	255	dev/pk/sal
+12141	1	play	sound	255	dev/onas
+12147	2	play	sound	255	dev/pk/sal
+12150	0	play	sound	255	sfx/explosion/energy
+12156	1	play	sound	255	dev/onas
+12165	2	play	sound	255	dev/pk/sal
+12165	0	play	sound	255	sfx/explosion/energy
+12168	1	play	sound	223	sfx/energy
+12171	1	play	sound	255	dev/onas
+12177	2	play	sound	255	dev/bay
+12177	0	play	sound	255	sfx/explosion/gas
+12183	1	play	sound	255	dev/pk/sal
+12198	2	play	sound	255	sfx/explosion/energy
+12198	1	play	sound	255	sfx/explosion/small
+12198	0	play	sound	255	sfx/explosion/gas
+12219	1	play	sound	255	dev/pk/sal
+12231	2	play	sound	255	dev/cluster
+12231	2	play	sound	255	dev/onas
+12237	1	play	sound	255	dev/pk/sal
+12246	2	play	sound	255	dev/onas
+12255	1	play	sound	255	dev/pk/sal
+12258	0	play	sound	255	sfx/explosion/energy
+12261	2	play	sound	255	dev/onas
+12273	1	play	sound	255	dev/pk/sal
+12273	0	play	sound	255	sfx/explosion/gas
+12276	2	play	sound	255	dev/onas
+12288	1	play	sound	253	sfx/explosion/energy
+12291	2	play	sound	255	dev/onas
+12291	1	play	sound	255	dev/pk/sal
+12291	0	play	sound	255	sfx/explosion/gas
+12306	2	play	sound	255	dev/onas
+12309	1	play	sound	255	dev/pk/sal
+12318	2	play	sound	255	dev/bay
+12321	1	play	sound	255	dev/onas
+12327	0	play	sound	255	dev/pk/sal
+12327	0	play	sound	255	sfx/explosion/gas
+12336	2	play	sound	224	dev/cm
+12336	1	play	sound	255	dev/onas
+12345	2	play	sound	255	dev/pk/sal
+12345	0	play	sound	255	sfx/explosion/gas
+12351	1	play	sound	255	dev/onas
+12360	0	play	sound	255	sfx/explosion/gas
+12363	2	play	sound	255	dev/pk/sal
+12363	1	play	sound	213	sfx/energy
+12366	1	play	sound	255	dev/onas
+12372	0	play	sound	255	sfx/explosion/gas
+12381	1	play	sound	255	dev/onas
+12381	2	play	sound	255	dev/pk/sal
+12390	0	play	sound	255	sfx/explosion/gas
+12396	1	play	sound	255	dev/onas
+12399	2	play	sound	255	dev/pk/sal
+12405	0	play	sound	255	sfx/explosion/gas
+12408	1	play	sound	179	dev/cm
+12411	1	play	sound	255	dev/onas
+12417	2	play	sound	255	dev/pk/sal
+12423	1	play	sound	255	dev/cm
+12435	2	play	sound	255	dev/pk/sal
+12435	0	play	sound	255	sfx/explosion/gas
+12447	2	play	sound	218	dev/cm
+12453	2	play	sound	255	dev/pk/sal
+12456	1	play	sound	255	dev/onas
+12468	2	play	sound	255	sfx/explosion/energy
+12468	0	play	sound	255	sfx/explosion/gas
+12471	1	play	sound	255	dev/cluster
+12471	1	play	sound	255	dev/onas
+12471	2	play	sound	255	sfx/explosion/energy
+12486	1	play	sound	255	dev/cluster
+12486	1	play	sound	255	dev/onas
+12489	2	play	sound	255	sfx/explosion/energy
+12492	0	play	sound	255	sfx/explosion/gas
+12501	1	play	sound	255	dev/cluster
+12501	1	play	sound	255	dev/onas
+12507	2	play	sound	255	sfx/explosion/energy
+12510	0	play	sound	255	sfx/explosion/gas
+12516	1	play	sound	255	dev/cluster
+12516	1	play	sound	255	dev/onas
+12528	2	play	sound	255	sfx/explosion/energy
+12531	1	play	sound	255	dev/onas
+12543	0	play	sound	255	dev/pk/sal
+12543	2	play	sound	255	sfx/explosion/energy
+12546	1	play	sound	255	dev/onas
+12552	0	play	sound	255	sfx/explosion/gas
+12555	0	play	sound	255	sfx/explosion/gas
+12558	1	play	sound	213	dev/cm
+12561	1	play	sound	255	dev/onas
+12561	2	play	sound	255	sfx/explosion/energy
+12576	1	play	sound	255	dev/onas
+12579	2	play	sound	255	sfx/explosion/energy
+12591	1	play	sound	255	dev/onas
+12597	0	play	sound	255	dev/pk/sal
+12606	1	play	sound	255	dev/onas
+12615	0	play	sound	255	dev/pk/sal
+12618	2	play	sound	255	sfx/explosion/energy
+12621	1	play	sound	255	dev/onas
+12633	0	play	sound	255	dev/pk/sal
+12636	1	play	sound	255	dev/onas
+12636	2	play	sound	255	sfx/explosion/energy
+12648	0	play	sound	255	sfx/explosion/gas
+12651	1	play	sound	255	dev/onas
+12654	2	play	sound	255	sfx/explosion/energy
+12660	0	play	sound	255	sfx/explosion/gas
+12663	1	play	sound	255	dev/cm
+12678	0	play	sound	255	sfx/explosion/gas
+12681	2	play	sound	255	dev/onas
+12696	2	play	sound	185	dev/cm
+12696	2	play	sound	255	dev/onas
+12705	1	play	sound	255	dev/stealth/off
+12711	2	play	sound	141	dev/cm
+12711	2	play	sound	255	dev/onas
+12723	0	play	sound	255	dev/anti
+12723	2	play	sound	255	dev/pk/sal
+12723	0	play	sound	255	sfx/explosion/gas
+12726	1	play	sound	131	dev/cm
+12726	1	play	sound	255	dev/onas
+12735	2	play	sound	255	dev/cm
+12741	1	play	sound	255	dev/anti
+12756	1	play	sound	255	dev/onas
+12759	0	play	sound	255	dev/pk/sal
+12768	2	play	sound	226	dev/cm
+12771	1	play	sound	255	dev/onas
+12777	0	play	sound	255	dev/pk/sal
+12783	2	play	sound	255	sfx/explosion/gas
+12783	1	play	sound	255	sfx/explosion/energy
+12795	0	play	sound	255	dev/pk/sal
+12798	2	play	sound	255	sfx/explosion/gas
+12807	1	play	sound	255	dev/cm
+12813	0	play	sound	255	dev/pk/sal
+12816	2	play	sound	255	sfx/explosion/gas
+12831	0	play	sound	255	dev/onas
+12840	1	play	sound	255	dev/cm
+12843	0	play	sound	255	dev/anti
+12849	2	play	sound	255	dev/pk/sal
+12861	0	play	sound	255	dev/anti
+12861	2	play	sound	255	dev/cluster
+12861	2	play	sound	255	dev/bay
+12864	0	play	sound	255	sfx/explosion/gas
+12873	1	play	sound	255	dev/pk/can
+12873	2	play	sound	255	sfx/explosion/energy
+12879	0	play	sound	255	sfx/explosion/gas
+12885	1	play	sound	255	dev/pk/sal
+12891	0	play	sound	255	sfx/explosion/gas
+12894	2	play	sound	255	sfx/explosion/energy
+12900	1	play	sound	255	dev/anti
+12909	0	play	sound	255	sfx/explosion/gas
+12918	1	play	sound	255	dev/anti
+12921	2	play	sound	255	dev/cluster
+12921	2	play	sound	255	dev/onas
+12930	1	play	sound	233	dev/cm
+12933	1	play	sound	255	sfx/explosion/energy
+12936	2	play	sound	255	dev/cluster
+12936	2	play	sound	255	dev/onas
+12939	0	play	sound	255	sfx/explosion/gas
+12948	1	play	sound	232	sfx/explosion/gas
+12951	1	play	sound	255	dev/cluster
+12951	2	play	sound	255	dev/onas
+12954	1	play	sound	230	dev/bay
+12954	1	play	sound	255	sfx/explosion/energy
+12957	0	play	sound	255	sfx/explosion/gas
+12966	2	play	sound	255	dev/anti
+12972	0	play	sound	255	sfx/explosion/gas
+12975	1	play	sound	255	dev/pk/sal
+12981	2	play	sound	255	dev/cluster
+12981	2	play	sound	255	dev/onas
+12987	1	play	sound	255	dev/pk/can
+12993	2	play	sound	255	dev/pk/sal
+13002	0	play	sound	255	sfx/explosion/gas
+13011	1	play	sound	255	dev/cm
+13011	2	play	sound	255	dev/cluster
+13011	2	play	sound	255	dev/onas
+13017	0	play	sound	255	sfx/explosion/gas
+13026	2	play	sound	255	dev/cluster
+13026	2	play	sound	255	dev/onas
+13041	2	play	sound	255	dev/onas
+13047	1	play	sound	255	dev/anti
+13050	0	play	sound	255	dev/pk/can
+13050	0	play	sound	255	sfx/explosion/gas
+13056	2	play	sound	255	dev/onas
+13065	1	play	sound	255	dev/pk/sal
+13065	0	play	sound	255	sfx/explosion/gas
+13071	2	play	sound	255	dev/onas
+13083	1	play	sound	255	dev/pk/sal
+13083	0	play	sound	255	sfx/explosion/gas
+13086	2	play	sound	255	dev/onas
+13101	2	play	sound	255	dev/onas
+13101	1	play	sound	255	dev/pk/sal
+13113	0	play	sound	255	sfx/explosion/gas
+13116	2	play	sound	255	dev/onas
+13119	1	play	sound	255	dev/pk/sal
+13128	2	play	sound	255	dev/anti
+13131	1	play	sound	255	dev/onas
+13146	1	play	sound	255	dev/onas
+13155	2	play	sound	255	dev/pk/sal
+13161	1	play	sound	255	dev/onas
+13173	2	play	sound	255	dev/pk/sal
+13176	1	play	sound	255	dev/onas
+13191	1	play	sound	255	dev/onas
+13191	2	play	sound	255	dev/pk/sal
+13206	0	play	sound	255	dev/bay
+13206	1	play	sound	255	dev/onas
+13209	2	play	sound	255	dev/pk/sal
+13221	1	play	sound	255	dev/onas
+13227	2	play	sound	255	dev/pk/sal
+13236	1	play	sound	255	dev/onas
+13245	2	play	sound	255	dev/pk/sal
+13245	0	play	sound	255	sfx/explosion/large
+13245	1	play	sound	255	sfx/explosion/gas
+13248	2	play	sound	243	sfx/explosion/gas
+13251	2	play	sound	255	dev/onas
+13263	2	play	sound	255	dev/pk/sal
+13266	0	play	sound	255	dev/onas
+13275	1	play	sound	255	sfx/explosion/gas
+13281	0	play	sound	255	dev/onas
+13281	2	play	sound	255	dev/pk/sal
+13290	1	play	sound	255	sfx/explosion/gas
+13296	0	play	sound	255	dev/onas
+13299	2	play	sound	255	dev/pk/sal
+13308	1	play	sound	255	sfx/explosion/gas
+13308	0	play	sound	255	sfx/explosion/energy
+13311	2	play	sound	255	dev/onas
+13326	2	play	sound	255	dev/onas
+13335	0	play	sound	255	dev/pk/sal
+13341	2	play	sound	255	dev/onas
+13350	1	play	sound	255	sfx/energy
+13353	0	play	sound	255	dev/pk/sal
+13356	2	play	sound	255	dev/onas
+13362	1	play	sound	255	sfx/energy
+13365	0	play	sound	249	sfx/explosion/gas
+13365	1	play	sound	255	sfx/energy
+13368	1	play	sound	255	sfx/energy
+13371	2	play	sound	255	dev/onas
+13371	0	play	sound	255	dev/pk/sal
+13374	1	play	sound	255	sfx/energy
+13377	1	play	sound	255	sfx/energy
+13377	1	play	sound	255	sfx/energy
+13386	2	play	sound	255	dev/onas
+13389	0	play	sound	255	dev/pk/sal
+13401	2	play	sound	255	dev/onas
+13401	0	play	sound	221	sfx/explosion/large
+13401	0	play	sound	223	sfx/explosion/energy
+13407	0	play	sound	255	dev/pk/sal
+13416	2	play	sound	255	dev/onas
+13416	0	play	sound	255	sfx/explosion/large
+13416	1	play	sound	255	sfx/explosion/energy
+13416	1	play	sound	255	sfx/explosion/energy
+13425	1	play	sound	255	sfx/explosion/gas
+13431	2	play	sound	255	dev/onas
+13443	0	play	sound	255	dev/pk/sal
+13446	2	play	sound	255	dev/onas
+13461	2	play	sound	255	dev/onas
+13461	0	play	sound	255	dev/pk/sal
+13461	1	play	sound	251	sfx/energy
+13464	1	play	sound	255	sfx/explosion/energy
+13470	0	play	sound	255	sfx/explosion/gas
+13476	2	play	sound	255	dev/onas
+13509	0	play	sound	255	sfx/explosion/gas
+13539	1	play	sound	255	sfx/explosion/energy
+13539	1	play	sound	255	sfx/explosion/energy
+13548	2	play	sound	187	sfx/energy
+13632	2	play	sound	255	dev/pk/sal
+13635	0	play	sound	255	dev/onas
+13650	0	play	sound	255	dev/onas
+13650	2	play	sound	255	dev/pk/sal
+13665	0	play	sound	255	dev/onas
+13665	1	play	sound	168	sfx/energy
+13668	2	play	sound	255	dev/pk/sal
+13671	1	play	sound	172	sfx/energy
+13671	1	play	sound	172	sfx/energy
+13680	0	play	sound	255	dev/onas
+13686	2	play	sound	255	dev/pk/sal
+13695	0	play	sound	255	dev/onas
+13698	1	play	sound	178	sfx/energy
+13704	2	play	sound	255	dev/pk/sal
+13710	0	play	sound	255	dev/onas
+13722	2	play	sound	255	dev/pk/sal
+13722	1	play	sound	255	sfx/explosion/energy
+13725	0	play	sound	255	dev/onas
+13740	0	play	sound	255	dev/onas
+13740	2	play	sound	255	dev/pk/sal
+13743	1	play	sound	212	sfx/energy
+13743	1	play	sound	212	sfx/energy
+13752	1	play	sound	215	sfx/energy
+13755	0	play	sound	255	dev/onas
+13758	2	play	sound	255	dev/pk/sal
+13758	1	play	sound	255	sfx/explosion/small
+13758	0	play	sound	255	sfx/explosion/gas
+13770	2	play	sound	255	dev/onas
+13785	2	play	sound	255	dev/onas
+13794	1	play	sound	255	dev/pk/sal
+13836	2	play	sound	255	dev/onas
+13836	1	play	sound	255	dev/pk/sal
+13851	2	play	sound	255	dev/onas
+13854	1	play	sound	255	dev/pk/sal
+13866	2	play	sound	255	dev/onas
+13872	1	play	sound	255	dev/pk/sal
+13881	2	play	sound	255	dev/onas
+13890	1	play	sound	255	dev/pk/sal
+13896	2	play	sound	255	dev/onas
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13899	0	play	sound	255	sfx/energy
+13902	1	play	sound	255	sfx/explosion/small
+13902	0	play	sound	255	sfx/explosion/gas
+13908	2	play	sound	255	dev/pk/sal
+13926	2	play	sound	255	dev/onas
+13926	1	play	sound	255	dev/pk/sal
+13941	2	play	sound	255	dev/onas
+13944	1	play	sound	255	dev/pk/sal
+13956	2	play	sound	255	dev/onas
+13962	1	play	sound	255	dev/pk/sal
+13971	2	play	sound	255	dev/onas
+13980	1	play	sound	255	dev/pk/sal
+13986	2	play	sound	255	dev/onas
+13998	1	play	sound	255	dev/pk/sal
+14001	2	play	sound	255	dev/onas
+14016	2	play	sound	255	dev/onas
+14016	1	play	sound	255	dev/pk/sal
+14031	2	play	sound	255	dev/onas
+14034	1	play	sound	255	dev/pk/sal
+14046	2	play	sound	255	dev/onas
+14052	1	play	sound	255	dev/pk/sal
+14061	2	play	sound	255	dev/onas
+14070	1	play	sound	255	dev/pk/sal
+14076	2	play	sound	255	dev/onas
+14088	1	play	sound	255	dev/pk/sal
+14091	2	play	sound	255	dev/onas
+14100	0	play	sound	255	sfx/explosion/energy
+14106	2	play	sound	255	dev/onas
+14106	1	play	sound	255	dev/pk/sal
+14121	2	play	sound	255	dev/onas
+14124	1	play	sound	255	dev/pk/sal
+14136	2	play	sound	255	dev/onas
+14142	1	play	sound	255	dev/pk/sal
+14160	2	play	sound	255	dev/onas
+14160	1	play	sound	255	dev/pk/sal
+14175	2	play	sound	255	dev/onas
+14178	1	play	sound	255	dev/pk/sal
+14184	0	play	sound	151	dev/cm
+14190	2	play	sound	255	dev/onas
+14196	1	play	sound	255	dev/pk/sal
+14205	2	play	sound	255	dev/onas
+14214	1	play	sound	255	dev/pk/sal
+14214	0	play	sound	255	sfx/explosion/gas
+14220	2	play	sound	255	dev/stealth/on
+14232	1	play	sound	186	dev/cm
+14232	1	play	sound	255	dev/pk/sal
+14250	2	play	sound	255	dev/onas
+14250	1	play	sound	255	dev/pk/sal
+14256	0	play	sound	183	dev/cm
+14259	0	play	sound	255	dev/pk/can
+14262	1	play	sound	255	sfx/explosion/energy
+14265	2	play	sound	255	dev/onas
+14268	1	play	sound	255	sfx/explosion/energy
+14280	2	play	sound	255	dev/onas
+14286	0	play	sound	255	dev/pk/sal
+14295	2	play	sound	255	dev/onas
+14304	1	play	sound	185	dev/cm
+14304	0	play	sound	255	dev/pk/sal
+14310	2	play	sound	255	dev/onas
+14316	1	play	sound	255	sfx/explosion/gas
+14316	0	play	sound	255	sfx/explosion/energy
+14322	2	play	sound	255	dev/pk/sal
+14337	0	play	sound	255	sfx/explosion/large
+14337	2	play	sound	255	sfx/explosion/energy
+14343	1	play	sound	255	sfx/explosion/gas
+14358	2	play	sound	255	dev/pk/sal
+14370	2	play	sound	255	dev/onas
+14376	1	play	sound	151	dev/cm
+14376	1	play	sound	255	dev/pk/sal
+14400	2	play	sound	133	dev/cm
+14412	2	play	sound	255	dev/onas
+14412	1	play	sound	255	dev/pk/sal
+14427	2	play	sound	255	dev/onas
+14430	1	play	sound	255	dev/pk/sal
+14442	2	play	sound	255	dev/onas
+14448	1	play	sound	255	dev/pk/sal
+14454	0	play	sound	255	sfx/energy
+14457	2	play	sound	255	dev/onas
+14466	1	play	sound	255	dev/pk/sal
+14466	0	play	sound	250	sfx/explosion/energy
+14472	2	play	sound	255	dev/onas
+14478	1	play	sound	240	sfx/explosion/small
+14478	0	play	sound	240	sfx/explosion/gas
+14484	0	play	sound	255	dev/pk/sal
+14487	2	play	sound	255	dev/onas
+14502	2	play	sound	255	dev/onas
+14502	0	play	sound	255	dev/pk/sal
+14517	2	play	sound	255	dev/onas
+14520	0	play	sound	255	dev/pk/sal
+14532	2	play	sound	255	dev/onas
+14538	0	play	sound	255	dev/pk/sal
+14547	2	play	sound	255	dev/onas
+14556	0	play	sound	255	dev/pk/sal
+14562	2	play	sound	255	dev/onas
+14574	0	play	sound	255	dev/pk/sal
+14577	2	play	sound	255	dev/onas
+14592	2	play	sound	255	dev/onas
+14592	0	play	sound	255	dev/pk/sal
+14607	2	play	sound	255	dev/onas
+14610	0	play	sound	255	dev/pk/sal
+14616	1	play	sound	255	sfx/explosion/small
+14616	0	play	sound	255	sfx/explosion/gas
+14622	2	play	sound	255	dev/onas
+14634	2	play	sound	253	sfx/energy
+14637	2	play	sound	255	dev/onas
+14646	1	play	sound	255	dev/pk/sal
+14646	0	play	sound	255	sfx/explosion/gas
+14652	2	play	sound	255	dev/onas
+14658	1	play	sound	255	sfx/energy
+14664	2	play	sound	255	dev/pk/sal
+14682	1	play	sound	255	dev/onas
+14682	2	play	sound	255	dev/pk/sal
+14697	1	play	sound	255	dev/onas
+14700	2	play	sound	255	dev/pk/sal
+14703	0	play	sound	255	sfx/energy
+14712	1	play	sound	255	dev/onas
+14718	2	play	sound	255	dev/pk/sal
+14727	1	play	sound	255	dev/onas
+14736	2	play	sound	255	dev/pk/sal
+14736	0	play	sound	246	sfx/explosion/energy
+14736	0	play	sound	255	sfx/energy
+14742	1	play	sound	255	dev/anti
+14745	0	play	sound	227	sfx/explosion/gas
+14748	0	play	sound	255	sfx/explosion/energy
+14751	2	play	sound	255	dev/pk/can
+14754	1	play	sound	255	dev/pk/sal
+14760	0	play	sound	255	sfx/explosion/energy
+14760	0	play	sound	255	sfx/explosion/energy
+14763	2	play	sound	255	dev/pk/can
+14769	2	play	sound	255	dev/pk/can
+14769	0	play	sound	255	sfx/explosion/gas
+14772	1	play	sound	255	dev/onas
+14775	0	play	sound	255	gui/klaxon
+14787	1	play	sound	255	dev/onas
+14790	2	play	sound	255	dev/pk/sal
+14802	1	play	sound	255	dev/onas
+14817	2	play	sound	255	dev/pk/can
+14856	1	play	sound	255	dev/onas
+14859	2	play	sound	255	dev/pk/sal
+14871	1	play	sound	255	dev/onas
+14877	2	play	sound	255	dev/pk/sal
+14886	1	play	sound	255	dev/onas
+14895	2	play	sound	255	dev/pk/sal
+14901	1	play	sound	255	dev/onas
+14901	0	play	sound	128	gui/klaxon
+14913	2	play	sound	255	dev/pk/sal
+14916	1	play	sound	255	dev/onas
+14931	1	play	sound	255	dev/onas
+14931	2	play	sound	255	dev/pk/sal
+14946	1	play	sound	255	dev/onas
+14949	2	play	sound	255	dev/pk/sal
+14961	1	play	sound	255	dev/onas
+14961	0	play	sound	255	sfx/explosion/small
+14961	0	play	sound	255	sfx/explosion/gas
+14967	2	play	sound	255	dev/pk/sal
+14976	1	play	sound	255	dev/onas
+14985	2	play	sound	255	dev/pk/sal
+14991	1	play	sound	255	dev/onas
+15003	2	play	sound	255	dev/pk/sal
+15006	1	play	sound	255	dev/onas
+15021	1	play	sound	255	dev/onas
+15021	2	play	sound	255	dev/pk/sal
+15027	0	play	sound	128	gui/klaxon
+15036	1	play	sound	255	dev/onas
+15036	0	play	sound	242	sfx/explosion/gas
+15039	2	play	sound	255	dev/pk/sal
+15048	0	play	sound	249	sfx/explosion/gas
+15051	1	play	sound	255	dev/onas
+15057	2	play	sound	255	dev/pk/sal
+15057	0	play	sound	255	sfx/energy
+15063	1	play	sound	251	dev/cm
+15066	1	play	sound	255	dev/onas
+15072	0	play	sound	236	sfx/explosion/gas
+15075	2	play	sound	255	dev/pk/sal
+15075	0	play	sound	255	sfx/explosion/gas
+15081	1	play	sound	255	dev/onas
+15087	2	play	sound	255	sfx/explosion/energy
+15093	1	play	sound	255	dev/pk/sal
+15102	2	play	sound	255	sfx/explosion/energy
+15105	2	play	sound	255	sfx/explosion/energy
+15105	0	play	sound	255	sfx/explosion/gas
+15111	1	play	sound	255	dev/onas
+15126	1	play	sound	255	dev/onas
+15126	0	play	sound	255	sfx/explosion/gas
+15126	2	play	sound	253	sfx/explosion/energy
+15129	2	play	sound	255	dev/pk/sal
+15138	1	play	sound	255	sfx/explosion/energy
+15141	2	play	sound	255	dev/onas
+15153	2	play	sound	128	gui/klaxon
+15156	2	play	sound	255	dev/onas
+15156	1	play	sound	255	sfx/explosion/energy
+15165	0	play	sound	255	dev/pk/sal
+15171	2	play	sound	255	dev/onas
+15171	1	play	sound	255	sfx/explosion/energy
+15183	0	play	sound	255	dev/pk/sal
+15183	0	play	sound	255	sfx/explosion/gas
+15186	2	play	sound	255	dev/onas
+15198	0	play	sound	255	sfx/explosion/gas
+15201	2	play	sound	255	dev/onas
+15201	1	play	sound	255	dev/pk/sal
+15216	1	play	sound	255	dev/cm
+15216	2	play	sound	255	dev/onas
+15231	2	play	sound	255	dev/onas
+15237	0	play	sound	255	dev/pk/sal
+15246	2	play	sound	255	dev/onas
+15252	0	play	sound	244	sfx/explosion/gas
+15255	0	play	sound	255	dev/pk/sal
+15261	2	play	sound	255	dev/onas
+15264	0	play	sound	255	sfx/explosion/gas
+15273	1	play	sound	255	dev/pk/sal
+15276	2	play	sound	255	dev/onas
+15279	0	play	sound	255	sfx/explosion/gas
+15288	1	play	sound	246	dev/cm
+15291	2	play	sound	255	dev/onas
+15291	1	play	sound	255	dev/pk/sal
+15300	1	play	sound	241	sfx/explosion/gas
+15306	2	play	sound	255	dev/onas
+15309	1	play	sound	255	dev/pk/sal
+15321	2	play	sound	255	dev/onas
+15327	1	play	sound	255	dev/pk/sal
+15336	2	play	sound	255	dev/onas
+15339	0	play	sound	237	dev/cm
+15345	1	play	sound	255	dev/pk/sal
+15348	0	play	sound	237	sfx/explosion/gas
+15351	2	play	sound	255	dev/onas
+15363	1	play	sound	255	dev/pk/sal
+15363	0	play	sound	240	sfx/explosion/gas
+15366	2	play	sound	255	dev/onas
+15378	1	play	sound	239	sfx/explosion/gas
+15381	2	play	sound	255	dev/onas
+15381	0	play	sound	255	dev/pk/sal
+15390	1	play	sound	247	sfx/explosion/gas
+15396	2	play	sound	255	dev/onas
+15399	0	play	sound	255	dev/pk/sal
+15411	2	play	sound	239	dev/cm
+15411	1	play	sound	255	dev/onas
+15417	0	play	sound	255	dev/pk/sal
+15426	1	play	sound	255	dev/onas
+15435	0	play	sound	255	dev/pk/sal
+15435	2	play	sound	253	sfx/explosion/energy
+15435	0	play	sound	249	sfx/explosion/gas
+15441	1	play	sound	255	dev/onas
+15447	0	play	sound	255	sfx/explosion/gas
+15450	2	play	sound	255	sfx/explosion/energy
+15453	1	play	sound	255	dev/pk/sal
+15459	1	play	sound	255	sfx/explosion/large
+15459	0	play	sound	255	sfx/explosion/gas
+15471	2	play	sound	255	dev/onas
+15474	0	play	sound	255	sfx/explosion/gas
+15480	1	play	sound	252	sfx/energy
+15486	2	play	sound	255	dev/onas
+15489	1	play	sound	255	dev/pk/sal
+15492	0	play	sound	255	sfx/explosion/gas
+15501	2	play	sound	255	dev/onas
+15504	0	play	sound	255	sfx/explosion/gas
+15507	1	play	sound	255	dev/pk/sal
+15516	2	play	sound	255	dev/onas
+15519	0	play	sound	255	sfx/explosion/gas
+15525	1	play	sound	255	dev/pk/sal
+15531	2	play	sound	255	dev/onas
+15534	0	play	sound	255	sfx/explosion/gas
+15543	1	play	sound	255	dev/pk/sal
+15546	2	play	sound	255	dev/onas
+15561	2	play	sound	255	dev/onas
+15561	1	play	sound	255	dev/pk/sal
+15567	1	play	sound	254	sfx/explosion/gas
+15576	2	play	sound	255	dev/onas
+15576	0	play	sound	175	sfx/explosion/energy
+15579	0	play	sound	255	dev/pk/sal
+15582	1	play	sound	255	sfx/explosion/gas
+15591	2	play	sound	255	dev/onas
+15591	0	play	sound	255	sfx/explosion/energy
+15606	2	play	sound	255	dev/onas
+15609	1	play	sound	255	sfx/explosion/gas
+15615	0	play	sound	255	dev/pk/sal
+15621	2	play	sound	255	dev/onas
+15624	1	play	sound	255	sfx/explosion/gas
+15633	0	play	sound	255	dev/pk/sal
+15636	2	play	sound	255	dev/onas
+15639	1	play	sound	255	sfx/explosion/gas
+15651	2	play	sound	255	dev/onas
+15651	0	play	sound	255	dev/pk/sal
+15663	0	play	sound	255	sfx/explosion/energy
+15666	2	play	sound	255	dev/onas
+15681	2	play	sound	255	dev/onas
+15681	0	play	sound	255	sfx/explosion/energy
+15687	1	play	sound	255	dev/pk/sal
+15696	2	play	sound	255	dev/onas
+15705	1	play	sound	255	dev/pk/sal
+15711	2	play	sound	255	dev/onas
+15720	0	play	sound	253	sfx/explosion/energy
+15723	1	play	sound	255	dev/pk/sal
+15726	2	play	sound	255	dev/onas
+15738	0	play	sound	253	sfx/explosion/energy
+15741	2	play	sound	255	dev/onas
+15741	1	play	sound	255	dev/pk/sal
+15756	2	play	sound	255	dev/onas
+15756	0	play	sound	253	sfx/explosion/energy
+15759	1	play	sound	255	dev/pk/sal
+15759	0	play	sound	255	sfx/explosion/gas
+15771	2	play	sound	255	dev/onas
+15777	1	play	sound	255	dev/pk/sal
+15777	1	play	sound	251	sfx/explosion/gas
+15783	2	play	sound	128	gui/klaxon
+15786	1	play	sound	255	dev/onas
+15792	2	play	sound	246	sfx/energy
+15792	2	play	sound	246	sfx/energy
+15795	2	play	sound	255	dev/pk/sal
+15795	0	play	sound	247	sfx/explosion/energy
+15801	1	play	sound	255	dev/onas
+15810	0	play	sound	243	sfx/explosion/gas
+15813	2	play	sound	255	dev/pk/sal
+15816	1	play	sound	255	dev/onas
+15825	0	play	sound	249	sfx/explosion/gas
+15831	1	play	sound	255	dev/onas
+15831	2	play	sound	255	dev/pk/sal
+15840	1	play	sound	244	sfx/explosion/large
+15840	0	play	sound	250	sfx/explosion/gas
+15846	0	play	sound	255	dev/onas
+15849	2	play	sound	255	dev/pk/sal
+15861	0	play	sound	255	dev/onas
+15864	1	play	sound	254	sfx/explosion/energy
+15867	2	play	sound	255	dev/pk/sal
+15876	0	play	sound	255	dev/onas
+15879	1	play	sound	255	sfx/explosion/gas
+15882	2	play	sound	255	sfx/explosion/energy
+15891	0	play	sound	255	dev/onas
+15891	2	play	sound	255	sfx/explosion/energy
+15891	1	play	sound	255	sfx/explosion/gas
+15903	0	play	sound	255	dev/pk/sal
+15903	2	play	sound	255	sfx/explosion/energy
+15918	0	play	sound	255	sfx/energy
+15918	0	play	sound	255	sfx/energy
+15927	0	play	sound	255	sfx/energy
+15927	0	play	sound	255	sfx/energy
+15930	0	play	sound	255	sfx/energy
+15930	0	play	sound	255	sfx/energy
+15936	1	play	sound	255	dev/onas
+15939	2	play	sound	255	dev/pk/sal
+15951	1	play	sound	255	dev/onas
+15957	2	play	sound	255	dev/pk/sal
+15966	1	play	sound	255	dev/onas
+15966	0	play	sound	235	sfx/explosion/energy
+15975	2	play	sound	255	dev/pk/sal
+15981	1	play	sound	255	dev/onas
+15990	0	play	sound	255	sfx/explosion/energy
+15993	2	play	sound	255	dev/pk/sal
+15996	1	play	sound	255	dev/onas
+16011	1	play	sound	255	dev/onas
+16011	2	play	sound	255	dev/pk/sal
+16026	1	play	sound	255	dev/onas
+16029	2	play	sound	255	dev/pk/sal
+16035	0	play	sound	128	gui/klaxon
+16041	1	play	sound	255	dev/onas
+16047	2	play	sound	255	dev/pk/sal
+16056	1	play	sound	255	dev/onas
+16065	2	play	sound	255	dev/pk/sal
+16071	1	play	sound	255	dev/onas
+16083	2	play	sound	255	dev/pk/sal
+16086	1	play	sound	255	dev/onas
+16101	1	play	sound	255	dev/onas
+16101	2	play	sound	255	dev/pk/sal
+16116	1	play	sound	255	dev/onas
+16119	2	play	sound	255	dev/pk/sal
+16131	1	play	sound	255	dev/onas
+16137	2	play	sound	255	dev/pk/sal
+16146	1	play	sound	255	dev/onas
+16158	2	play	sound	255	dev/pk/sal
+16161	0	play	sound	128	gui/klaxon
+16191	2	play	sound	255	dev/pk/sal
+16194	1	play	sound	255	dev/onas
+16209	1	play	sound	255	dev/onas
+16209	2	play	sound	255	dev/pk/sal
+16224	1	play	sound	255	dev/onas
+16227	2	play	sound	255	dev/pk/sal
+16239	1	play	sound	255	dev/onas
+16245	2	play	sound	255	dev/pk/sal
+16254	1	play	sound	255	dev/onas
+16263	2	play	sound	255	dev/pk/sal
+16269	1	play	sound	255	dev/onas
+16272	0	play	sound	255	sfx/energy
+16272	0	play	sound	255	sfx/energy
+16275	0	play	sound	255	sfx/energy
+16278	0	play	sound	255	sfx/energy
+16278	0	play	sound	255	sfx/energy
+16281	2	play	sound	255	dev/pk/sal
+16284	1	play	sound	255	dev/onas
+16299	1	play	sound	255	dev/onas
+16299	2	play	sound	255	dev/pk/sal
+16299	0	play	sound	255	sfx/explosion/energy
+16305	0	play	sound	255	sfx/explosion/gas
+16314	1	play	sound	255	dev/onas
+16317	2	play	sound	255	dev/pk/sal
+16329	1	play	sound	255	dev/onas
+16335	2	play	sound	255	dev/pk/sal
+16344	1	play	sound	255	dev/onas
+16353	2	play	sound	255	dev/pk/sal
+16356	0	play	sound	255	sfx/energy
+16359	1	play	sound	255	dev/onas
+16371	2	play	sound	255	dev/pk/sal
+16446	1	play	sound	255	dev/onas
+16446	2	play	sound	255	dev/pk/sal
+16461	1	play	sound	255	dev/onas
+16464	2	play	sound	255	dev/pk/sal
+16476	1	play	sound	255	dev/onas
+16482	2	play	sound	255	dev/pk/sal
+16491	1	play	sound	255	dev/onas
+16500	2	play	sound	255	dev/pk/sal
+16506	1	play	sound	255	dev/onas
+16518	2	play	sound	255	dev/pk/sal
+16521	1	play	sound	255	dev/onas
+16536	1	play	sound	255	dev/onas
+16536	2	play	sound	255	dev/pk/sal
+16551	1	play	sound	255	dev/onas
+16554	2	play	sound	255	dev/pk/sal
+16557	0	play	sound	255	sfx/explosion/small
+16557	0	play	sound	255	sfx/explosion/gas
+16566	1	play	sound	255	dev/onas
+16572	2	play	sound	255	dev/pk/sal
+16632	1	play	sound	255	sfx/energy
+16782	2	play	sound	255	dev/onas
+16785	0	play	sound	255	dev/pk/sal
+16797	2	play	sound	255	dev/onas
+16803	0	play	sound	255	dev/pk/sal
+16812	2	play	sound	255	dev/onas
+16821	0	play	sound	255	dev/pk/sal
+16827	2	play	sound	255	dev/onas
+16839	0	play	sound	255	dev/pk/sal
+16842	2	play	sound	255	dev/onas
+16857	2	play	sound	255	dev/onas
+16857	0	play	sound	255	dev/pk/sal
+16872	1	play	sound	255	dev/stealth/off
+16872	0	play	sound	255	dev/anti
+16872	2	play	sound	255	dev/onas
+16887	2	play	sound	255	dev/onas
+16890	0	play	sound	255	dev/anti
+16893	1	play	sound	255	dev/pk/sal
+16902	2	play	sound	255	dev/onas
+16911	1	play	sound	255	dev/pk/sal
+16917	2	play	sound	255	dev/onas
+16929	1	play	sound	255	dev/pk/sal
+16932	2	play	sound	255	dev/onas
+16947	2	play	sound	255	dev/onas
+16947	1	play	sound	255	dev/pk/sal
+16962	2	play	sound	255	dev/onas
+16965	1	play	sound	255	dev/pk/sal
+16977	2	play	sound	255	dev/onas
+16983	1	play	sound	255	dev/pk/sal
+17031	2	play	sound	255	dev/onas
+17034	1	play	sound	255	dev/pk/sal
+17046	2	play	sound	255	dev/onas
+17052	1	play	sound	255	dev/pk/sal
+17061	2	play	sound	255	dev/onas
+17070	1	play	sound	255	dev/pk/sal
+17076	2	play	sound	255	dev/onas
+17088	1	play	sound	255	dev/pk/sal
+17091	2	play	sound	255	dev/onas
+17106	2	play	sound	255	dev/onas
+17106	1	play	sound	255	dev/pk/sal
+17115	0	play	sound	251	sfx/explosion/gas
+17121	2	play	sound	255	dev/onas
+17124	1	play	sound	255	dev/pk/sal
+17136	2	play	sound	255	dev/onas
+17142	1	play	sound	255	dev/pk/sal
+17151	2	play	sound	255	dev/onas
+17160	1	play	sound	255	dev/pk/sal
+17166	2	play	sound	255	dev/onas
+17166	0	play	sound	255	sfx/explosion/energy
+17178	1	play	sound	255	dev/pk/sal
+17181	2	play	sound	255	dev/onas
+17196	2	play	sound	255	dev/onas
+17196	1	play	sound	255	dev/pk/sal
+17211	2	play	sound	255	dev/onas
+17214	1	play	sound	255	dev/pk/sal
+17250	0	play	sound	253	sfx/explosion/energy
+17280	2	play	sound	255	dev/onas
+17283	1	play	sound	255	dev/pk/sal
+17295	2	play	sound	255	dev/onas
+17301	1	play	sound	255	dev/pk/sal
+17310	2	play	sound	255	dev/onas
+17319	1	play	sound	255	dev/pk/sal
+17325	2	play	sound	255	dev/onas
+17337	1	play	sound	255	dev/pk/sal
+17340	2	play	sound	255	dev/onas
+17349	0	play	sound	255	sfx/explosion/gas
+17352	1	play	sound	255	dev/anti
+17352	2	play	sound	255	dev/stealth/on
+17364	1	play	sound	255	dev/pk/can
+17373	2	play	sound	255	dev/pk/sal
+17385	1	play	sound	255	dev/onas
+17385	0	play	sound	255	sfx/explosion/gas
+17391	2	play	sound	255	dev/pk/sal
+17400	1	play	sound	255	dev/onas
+17409	2	play	sound	255	dev/pk/sal
+17415	1	play	sound	255	dev/onas
+17427	2	play	sound	255	dev/pk/sal
+17430	1	play	sound	255	dev/onas
+17445	1	play	sound	255	dev/onas
+17445	2	play	sound	255	dev/pk/sal
+17460	1	play	sound	255	dev/onas
+17463	2	play	sound	255	dev/pk/sal
+17475	1	play	sound	255	dev/onas
+17481	2	play	sound	255	dev/pk/sal
+17490	1	play	sound	255	dev/onas
+17499	2	play	sound	255	dev/pk/sal
+17505	1	play	sound	255	dev/onas
+17517	2	play	sound	255	dev/pk/sal
+17520	1	play	sound	255	dev/onas
+17535	1	play	sound	255	dev/onas
+17535	2	play	sound	255	dev/pk/sal
+17550	1	play	sound	255	dev/onas
+17553	2	play	sound	255	dev/pk/sal
+17565	0	play	sound	255	dev/pk/can
+17613	1	play	sound	255	dev/onas
+17616	2	play	sound	255	dev/pk/sal
+17628	1	play	sound	255	dev/onas
+17634	2	play	sound	255	dev/pk/sal
+17643	1	play	sound	255	dev/onas
+17652	2	play	sound	255	dev/pk/sal
+17658	1	play	sound	255	dev/onas
+17670	2	play	sound	255	dev/pk/sal
+17670	0	play	sound	229	sfx/explosion/small
+17670	0	play	sound	232	sfx/explosion/gas
+17673	1	play	sound	255	dev/onas
+17688	1	play	sound	255	dev/onas
+17688	2	play	sound	255	dev/pk/sal
+17823	0	play	sound	255	sfx/energy
+17913	1	play	sound	255	dev/onas
+17916	2	play	sound	255	dev/pk/sal
+17928	1	play	sound	255	dev/onas
+17934	2	play	sound	255	dev/pk/sal
+17943	1	play	sound	255	dev/onas
+17952	2	play	sound	255	dev/pk/sal
+17958	1	play	sound	255	dev/onas
+17970	2	play	sound	255	dev/pk/sal
+17973	1	play	sound	255	dev/onas
+17973	0	play	sound	255	sfx/explosion/energy
+17985	0	play	sound	255	sfx/explosion/large
+17985	1	play	sound	255	sfx/explosion/gas
+18027	2	play	sound	255	sfx/explosion/energy
+18030	1	play	sound	255	sfx/energy
+18099	1	play	sound	128	gui/beep/button
+18100	0	play	sound	128	gui/beep/zoom
+18108	1	play	sound	128	gui/beep/button
+18114	1	play	sound	128	gui/beep/button
+18170	0	play	sound	128	gui/beep/zoom
+18171	1	play	sound	128	gui/beep/button
+18173	0	play	sound	128	gui/beep/zoom
+18362	2	play	sound	64	gui/beep/message
+18365	2	play	sound	64	gui/beep/message
+18368	2	play	sound	64	gui/beep/message
+18371	2	play	sound	64	gui/beep/message
+18374	2	play	sound	64	gui/beep/message
+18377	2	play	sound	64	gui/beep/message
+18380	2	play	sound	64	gui/beep/message
+18383	2	play	sound	64	gui/beep/message
+18386	2	play	sound	64	gui/beep/message
+18389	2	play	sound	64	gui/beep/message
+18392	2	play	sound	64	gui/beep/message
+18395	2	play	sound	64	gui/beep/message
+18398	2	play	sound	64	gui/beep/message
+18401	2	play	sound	64	gui/beep/message
+18404	2	play	sound	64	gui/beep/message
+18407	2	play	sound	64	gui/beep/message
+18410	2	play	sound	64	gui/beep/message
+18413	2	play	sound	64	gui/beep/message
+18416	2	play	sound	64	gui/beep/message
+18419	2	play	sound	64	gui/beep/message
+18422	2	play	sound	64	gui/beep/message
+18425	2	play	sound	64	gui/beep/message
+18428	2	play	sound	64	gui/beep/message
+18431	2	play	sound	64	gui/beep/message
+18434	2	play	sound	64	gui/beep/message
+18437	2	play	sound	64	gui/beep/message
+18440	2	play	sound	64	gui/beep/message
+18443	2	play	sound	64	gui/beep/message
+18446	2	play	sound	64	gui/beep/message
+18449	2	play	sound	64	gui/beep/message
+18452	2	play	sound	64	gui/beep/message
+18455	2	play	sound	64	gui/beep/message
+18458	2	play	sound	64	gui/beep/message
+18461	2	play	sound	64	gui/beep/message
+18464	2	play	sound	64	gui/beep/message
+18467	2	play	sound	64	gui/beep/message
+18470	2	play	sound	64	gui/beep/message
+18473	2	play	sound	64	gui/beep/message
+18476	2	play	sound	64	gui/beep/message
+18479	2	play	sound	64	gui/beep/message
+18482	2	play	sound	64	gui/beep/message
+18485	2	play	sound	64	gui/beep/message
+18488	2	play	sound	64	gui/beep/message
+18491	2	play	sound	64	gui/beep/message
+18494	2	play	sound	64	gui/beep/message
+18497	2	play	sound	64	gui/beep/message
+18500	2	play	sound	64	gui/beep/message
+18503	2	play	sound	64	gui/beep/message
+18506	2	play	sound	64	gui/beep/message
+18509	2	play	sound	64	gui/beep/message
+18512	2	play	sound	64	gui/beep/message
+18515	2	play	sound	64	gui/beep/message
+18518	2	play	sound	64	gui/beep/message
+18521	2	play	sound	64	gui/beep/message
+18524	2	play	sound	64	gui/beep/message
+18527	2	play	sound	64	gui/beep/message
+18530	2	play	sound	64	gui/beep/message
+18533	2	play	sound	64	gui/beep/message
+18536	2	play	sound	64	gui/beep/message
+18539	2	play	sound	64	gui/beep/message
+18542	2	play	sound	64	gui/beep/message
+18545	2	play	sound	64	gui/beep/message
+18548	2	play	sound	64	gui/beep/message
+18551	2	play	sound	64	gui/beep/message
+18554	2	play	sound	64	gui/beep/message
+18557	2	play	sound	64	gui/beep/message
+18560	2	play	sound	64	gui/beep/message
+18563	2	play	sound	64	gui/beep/message
+18566	2	play	sound	64	gui/beep/message
+18569	2	play	sound	64	gui/beep/message
+18572	2	play	sound	64	gui/beep/message
+18575	2	play	sound	64	gui/beep/message
+18578	2	play	sound	64	gui/beep/message
+18581	2	play	sound	64	gui/beep/message
+18584	2	play	sound	64	gui/beep/message
+18587	2	play	sound	64	gui/beep/message
+18590	2	play	sound	64	gui/beep/message
+18593	2	play	sound	64	gui/beep/message
+18596	2	play	sound	64	gui/beep/message
+18599	2	play	sound	64	gui/beep/message
+18602	2	play	sound	64	gui/beep/message
+18605	2	play	sound	64	gui/beep/message
+18608	2	play	sound	64	gui/beep/message
+18611	2	play	sound	64	gui/beep/message
+18747	1	play	sound	128	gui/beep/button
+18813	1	play	sound	128	gui/beep/button
+18882	0	play	sound	255	sfx/warp/charge/1
+18906	1	play	sound	255	sfx/warp/charge/2
+18930	2	play	sound	255	sfx/warp/charge/3
+18957	0	play	sound	255	sfx/warp/charge/4
+18981	1	play	sound	255	sfx/warp/in
+18996	2	play	sound	59	sfx/explosion/energy
+19053	2	play	sound	128	gui/beep/button
+19062	2	play	sound	128	gui/beep/button
+19176	2	play	sound	41	sfx/warp/out
+19218	2	play	sound	255	sfx/warp/out
+19245	0	play	sound	128	gui/beep/button
+19254	0	play	sound	128	gui/beep/button
+19318	1	play	sound	128	gui/beep/zoom
+19401	0	play	sound	192	gui/beep/select
+19425	0	play	sound	192	gui/beep/select
+19449	0	play	sound	192	gui/beep/select
+19593	2	play	sound	255	sfx/warp/out
+19611	2	play	sound	255	sfx/warp/out
+20058	0	play	sound	192	gui/beep/select
+20082	0	play	sound	192	gui/beep/select
+21858	0	play	sound	255	tpl/transport/land
+21885	0	play	sound	255	tpl/transport/land
+21900	0	play	sound	255	tpl/transport/land
+21912	0	play	sound	255	tpl/transport/land
+21945	0	play	sound	255	tpl/transport/land
+22044	0	play	sound	255	tpl/transport/land
+22050	0	play	sound	255	tpl/transport/land
+22059	0	play	sound	255	tpl/transport/land
+22080	0	play	sound	255	tpl/transport/land
+22113	0	play	sound	255	tpl/transport/land
+22500	0	quiet
+22500	1	quiet
+22500	2	quiet
+22500	3	quiet

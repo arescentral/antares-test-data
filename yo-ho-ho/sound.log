@@ -1,3113 +1,1043 @@
-quiet	3	0
-amp	3	0	255
-loop	3	0	/music/freds-theme
-quiet	3	0
-quiet	3	0
-amp	3	0	215
-loop	3	0	/music/targetron
-quiet	0	1
-amp	0	1	128
-play	0	1	/sounds/gui/beep/zoom
-quiet	1	207
-amp	1	207	128
-play	1	207	/sounds/gui/beep/button
-quiet	0	737
-amp	0	737	128
-play	0	737	/sounds/gui/beep/zoom
-quiet	0	747
-amp	0	747	255
-play	0	747	/sounds/dev/lepton
-quiet	1	750
-amp	1	750	255
-play	1	750	/sounds/dev/pp
-quiet	0	756
-amp	0	756	255
-play	0	756	/sounds/dev/lepton
-quiet	1	762
-amp	1	762	255
-play	1	762	/sounds/dev/pp
-quiet	0	765
-amp	0	765	255
-play	0	765	/sounds/dev/lepton
-quiet	2	774
-amp	2	774	255
-play	2	774	/sounds/sfx/warp/out
-quiet	1	774
-amp	1	774	255
-play	1	774	/sounds/dev/pp
-quiet	0	774
-amp	0	774	255
-play	0	774	/sounds/dev/lepton
-quiet	0	783
-amp	0	783	255
-play	0	783	/sounds/dev/lepton
-quiet	1	786
-amp	1	786	255
-play	1	786	/sounds/dev/pp
-quiet	0	792
-amp	0	792	255
-play	0	792	/sounds/dev/lepton
-quiet	1	798
-amp	1	798	255
-play	1	798	/sounds/dev/pp
-quiet	0	801
-amp	0	801	255
-play	0	801	/sounds/dev/lepton
-quiet	2	801
-amp	2	801	255
-play	2	801	/sounds/sfx/explosion/energy
-quiet	2	804
-amp	2	804	255
-play	2	804	/sounds/sfx/explosion/energy
-quiet	1	810
-amp	1	810	255
-play	1	810	/sounds/dev/pp
-quiet	0	810
-amp	0	810	255
-play	0	810	/sounds/dev/lepton
-quiet	2	813
-amp	2	813	255
-play	2	813	/sounds/sfx/explosion/energy
-quiet	0	813
-amp	0	813	255
-play	0	813	/sounds/sfx/explosion/large
-quiet	2	813
-amp	2	813	255
-play	2	813	/sounds/sfx/explosion/energy
-quiet	1	822
-amp	1	822	255
-play	1	822	/sounds/dev/pp
-quiet	1	864
-amp	1	864	255
-play	1	864	/sounds/sfx/warp/out
-quiet	2	879
-amp	2	879	255
-play	2	879	/sounds/sfx/energy
-quiet	0	957
-amp	0	957	224
-play	0	957	/sounds/sfx/warp/out
-quiet	1	984
-amp	1	984	97
-play	1	984	/sounds/sfx/warp/out
-quiet	1	1053
-amp	1	1053	130
-play	1	1053	/sounds/dev/cm
-quiet	1	1125
-amp	1	1125	175
-play	1	1125	/sounds/dev/cm
-quiet	0	1182
-amp	0	1182	255
-play	0	1182	/sounds/sfx/explosion/gas
-quiet	1	1197
-amp	1	1197	243
-play	1	1197	/sounds/dev/cm
-quiet	2	1278
-amp	2	1278	128
-play	2	1278	/sounds/gui/beep/button
-quiet	2	1284
-amp	2	1284	128
-play	2	1284	/sounds/gui/beep/button
-quiet	2	1299
-amp	2	1299	128
-play	2	1299	/sounds/gui/beep/button
-quiet	1	1329
-amp	1	1329	251
-play	1	1329	/sounds/dev/cm
-quiet	1	1341
-amp	1	1341	255
-play	1	1341	/sounds/dev/lepton
-quiet	2	1344
-amp	2	1344	255
-play	2	1344	/sounds/dev/pp
-quiet	1	1350
-amp	1	1350	255
-play	1	1350	/sounds/dev/lepton
-quiet	2	1356
-amp	2	1356	255
-play	2	1356	/sounds/dev/pp
-quiet	1	1359
-amp	1	1359	255
-play	1	1359	/sounds/dev/lepton
-quiet	2	1368
-amp	2	1368	255
-play	2	1368	/sounds/dev/pp
-quiet	1	1368
-amp	1	1368	255
-play	1	1368	/sounds/dev/lepton
-quiet	1	1377
-amp	1	1377	255
-play	1	1377	/sounds/dev/lepton
-quiet	2	1380
-amp	2	1380	255
-play	2	1380	/sounds/dev/pp
-quiet	0	1383
-amp	0	1383	255
-play	0	1383	/sounds/sfx/explosion/energy
-quiet	0	1383
-amp	0	1383	255
-play	0	1383	/sounds/sfx/explosion/energy
-quiet	1	1386
-amp	1	1386	255
-play	1	1386	/sounds/dev/lepton
-quiet	2	1392
-amp	2	1392	255
-play	2	1392	/sounds/dev/pp
-quiet	1	1395
-amp	1	1395	255
-play	1	1395	/sounds/dev/lepton
-quiet	2	1404
-amp	2	1404	255
-play	2	1404	/sounds/dev/pp
-quiet	1	1404
-amp	1	1404	255
-play	1	1404	/sounds/dev/lepton
-quiet	1	1413
-amp	1	1413	255
-play	1	1413	/sounds/dev/lepton
-quiet	2	1416
-amp	2	1416	255
-play	2	1416	/sounds/dev/pp
-quiet	0	1419
-amp	0	1419	224
-play	0	1419	/sounds/sfx/explosion/energy
-quiet	1	1434
-amp	1	1434	223
-play	1	1434	/sounds/sfx/explosion/energy
-quiet	2	1446
-amp	2	1446	221
-play	2	1446	/sounds/sfx/explosion/energy
-quiet	0	1458
-amp	0	1458	219
-play	0	1458	/sounds/sfx/explosion/energy
-quiet	0	1467
-amp	0	1467	224
-play	0	1467	/sounds/sfx/explosion/energy
-quiet	0	1548
-amp	0	1548	246
-play	0	1548	/sounds/dev/cm
-quiet	0	1575
-amp	0	1575	255
-play	0	1575	/sounds/dev/lepton
-quiet	1	1578
-amp	1	1578	255
-play	1	1578	/sounds/dev/pp
-quiet	0	1584
-amp	0	1584	255
-play	0	1584	/sounds/dev/lepton
-quiet	1	1590
-amp	1	1590	255
-play	1	1590	/sounds/dev/pp
-quiet	0	1593
-amp	0	1593	255
-play	0	1593	/sounds/dev/lepton
-quiet	2	1596
-amp	2	1596	255
-play	2	1596	/sounds/sfx/explosion/energy
-quiet	1	1602
-amp	1	1602	255
-play	1	1602	/sounds/dev/pp
-quiet	0	1602
-amp	0	1602	255
-play	0	1602	/sounds/dev/lepton
-quiet	2	1605
-amp	2	1605	255
-play	2	1605	/sounds/sfx/explosion/energy
-quiet	2	1605
-amp	2	1605	255
-play	2	1605	/sounds/sfx/explosion/energy
-quiet	0	1611
-amp	0	1611	255
-play	0	1611	/sounds/dev/lepton
-quiet	1	1614
-amp	1	1614	255
-play	1	1614	/sounds/dev/pp
-quiet	2	1614
-amp	2	1614	255
-play	2	1614	/sounds/sfx/explosion/energy
-quiet	2	1614
-amp	2	1614	255
-play	2	1614	/sounds/sfx/explosion/energy
-quiet	0	1620
-amp	0	1620	255
-play	0	1620	/sounds/dev/lepton
-quiet	2	1620
-amp	2	1620	255
-play	2	1620	/sounds/sfx/explosion/energy
-quiet	1	1626
-amp	1	1626	255
-play	1	1626	/sounds/dev/pp
-quiet	2	1626
-amp	2	1626	255
-play	2	1626	/sounds/sfx/explosion/energy
-quiet	2	1626
-amp	2	1626	255
-play	2	1626	/sounds/sfx/explosion/energy
-quiet	0	1629
-amp	0	1629	255
-play	0	1629	/sounds/dev/lepton
-quiet	2	1635
-amp	2	1635	255
-play	2	1635	/sounds/sfx/explosion/energy
-quiet	2	1635
-amp	2	1635	255
-play	2	1635	/sounds/sfx/explosion/energy
-quiet	1	1638
-amp	1	1638	255
-play	1	1638	/sounds/dev/conc
-quiet	1	1638
-amp	1	1638	255
-play	1	1638	/sounds/dev/pp
-quiet	0	1638
-amp	0	1638	255
-play	0	1638	/sounds/dev/lepton
-quiet	2	1641
-amp	2	1641	255
-play	2	1641	/sounds/sfx/explosion/energy
-quiet	2	1644
-amp	2	1644	255
-play	2	1644	/sounds/sfx/explosion/energy
-quiet	2	1644
-amp	2	1644	255
-play	2	1644	/sounds/sfx/explosion/energy
-quiet	0	1647
-amp	0	1647	255
-play	0	1647	/sounds/dev/lepton
-quiet	2	1647
-amp	2	1647	255
-play	2	1647	/sounds/sfx/explosion/energy
-quiet	1	1650
-amp	1	1650	255
-play	1	1650	/sounds/dev/conc
-quiet	1	1650
-amp	1	1650	255
-play	1	1650	/sounds/dev/pp
-quiet	2	1653
-amp	2	1653	255
-play	2	1653	/sounds/sfx/explosion/energy
-quiet	2	1653
-amp	2	1653	255
-play	2	1653	/sounds/sfx/explosion/energy
-quiet	0	1656
-amp	0	1656	255
-play	0	1656	/sounds/dev/lepton
-quiet	1	1662
-amp	1	1662	255
-play	1	1662	/sounds/dev/conc
-quiet	1	1662
-amp	1	1662	255
-play	1	1662	/sounds/dev/pp
-quiet	0	1665
-amp	0	1665	255
-play	0	1665	/sounds/dev/lepton
-quiet	2	1668
-amp	2	1668	255
-play	2	1668	/sounds/sfx/explosion/energy
-quiet	2	1668
-amp	2	1668	255
-play	2	1668	/sounds/sfx/explosion/energy
-quiet	1	1674
-amp	1	1674	255
-play	1	1674	/sounds/dev/conc
-quiet	1	1674
-amp	1	1674	255
-play	1	1674	/sounds/dev/pp
-quiet	0	1674
-amp	0	1674	255
-play	0	1674	/sounds/dev/lepton
-quiet	2	1680
-amp	2	1680	255
-play	2	1680	/sounds/sfx/explosion/energy
-quiet	0	1683
-amp	0	1683	255
-play	0	1683	/sounds/dev/lepton
-quiet	1	1686
-amp	1	1686	255
-play	1	1686	/sounds/dev/pp
-quiet	2	1686
-amp	2	1686	255
-play	2	1686	/sounds/sfx/explosion/energy
-quiet	0	1692
-amp	0	1692	255
-play	0	1692	/sounds/dev/lepton
-quiet	2	1692
-amp	2	1692	255
-play	2	1692	/sounds/sfx/explosion/energy
-quiet	1	1698
-amp	1	1698	255
-play	1	1698	/sounds/dev/pp
-quiet	0	1701
-amp	0	1701	255
-play	0	1701	/sounds/dev/lepton
-quiet	2	1701
-amp	2	1701	255
-play	2	1701	/sounds/sfx/explosion/energy
-quiet	2	1704
-amp	2	1704	255
-play	2	1704	/sounds/sfx/explosion/energy
-quiet	1	1710
-amp	1	1710	255
-play	1	1710	/sounds/dev/pp
-quiet	0	1710
-amp	0	1710	255
-play	0	1710	/sounds/dev/lepton
-quiet	2	1716
-amp	2	1716	255
-play	2	1716	/sounds/sfx/explosion/energy
-quiet	2	1716
-amp	2	1716	255
-play	2	1716	/sounds/sfx/explosion/energy
-quiet	0	1719
-amp	0	1719	255
-play	0	1719	/sounds/dev/lepton
-quiet	1	1722
-amp	1	1722	255
-play	1	1722	/sounds/dev/pp
-quiet	2	1725
-amp	2	1725	255
-play	2	1725	/sounds/sfx/explosion/energy
-quiet	0	1728
-amp	0	1728	255
-play	0	1728	/sounds/dev/lepton
-quiet	2	1728
-amp	2	1728	255
-play	2	1728	/sounds/sfx/explosion/energy
-quiet	2	1728
-amp	2	1728	255
-play	2	1728	/sounds/sfx/explosion/energy
-quiet	1	1734
-amp	1	1734	255
-play	1	1734	/sounds/dev/pp
-quiet	0	1737
-amp	0	1737	255
-play	0	1737	/sounds/dev/lepton
-quiet	1	1746
-amp	1	1746	255
-play	1	1746	/sounds/dev/pp
-quiet	0	1746
-amp	0	1746	255
-play	0	1746	/sounds/dev/lepton
-quiet	2	1749
-amp	2	1749	255
-play	2	1749	/sounds/sfx/explosion/energy
-quiet	0	1755
-amp	0	1755	255
-play	0	1755	/sounds/dev/lepton
-quiet	1	1758
-amp	1	1758	255
-play	1	1758	/sounds/dev/pp
-quiet	0	1764
-amp	0	1764	255
-play	0	1764	/sounds/dev/lepton
-quiet	2	1764
-amp	2	1764	255
-play	2	1764	/sounds/sfx/explosion/energy
-quiet	1	1770
-amp	1	1770	255
-play	1	1770	/sounds/dev/pp
-quiet	0	1773
-amp	0	1773	255
-play	0	1773	/sounds/dev/lepton
-quiet	0	1779
-amp	0	1779	244
-play	0	1779	/sounds/sfx/explosion/large
-quiet	0	1779
-amp	0	1779	253
-play	0	1779	/sounds/sfx/explosion/energy
-quiet	1	1782
-amp	1	1782	255
-play	1	1782	/sounds/dev/pp
-quiet	0	1782
-amp	0	1782	255
-play	0	1782	/sounds/dev/lepton
-quiet	2	1797
-amp	2	1797	242
-play	2	1797	/sounds/sfx/explosion/energy
-quiet	0	1827
-amp	0	1827	238
-play	0	1827	/sounds/sfx/explosion/energy
-quiet	0	1857
-amp	0	1857	248
-play	0	1857	/sounds/sfx/energy
-quiet	0	1866
-amp	0	1866	250
-play	0	1866	/sounds/sfx/energy
-quiet	0	1869
-amp	0	1869	252
-play	0	1869	/sounds/sfx/energy
-quiet	1	1872
-amp	1	1872	13
-play	1	1872	/sounds/sfx/explosion/energy
-quiet	0	1875
-amp	0	1875	254
-play	0	1875	/sounds/sfx/energy
-quiet	0	1911
-amp	0	1911	255
-play	0	1911	/sounds/dev/pp
-quiet	1	1911
-amp	1	1911	255
-play	1	1911	/sounds/dev/lepton
-quiet	1	1920
-amp	1	1920	255
-play	1	1920	/sounds/dev/lepton
-quiet	0	1923
-amp	0	1923	255
-play	0	1923	/sounds/dev/pp
-quiet	1	1929
-amp	1	1929	255
-play	1	1929	/sounds/dev/lepton
-quiet	0	1935
-amp	0	1935	255
-play	0	1935	/sounds/dev/pp
-quiet	1	1938
-amp	1	1938	255
-play	1	1938	/sounds/dev/lepton
-quiet	2	1938
-amp	2	1938	235
-play	2	1938	/sounds/sfx/energy
-quiet	2	1938
-amp	2	1938	235
-play	2	1938	/sounds/sfx/energy
-quiet	2	1938
-amp	2	1938	235
-play	2	1938	/sounds/sfx/energy
-quiet	2	1941
-amp	2	1941	237
-play	2	1941	/sounds/sfx/energy
-quiet	2	1941
-amp	2	1941	237
-play	2	1941	/sounds/sfx/energy
-quiet	0	1947
-amp	0	1947	255
-play	0	1947	/sounds/dev/pp
-quiet	1	1947
-amp	1	1947	255
-play	1	1947	/sounds/dev/lepton
-quiet	2	1947
-amp	2	1947	246
-play	2	1947	/sounds/sfx/explosion/small
-quiet	2	1947
-amp	2	1947	247
-play	2	1947	/sounds/sfx/explosion/energy
-quiet	2	1950
-amp	2	1950	255
-play	2	1950	/sounds/sfx/explosion/energy
-quiet	1	1956
-amp	1	1956	255
-play	1	1956	/sounds/dev/lepton
-quiet	0	1959
-amp	0	1959	255
-play	0	1959	/sounds/dev/pp
-quiet	1	1974
-amp	1	1974	255
-play	1	1974	/sounds/dev/lepton
-quiet	2	1977
-amp	2	1977	255
-play	2	1977	/sounds/sfx/explosion/energy
-quiet	1	1983
-amp	1	1983	255
-play	1	1983	/sounds/dev/lepton
-quiet	2	1986
-amp	2	1986	255
-play	2	1986	/sounds/sfx/explosion/energy
-quiet	1	1992
-amp	1	1992	255
-play	1	1992	/sounds/dev/lepton
-quiet	1	2001
-amp	1	2001	255
-play	1	2001	/sounds/dev/lepton
-quiet	1	2010
-amp	1	2010	255
-play	1	2010	/sounds/dev/lepton
-quiet	0	2013
-amp	0	2013	255
-play	0	2013	/sounds/sfx/energy
-quiet	1	2019
-amp	1	2019	255
-play	1	2019	/sounds/dev/lepton
-quiet	1	2028
-amp	1	2028	255
-play	1	2028	/sounds/dev/lepton
-quiet	1	2037
-amp	1	2037	255
-play	1	2037	/sounds/dev/lepton
-quiet	1	2046
-amp	1	2046	255
-play	1	2046	/sounds/dev/lepton
-quiet	1	2055
-amp	1	2055	255
-play	1	2055	/sounds/dev/lepton
-quiet	1	2064
-amp	1	2064	255
-play	1	2064	/sounds/dev/lepton
-quiet	1	2073
-amp	1	2073	255
-play	1	2073	/sounds/dev/lepton
-quiet	1	2082
-amp	1	2082	255
-play	1	2082	/sounds/dev/lepton
-quiet	2	2091
-amp	2	2091	255
-play	2	2091	/sounds/dev/conc
-quiet	1	2091
-amp	1	2091	255
-play	1	2091	/sounds/dev/lepton
-quiet	0	2097
-amp	0	2097	255
-play	0	2097	/sounds/dev/conc
-quiet	1	2100
-amp	1	2100	255
-play	1	2100	/sounds/dev/lepton
-quiet	2	2103
-amp	2	2103	255
-play	2	2103	/sounds/dev/conc
-quiet	0	2103
-amp	0	2103	255
-play	0	2103	/sounds/dev/conc/ricochet/2
-quiet	1	2109
-amp	1	2109	255
-play	1	2109	/sounds/dev/lepton
-quiet	2	2115
-amp	2	2115	255
-play	2	2115	/sounds/dev/conc
-quiet	1	2118
-amp	1	2118	255
-play	1	2118	/sounds/dev/lepton
-quiet	0	2121
-amp	0	2121	255
-play	0	2121	/sounds/dev/conc
-quiet	2	2127
-amp	2	2127	255
-play	2	2127	/sounds/dev/conc
-quiet	1	2127
-amp	1	2127	255
-play	1	2127	/sounds/dev/lepton
-quiet	1	2136
-amp	1	2136	255
-play	1	2136	/sounds/dev/lepton
-quiet	1	2145
-amp	1	2145	255
-play	1	2145	/sounds/dev/lepton
-quiet	1	2154
-amp	1	2154	255
-play	1	2154	/sounds/dev/lepton
-quiet	1	2163
-amp	1	2163	255
-play	1	2163	/sounds/dev/lepton
-quiet	1	2172
-amp	1	2172	255
-play	1	2172	/sounds/dev/lepton
-quiet	1	2181
-amp	1	2181	255
-play	1	2181	/sounds/dev/lepton
-quiet	1	2190
-amp	1	2190	255
-play	1	2190	/sounds/dev/lepton
-quiet	1	2199
-amp	1	2199	255
-play	1	2199	/sounds/dev/lepton
-quiet	1	2208
-amp	1	2208	255
-play	1	2208	/sounds/dev/lepton
-quiet	1	2217
-amp	1	2217	255
-play	1	2217	/sounds/dev/lepton
-quiet	1	2226
-amp	1	2226	255
-play	1	2226	/sounds/dev/lepton
-quiet	1	2235
-amp	1	2235	255
-play	1	2235	/sounds/dev/lepton
-quiet	0	2241
-amp	0	2241	255
-play	0	2241	/sounds/sfx/explosion/energy
-quiet	1	2244
-amp	1	2244	255
-play	1	2244	/sounds/dev/lepton
-quiet	1	2253
-amp	1	2253	255
-play	1	2253	/sounds/dev/lepton
-quiet	1	2262
-amp	1	2262	255
-play	1	2262	/sounds/dev/lepton
-quiet	1	2271
-amp	1	2271	255
-play	1	2271	/sounds/dev/lepton
-quiet	1	2280
-amp	1	2280	255
-play	1	2280	/sounds/dev/lepton
-quiet	1	2289
-amp	1	2289	255
-play	1	2289	/sounds/dev/lepton
-quiet	1	2298
-amp	1	2298	255
-play	1	2298	/sounds/dev/lepton
-quiet	1	2307
-amp	1	2307	255
-play	1	2307	/sounds/dev/lepton
-quiet	1	2316
-amp	1	2316	255
-play	1	2316	/sounds/dev/lepton
-quiet	1	2325
-amp	1	2325	255
-play	1	2325	/sounds/dev/lepton
-quiet	1	2334
-amp	1	2334	255
-play	1	2334	/sounds/dev/lepton
-quiet	0	2340
-amp	0	2340	255
-play	0	2340	/sounds/sfx/explosion/energy
-quiet	1	2343
-amp	1	2343	255
-play	1	2343	/sounds/dev/lepton
-quiet	1	2352
-amp	1	2352	255
-play	1	2352	/sounds/dev/lepton
-quiet	1	2361
-amp	1	2361	255
-play	1	2361	/sounds/dev/lepton
-quiet	1	2370
-amp	1	2370	255
-play	1	2370	/sounds/dev/lepton
-quiet	1	2379
-amp	1	2379	255
-play	1	2379	/sounds/dev/lepton
-quiet	1	2388
-amp	1	2388	255
-play	1	2388	/sounds/dev/lepton
-quiet	1	2397
-amp	1	2397	255
-play	1	2397	/sounds/dev/lepton
-quiet	1	2406
-amp	1	2406	255
-play	1	2406	/sounds/dev/lepton
-quiet	1	2415
-amp	1	2415	255
-play	1	2415	/sounds/dev/lepton
-quiet	1	2424
-amp	1	2424	255
-play	1	2424	/sounds/dev/lepton
-quiet	1	2460
-amp	1	2460	255
-play	1	2460	/sounds/dev/lepton
-quiet	1	2469
-amp	1	2469	255
-play	1	2469	/sounds/dev/lepton
-quiet	1	2478
-amp	1	2478	255
-play	1	2478	/sounds/dev/lepton
-quiet	1	2487
-amp	1	2487	255
-play	1	2487	/sounds/dev/lepton
-quiet	1	2496
-amp	1	2496	255
-play	1	2496	/sounds/dev/lepton
-quiet	1	2505
-amp	1	2505	255
-play	1	2505	/sounds/dev/lepton
-quiet	1	2514
-amp	1	2514	255
-play	1	2514	/sounds/dev/lepton
-quiet	1	2523
-amp	1	2523	255
-play	1	2523	/sounds/dev/lepton
-quiet	1	2532
-amp	1	2532	255
-play	1	2532	/sounds/dev/lepton
-quiet	1	2541
-amp	1	2541	255
-play	1	2541	/sounds/dev/lepton
-quiet	1	2550
-amp	1	2550	255
-play	1	2550	/sounds/dev/lepton
-quiet	1	2559
-amp	1	2559	255
-play	1	2559	/sounds/dev/lepton
-quiet	1	2568
-amp	1	2568	255
-play	1	2568	/sounds/dev/lepton
-quiet	1	2577
-amp	1	2577	255
-play	1	2577	/sounds/dev/lepton
-quiet	1	2586
-amp	1	2586	255
-play	1	2586	/sounds/dev/lepton
-quiet	1	2595
-amp	1	2595	255
-play	1	2595	/sounds/dev/lepton
-quiet	1	2604
-amp	1	2604	255
-play	1	2604	/sounds/dev/lepton
-quiet	1	2613
-amp	1	2613	255
-play	1	2613	/sounds/dev/lepton
-quiet	1	2622
-amp	1	2622	255
-play	1	2622	/sounds/dev/lepton
-quiet	0	2628
-amp	0	2628	255
-play	0	2628	/sounds/sfx/explosion/energy
-quiet	1	2631
-amp	1	2631	255
-play	1	2631	/sounds/dev/lepton
-quiet	1	2640
-amp	1	2640	255
-play	1	2640	/sounds/dev/lepton
-quiet	1	2649
-amp	1	2649	255
-play	1	2649	/sounds/dev/lepton
-quiet	1	2658
-amp	1	2658	255
-play	1	2658	/sounds/dev/lepton
-quiet	1	2667
-amp	1	2667	255
-play	1	2667	/sounds/dev/lepton
-quiet	1	2676
-amp	1	2676	255
-play	1	2676	/sounds/dev/lepton
-quiet	1	2685
-amp	1	2685	255
-play	1	2685	/sounds/dev/lepton
-quiet	1	2694
-amp	1	2694	255
-play	1	2694	/sounds/dev/lepton
-quiet	0	2700
-amp	0	2700	255
-play	0	2700	/sounds/sfx/explosion/energy
-quiet	1	2703
-amp	1	2703	255
-play	1	2703	/sounds/dev/lepton
-quiet	1	2712
-amp	1	2712	255
-play	1	2712	/sounds/dev/lepton
-quiet	1	2721
-amp	1	2721	255
-play	1	2721	/sounds/dev/lepton
-quiet	1	2730
-amp	1	2730	255
-play	1	2730	/sounds/dev/lepton
-quiet	1	2739
-amp	1	2739	255
-play	1	2739	/sounds/dev/lepton
-quiet	1	2748
-amp	1	2748	255
-play	1	2748	/sounds/dev/lepton
-quiet	0	2751
-amp	0	2751	255
-play	0	2751	/sounds/sfx/explosion/energy
-quiet	1	2757
-amp	1	2757	255
-play	1	2757	/sounds/dev/lepton
-quiet	0	2760
-amp	0	2760	255
-play	0	2760	/sounds/sfx/explosion/energy
-quiet	1	2766
-amp	1	2766	255
-play	1	2766	/sounds/dev/lepton
-quiet	1	2775
-amp	1	2775	255
-play	1	2775	/sounds/dev/lepton
-quiet	0	2775
-amp	0	2775	255
-play	0	2775	/sounds/sfx/explosion/energy
-quiet	1	2784
-amp	1	2784	255
-play	1	2784	/sounds/dev/lepton
-quiet	1	2793
-amp	1	2793	255
-play	1	2793	/sounds/dev/lepton
-quiet	1	2802
-amp	1	2802	255
-play	1	2802	/sounds/dev/lepton
-quiet	1	2811
-amp	1	2811	255
-play	1	2811	/sounds/dev/lepton
-quiet	1	2820
-amp	1	2820	255
-play	1	2820	/sounds/dev/lepton
-quiet	1	2829
-amp	1	2829	255
-play	1	2829	/sounds/dev/lepton
-quiet	1	2838
-amp	1	2838	255
-play	1	2838	/sounds/dev/lepton
-quiet	1	2847
-amp	1	2847	255
-play	1	2847	/sounds/dev/lepton
-quiet	0	2847
-amp	0	2847	255
-play	0	2847	/sounds/sfx/explosion/energy
-quiet	1	2856
-amp	1	2856	255
-play	1	2856	/sounds/dev/lepton
-quiet	1	2865
-amp	1	2865	255
-play	1	2865	/sounds/dev/lepton
-quiet	1	2874
-amp	1	2874	255
-play	1	2874	/sounds/dev/lepton
-quiet	1	2883
-amp	1	2883	255
-play	1	2883	/sounds/dev/lepton
-quiet	1	2892
-amp	1	2892	255
-play	1	2892	/sounds/dev/lepton
-quiet	1	2901
-amp	1	2901	255
-play	1	2901	/sounds/dev/lepton
-quiet	0	2904
-amp	0	2904	255
-play	0	2904	/sounds/sfx/explosion/energy
-quiet	1	2910
-amp	1	2910	255
-play	1	2910	/sounds/dev/lepton
-quiet	1	2919
-amp	1	2919	255
-play	1	2919	/sounds/dev/lepton
-quiet	1	2928
-amp	1	2928	255
-play	1	2928	/sounds/dev/lepton
-quiet	1	2937
-amp	1	2937	255
-play	1	2937	/sounds/dev/lepton
-quiet	1	2946
-amp	1	2946	255
-play	1	2946	/sounds/dev/lepton
-quiet	1	2955
-amp	1	2955	255
-play	1	2955	/sounds/dev/lepton
-quiet	1	2964
-amp	1	2964	255
-play	1	2964	/sounds/dev/lepton
-quiet	1	2973
-amp	1	2973	255
-play	1	2973	/sounds/dev/lepton
-quiet	1	2982
-amp	1	2982	255
-play	1	2982	/sounds/dev/lepton
-quiet	1	2991
-amp	1	2991	255
-play	1	2991	/sounds/dev/lepton
-quiet	1	3000
-amp	1	3000	255
-play	1	3000	/sounds/dev/lepton
-quiet	1	3009
-amp	1	3009	255
-play	1	3009	/sounds/dev/lepton
-quiet	1	3018
-amp	1	3018	255
-play	1	3018	/sounds/dev/lepton
-quiet	1	3027
-amp	1	3027	255
-play	1	3027	/sounds/dev/lepton
-quiet	1	3036
-amp	1	3036	255
-play	1	3036	/sounds/dev/lepton
-quiet	1	3045
-amp	1	3045	255
-play	1	3045	/sounds/dev/lepton
-quiet	1	3054
-amp	1	3054	255
-play	1	3054	/sounds/dev/lepton
-quiet	0	3060
-amp	0	3060	255
-play	0	3060	/sounds/sfx/explosion/energy
-quiet	1	3063
-amp	1	3063	255
-play	1	3063	/sounds/dev/lepton
-quiet	1	3072
-amp	1	3072	255
-play	1	3072	/sounds/dev/lepton
-quiet	1	3081
-amp	1	3081	255
-play	1	3081	/sounds/dev/lepton
-quiet	1	3090
-amp	1	3090	255
-play	1	3090	/sounds/dev/lepton
-quiet	1	3099
-amp	1	3099	255
-play	1	3099	/sounds/dev/lepton
-quiet	1	3108
-amp	1	3108	255
-play	1	3108	/sounds/dev/lepton
-quiet	0	3111
-amp	0	3111	255
-play	0	3111	/sounds/sfx/explosion/large
-quiet	2	3111
-amp	2	3111	255
-play	2	3111	/sounds/sfx/explosion/energy
-quiet	1	3117
-amp	1	3117	255
-play	1	3117	/sounds/dev/lepton
-quiet	1	3126
-amp	1	3126	255
-play	1	3126	/sounds/dev/lepton
-quiet	1	3135
-amp	1	3135	255
-play	1	3135	/sounds/dev/lepton
-quiet	1	3144
-amp	1	3144	255
-play	1	3144	/sounds/dev/lepton
-quiet	2	3150
-amp	2	3150	255
-play	2	3150	/sounds/sfx/energy
-quiet	1	3237
-amp	1	3237	255
-play	1	3237	/sounds/dev/lepton
-quiet	1	3246
-amp	1	3246	255
-play	1	3246	/sounds/dev/lepton
-quiet	1	3255
-amp	1	3255	255
-play	1	3255	/sounds/dev/lepton
-quiet	1	3264
-amp	1	3264	255
-play	1	3264	/sounds/dev/lepton
-quiet	1	3273
-amp	1	3273	255
-play	1	3273	/sounds/dev/lepton
-quiet	1	3282
-amp	1	3282	255
-play	1	3282	/sounds/dev/lepton
-quiet	1	3291
-amp	1	3291	255
-play	1	3291	/sounds/dev/lepton
-quiet	1	3300
-amp	1	3300	255
-play	1	3300	/sounds/dev/lepton
-quiet	1	3309
-amp	1	3309	255
-play	1	3309	/sounds/dev/lepton
-quiet	1	3318
-amp	1	3318	255
-play	1	3318	/sounds/dev/lepton
-quiet	1	3327
-amp	1	3327	255
-play	1	3327	/sounds/dev/lepton
-quiet	1	3336
-amp	1	3336	255
-play	1	3336	/sounds/dev/lepton
-quiet	1	3345
-amp	1	3345	255
-play	1	3345	/sounds/dev/lepton
-quiet	1	3354
-amp	1	3354	255
-play	1	3354	/sounds/dev/lepton
-quiet	1	3363
-amp	1	3363	255
-play	1	3363	/sounds/dev/lepton
-quiet	1	3372
-amp	1	3372	255
-play	1	3372	/sounds/dev/lepton
-quiet	1	3381
-amp	1	3381	255
-play	1	3381	/sounds/dev/lepton
-quiet	1	3390
-amp	1	3390	255
-play	1	3390	/sounds/dev/lepton
-quiet	1	3399
-amp	1	3399	255
-play	1	3399	/sounds/dev/lepton
-quiet	1	3408
-amp	1	3408	255
-play	1	3408	/sounds/dev/lepton
-quiet	1	3417
-amp	1	3417	255
-play	1	3417	/sounds/dev/lepton
-quiet	1	3426
-amp	1	3426	255
-play	1	3426	/sounds/dev/lepton
-quiet	1	3435
-amp	1	3435	255
-play	1	3435	/sounds/dev/lepton
-quiet	1	3444
-amp	1	3444	255
-play	1	3444	/sounds/dev/lepton
-quiet	1	3453
-amp	1	3453	255
-play	1	3453	/sounds/dev/lepton
-quiet	1	3462
-amp	1	3462	255
-play	1	3462	/sounds/dev/lepton
-quiet	1	3471
-amp	1	3471	255
-play	1	3471	/sounds/dev/lepton
-quiet	1	3480
-amp	1	3480	255
-play	1	3480	/sounds/dev/lepton
-quiet	1	3489
-amp	1	3489	255
-play	1	3489	/sounds/dev/lepton
-quiet	1	3498
-amp	1	3498	255
-play	1	3498	/sounds/dev/lepton
-quiet	1	3507
-amp	1	3507	255
-play	1	3507	/sounds/dev/lepton
-quiet	2	3507
-amp	2	3507	255
-play	2	3507	/sounds/sfx/explosion/energy
-quiet	1	3516
-amp	1	3516	255
-play	1	3516	/sounds/dev/lepton
-quiet	2	3516
-amp	2	3516	255
-play	2	3516	/sounds/sfx/explosion/energy
-quiet	1	3525
-amp	1	3525	255
-play	1	3525	/sounds/dev/lepton
-quiet	1	3534
-amp	1	3534	255
-play	1	3534	/sounds/dev/lepton
-quiet	1	3543
-amp	1	3543	255
-play	1	3543	/sounds/dev/lepton
-quiet	1	3552
-amp	1	3552	255
-play	1	3552	/sounds/dev/lepton
-quiet	0	3558
-amp	0	3558	255
-play	0	3558	/sounds/sfx/explosion/large
-quiet	2	3558
-amp	2	3558	255
-play	2	3558	/sounds/sfx/explosion/energy
-quiet	1	3561
-amp	1	3561	255
-play	1	3561	/sounds/dev/lepton
-quiet	1	3570
-amp	1	3570	255
-play	1	3570	/sounds/dev/lepton
-quiet	1	3579
-amp	1	3579	255
-play	1	3579	/sounds/dev/lepton
-quiet	2	3585
-amp	2	3585	255
-play	2	3585	/sounds/sfx/explosion/energy
-quiet	1	3588
-amp	1	3588	255
-play	1	3588	/sounds/dev/lepton
-quiet	2	3588
-amp	2	3588	255
-play	2	3588	/sounds/sfx/explosion/energy
-quiet	1	3654
-amp	1	3654	255
-play	1	3654	/sounds/sfx/warp/charge/1
-quiet	2	3678
-amp	2	3678	255
-play	2	3678	/sounds/sfx/warp/charge/2
-quiet	0	3702
-amp	0	3702	255
-play	0	3702	/sounds/sfx/warp/charge/3
-quiet	1	3717
-amp	1	3717	128
-play	1	3717	/sounds/gui/beep/button
-quiet	1	3726
-amp	1	3726	128
-play	1	3726	/sounds/gui/beep/button
-quiet	1	3729
-amp	1	3729	255
-play	1	3729	/sounds/sfx/warp/charge/4
-quiet	2	3735
-amp	2	3735	128
-play	2	3735	/sounds/gui/beep/button
-quiet	2	3753
-amp	2	3753	255
-play	2	3753	/sounds/sfx/warp/in
-quiet	0	3768
-amp	0	3768	128
-play	0	3768	/sounds/gui/beep/zoom
-quiet	0	4024
-amp	0	4024	128
-play	0	4024	/sounds/gui/beep/zoom
-quiet	0	4038
-amp	0	4038	255
-play	0	4038	/sounds/sfx/energy
-quiet	1	4059
-amp	1	4059	255
-play	1	4059	/sounds/sfx/warp/out
-quiet	2	4071
-amp	2	4071	255
-play	2	4071	/sounds/sfx/warp/charge/1
-quiet	0	4094
-amp	0	4094	128
-play	0	4094	/sounds/gui/beep/zoom
-quiet	0	4095
-amp	0	4095	255
-play	0	4095	/sounds/sfx/warp/charge/2
-quiet	1	4119
-amp	1	4119	255
-play	1	4119	/sounds/sfx/warp/charge/3
-quiet	2	4146
-amp	2	4146	255
-play	2	4146	/sounds/sfx/warp/charge/4
-quiet	0	4170
-amp	0	4170	255
-play	0	4170	/sounds/sfx/warp/in
-quiet	1	4229
-amp	1	4229	128
-play	1	4229	/sounds/gui/beep/zoom
-quiet	1	4230
-amp	1	4230	255
-play	1	4230	/sounds/sfx/energy
-quiet	2	4273
-amp	2	4273	128
-play	2	4273	/sounds/gui/beep/zoom
-quiet	2	4314
-amp	2	4314	255
-play	2	4314	/sounds/sfx/warp/out
-quiet	0	4317
-amp	0	4317	255
-play	0	4317	/sounds/sfx/warp/charge/1
-quiet	1	4341
-amp	1	4341	255
-play	1	4341	/sounds/sfx/warp/charge/2
-quiet	2	4365
-amp	2	4365	255
-play	2	4365	/sounds/sfx/warp/charge/3
-quiet	0	4392
-amp	0	4392	255
-play	0	4392	/sounds/sfx/warp/charge/4
-quiet	1	4416
-amp	1	4416	255
-play	1	4416	/sounds/sfx/warp/in
-quiet	2	4583
-amp	2	4583	128
-play	2	4583	/sounds/gui/beep/zoom
-quiet	2	4629
-amp	2	4629	255
-play	2	4629	/sounds/sfx/warp/out
-quiet	0	4821
-amp	0	4821	255
-play	0	4821	/sounds/sfx/warp/charge/1
-quiet	1	4839
-amp	1	4839	255
-play	1	4839	/sounds/sfx/energy
-quiet	2	4845
-amp	2	4845	255
-play	2	4845	/sounds/sfx/warp/charge/2
-quiet	0	4869
-amp	0	4869	255
-play	0	4869	/sounds/sfx/warp/charge/3
-quiet	1	4891
-amp	1	4891	128
-play	1	4891	/sounds/gui/beep/zoom
-quiet	1	4896
-amp	1	4896	255
-play	1	4896	/sounds/sfx/warp/charge/4
-quiet	2	4920
-amp	2	4920	255
-play	2	4920	/sounds/sfx/warp/in
-quiet	0	5340
-amp	0	5340	255
-play	0	5340	/sounds/sfx/warp/out
-quiet	1	5415
-amp	1	5415	255
-play	1	5415	/sounds/sfx/warp/charge/1
-quiet	2	5439
-amp	2	5439	255
-play	2	5439	/sounds/sfx/warp/charge/2
-quiet	0	5463
-amp	0	5463	255
-play	0	5463	/sounds/sfx/warp/charge/3
-quiet	1	5490
-amp	1	5490	255
-play	1	5490	/sounds/sfx/warp/charge/4
-quiet	2	5514
-amp	2	5514	255
-play	2	5514	/sounds/sfx/warp/in
-quiet	0	5540
-amp	0	5540	128
-play	0	5540	/sounds/gui/beep/zoom
-quiet	0	5544
-amp	0	5544	255
-play	0	5544	/sounds/sfx/energy
-quiet	1	5597
-amp	1	5597	128
-play	1	5597	/sounds/gui/beep/zoom
-quiet	1	5769
-amp	1	5769	255
-play	1	5769	/sounds/sfx/warp/out
-quiet	2	5806
-amp	2	5806	128
-play	2	5806	/sounds/gui/beep/zoom
-quiet	2	5868
-amp	2	5868	255
-play	2	5868	/sounds/sfx/warp/charge/1
-quiet	0	5892
-amp	0	5892	255
-play	0	5892	/sounds/sfx/warp/charge/2
-quiet	1	5916
-amp	1	5916	255
-play	1	5916	/sounds/sfx/warp/charge/3
-quiet	2	5943
-amp	2	5943	255
-play	2	5943	/sounds/sfx/warp/charge/4
-quiet	0	5967
-amp	0	5967	255
-play	0	5967	/sounds/sfx/warp/in
-quiet	1	5982
-amp	1	5982	255
-play	1	5982	/sounds/sfx/energy
-quiet	2	6034
-amp	2	6034	128
-play	2	6034	/sounds/gui/beep/zoom
-quiet	2	6075
-amp	2	6075	255
-play	2	6075	/sounds/sfx/warp/out
-quiet	0	6078
-amp	0	6078	255
-play	0	6078	/sounds/sfx/warp/charge/1
-quiet	1	6102
-amp	1	6102	255
-play	1	6102	/sounds/sfx/warp/charge/2
-quiet	2	6126
-amp	2	6126	255
-play	2	6126	/sounds/sfx/warp/charge/3
-quiet	0	6153
-amp	0	6153	255
-play	0	6153	/sounds/sfx/warp/charge/4
-quiet	1	6177
-amp	1	6177	255
-play	1	6177	/sounds/sfx/warp/in
-quiet	2	6495
-amp	2	6495	128
-play	2	6495	/sounds/gui/beep/zoom
-quiet	2	6555
-amp	2	6555	255
-play	2	6555	/sounds/sfx/warp/out
-quiet	0	6708
-amp	0	6708	255
-play	0	6708	/sounds/sfx/warp/charge/1
-quiet	1	6732
-amp	1	6732	255
-play	1	6732	/sounds/sfx/warp/charge/2
-quiet	2	6756
-amp	2	6756	255
-play	2	6756	/sounds/sfx/warp/charge/3
-quiet	0	6783
-amp	0	6783	255
-play	0	6783	/sounds/sfx/warp/charge/4
-quiet	1	6807
-amp	1	6807	255
-play	1	6807	/sounds/sfx/warp/in
-quiet	2	6886
-amp	2	6886	128
-play	2	6886	/sounds/gui/beep/zoom
-quiet	2	6924
-amp	2	6924	255
-play	2	6924	/sounds/sfx/warp/out
-quiet	0	7036
-amp	0	7036	128
-play	0	7036	/sounds/gui/beep/zoom
-quiet	0	7086
-amp	0	7086	255
-play	0	7086	/sounds/sfx/warp/charge/1
-quiet	1	7110
-amp	1	7110	255
-play	1	7110	/sounds/sfx/warp/charge/2
-quiet	2	7134
-amp	2	7134	255
-play	2	7134	/sounds/sfx/warp/charge/3
-quiet	0	7275
-amp	0	7275	255
-play	0	7275	/sounds/sfx/warp/charge/1
-quiet	1	7299
-amp	1	7299	255
-play	1	7299	/sounds/sfx/warp/charge/2
-quiet	2	7323
-amp	2	7323	255
-play	2	7323	/sounds/sfx/warp/charge/3
-quiet	0	7350
-amp	0	7350	255
-play	0	7350	/sounds/sfx/warp/charge/4
-quiet	1	7374
-amp	1	7374	255
-play	1	7374	/sounds/sfx/warp/in
-quiet	2	7383
-amp	2	7383	255
-play	2	7383	/sounds/sfx/energy
-quiet	0	7435
-amp	0	7435	128
-play	0	7435	/sounds/gui/beep/zoom
-quiet	2	7505
-amp	2	7505	64
-play	2	7505	/sounds/gui/beep/message
-quiet	2	7508
-amp	2	7508	64
-play	2	7508	/sounds/gui/beep/message
-quiet	2	7511
-amp	2	7511	64
-play	2	7511	/sounds/gui/beep/message
-quiet	2	7514
-amp	2	7514	64
-play	2	7514	/sounds/gui/beep/message
-quiet	2	7517
-amp	2	7517	64
-play	2	7517	/sounds/gui/beep/message
-quiet	2	7520
-amp	2	7520	64
-play	2	7520	/sounds/gui/beep/message
-quiet	2	7523
-amp	2	7523	64
-play	2	7523	/sounds/gui/beep/message
-quiet	2	7526
-amp	2	7526	64
-play	2	7526	/sounds/gui/beep/message
-quiet	2	7529
-amp	2	7529	64
-play	2	7529	/sounds/gui/beep/message
-quiet	2	7532
-amp	2	7532	64
-play	2	7532	/sounds/gui/beep/message
-quiet	2	7535
-amp	2	7535	64
-play	2	7535	/sounds/gui/beep/message
-quiet	2	7538
-amp	2	7538	64
-play	2	7538	/sounds/gui/beep/message
-quiet	2	7541
-amp	2	7541	64
-play	2	7541	/sounds/gui/beep/message
-quiet	2	7544
-amp	2	7544	64
-play	2	7544	/sounds/gui/beep/message
-quiet	2	7547
-amp	2	7547	64
-play	2	7547	/sounds/gui/beep/message
-quiet	2	7550
-amp	2	7550	64
-play	2	7550	/sounds/gui/beep/message
-quiet	2	7553
-amp	2	7553	64
-play	2	7553	/sounds/gui/beep/message
-quiet	2	7556
-amp	2	7556	64
-play	2	7556	/sounds/gui/beep/message
-quiet	2	7559
-amp	2	7559	64
-play	2	7559	/sounds/gui/beep/message
-quiet	2	7562
-amp	2	7562	64
-play	2	7562	/sounds/gui/beep/message
-quiet	2	7565
-amp	2	7565	64
-play	2	7565	/sounds/gui/beep/message
-quiet	2	7568
-amp	2	7568	64
-play	2	7568	/sounds/gui/beep/message
-quiet	2	7571
-amp	2	7571	64
-play	2	7571	/sounds/gui/beep/message
-quiet	2	7574
-amp	2	7574	64
-play	2	7574	/sounds/gui/beep/message
-quiet	2	7577
-amp	2	7577	64
-play	2	7577	/sounds/gui/beep/message
-quiet	2	7580
-amp	2	7580	64
-play	2	7580	/sounds/gui/beep/message
-quiet	2	7583
-amp	2	7583	64
-play	2	7583	/sounds/gui/beep/message
-quiet	2	7586
-amp	2	7586	64
-play	2	7586	/sounds/gui/beep/message
-quiet	2	7589
-amp	2	7589	64
-play	2	7589	/sounds/gui/beep/message
-quiet	2	7592
-amp	2	7592	64
-play	2	7592	/sounds/gui/beep/message
-quiet	2	7595
-amp	2	7595	64
-play	2	7595	/sounds/gui/beep/message
-quiet	2	7598
-amp	2	7598	64
-play	2	7598	/sounds/gui/beep/message
-quiet	2	7601
-amp	2	7601	64
-play	2	7601	/sounds/gui/beep/message
-quiet	2	7604
-amp	2	7604	64
-play	2	7604	/sounds/gui/beep/message
-quiet	2	7607
-amp	2	7607	64
-play	2	7607	/sounds/gui/beep/message
-quiet	2	7610
-amp	2	7610	64
-play	2	7610	/sounds/gui/beep/message
-quiet	2	7613
-amp	2	7613	64
-play	2	7613	/sounds/gui/beep/message
-quiet	2	7616
-amp	2	7616	64
-play	2	7616	/sounds/gui/beep/message
-quiet	2	7619
-amp	2	7619	64
-play	2	7619	/sounds/gui/beep/message
-quiet	2	7622
-amp	2	7622	64
-play	2	7622	/sounds/gui/beep/message
-quiet	2	7625
-amp	2	7625	64
-play	2	7625	/sounds/gui/beep/message
-quiet	2	7628
-amp	2	7628	64
-play	2	7628	/sounds/gui/beep/message
-quiet	2	7631
-amp	2	7631	64
-play	2	7631	/sounds/gui/beep/message
-quiet	2	7634
-amp	2	7634	64
-play	2	7634	/sounds/gui/beep/message
-quiet	2	7637
-amp	2	7637	64
-play	2	7637	/sounds/gui/beep/message
-quiet	2	7640
-amp	2	7640	64
-play	2	7640	/sounds/gui/beep/message
-quiet	2	7643
-amp	2	7643	64
-play	2	7643	/sounds/gui/beep/message
-quiet	2	7646
-amp	2	7646	64
-play	2	7646	/sounds/gui/beep/message
-quiet	2	7649
-amp	2	7649	64
-play	2	7649	/sounds/gui/beep/message
-quiet	2	7652
-amp	2	7652	64
-play	2	7652	/sounds/gui/beep/message
-quiet	2	7655
-amp	2	7655	64
-play	2	7655	/sounds/gui/beep/message
-quiet	2	7658
-amp	2	7658	64
-play	2	7658	/sounds/gui/beep/message
-quiet	2	7661
-amp	2	7661	64
-play	2	7661	/sounds/gui/beep/message
-quiet	2	7664
-amp	2	7664	64
-play	2	7664	/sounds/gui/beep/message
-quiet	2	7667
-amp	2	7667	64
-play	2	7667	/sounds/gui/beep/message
-quiet	2	7670
-amp	2	7670	64
-play	2	7670	/sounds/gui/beep/message
-quiet	2	7673
-amp	2	7673	64
-play	2	7673	/sounds/gui/beep/message
-quiet	2	7676
-amp	2	7676	64
-play	2	7676	/sounds/gui/beep/message
-quiet	2	7679
-amp	2	7679	64
-play	2	7679	/sounds/gui/beep/message
-quiet	2	7682
-amp	2	7682	64
-play	2	7682	/sounds/gui/beep/message
-quiet	2	7685
-amp	2	7685	64
-play	2	7685	/sounds/gui/beep/message
-quiet	2	7688
-amp	2	7688	64
-play	2	7688	/sounds/gui/beep/message
-quiet	2	7691
-amp	2	7691	64
-play	2	7691	/sounds/gui/beep/message
-quiet	2	7694
-amp	2	7694	64
-play	2	7694	/sounds/gui/beep/message
-quiet	2	7697
-amp	2	7697	64
-play	2	7697	/sounds/gui/beep/message
-quiet	2	7700
-amp	2	7700	64
-play	2	7700	/sounds/gui/beep/message
-quiet	2	7703
-amp	2	7703	64
-play	2	7703	/sounds/gui/beep/message
-quiet	2	7706
-amp	2	7706	64
-play	2	7706	/sounds/gui/beep/message
-quiet	2	7709
-amp	2	7709	64
-play	2	7709	/sounds/gui/beep/message
-quiet	0	7710
-amp	0	7710	255
-play	0	7710	/sounds/sfx/warp/out
-quiet	2	7712
-amp	2	7712	64
-play	2	7712	/sounds/gui/beep/message
-quiet	2	7715
-amp	2	7715	64
-play	2	7715	/sounds/gui/beep/message
-quiet	2	7718
-amp	2	7718	64
-play	2	7718	/sounds/gui/beep/message
-quiet	2	7721
-amp	2	7721	64
-play	2	7721	/sounds/gui/beep/message
-quiet	2	7724
-amp	2	7724	64
-play	2	7724	/sounds/gui/beep/message
-quiet	2	7727
-amp	2	7727	64
-play	2	7727	/sounds/gui/beep/message
-quiet	2	7730
-amp	2	7730	64
-play	2	7730	/sounds/gui/beep/message
-quiet	2	7733
-amp	2	7733	64
-play	2	7733	/sounds/gui/beep/message
-quiet	2	7736
-amp	2	7736	64
-play	2	7736	/sounds/gui/beep/message
-quiet	2	7739
-amp	2	7739	64
-play	2	7739	/sounds/gui/beep/message
-quiet	2	7742
-amp	2	7742	64
-play	2	7742	/sounds/gui/beep/message
-quiet	2	7745
-amp	2	7745	64
-play	2	7745	/sounds/gui/beep/message
-quiet	2	7748
-amp	2	7748	64
-play	2	7748	/sounds/gui/beep/message
-quiet	2	7751
-amp	2	7751	64
-play	2	7751	/sounds/gui/beep/message
-quiet	2	7754
-amp	2	7754	64
-play	2	7754	/sounds/gui/beep/message
-quiet	2	7757
-amp	2	7757	64
-play	2	7757	/sounds/gui/beep/message
-quiet	2	7760
-amp	2	7760	64
-play	2	7760	/sounds/gui/beep/message
-quiet	2	7763
-amp	2	7763	64
-play	2	7763	/sounds/gui/beep/message
-quiet	2	7766
-amp	2	7766	64
-play	2	7766	/sounds/gui/beep/message
-quiet	2	7769
-amp	2	7769	64
-play	2	7769	/sounds/gui/beep/message
-quiet	2	7772
-amp	2	7772	64
-play	2	7772	/sounds/gui/beep/message
-quiet	2	7775
-amp	2	7775	64
-play	2	7775	/sounds/gui/beep/message
-quiet	2	7778
-amp	2	7778	64
-play	2	7778	/sounds/gui/beep/message
-quiet	2	7781
-amp	2	7781	64
-play	2	7781	/sounds/gui/beep/message
-quiet	2	8244
-amp	2	8244	192
-play	2	8244	/sounds/gui/beep/select
-quiet	2	8289
-amp	2	8289	192
-play	2	8289	/sounds/gui/beep/select
-quiet	1	8316
-amp	1	8316	128
-play	1	8316	/sounds/gui/beep/order
-quiet	2	8328
-amp	2	8328	192
-play	2	8328	/sounds/gui/beep/select
-quiet	1	8352
-amp	1	8352	128
-play	1	8352	/sounds/gui/beep/order
-quiet	1	8550
-amp	1	8550	255
-play	1	8550	/sounds/ish/etc/tug/attach
-quiet	0	8552
-amp	0	8552	64
-play	0	8552	/sounds/gui/beep/message
-quiet	0	8555
-amp	0	8555	64
-play	0	8555	/sounds/gui/beep/message
-quiet	0	8558
-amp	0	8558	64
-play	0	8558	/sounds/gui/beep/message
-quiet	0	8561
-amp	0	8561	64
-play	0	8561	/sounds/gui/beep/message
-quiet	0	8564
-amp	0	8564	64
-play	0	8564	/sounds/gui/beep/message
-quiet	0	8567
-amp	0	8567	64
-play	0	8567	/sounds/gui/beep/message
-quiet	0	8570
-amp	0	8570	64
-play	0	8570	/sounds/gui/beep/message
-quiet	0	8573
-amp	0	8573	64
-play	0	8573	/sounds/gui/beep/message
-quiet	0	8576
-amp	0	8576	64
-play	0	8576	/sounds/gui/beep/message
-quiet	0	8579
-amp	0	8579	64
-play	0	8579	/sounds/gui/beep/message
-quiet	0	8582
-amp	0	8582	64
-play	0	8582	/sounds/gui/beep/message
-quiet	0	8585
-amp	0	8585	64
-play	0	8585	/sounds/gui/beep/message
-quiet	0	8588
-amp	0	8588	64
-play	0	8588	/sounds/gui/beep/message
-quiet	0	8591
-amp	0	8591	64
-play	0	8591	/sounds/gui/beep/message
-quiet	0	8594
-amp	0	8594	64
-play	0	8594	/sounds/gui/beep/message
-quiet	0	8597
-amp	0	8597	64
-play	0	8597	/sounds/gui/beep/message
-quiet	0	8600
-amp	0	8600	64
-play	0	8600	/sounds/gui/beep/message
-quiet	0	8603
-amp	0	8603	64
-play	0	8603	/sounds/gui/beep/message
-quiet	0	8606
-amp	0	8606	64
-play	0	8606	/sounds/gui/beep/message
-quiet	0	8609
-amp	0	8609	64
-play	0	8609	/sounds/gui/beep/message
-quiet	0	8612
-amp	0	8612	64
-play	0	8612	/sounds/gui/beep/message
-quiet	0	8615
-amp	0	8615	64
-play	0	8615	/sounds/gui/beep/message
-quiet	0	8618
-amp	0	8618	64
-play	0	8618	/sounds/gui/beep/message
-quiet	0	8621
-amp	0	8621	64
-play	0	8621	/sounds/gui/beep/message
-quiet	0	8624
-amp	0	8624	64
-play	0	8624	/sounds/gui/beep/message
-quiet	0	8627
-amp	0	8627	64
-play	0	8627	/sounds/gui/beep/message
-quiet	0	8630
-amp	0	8630	64
-play	0	8630	/sounds/gui/beep/message
-quiet	0	8633
-amp	0	8633	64
-play	0	8633	/sounds/gui/beep/message
-quiet	0	8636
-amp	0	8636	64
-play	0	8636	/sounds/gui/beep/message
-quiet	0	8639
-amp	0	8639	64
-play	0	8639	/sounds/gui/beep/message
-quiet	0	8642
-amp	0	8642	64
-play	0	8642	/sounds/gui/beep/message
-quiet	0	8645
-amp	0	8645	64
-play	0	8645	/sounds/gui/beep/message
-quiet	0	8648
-amp	0	8648	64
-play	0	8648	/sounds/gui/beep/message
-quiet	0	8651
-amp	0	8651	64
-play	0	8651	/sounds/gui/beep/message
-quiet	0	8654
-amp	0	8654	64
-play	0	8654	/sounds/gui/beep/message
-quiet	0	8657
-amp	0	8657	64
-play	0	8657	/sounds/gui/beep/message
-quiet	0	8660
-amp	0	8660	64
-play	0	8660	/sounds/gui/beep/message
-quiet	0	8663
-amp	0	8663	64
-play	0	8663	/sounds/gui/beep/message
-quiet	0	8666
-amp	0	8666	64
-play	0	8666	/sounds/gui/beep/message
-quiet	0	8669
-amp	0	8669	64
-play	0	8669	/sounds/gui/beep/message
-quiet	0	8672
-amp	0	8672	64
-play	0	8672	/sounds/gui/beep/message
-quiet	0	8675
-amp	0	8675	64
-play	0	8675	/sounds/gui/beep/message
-quiet	0	8678
-amp	0	8678	64
-play	0	8678	/sounds/gui/beep/message
-quiet	0	8681
-amp	0	8681	64
-play	0	8681	/sounds/gui/beep/message
-quiet	0	8684
-amp	0	8684	64
-play	0	8684	/sounds/gui/beep/message
-quiet	0	8687
-amp	0	8687	64
-play	0	8687	/sounds/gui/beep/message
-quiet	0	8690
-amp	0	8690	64
-play	0	8690	/sounds/gui/beep/message
-quiet	0	8693
-amp	0	8693	64
-play	0	8693	/sounds/gui/beep/message
-quiet	0	8696
-amp	0	8696	64
-play	0	8696	/sounds/gui/beep/message
-quiet	0	8699
-amp	0	8699	64
-play	0	8699	/sounds/gui/beep/message
-quiet	0	8702
-amp	0	8702	64
-play	0	8702	/sounds/gui/beep/message
-quiet	0	8705
-amp	0	8705	64
-play	0	8705	/sounds/gui/beep/message
-quiet	0	8708
-amp	0	8708	64
-play	0	8708	/sounds/gui/beep/message
-quiet	0	8711
-amp	0	8711	64
-play	0	8711	/sounds/gui/beep/message
-quiet	0	8714
-amp	0	8714	64
-play	0	8714	/sounds/gui/beep/message
-quiet	0	8717
-amp	0	8717	64
-play	0	8717	/sounds/gui/beep/message
-quiet	0	8720
-amp	0	8720	64
-play	0	8720	/sounds/gui/beep/message
-quiet	0	8723
-amp	0	8723	64
-play	0	8723	/sounds/gui/beep/message
-quiet	0	8726
-amp	0	8726	64
-play	0	8726	/sounds/gui/beep/message
-quiet	0	8729
-amp	0	8729	64
-play	0	8729	/sounds/gui/beep/message
-quiet	0	8732
-amp	0	8732	64
-play	0	8732	/sounds/gui/beep/message
-quiet	0	8976
-amp	0	8976	128
-play	0	8976	/sounds/gui/beep/zoom
-quiet	0	9030
-amp	0	9030	255
-play	0	9030	/sounds/sfx/warp/charge/1
-quiet	2	9033
-amp	2	9033	255
-play	2	9033	/sounds/dev/cm
-quiet	2	9036
-amp	2	9036	255
-play	2	9036	/sounds/dev/cm
-quiet	1	9054
-amp	1	9054	255
-play	1	9054	/sounds/sfx/warp/charge/2
-quiet	0	9060
-amp	0	9060	255
-play	0	9060	/sounds/sfx/warp/charge/1
-quiet	2	9070
-amp	2	9070	128
-play	2	9070	/sounds/gui/beep/zoom
-quiet	2	9078
-amp	2	9078	41
-play	2	9078	/sounds/sfx/warp/out
-quiet	2	9078
-amp	2	9078	255
-play	2	9078	/sounds/sfx/warp/charge/3
-quiet	1	9084
-amp	1	9084	255
-play	1	9084	/sounds/sfx/warp/charge/2
-quiet	0	9105
-amp	0	9105	255
-play	0	9105	/sounds/sfx/warp/charge/4
-quiet	2	9108
-amp	2	9108	33
-play	2	9108	/sounds/sfx/warp/out
-quiet	2	9108
-amp	2	9108	42
-play	2	9108	/sounds/sfx/warp/out
-quiet	2	9108
-amp	2	9108	255
-play	2	9108	/sounds/sfx/warp/charge/3
-quiet	1	9129
-amp	1	9129	255
-play	1	9129	/sounds/sfx/warp/in
-quiet	0	9135
-amp	0	9135	255
-play	0	9135	/sounds/sfx/warp/charge/4
-quiet	2	9159
-amp	2	9159	201
-play	2	9159	/sounds/sfx/warp/in
-quiet	1	9168
-amp	1	9168	175
-play	1	9168	/sounds/dev/magno
-quiet	1	9192
-amp	1	9192	255
-play	1	9192	/sounds/dev/tspace
-quiet	0	9202
-amp	0	9202	128
-play	0	9202	/sounds/gui/beep/zoom
-quiet	0	9237
-amp	0	9237	228
-play	0	9237	/sounds/dev/stealth/off
-quiet	2	9237
-amp	2	9237	228
-play	2	9237	/sounds/dev/pk/sal
-quiet	1	9252
-amp	1	9252	255
-play	1	9252	/sounds/dev/tspace
-quiet	2	9255
-amp	2	9255	212
-play	2	9255	/sounds/dev/pk/sal
-quiet	0	9255
-amp	0	9255	255
-play	0	9255	/sounds/sfx/explosion/energy
-quiet	2	9264
-amp	2	9264	255
-play	2	9264	/sounds/sfx/warp/out
-quiet	0	9294
-amp	0	9294	255
-play	0	9294	/sounds/dev/magno
-quiet	1	9297
-amp	1	9297	213
-play	1	9297	/sounds/dev/pk/sal
-quiet	1	9312
-amp	1	9312	255
-play	1	9312	/sounds/dev/tspace
-quiet	2	9315
-amp	2	9315	255
-play	2	9315	/sounds/sfx/explosion/energy
-quiet	0	9321
-amp	0	9321	255
-play	0	9321	/sounds/dev/cm
-quiet	2	9336
-amp	2	9336	255
-play	2	9336	/sounds/dev/lepton
-quiet	0	9342
-amp	0	9342	255
-play	0	9342	/sounds/dev/cm
-quiet	2	9345
-amp	2	9345	255
-play	2	9345	/sounds/dev/lepton
-quiet	1	9351
-amp	1	9351	255
-play	1	9351	/sounds/dev/pp
-quiet	2	9354
-amp	2	9354	255
-play	2	9354	/sounds/dev/lepton
-quiet	1	9363
-amp	1	9363	255
-play	1	9363	/sounds/dev/pp
-quiet	2	9363
-amp	2	9363	255
-play	2	9363	/sounds/dev/lepton
-quiet	2	9372
-amp	2	9372	255
-play	2	9372	/sounds/dev/lepton
-quiet	0	9372
-amp	0	9372	255
-play	0	9372	/sounds/sfx/explosion/gas
-quiet	1	9375
-amp	1	9375	255
-play	1	9375	/sounds/dev/pp
-quiet	2	9381
-amp	2	9381	255
-play	2	9381	/sounds/dev/lepton
-quiet	1	9387
-amp	1	9387	255
-play	1	9387	/sounds/dev/pp
-quiet	2	9390
-amp	2	9390	255
-play	2	9390	/sounds/dev/lepton
-quiet	1	9399
-amp	1	9399	255
-play	1	9399	/sounds/dev/pp
-quiet	2	9399
-amp	2	9399	255
-play	2	9399	/sounds/dev/lepton
-quiet	2	9408
-amp	2	9408	255
-play	2	9408	/sounds/dev/lepton
-quiet	1	9411
-amp	1	9411	255
-play	1	9411	/sounds/dev/pp
-quiet	0	9414
-amp	0	9414	255
-play	0	9414	/sounds/dev/cm
-quiet	2	9417
-amp	2	9417	255
-play	2	9417	/sounds/dev/lepton
-quiet	0	9420
-amp	0	9420	216
-play	0	9420	/sounds/sfx/explosion/gas
-quiet	1	9423
-amp	1	9423	255
-play	1	9423	/sounds/dev/pp
-quiet	2	9426
-amp	2	9426	255
-play	2	9426	/sounds/dev/lepton
-quiet	0	9429
-amp	0	9429	255
-play	0	9429	/sounds/sfx/explosion/gas
-quiet	1	9435
-amp	1	9435	255
-play	1	9435	/sounds/dev/pp
-quiet	2	9435
-amp	2	9435	255
-play	2	9435	/sounds/dev/lepton
-quiet	2	9444
-amp	2	9444	255
-play	2	9444	/sounds/dev/lepton
-quiet	1	9447
-amp	1	9447	255
-play	1	9447	/sounds/dev/pp
-quiet	2	9453
-amp	2	9453	255
-play	2	9453	/sounds/dev/lepton
-quiet	1	9459
-amp	1	9459	255
-play	1	9459	/sounds/dev/pk/sal
-quiet	2	9462
-amp	2	9462	255
-play	2	9462	/sounds/dev/lepton
-quiet	0	9471
-amp	0	9471	255
-play	0	9471	/sounds/dev/pp
-quiet	2	9471
-amp	2	9471	255
-play	2	9471	/sounds/dev/lepton
-quiet	1	9477
-amp	1	9477	255
-play	1	9477	/sounds/dev/pk/sal
-quiet	2	9480
-amp	2	9480	255
-play	2	9480	/sounds/dev/lepton
-quiet	0	9483
-amp	0	9483	255
-play	0	9483	/sounds/dev/pp
-quiet	2	9489
-amp	2	9489	255
-play	2	9489	/sounds/dev/lepton
-quiet	1	9492
-amp	1	9492	245
-play	1	9492	/sounds/dev/tspace
-quiet	0	9495
-amp	0	9495	255
-play	0	9495	/sounds/dev/pp
-quiet	1	9495
-amp	1	9495	246
-play	1	9495	/sounds/sfx/explosion/energy
-quiet	2	9498
-amp	2	9498	255
-play	2	9498	/sounds/dev/lepton
-quiet	1	9498
-amp	1	9498	247
-play	1	9498	/sounds/sfx/explosion/energy
-quiet	1	9501
-amp	1	9501	248
-play	1	9501	/sounds/sfx/explosion/energy
-quiet	1	9504
-amp	1	9504	249
-play	1	9504	/sounds/sfx/explosion/energy
-quiet	0	9507
-amp	0	9507	255
-play	0	9507	/sounds/dev/pp
-quiet	2	9507
-amp	2	9507	255
-play	2	9507	/sounds/dev/lepton
-quiet	1	9507
-amp	1	9507	250
-play	1	9507	/sounds/sfx/explosion/energy
-quiet	1	9507
-amp	1	9507	250
-play	1	9507	/sounds/sfx/explosion/energy
-quiet	1	9510
-amp	1	9510	250
-play	1	9510	/sounds/sfx/explosion/energy
-quiet	1	9513
-amp	1	9513	251
-play	1	9513	/sounds/sfx/explosion/energy
-quiet	1	9516
-amp	1	9516	255
-play	1	9516	/sounds/dev/pk/sal
-quiet	2	9516
-amp	2	9516	255
-play	2	9516	/sounds/dev/lepton
-quiet	0	9519
-amp	0	9519	255
-play	0	9519	/sounds/dev/pp
-quiet	2	9525
-amp	2	9525	255
-play	2	9525	/sounds/dev/lepton
-quiet	0	9531
-amp	0	9531	255
-play	0	9531	/sounds/dev/pp
-quiet	1	9534
-amp	1	9534	255
-play	1	9534	/sounds/dev/pk/sal
-quiet	2	9534
-amp	2	9534	255
-play	2	9534	/sounds/dev/lepton
-quiet	0	9543
-amp	0	9543	255
-play	0	9543	/sounds/dev/stealth/on
-quiet	2	9543
-amp	2	9543	255
-play	2	9543	/sounds/dev/lepton
-quiet	1	9546
-amp	1	9546	231
-play	1	9546	/sounds/dev/magno
-quiet	1	9546
-amp	1	9546	255
-play	1	9546	/sounds/sfx/explosion/energy
-quiet	1	9546
-amp	1	9546	255
-play	1	9546	/sounds/sfx/explosion/energy
-quiet	0	9549
-amp	0	9549	255
-play	0	9549	/sounds/dev/stealth/on
-quiet	0	9549
-amp	0	9549	255
-play	0	9549	/sounds/sfx/explosion/gas
-quiet	2	9552
-amp	2	9552	255
-play	2	9552	/sounds/dev/lepton
-quiet	1	9555
-amp	1	9555	255
-play	1	9555	/sounds/sfx/explosion/energy
-quiet	1	9558
-amp	1	9558	255
-play	1	9558	/sounds/sfx/explosion/energy
-quiet	2	9561
-amp	2	9561	255
-play	2	9561	/sounds/dev/lepton
-quiet	1	9561
-amp	1	9561	255
-play	1	9561	/sounds/sfx/explosion/energy
-quiet	2	9570
-amp	2	9570	255
-play	2	9570	/sounds/dev/lepton
-quiet	2	9579
-amp	2	9579	255
-play	2	9579	/sounds/dev/lepton
-quiet	0	9583
-amp	0	9583	128
-play	0	9583	/sounds/gui/beep/zoom
-quiet	2	9588
-amp	2	9588	255
-play	2	9588	/sounds/dev/lepton
-quiet	0	9588
-amp	0	9588	246
-play	0	9588	/sounds/sfx/explosion/energy
-quiet	0	9591
-amp	0	9591	255
-play	0	9591	/sounds/dev/pp
-quiet	2	9597
-amp	2	9597	255
-play	2	9597	/sounds/dev/lepton
-quiet	0	9603
-amp	0	9603	255
-play	0	9603	/sounds/dev/pp
-quiet	2	9606
-amp	2	9606	255
-play	2	9606	/sounds/dev/lepton
-quiet	1	9612
-amp	1	9612	255
-play	1	9612	/sounds/dev/tspace
-quiet	0	9615
-amp	0	9615	251
-play	0	9615	/sounds/dev/pk/sal
-quiet	0	9615
-amp	0	9615	255
-play	0	9615	/sounds/dev/pp
-quiet	2	9615
-amp	2	9615	255
-play	2	9615	/sounds/dev/lepton
-quiet	2	9624
-amp	2	9624	255
-play	2	9624	/sounds/dev/lepton
-quiet	0	9627
-amp	0	9627	255
-play	0	9627	/sounds/dev/pp
-quiet	2	9633
-amp	2	9633	255
-play	2	9633	/sounds/dev/lepton
-quiet	0	9639
-amp	0	9639	255
-play	0	9639	/sounds/dev/pp
-quiet	2	9642
-amp	2	9642	255
-play	2	9642	/sounds/dev/lepton
-quiet	0	9651
-amp	0	9651	255
-play	0	9651	/sounds/dev/pp
-quiet	2	9651
-amp	2	9651	255
-play	2	9651	/sounds/dev/lepton
-quiet	1	9657
-amp	1	9657	253
-play	1	9657	/sounds/dev/pk/sal
-quiet	2	9660
-amp	2	9660	255
-play	2	9660	/sounds/dev/lepton
-quiet	1	9663
-amp	1	9663	255
-play	1	9663	/sounds/dev/stealth/off
-quiet	0	9663
-amp	0	9663	255
-play	0	9663	/sounds/dev/anti
-quiet	2	9669
-amp	2	9669	255
-play	2	9669	/sounds/dev/lepton
-quiet	0	9675
-amp	0	9675	255
-play	0	9675	/sounds/dev/pp
-quiet	2	9678
-amp	2	9678	255
-play	2	9678	/sounds/dev/lepton
-quiet	0	9678
-amp	0	9678	255
-play	0	9678	/sounds/sfx/explosion/gas
-quiet	1	9687
-amp	1	9687	255
-play	1	9687	/sounds/dev/pp
-quiet	2	9687
-amp	2	9687	255
-play	2	9687	/sounds/dev/lepton
-quiet	2	9696
-amp	2	9696	255
-play	2	9696	/sounds/dev/lepton
-quiet	1	9699
-amp	1	9699	255
-play	1	9699	/sounds/dev/pp
-quiet	2	9705
-amp	2	9705	255
-play	2	9705	/sounds/dev/lepton
-quiet	1	9711
-amp	1	9711	255
-play	1	9711	/sounds/dev/pp
-quiet	0	9711
-amp	0	9711	255
-play	0	9711	/sounds/sfx/explosion/energy
-quiet	2	9714
-amp	2	9714	255
-play	2	9714	/sounds/dev/lepton
-quiet	0	9714
-amp	0	9714	255
-play	0	9714	/sounds/sfx/explosion/energy
-quiet	0	9717
-amp	0	9717	255
-play	0	9717	/sounds/sfx/explosion/energy
-quiet	0	9717
-amp	0	9717	255
-play	0	9717	/sounds/sfx/explosion/gas
-quiet	1	9723
-amp	1	9723	239
-play	1	9723	/sounds/dev/stealth/off
-quiet	1	9723
-amp	1	9723	255
-play	1	9723	/sounds/dev/pp
-quiet	2	9723
-amp	2	9723	255
-play	2	9723	/sounds/dev/lepton
-quiet	2	9732
-amp	2	9732	255
-play	2	9732	/sounds/dev/lepton
-quiet	1	9735
-amp	1	9735	255
-play	1	9735	/sounds/dev/pp
-quiet	2	9741
-amp	2	9741	255
-play	2	9741	/sounds/dev/lepton
-quiet	1	9747
-amp	1	9747	252
-play	1	9747	/sounds/dev/pk/sal
-quiet	1	9747
-amp	1	9747	255
-play	1	9747	/sounds/dev/pp
-quiet	2	9750
-amp	2	9750	255
-play	2	9750	/sounds/dev/lepton
-quiet	0	9750
-amp	0	9750	255
-play	0	9750	/sounds/sfx/explosion/gas
-quiet	0	9756
-amp	0	9756	255
-play	0	9756	/sounds/sfx/explosion/gas
-quiet	1	9759
-amp	1	9759	255
-play	1	9759	/sounds/dev/bay
-quiet	2	9759
-amp	2	9759	255
-play	2	9759	/sounds/dev/lepton
-quiet	2	9768
-amp	2	9768	255
-play	2	9768	/sounds/dev/lepton
-quiet	2	9777
-amp	2	9777	255
-play	2	9777	/sounds/dev/lepton
-quiet	1	9780
-amp	1	9780	255
-play	1	9780	/sounds/sfx/explosion/energy
-quiet	2	9786
-amp	2	9786	255
-play	2	9786	/sounds/dev/lepton
-quiet	0	9789
-amp	0	9789	255
-play	0	9789	/sounds/sfx/explosion/gas
-quiet	1	9792
-amp	1	9792	255
-play	1	9792	/sounds/sfx/explosion/energy
-quiet	2	9795
-amp	2	9795	255
-play	2	9795	/sounds/dev/lepton
-quiet	1	9795
-amp	1	9795	255
-play	1	9795	/sounds/sfx/explosion/energy
-quiet	1	9795
-amp	1	9795	255
-play	1	9795	/sounds/sfx/explosion/energy
-quiet	1	9798
-amp	1	9798	255
-play	1	9798	/sounds/sfx/explosion/energy
-quiet	1	9801
-amp	1	9801	255
-play	1	9801	/sounds/sfx/explosion/energy
-quiet	1	9801
-amp	1	9801	255
-play	1	9801	/sounds/sfx/explosion/energy
-quiet	1	9801
-amp	1	9801	255
-play	1	9801	/sounds/sfx/explosion/energy
-quiet	2	9804
-amp	2	9804	255
-play	2	9804	/sounds/dev/lepton
-quiet	1	9804
-amp	1	9804	255
-play	1	9804	/sounds/sfx/explosion/energy
-quiet	1	9810
-amp	1	9810	255
-play	1	9810	/sounds/sfx/explosion/energy
-quiet	2	9813
-amp	2	9813	255
-play	2	9813	/sounds/dev/lepton
-quiet	0	9819
-amp	0	9819	255
-play	0	9819	/sounds/sfx/explosion/gas
-quiet	2	9822
-amp	2	9822	255
-play	2	9822	/sounds/dev/lepton
-quiet	1	9831
-amp	1	9831	255
-play	1	9831	/sounds/dev/pp
-quiet	2	9831
-amp	2	9831	255
-play	2	9831	/sounds/dev/lepton
-quiet	0	9831
-amp	0	9831	255
-play	0	9831	/sounds/sfx/explosion/gas
-quiet	2	9840
-amp	2	9840	255
-play	2	9840	/sounds/dev/lepton
-quiet	1	9843
-amp	1	9843	255
-play	1	9843	/sounds/dev/pp
-quiet	2	9849
-amp	2	9849	255
-play	2	9849	/sounds/dev/lepton
-quiet	1	9855
-amp	1	9855	255
-play	1	9855	/sounds/dev/pp
-quiet	2	9858
-amp	2	9858	255
-play	2	9858	/sounds/dev/lepton
-quiet	1	9867
-amp	1	9867	255
-play	1	9867	/sounds/dev/pp
-quiet	2	9867
-amp	2	9867	255
-play	2	9867	/sounds/dev/lepton
-quiet	0	9870
-amp	0	9870	238
-play	0	9870	/sounds/dev/pk/sal
-quiet	0	9870
-amp	0	9870	255
-play	0	9870	/sounds/sfx/explosion/energy
-quiet	0	9870
-amp	0	9870	255
-play	0	9870	/sounds/sfx/explosion/energy
-quiet	2	9876
-amp	2	9876	255
-play	2	9876	/sounds/dev/lepton
-quiet	1	9879
-amp	1	9879	161
-play	1	9879	/sounds/dev/pk/sal
-quiet	1	9879
-amp	1	9879	255
-play	1	9879	/sounds/dev/pp
-quiet	0	9879
-amp	0	9879	255
-play	0	9879	/sounds/sfx/explosion/energy
-quiet	0	9882
-amp	0	9882	255
-play	0	9882	/sounds/sfx/explosion/energy
-quiet	2	9885
-amp	2	9885	255
-play	2	9885	/sounds/dev/lepton
-quiet	0	9888
-amp	0	9888	255
-play	0	9888	/sounds/sfx/explosion/energy
-quiet	1	9891
-amp	1	9891	255
-play	1	9891	/sounds/dev/pp
-quiet	0	9891
-amp	0	9891	255
-play	0	9891	/sounds/sfx/explosion/gas
-quiet	2	9894
-amp	2	9894	255
-play	2	9894	/sounds/dev/lepton
-quiet	1	9903
-amp	1	9903	247
-play	1	9903	/sounds/dev/pk/sal
-quiet	1	9903
-amp	1	9903	255
-play	1	9903	/sounds/dev/pp
-quiet	2	9903
-amp	2	9903	255
-play	2	9903	/sounds/dev/lepton
-quiet	2	9912
-amp	2	9912	255
-play	2	9912	/sounds/dev/lepton
-quiet	1	9915
-amp	1	9915	255
-play	1	9915	/sounds/dev/pp
-quiet	1	9915
-amp	1	9915	153
-play	1	9915	/sounds/sfx/explosion/gas
-quiet	1	9915
-amp	1	9915	255
-play	1	9915	/sounds/sfx/explosion/energy
-quiet	1	9918
-amp	1	9918	255
-play	1	9918	/sounds/sfx/explosion/energy
-quiet	1	9918
-amp	1	9918	255
-play	1	9918	/sounds/sfx/explosion/energy
-quiet	2	9921
-amp	2	9921	255
-play	2	9921	/sounds/dev/lepton
-quiet	1	9921
-amp	1	9921	255
-play	1	9921	/sounds/sfx/explosion/energy
-quiet	1	9921
-amp	1	9921	255
-play	1	9921	/sounds/sfx/explosion/energy
-quiet	1	9921
-amp	1	9921	255
-play	1	9921	/sounds/sfx/explosion/energy
-quiet	1	9921
-amp	1	9921	255
-play	1	9921	/sounds/sfx/explosion/energy
-quiet	0	9924
-amp	0	9924	255
-play	0	9924	/sounds/dev/magno
-quiet	1	9924
-amp	1	9924	255
-play	1	9924	/sounds/sfx/explosion/energy
-quiet	1	9927
-amp	1	9927	255
-play	1	9927	/sounds/sfx/explosion/energy
-quiet	1	9927
-amp	1	9927	255
-play	1	9927	/sounds/sfx/explosion/energy
-quiet	2	9930
-amp	2	9930	255
-play	2	9930	/sounds/dev/lepton
-quiet	1	9930
-amp	1	9930	255
-play	1	9930	/sounds/sfx/explosion/energy
-quiet	1	9930
-amp	1	9930	255
-play	1	9930	/sounds/sfx/explosion/energy
-quiet	1	9933
-amp	1	9933	255
-play	1	9933	/sounds/sfx/explosion/energy
-quiet	1	9936
-amp	1	9936	255
-play	1	9936	/sounds/sfx/explosion/energy
-quiet	0	9939
-amp	0	9939	251
-play	0	9939	/sounds/dev/pk/sal
-quiet	0	9939
-amp	0	9939	255
-play	0	9939	/sounds/dev/pp
-quiet	2	9939
-amp	2	9939	255
-play	2	9939	/sounds/dev/lepton
-quiet	1	9939
-amp	1	9939	255
-play	1	9939	/sounds/sfx/explosion/energy
-quiet	1	9939
-amp	1	9939	255
-play	1	9939	/sounds/sfx/explosion/energy
-quiet	1	9939
-amp	1	9939	255
-play	1	9939	/sounds/sfx/explosion/energy
-quiet	1	9942
-amp	1	9942	255
-play	1	9942	/sounds/sfx/explosion/energy
-quiet	1	9945
-amp	1	9945	255
-play	1	9945	/sounds/sfx/explosion/energy
-quiet	2	9948
-amp	2	9948	255
-play	2	9948	/sounds/dev/lepton
-quiet	1	9948
-amp	1	9948	255
-play	1	9948	/sounds/sfx/explosion/energy
-quiet	0	9948
-amp	0	9948	255
-play	0	9948	/sounds/sfx/explosion/gas
-quiet	1	9948
-amp	1	9948	255
-play	1	9948	/sounds/sfx/explosion/large
-quiet	2	9957
-amp	2	9957	255
-play	2	9957	/sounds/dev/lepton
-quiet	2	9966
-amp	2	9966	255
-play	2	9966	/sounds/dev/lepton
-quiet	1	9975
-amp	1	9975	255
-play	1	9975	/sounds/dev/pp
-quiet	2	9975
-amp	2	9975	255
-play	2	9975	/sounds/dev/lepton
-quiet	2	9984
-amp	2	9984	255
-play	2	9984	/sounds/dev/lepton
-quiet	1	9987
-amp	1	9987	255
-play	1	9987	/sounds/dev/pp
-quiet	0	9987
-amp	0	9987	255
-play	0	9987	/sounds/sfx/explosion/energy
-quiet	2	9996
-amp	2	9996	255
-play	2	9996	/sounds/dev/pk/sal
-quiet	0	9999
-amp	0	9999	255
-play	0	9999	/sounds/sfx/explosion/energy
-quiet	0	10005
-amp	0	10005	255
-play	0	10005	/sounds/sfx/explosion/energy
-quiet	1	10011
-amp	1	10011	205
-play	1	10011	/sounds/dev/pk/sal
-quiet	1	10020
-amp	1	10020	255
-play	1	10020	/sounds/sfx/explosion/gas
-quiet	2	10029
-amp	2	10029	194
-play	2	10029	/sounds/dev/pk/sal
-quiet	2	10032
-amp	2	10032	255
-play	2	10032	/sounds/sfx/energy
-quiet	2	10038
-amp	2	10038	255
-play	2	10038	/sounds/sfx/energy
-quiet	2	10038
-amp	2	10038	255
-play	2	10038	/sounds/sfx/energy
-quiet	2	10041
-amp	2	10041	255
-play	2	10041	/sounds/sfx/energy
-quiet	2	10044
-amp	2	10044	255
-play	2	10044	/sounds/sfx/energy
-quiet	0	10047
-amp	0	10047	183
-play	0	10047	/sounds/dev/pk/sal
-quiet	0	10047
-amp	0	10047	255
-play	0	10047	/sounds/dev/stealth/off
-quiet	2	10047
-amp	2	10047	255
-play	2	10047	/sounds/sfx/energy
-quiet	2	10053
-amp	2	10053	255
-play	2	10053	/sounds/sfx/energy
-quiet	2	10056
-amp	2	10056	255
-play	2	10056	/sounds/sfx/energy
-quiet	2	10059
-amp	2	10059	255
-play	2	10059	/sounds/sfx/energy
-quiet	1	10062
-amp	1	10062	255
-play	1	10062	/sounds/dev/lepton
-quiet	0	10062
-amp	0	10062	253
-play	0	10062	/sounds/sfx/jump
-quiet	0	10065
-amp	0	10065	255
-play	0	10065	/sounds/dev/pk/sal
-quiet	2	10068
-amp	2	10068	255
-play	2	10068	/sounds/sfx/energy
-quiet	1	10071
-amp	1	10071	255
-play	1	10071	/sounds/dev/lepton
-quiet	2	10071
-amp	2	10071	255
-play	2	10071	/sounds/sfx/energy
-quiet	0	10080
-amp	0	10080	255
-play	0	10080	/sounds/dev/pp
-quiet	1	10080
-amp	1	10080	255
-play	1	10080	/sounds/dev/lepton
-quiet	2	10083
-amp	2	10083	255
-play	2	10083	/sounds/dev/pk/sal
-quiet	1	10089
-amp	1	10089	255
-play	1	10089	/sounds/dev/lepton
-quiet	0	10092
-amp	0	10092	155
-play	0	10092	/sounds/dev/pk/sal
-quiet	0	10092
-amp	0	10092	255
-play	0	10092	/sounds/dev/pp
-quiet	2	10098
-amp	2	10098	242
-play	2	10098	/sounds/dev/pk/sal
-quiet	1	10098
-amp	1	10098	255
-play	1	10098	/sounds/dev/lepton
-quiet	2	10098
-amp	2	10098	255
-play	2	10098	/sounds/sfx/explosion/energy
-quiet	2	10098
-amp	2	10098	255
-play	2	10098	/sounds/sfx/explosion/energy
-quiet	0	10104
-amp	0	10104	255
-play	0	10104	/sounds/dev/pp
-quiet	1	10107
-amp	1	10107	255
-play	1	10107	/sounds/dev/lepton
-quiet	0	10116
-amp	0	10116	243
-play	0	10116	/sounds/dev/pk/sal
-quiet	0	10116
-amp	0	10116	255
-play	0	10116	/sounds/dev/pp
-quiet	1	10116
-amp	1	10116	255
-play	1	10116	/sounds/dev/lepton
-quiet	2	10116
-amp	2	10116	255
-play	2	10116	/sounds/sfx/explosion/energy
-quiet	1	10125
-amp	1	10125	255
-play	1	10125	/sounds/dev/lepton
-quiet	0	10128
-amp	0	10128	255
-play	0	10128	/sounds/dev/pp
-quiet	1	10134
-amp	1	10134	255
-play	1	10134	/sounds/dev/lepton
-quiet	2	10140
-amp	2	10140	241
-play	2	10140	/sounds/dev/pk/sal
-quiet	0	10140
-amp	0	10140	255
-play	0	10140	/sounds/dev/pp
-quiet	1	10143
-amp	1	10143	255
-play	1	10143	/sounds/dev/lepton
-quiet	2	10146
-amp	2	10146	255
-play	2	10146	/sounds/sfx/explosion/energy
-quiet	0	10152
-amp	0	10152	255
-play	0	10152	/sounds/dev/pp
-quiet	1	10152
-amp	1	10152	255
-play	1	10152	/sounds/dev/lepton
-quiet	2	10152
-amp	2	10152	255
-play	2	10152	/sounds/sfx/explosion/energy
-quiet	2	10158
-amp	2	10158	255
-play	2	10158	/sounds/sfx/explosion/energy
-quiet	1	10161
-amp	1	10161	255
-play	1	10161	/sounds/dev/lepton
-quiet	2	10161
-amp	2	10161	255
-play	2	10161	/sounds/sfx/explosion/energy
-quiet	0	10164
-amp	0	10164	255
-play	0	10164	/sounds/dev/pp
-quiet	1	10170
-amp	1	10170	255
-play	1	10170	/sounds/dev/lepton
-quiet	0	10176
-amp	0	10176	255
-play	0	10176	/sounds/dev/pp
-quiet	1	10179
-amp	1	10179	255
-play	1	10179	/sounds/dev/lepton
-quiet	2	10185
-amp	2	10185	255
-play	2	10185	/sounds/sfx/explosion/energy
-quiet	0	10188
-amp	0	10188	255
-play	0	10188	/sounds/dev/pp
-quiet	1	10188
-amp	1	10188	255
-play	1	10188	/sounds/dev/lepton
-quiet	2	10194
-amp	2	10194	255
-play	2	10194	/sounds/sfx/explosion/energy
-quiet	1	10197
-amp	1	10197	255
-play	1	10197	/sounds/dev/lepton
-quiet	0	10200
-amp	0	10200	255
-play	0	10200	/sounds/dev/pp
-quiet	2	10203
-amp	2	10203	255
-play	2	10203	/sounds/sfx/explosion/energy
-quiet	1	10206
-amp	1	10206	255
-play	1	10206	/sounds/dev/lepton
-quiet	2	10206
-amp	2	10206	255
-play	2	10206	/sounds/sfx/explosion/energy
-quiet	0	10206
-amp	0	10206	255
-play	0	10206	/sounds/sfx/explosion/large
-quiet	2	10206
-amp	2	10206	255
-play	2	10206	/sounds/sfx/explosion/energy
-quiet	1	10215
-amp	1	10215	255
-play	1	10215	/sounds/dev/lepton
-quiet	2	10218
-amp	2	10218	255
-play	2	10218	/sounds/sfx/explosion/energy
-quiet	1	10224
-amp	1	10224	255
-play	1	10224	/sounds/dev/lepton
-quiet	1	10233
-amp	1	10233	255
-play	1	10233	/sounds/dev/lepton
-quiet	2	10233
-amp	2	10233	255
-play	2	10233	/sounds/sfx/explosion/energy
-quiet	2	10236
-amp	2	10236	255
-play	2	10236	/sounds/sfx/explosion/energy
-quiet	1	10242
-amp	1	10242	255
-play	1	10242	/sounds/dev/lepton
-quiet	1	10251
-amp	1	10251	255
-play	1	10251	/sounds/dev/lepton
-quiet	2	10257
-amp	2	10257	255
-play	2	10257	/sounds/dev/pk/sal
-quiet	1	10263
-amp	1	10263	255
-play	1	10263	/sounds/sfx/explosion/energy
-quiet	2	10272
-amp	2	10272	255
-play	2	10272	/sounds/dev/pk/sal
-quiet	0	10272
-amp	0	10272	112
-play	0	10272	/sounds/dev/pk/sal
-quiet	1	10275
-amp	1	10275	255
-play	1	10275	/sounds/sfx/explosion/energy
-quiet	0	10278
-amp	0	10278	255
-play	0	10278	/sounds/dev/pk/sal
-quiet	1	10284
-amp	1	10284	255
-play	1	10284	/sounds/sfx/explosion/energy
-quiet	2	10287
-amp	2	10287	255
-play	2	10287	/sounds/dev/anti
-quiet	1	10287
-amp	1	10287	255
-play	1	10287	/sounds/sfx/explosion/energy
-quiet	0	10290
-amp	0	10290	255
-play	0	10290	/sounds/dev/pk/sal
-quiet	0	10296
-amp	0	10296	255
-play	0	10296	/sounds/dev/pk/sal
-quiet	1	10296
-amp	1	10296	255
-play	1	10296	/sounds/sfx/explosion/energy
-quiet	1	10299
-amp	1	10299	255
-play	1	10299	/sounds/sfx/explosion/energy
-quiet	1	10299
-amp	1	10299	255
-play	1	10299	/sounds/sfx/explosion/energy
-quiet	2	10302
-amp	2	10302	255
-play	2	10302	/sounds/dev/pk/ish
-quiet	1	10305
-amp	1	10305	255
-play	1	10305	/sounds/sfx/explosion/energy
-quiet	0	10308
-amp	0	10308	255
-play	0	10308	/sounds/dev/pk/sal
-quiet	2	10311
-amp	2	10311	255
-play	2	10311	/sounds/dev/pk/ish
-quiet	1	10311
-amp	1	10311	255
-play	1	10311	/sounds/sfx/explosion/energy
-quiet	1	10314
-amp	1	10314	255
-play	1	10314	/sounds/sfx/explosion/energy
-quiet	1	10317
-amp	1	10317	255
-play	1	10317	/sounds/sfx/explosion/energy
-quiet	0	10323
-amp	0	10323	255
-play	0	10323	/sounds/dev/pp
-quiet	2	10323
-amp	2	10323	255
-play	2	10323	/sounds/dev/lepton
-quiet	2	10332
-amp	2	10332	255
-play	2	10332	/sounds/dev/lepton
-quiet	1	10332
-amp	1	10332	255
-play	1	10332	/sounds/sfx/explosion/energy
-quiet	0	10335
-amp	0	10335	255
-play	0	10335	/sounds/dev/fusion
-quiet	2	10341
-amp	2	10341	255
-play	2	10341	/sounds/dev/lepton
-quiet	1	10344
-amp	1	10344	255
-play	1	10344	/sounds/sfx/explosion/energy
-quiet	0	10347
-amp	0	10347	255
-play	0	10347	/sounds/dev/pp
-quiet	2	10350
-amp	2	10350	255
-play	2	10350	/sounds/dev/lepton
-quiet	0	10359
-amp	0	10359	255
-play	0	10359	/sounds/dev/pp
-quiet	2	10359
-amp	2	10359	255
-play	2	10359	/sounds/dev/lepton
-quiet	2	10368
-amp	2	10368	255
-play	2	10368	/sounds/dev/lepton
-quiet	0	10371
-amp	0	10371	255
-play	0	10371	/sounds/dev/pp
-quiet	1	10374
-amp	1	10374	255
-play	1	10374	/sounds/dev/pk/sal
-quiet	2	10377
-amp	2	10377	255
-play	2	10377	/sounds/dev/lepton
-quiet	0	10383
-amp	0	10383	255
-play	0	10383	/sounds/dev/pp
-quiet	2	10386
-amp	2	10386	255
-play	2	10386	/sounds/dev/lepton
-quiet	1	10392
-amp	1	10392	171
-play	1	10392	/sounds/dev/pk/sal
-quiet	0	10395
-amp	0	10395	255
-play	0	10395	/sounds/dev/pp
-quiet	2	10395
-amp	2	10395	255
-play	2	10395	/sounds/dev/lepton
-quiet	1	10398
-amp	1	10398	255
-play	1	10398	/sounds/dev/cm
-quiet	2	10404
-amp	2	10404	255
-play	2	10404	/sounds/dev/lepton
-quiet	0	10407
-amp	0	10407	255
-play	0	10407	/sounds/dev/pp
-quiet	2	10413
-amp	2	10413	255
-play	2	10413	/sounds/dev/lepton
-quiet	0	10419
-amp	0	10419	255
-play	0	10419	/sounds/dev/pp
-quiet	2	10422
-amp	2	10422	255
-play	2	10422	/sounds/dev/lepton
-quiet	0	10431
-amp	0	10431	255
-play	0	10431	/sounds/dev/pp
-quiet	2	10431
-amp	2	10431	255
-play	2	10431	/sounds/dev/lepton
-quiet	2	10440
-amp	2	10440	255
-play	2	10440	/sounds/dev/lepton
-quiet	0	10443
-amp	0	10443	255
-play	0	10443	/sounds/dev/pp
-quiet	2	10449
-amp	2	10449	255
-play	2	10449	/sounds/dev/lepton
-quiet	1	10452
-amp	1	10452	177
-play	1	10452	/sounds/dev/pk/sal
-quiet	0	10455
-amp	0	10455	255
-play	0	10455	/sounds/dev/pp
-quiet	1	10458
-amp	1	10458	255
-play	1	10458	/sounds/dev/pk/sal
-quiet	2	10458
-amp	2	10458	255
-play	2	10458	/sounds/dev/lepton
-quiet	0	10467
-amp	0	10467	255
-play	0	10467	/sounds/dev/pp
-quiet	2	10467
-amp	2	10467	255
-play	2	10467	/sounds/dev/lepton
-quiet	1	10470
-amp	1	10470	210
-play	1	10470	/sounds/dev/fusion
-quiet	1	10470
-amp	1	10470	255
-play	1	10470	/sounds/dev/cm
-quiet	2	10476
-amp	2	10476	255
-play	2	10476	/sounds/dev/lepton
-quiet	0	10479
-amp	0	10479	242
-play	0	10479	/sounds/dev/pk/sal
-quiet	0	10479
-amp	0	10479	255
-play	0	10479	/sounds/dev/pp
-quiet	2	10485
-amp	2	10485	255
-play	2	10485	/sounds/dev/lepton
-quiet	0	10491
-amp	0	10491	255
-play	0	10491	/sounds/dev/pp
-quiet	2	10494
-amp	2	10494	255
-play	2	10494	/sounds/dev/lepton
-quiet	0	10503
-amp	0	10503	255
-play	0	10503	/sounds/dev/pp
-quiet	2	10503
-amp	2	10503	255
-play	2	10503	/sounds/dev/lepton
-quiet	1	10506
-amp	1	10506	255
-play	1	10506	/sounds/sfx/explosion/energy
-quiet	2	10512
-amp	2	10512	255
-play	2	10512	/sounds/dev/lepton
-quiet	0	10515
-amp	0	10515	255
-play	0	10515	/sounds/dev/pp
-quiet	2	10521
-amp	2	10521	255
-play	2	10521	/sounds/dev/lepton
-quiet	0	10527
-amp	0	10527	255
-play	0	10527	/sounds/dev/pp
-quiet	2	10530
-amp	2	10530	255
-play	2	10530	/sounds/dev/lepton
-quiet	1	10533
-amp	1	10533	255
-play	1	10533	/sounds/sfx/explosion/energy
-quiet	1	10533
-amp	1	10533	255
-play	1	10533	/sounds/sfx/explosion/energy
-quiet	0	10539
-amp	0	10539	255
-play	0	10539	/sounds/dev/pp
-quiet	2	10539
-amp	2	10539	255
-play	2	10539	/sounds/dev/lepton
-quiet	2	10548
-amp	2	10548	255
-play	2	10548	/sounds/dev/lepton
-quiet	0	10551
-amp	0	10551	255
-play	0	10551	/sounds/dev/pp
-quiet	2	10557
-amp	2	10557	255
-play	2	10557	/sounds/dev/lepton
-quiet	1	10560
-amp	1	10560	255
-play	1	10560	/sounds/dev/pk/sal
-quiet	0	10563
-amp	0	10563	255
-play	0	10563	/sounds/dev/pp
-quiet	2	10566
-amp	2	10566	255
-play	2	10566	/sounds/dev/lepton
-quiet	1	10578
-amp	1	10578	255
-play	1	10578	/sounds/dev/pk/sal
-quiet	0	10581
-amp	0	10581	139
-play	0	10581	/sounds/dev/pk/sal
-quiet	0	10599
-amp	0	10599	139
-play	0	10599	/sounds/dev/pk/sal
-quiet	0	10608
-amp	0	10608	255
-play	0	10608	/sounds/dev/fusion
-quiet	2	10608
-amp	2	10608	255
-play	2	10608	/sounds/dev/pk/ish
-quiet	1	10608
-amp	1	10608	255
-play	1	10608	/sounds/dev/cm
-quiet	2	10617
-amp	2	10617	255
-play	2	10617	/sounds/dev/pk/ish
-quiet	0	10623
-amp	0	10623	255
-play	0	10623	/sounds/dev/fusion
-quiet	2	10626
-amp	2	10626	255
-play	2	10626	/sounds/dev/pk/ish
-quiet	0	10644
-amp	0	10644	145
-play	0	10644	/sounds/dev/pk/sal
-quiet	0	10650
-amp	0	10650	246
-play	0	10650	/sounds/dev/pk/sal
-quiet	0	10656
-amp	0	10656	250
-play	0	10656	/sounds/dev/anti
-quiet	2	10662
-amp	2	10662	151
-play	2	10662	/sounds/dev/pk/sal
-quiet	0	10665
-amp	0	10665	255
-play	0	10665	/sounds/sfx/explosion/energy
-quiet	2	10668
-amp	2	10668	255
-play	2	10668	/sounds/dev/pk/sal
-quiet	1	10668
-amp	1	10668	255
-play	1	10668	/sounds/dev/pp
-quiet	1	10680
-amp	1	10680	255
-play	1	10680	/sounds/dev/pp
-quiet	2	10680
-amp	2	10680	255
-play	2	10680	/sounds/dev/lepton
-quiet	0	10689
-amp	0	10689	152
-play	0	10689	/sounds/dev/pk/sal
-quiet	2	10689
-amp	2	10689	255
-play	2	10689	/sounds/dev/lepton
-quiet	1	10692
-amp	1	10692	255
-play	1	10692	/sounds/dev/pp
-quiet	0	10695
-amp	0	10695	255
-play	0	10695	/sounds/sfx/explosion/energy
-quiet	2	10698
-amp	2	10698	255
-play	2	10698	/sounds/dev/lepton
-quiet	1	10704
-amp	1	10704	191
-play	1	10704	/sounds/dev/cm
-quiet	1	10704
-amp	1	10704	255
-play	1	10704	/sounds/dev/pp
-quiet	2	10707
-amp	2	10707	255
-play	2	10707	/sounds/dev/lepton
-quiet	1	10716
-amp	1	10716	255
-play	1	10716	/sounds/dev/pp
-quiet	2	10716
-amp	2	10716	255
-play	2	10716	/sounds/dev/lepton
-quiet	2	10725
-amp	2	10725	255
-play	2	10725	/sounds/dev/lepton
-quiet	1	10728
-amp	1	10728	255
-play	1	10728	/sounds/dev/pp
-quiet	2	10734
-amp	2	10734	255
-play	2	10734	/sounds/dev/lepton
-quiet	0	10737
-amp	0	10737	255
-play	0	10737	/sounds/dev/stealth/on
-quiet	1	10740
-amp	1	10740	255
-play	1	10740	/sounds/dev/pp
-quiet	2	10743
-amp	2	10743	255
-play	2	10743	/sounds/dev/lepton
-quiet	1	10752
-amp	1	10752	255
-play	1	10752	/sounds/dev/pp
-quiet	2	10752
-amp	2	10752	255
-play	2	10752	/sounds/dev/lepton
-quiet	2	10761
-amp	2	10761	255
-play	2	10761	/sounds/dev/lepton
-quiet	1	10764
-amp	1	10764	255
-play	1	10764	/sounds/dev/pp
-quiet	0	10764
-quiet	1	10764
-quiet	2	10764
-quiet	3	10764
+0	3	quiet
+0	3	loop	music	255	freds-theme
+0	3	quiet
+0	3	quiet
+0	3	loop	music	215	targetron
+1	0	play	sound	128	gui/beep/zoom
+207	1	play	sound	128	gui/beep/button
+737	0	play	sound	128	gui/beep/zoom
+747	0	play	sound	255	dev/lepton
+750	1	play	sound	255	dev/pp
+756	0	play	sound	255	dev/lepton
+762	1	play	sound	255	dev/pp
+765	0	play	sound	255	dev/lepton
+774	2	play	sound	255	sfx/warp/out
+774	1	play	sound	255	dev/pp
+774	0	play	sound	255	dev/lepton
+783	0	play	sound	255	dev/lepton
+786	1	play	sound	255	dev/pp
+792	0	play	sound	255	dev/lepton
+798	1	play	sound	255	dev/pp
+801	0	play	sound	255	dev/lepton
+801	2	play	sound	255	sfx/explosion/energy
+804	2	play	sound	255	sfx/explosion/energy
+810	1	play	sound	255	dev/pp
+810	0	play	sound	255	dev/lepton
+813	2	play	sound	255	sfx/explosion/energy
+813	0	play	sound	255	sfx/explosion/large
+813	2	play	sound	255	sfx/explosion/energy
+822	1	play	sound	255	dev/pp
+864	1	play	sound	255	sfx/warp/out
+879	2	play	sound	255	sfx/energy
+957	0	play	sound	224	sfx/warp/out
+984	1	play	sound	97	sfx/warp/out
+1053	1	play	sound	130	dev/cm
+1125	1	play	sound	175	dev/cm
+1182	0	play	sound	255	sfx/explosion/gas
+1197	1	play	sound	243	dev/cm
+1278	2	play	sound	128	gui/beep/button
+1284	2	play	sound	128	gui/beep/button
+1299	2	play	sound	128	gui/beep/button
+1329	1	play	sound	251	dev/cm
+1341	1	play	sound	255	dev/lepton
+1344	2	play	sound	255	dev/pp
+1350	1	play	sound	255	dev/lepton
+1356	2	play	sound	255	dev/pp
+1359	1	play	sound	255	dev/lepton
+1368	2	play	sound	255	dev/pp
+1368	1	play	sound	255	dev/lepton
+1377	1	play	sound	255	dev/lepton
+1380	2	play	sound	255	dev/pp
+1383	0	play	sound	255	sfx/explosion/energy
+1383	0	play	sound	255	sfx/explosion/energy
+1386	1	play	sound	255	dev/lepton
+1392	2	play	sound	255	dev/pp
+1395	1	play	sound	255	dev/lepton
+1404	2	play	sound	255	dev/pp
+1404	1	play	sound	255	dev/lepton
+1413	1	play	sound	255	dev/lepton
+1416	2	play	sound	255	dev/pp
+1419	0	play	sound	224	sfx/explosion/energy
+1434	1	play	sound	223	sfx/explosion/energy
+1446	2	play	sound	221	sfx/explosion/energy
+1458	0	play	sound	219	sfx/explosion/energy
+1467	0	play	sound	224	sfx/explosion/energy
+1548	0	play	sound	246	dev/cm
+1575	0	play	sound	255	dev/lepton
+1578	1	play	sound	255	dev/pp
+1584	0	play	sound	255	dev/lepton
+1590	1	play	sound	255	dev/pp
+1593	0	play	sound	255	dev/lepton
+1596	2	play	sound	255	sfx/explosion/energy
+1602	1	play	sound	255	dev/pp
+1602	0	play	sound	255	dev/lepton
+1605	2	play	sound	255	sfx/explosion/energy
+1605	2	play	sound	255	sfx/explosion/energy
+1611	0	play	sound	255	dev/lepton
+1614	1	play	sound	255	dev/pp
+1614	2	play	sound	255	sfx/explosion/energy
+1614	2	play	sound	255	sfx/explosion/energy
+1620	0	play	sound	255	dev/lepton
+1620	2	play	sound	255	sfx/explosion/energy
+1626	1	play	sound	255	dev/pp
+1626	2	play	sound	255	sfx/explosion/energy
+1626	2	play	sound	255	sfx/explosion/energy
+1629	0	play	sound	255	dev/lepton
+1635	2	play	sound	255	sfx/explosion/energy
+1635	2	play	sound	255	sfx/explosion/energy
+1638	1	play	sound	255	dev/conc
+1638	1	play	sound	255	dev/pp
+1638	0	play	sound	255	dev/lepton
+1641	2	play	sound	255	sfx/explosion/energy
+1644	2	play	sound	255	sfx/explosion/energy
+1644	2	play	sound	255	sfx/explosion/energy
+1647	0	play	sound	255	dev/lepton
+1647	2	play	sound	255	sfx/explosion/energy
+1650	1	play	sound	255	dev/conc
+1650	1	play	sound	255	dev/pp
+1653	2	play	sound	255	sfx/explosion/energy
+1653	2	play	sound	255	sfx/explosion/energy
+1656	0	play	sound	255	dev/lepton
+1662	1	play	sound	255	dev/conc
+1662	1	play	sound	255	dev/pp
+1665	0	play	sound	255	dev/lepton
+1668	2	play	sound	255	sfx/explosion/energy
+1668	2	play	sound	255	sfx/explosion/energy
+1674	1	play	sound	255	dev/conc
+1674	1	play	sound	255	dev/pp
+1674	0	play	sound	255	dev/lepton
+1680	2	play	sound	255	sfx/explosion/energy
+1683	0	play	sound	255	dev/lepton
+1686	1	play	sound	255	dev/pp
+1686	2	play	sound	255	sfx/explosion/energy
+1692	0	play	sound	255	dev/lepton
+1692	2	play	sound	255	sfx/explosion/energy
+1698	1	play	sound	255	dev/pp
+1701	0	play	sound	255	dev/lepton
+1701	2	play	sound	255	sfx/explosion/energy
+1704	2	play	sound	255	sfx/explosion/energy
+1710	1	play	sound	255	dev/pp
+1710	0	play	sound	255	dev/lepton
+1716	2	play	sound	255	sfx/explosion/energy
+1716	2	play	sound	255	sfx/explosion/energy
+1719	0	play	sound	255	dev/lepton
+1722	1	play	sound	255	dev/pp
+1725	2	play	sound	255	sfx/explosion/energy
+1728	0	play	sound	255	dev/lepton
+1728	2	play	sound	255	sfx/explosion/energy
+1728	2	play	sound	255	sfx/explosion/energy
+1734	1	play	sound	255	dev/pp
+1737	0	play	sound	255	dev/lepton
+1746	1	play	sound	255	dev/pp
+1746	0	play	sound	255	dev/lepton
+1749	2	play	sound	255	sfx/explosion/energy
+1755	0	play	sound	255	dev/lepton
+1758	1	play	sound	255	dev/pp
+1764	0	play	sound	255	dev/lepton
+1764	2	play	sound	255	sfx/explosion/energy
+1770	1	play	sound	255	dev/pp
+1773	0	play	sound	255	dev/lepton
+1779	0	play	sound	244	sfx/explosion/large
+1779	0	play	sound	253	sfx/explosion/energy
+1782	1	play	sound	255	dev/pp
+1782	0	play	sound	255	dev/lepton
+1797	2	play	sound	242	sfx/explosion/energy
+1827	0	play	sound	238	sfx/explosion/energy
+1857	0	play	sound	248	sfx/energy
+1866	0	play	sound	250	sfx/energy
+1869	0	play	sound	252	sfx/energy
+1872	1	play	sound	13	sfx/explosion/energy
+1875	0	play	sound	254	sfx/energy
+1911	0	play	sound	255	dev/pp
+1911	1	play	sound	255	dev/lepton
+1920	1	play	sound	255	dev/lepton
+1923	0	play	sound	255	dev/pp
+1929	1	play	sound	255	dev/lepton
+1935	0	play	sound	255	dev/pp
+1938	1	play	sound	255	dev/lepton
+1938	2	play	sound	235	sfx/energy
+1938	2	play	sound	235	sfx/energy
+1938	2	play	sound	235	sfx/energy
+1941	2	play	sound	237	sfx/energy
+1941	2	play	sound	237	sfx/energy
+1947	0	play	sound	255	dev/pp
+1947	1	play	sound	255	dev/lepton
+1947	2	play	sound	246	sfx/explosion/small
+1947	2	play	sound	247	sfx/explosion/energy
+1950	2	play	sound	255	sfx/explosion/energy
+1956	1	play	sound	255	dev/lepton
+1959	0	play	sound	255	dev/pp
+1974	1	play	sound	255	dev/lepton
+1977	2	play	sound	255	sfx/explosion/energy
+1983	1	play	sound	255	dev/lepton
+1986	2	play	sound	255	sfx/explosion/energy
+1992	1	play	sound	255	dev/lepton
+2001	1	play	sound	255	dev/lepton
+2010	1	play	sound	255	dev/lepton
+2013	0	play	sound	255	sfx/energy
+2019	1	play	sound	255	dev/lepton
+2028	1	play	sound	255	dev/lepton
+2037	1	play	sound	255	dev/lepton
+2046	1	play	sound	255	dev/lepton
+2055	1	play	sound	255	dev/lepton
+2064	1	play	sound	255	dev/lepton
+2073	1	play	sound	255	dev/lepton
+2082	1	play	sound	255	dev/lepton
+2091	2	play	sound	255	dev/conc
+2091	1	play	sound	255	dev/lepton
+2097	0	play	sound	255	dev/conc
+2100	1	play	sound	255	dev/lepton
+2103	2	play	sound	255	dev/conc
+2103	0	play	sound	255	dev/conc/ricochet/2
+2109	1	play	sound	255	dev/lepton
+2115	2	play	sound	255	dev/conc
+2118	1	play	sound	255	dev/lepton
+2121	0	play	sound	255	dev/conc
+2127	2	play	sound	255	dev/conc
+2127	1	play	sound	255	dev/lepton
+2136	1	play	sound	255	dev/lepton
+2145	1	play	sound	255	dev/lepton
+2154	1	play	sound	255	dev/lepton
+2163	1	play	sound	255	dev/lepton
+2172	1	play	sound	255	dev/lepton
+2181	1	play	sound	255	dev/lepton
+2190	1	play	sound	255	dev/lepton
+2199	1	play	sound	255	dev/lepton
+2208	1	play	sound	255	dev/lepton
+2217	1	play	sound	255	dev/lepton
+2226	1	play	sound	255	dev/lepton
+2235	1	play	sound	255	dev/lepton
+2241	0	play	sound	255	sfx/explosion/energy
+2244	1	play	sound	255	dev/lepton
+2253	1	play	sound	255	dev/lepton
+2262	1	play	sound	255	dev/lepton
+2271	1	play	sound	255	dev/lepton
+2280	1	play	sound	255	dev/lepton
+2289	1	play	sound	255	dev/lepton
+2298	1	play	sound	255	dev/lepton
+2307	1	play	sound	255	dev/lepton
+2316	1	play	sound	255	dev/lepton
+2325	1	play	sound	255	dev/lepton
+2334	1	play	sound	255	dev/lepton
+2340	0	play	sound	255	sfx/explosion/energy
+2343	1	play	sound	255	dev/lepton
+2352	1	play	sound	255	dev/lepton
+2361	1	play	sound	255	dev/lepton
+2370	1	play	sound	255	dev/lepton
+2379	1	play	sound	255	dev/lepton
+2388	1	play	sound	255	dev/lepton
+2397	1	play	sound	255	dev/lepton
+2406	1	play	sound	255	dev/lepton
+2415	1	play	sound	255	dev/lepton
+2424	1	play	sound	255	dev/lepton
+2460	1	play	sound	255	dev/lepton
+2469	1	play	sound	255	dev/lepton
+2478	1	play	sound	255	dev/lepton
+2487	1	play	sound	255	dev/lepton
+2496	1	play	sound	255	dev/lepton
+2505	1	play	sound	255	dev/lepton
+2514	1	play	sound	255	dev/lepton
+2523	1	play	sound	255	dev/lepton
+2532	1	play	sound	255	dev/lepton
+2541	1	play	sound	255	dev/lepton
+2550	1	play	sound	255	dev/lepton
+2559	1	play	sound	255	dev/lepton
+2568	1	play	sound	255	dev/lepton
+2577	1	play	sound	255	dev/lepton
+2586	1	play	sound	255	dev/lepton
+2595	1	play	sound	255	dev/lepton
+2604	1	play	sound	255	dev/lepton
+2613	1	play	sound	255	dev/lepton
+2622	1	play	sound	255	dev/lepton
+2628	0	play	sound	255	sfx/explosion/energy
+2631	1	play	sound	255	dev/lepton
+2640	1	play	sound	255	dev/lepton
+2649	1	play	sound	255	dev/lepton
+2658	1	play	sound	255	dev/lepton
+2667	1	play	sound	255	dev/lepton
+2676	1	play	sound	255	dev/lepton
+2685	1	play	sound	255	dev/lepton
+2694	1	play	sound	255	dev/lepton
+2700	0	play	sound	255	sfx/explosion/energy
+2703	1	play	sound	255	dev/lepton
+2712	1	play	sound	255	dev/lepton
+2721	1	play	sound	255	dev/lepton
+2730	1	play	sound	255	dev/lepton
+2739	1	play	sound	255	dev/lepton
+2748	1	play	sound	255	dev/lepton
+2751	0	play	sound	255	sfx/explosion/energy
+2757	1	play	sound	255	dev/lepton
+2760	0	play	sound	255	sfx/explosion/energy
+2766	1	play	sound	255	dev/lepton
+2775	1	play	sound	255	dev/lepton
+2775	0	play	sound	255	sfx/explosion/energy
+2784	1	play	sound	255	dev/lepton
+2793	1	play	sound	255	dev/lepton
+2802	1	play	sound	255	dev/lepton
+2811	1	play	sound	255	dev/lepton
+2820	1	play	sound	255	dev/lepton
+2829	1	play	sound	255	dev/lepton
+2838	1	play	sound	255	dev/lepton
+2847	1	play	sound	255	dev/lepton
+2847	0	play	sound	255	sfx/explosion/energy
+2856	1	play	sound	255	dev/lepton
+2865	1	play	sound	255	dev/lepton
+2874	1	play	sound	255	dev/lepton
+2883	1	play	sound	255	dev/lepton
+2892	1	play	sound	255	dev/lepton
+2901	1	play	sound	255	dev/lepton
+2904	0	play	sound	255	sfx/explosion/energy
+2910	1	play	sound	255	dev/lepton
+2919	1	play	sound	255	dev/lepton
+2928	1	play	sound	255	dev/lepton
+2937	1	play	sound	255	dev/lepton
+2946	1	play	sound	255	dev/lepton
+2955	1	play	sound	255	dev/lepton
+2964	1	play	sound	255	dev/lepton
+2973	1	play	sound	255	dev/lepton
+2982	1	play	sound	255	dev/lepton
+2991	1	play	sound	255	dev/lepton
+3000	1	play	sound	255	dev/lepton
+3009	1	play	sound	255	dev/lepton
+3018	1	play	sound	255	dev/lepton
+3027	1	play	sound	255	dev/lepton
+3036	1	play	sound	255	dev/lepton
+3045	1	play	sound	255	dev/lepton
+3054	1	play	sound	255	dev/lepton
+3060	0	play	sound	255	sfx/explosion/energy
+3063	1	play	sound	255	dev/lepton
+3072	1	play	sound	255	dev/lepton
+3081	1	play	sound	255	dev/lepton
+3090	1	play	sound	255	dev/lepton
+3099	1	play	sound	255	dev/lepton
+3108	1	play	sound	255	dev/lepton
+3111	0	play	sound	255	sfx/explosion/large
+3111	2	play	sound	255	sfx/explosion/energy
+3117	1	play	sound	255	dev/lepton
+3126	1	play	sound	255	dev/lepton
+3135	1	play	sound	255	dev/lepton
+3144	1	play	sound	255	dev/lepton
+3150	2	play	sound	255	sfx/energy
+3237	1	play	sound	255	dev/lepton
+3246	1	play	sound	255	dev/lepton
+3255	1	play	sound	255	dev/lepton
+3264	1	play	sound	255	dev/lepton
+3273	1	play	sound	255	dev/lepton
+3282	1	play	sound	255	dev/lepton
+3291	1	play	sound	255	dev/lepton
+3300	1	play	sound	255	dev/lepton
+3309	1	play	sound	255	dev/lepton
+3318	1	play	sound	255	dev/lepton
+3327	1	play	sound	255	dev/lepton
+3336	1	play	sound	255	dev/lepton
+3345	1	play	sound	255	dev/lepton
+3354	1	play	sound	255	dev/lepton
+3363	1	play	sound	255	dev/lepton
+3372	1	play	sound	255	dev/lepton
+3381	1	play	sound	255	dev/lepton
+3390	1	play	sound	255	dev/lepton
+3399	1	play	sound	255	dev/lepton
+3408	1	play	sound	255	dev/lepton
+3417	1	play	sound	255	dev/lepton
+3426	1	play	sound	255	dev/lepton
+3435	1	play	sound	255	dev/lepton
+3444	1	play	sound	255	dev/lepton
+3453	1	play	sound	255	dev/lepton
+3462	1	play	sound	255	dev/lepton
+3471	1	play	sound	255	dev/lepton
+3480	1	play	sound	255	dev/lepton
+3489	1	play	sound	255	dev/lepton
+3498	1	play	sound	255	dev/lepton
+3507	1	play	sound	255	dev/lepton
+3507	2	play	sound	255	sfx/explosion/energy
+3516	1	play	sound	255	dev/lepton
+3516	2	play	sound	255	sfx/explosion/energy
+3525	1	play	sound	255	dev/lepton
+3534	1	play	sound	255	dev/lepton
+3543	1	play	sound	255	dev/lepton
+3552	1	play	sound	255	dev/lepton
+3558	0	play	sound	255	sfx/explosion/large
+3558	2	play	sound	255	sfx/explosion/energy
+3561	1	play	sound	255	dev/lepton
+3570	1	play	sound	255	dev/lepton
+3579	1	play	sound	255	dev/lepton
+3585	2	play	sound	255	sfx/explosion/energy
+3588	1	play	sound	255	dev/lepton
+3588	2	play	sound	255	sfx/explosion/energy
+3654	1	play	sound	255	sfx/warp/charge/1
+3678	2	play	sound	255	sfx/warp/charge/2
+3702	0	play	sound	255	sfx/warp/charge/3
+3717	1	play	sound	128	gui/beep/button
+3726	1	play	sound	128	gui/beep/button
+3729	1	play	sound	255	sfx/warp/charge/4
+3735	2	play	sound	128	gui/beep/button
+3753	2	play	sound	255	sfx/warp/in
+3768	0	play	sound	128	gui/beep/zoom
+4024	0	play	sound	128	gui/beep/zoom
+4038	0	play	sound	255	sfx/energy
+4059	1	play	sound	255	sfx/warp/out
+4071	2	play	sound	255	sfx/warp/charge/1
+4094	0	play	sound	128	gui/beep/zoom
+4095	0	play	sound	255	sfx/warp/charge/2
+4119	1	play	sound	255	sfx/warp/charge/3
+4146	2	play	sound	255	sfx/warp/charge/4
+4170	0	play	sound	255	sfx/warp/in
+4229	1	play	sound	128	gui/beep/zoom
+4230	1	play	sound	255	sfx/energy
+4273	2	play	sound	128	gui/beep/zoom
+4314	2	play	sound	255	sfx/warp/out
+4317	0	play	sound	255	sfx/warp/charge/1
+4341	1	play	sound	255	sfx/warp/charge/2
+4365	2	play	sound	255	sfx/warp/charge/3
+4392	0	play	sound	255	sfx/warp/charge/4
+4416	1	play	sound	255	sfx/warp/in
+4583	2	play	sound	128	gui/beep/zoom
+4629	2	play	sound	255	sfx/warp/out
+4821	0	play	sound	255	sfx/warp/charge/1
+4839	1	play	sound	255	sfx/energy
+4845	2	play	sound	255	sfx/warp/charge/2
+4869	0	play	sound	255	sfx/warp/charge/3
+4891	1	play	sound	128	gui/beep/zoom
+4896	1	play	sound	255	sfx/warp/charge/4
+4920	2	play	sound	255	sfx/warp/in
+5340	0	play	sound	255	sfx/warp/out
+5415	1	play	sound	255	sfx/warp/charge/1
+5439	2	play	sound	255	sfx/warp/charge/2
+5463	0	play	sound	255	sfx/warp/charge/3
+5490	1	play	sound	255	sfx/warp/charge/4
+5514	2	play	sound	255	sfx/warp/in
+5540	0	play	sound	128	gui/beep/zoom
+5544	0	play	sound	255	sfx/energy
+5597	1	play	sound	128	gui/beep/zoom
+5769	1	play	sound	255	sfx/warp/out
+5806	2	play	sound	128	gui/beep/zoom
+5868	2	play	sound	255	sfx/warp/charge/1
+5892	0	play	sound	255	sfx/warp/charge/2
+5916	1	play	sound	255	sfx/warp/charge/3
+5943	2	play	sound	255	sfx/warp/charge/4
+5967	0	play	sound	255	sfx/warp/in
+5982	1	play	sound	255	sfx/energy
+6034	2	play	sound	128	gui/beep/zoom
+6075	2	play	sound	255	sfx/warp/out
+6078	0	play	sound	255	sfx/warp/charge/1
+6102	1	play	sound	255	sfx/warp/charge/2
+6126	2	play	sound	255	sfx/warp/charge/3
+6153	0	play	sound	255	sfx/warp/charge/4
+6177	1	play	sound	255	sfx/warp/in
+6495	2	play	sound	128	gui/beep/zoom
+6555	2	play	sound	255	sfx/warp/out
+6708	0	play	sound	255	sfx/warp/charge/1
+6732	1	play	sound	255	sfx/warp/charge/2
+6756	2	play	sound	255	sfx/warp/charge/3
+6783	0	play	sound	255	sfx/warp/charge/4
+6807	1	play	sound	255	sfx/warp/in
+6886	2	play	sound	128	gui/beep/zoom
+6924	2	play	sound	255	sfx/warp/out
+7036	0	play	sound	128	gui/beep/zoom
+7086	0	play	sound	255	sfx/warp/charge/1
+7110	1	play	sound	255	sfx/warp/charge/2
+7134	2	play	sound	255	sfx/warp/charge/3
+7275	0	play	sound	255	sfx/warp/charge/1
+7299	1	play	sound	255	sfx/warp/charge/2
+7323	2	play	sound	255	sfx/warp/charge/3
+7350	0	play	sound	255	sfx/warp/charge/4
+7374	1	play	sound	255	sfx/warp/in
+7383	2	play	sound	255	sfx/energy
+7435	0	play	sound	128	gui/beep/zoom
+7505	2	play	sound	64	gui/beep/message
+7508	2	play	sound	64	gui/beep/message
+7511	2	play	sound	64	gui/beep/message
+7514	2	play	sound	64	gui/beep/message
+7517	2	play	sound	64	gui/beep/message
+7520	2	play	sound	64	gui/beep/message
+7523	2	play	sound	64	gui/beep/message
+7526	2	play	sound	64	gui/beep/message
+7529	2	play	sound	64	gui/beep/message
+7532	2	play	sound	64	gui/beep/message
+7535	2	play	sound	64	gui/beep/message
+7538	2	play	sound	64	gui/beep/message
+7541	2	play	sound	64	gui/beep/message
+7544	2	play	sound	64	gui/beep/message
+7547	2	play	sound	64	gui/beep/message
+7550	2	play	sound	64	gui/beep/message
+7553	2	play	sound	64	gui/beep/message
+7556	2	play	sound	64	gui/beep/message
+7559	2	play	sound	64	gui/beep/message
+7562	2	play	sound	64	gui/beep/message
+7565	2	play	sound	64	gui/beep/message
+7568	2	play	sound	64	gui/beep/message
+7571	2	play	sound	64	gui/beep/message
+7574	2	play	sound	64	gui/beep/message
+7577	2	play	sound	64	gui/beep/message
+7580	2	play	sound	64	gui/beep/message
+7583	2	play	sound	64	gui/beep/message
+7586	2	play	sound	64	gui/beep/message
+7589	2	play	sound	64	gui/beep/message
+7592	2	play	sound	64	gui/beep/message
+7595	2	play	sound	64	gui/beep/message
+7598	2	play	sound	64	gui/beep/message
+7601	2	play	sound	64	gui/beep/message
+7604	2	play	sound	64	gui/beep/message
+7607	2	play	sound	64	gui/beep/message
+7610	2	play	sound	64	gui/beep/message
+7613	2	play	sound	64	gui/beep/message
+7616	2	play	sound	64	gui/beep/message
+7619	2	play	sound	64	gui/beep/message
+7622	2	play	sound	64	gui/beep/message
+7625	2	play	sound	64	gui/beep/message
+7628	2	play	sound	64	gui/beep/message
+7631	2	play	sound	64	gui/beep/message
+7634	2	play	sound	64	gui/beep/message
+7637	2	play	sound	64	gui/beep/message
+7640	2	play	sound	64	gui/beep/message
+7643	2	play	sound	64	gui/beep/message
+7646	2	play	sound	64	gui/beep/message
+7649	2	play	sound	64	gui/beep/message
+7652	2	play	sound	64	gui/beep/message
+7655	2	play	sound	64	gui/beep/message
+7658	2	play	sound	64	gui/beep/message
+7661	2	play	sound	64	gui/beep/message
+7664	2	play	sound	64	gui/beep/message
+7667	2	play	sound	64	gui/beep/message
+7670	2	play	sound	64	gui/beep/message
+7673	2	play	sound	64	gui/beep/message
+7676	2	play	sound	64	gui/beep/message
+7679	2	play	sound	64	gui/beep/message
+7682	2	play	sound	64	gui/beep/message
+7685	2	play	sound	64	gui/beep/message
+7688	2	play	sound	64	gui/beep/message
+7691	2	play	sound	64	gui/beep/message
+7694	2	play	sound	64	gui/beep/message
+7697	2	play	sound	64	gui/beep/message
+7700	2	play	sound	64	gui/beep/message
+7703	2	play	sound	64	gui/beep/message
+7706	2	play	sound	64	gui/beep/message
+7709	2	play	sound	64	gui/beep/message
+7710	0	play	sound	255	sfx/warp/out
+7712	2	play	sound	64	gui/beep/message
+7715	2	play	sound	64	gui/beep/message
+7718	2	play	sound	64	gui/beep/message
+7721	2	play	sound	64	gui/beep/message
+7724	2	play	sound	64	gui/beep/message
+7727	2	play	sound	64	gui/beep/message
+7730	2	play	sound	64	gui/beep/message
+7733	2	play	sound	64	gui/beep/message
+7736	2	play	sound	64	gui/beep/message
+7739	2	play	sound	64	gui/beep/message
+7742	2	play	sound	64	gui/beep/message
+7745	2	play	sound	64	gui/beep/message
+7748	2	play	sound	64	gui/beep/message
+7751	2	play	sound	64	gui/beep/message
+7754	2	play	sound	64	gui/beep/message
+7757	2	play	sound	64	gui/beep/message
+7760	2	play	sound	64	gui/beep/message
+7763	2	play	sound	64	gui/beep/message
+7766	2	play	sound	64	gui/beep/message
+7769	2	play	sound	64	gui/beep/message
+7772	2	play	sound	64	gui/beep/message
+7775	2	play	sound	64	gui/beep/message
+7778	2	play	sound	64	gui/beep/message
+7781	2	play	sound	64	gui/beep/message
+8244	2	play	sound	192	gui/beep/select
+8289	2	play	sound	192	gui/beep/select
+8316	1	play	sound	128	gui/beep/order
+8328	2	play	sound	192	gui/beep/select
+8352	1	play	sound	128	gui/beep/order
+8550	1	play	sound	255	ish/etc/tug/attach
+8552	0	play	sound	64	gui/beep/message
+8555	0	play	sound	64	gui/beep/message
+8558	0	play	sound	64	gui/beep/message
+8561	0	play	sound	64	gui/beep/message
+8564	0	play	sound	64	gui/beep/message
+8567	0	play	sound	64	gui/beep/message
+8570	0	play	sound	64	gui/beep/message
+8573	0	play	sound	64	gui/beep/message
+8576	0	play	sound	64	gui/beep/message
+8579	0	play	sound	64	gui/beep/message
+8582	0	play	sound	64	gui/beep/message
+8585	0	play	sound	64	gui/beep/message
+8588	0	play	sound	64	gui/beep/message
+8591	0	play	sound	64	gui/beep/message
+8594	0	play	sound	64	gui/beep/message
+8597	0	play	sound	64	gui/beep/message
+8600	0	play	sound	64	gui/beep/message
+8603	0	play	sound	64	gui/beep/message
+8606	0	play	sound	64	gui/beep/message
+8609	0	play	sound	64	gui/beep/message
+8612	0	play	sound	64	gui/beep/message
+8615	0	play	sound	64	gui/beep/message
+8618	0	play	sound	64	gui/beep/message
+8621	0	play	sound	64	gui/beep/message
+8624	0	play	sound	64	gui/beep/message
+8627	0	play	sound	64	gui/beep/message
+8630	0	play	sound	64	gui/beep/message
+8633	0	play	sound	64	gui/beep/message
+8636	0	play	sound	64	gui/beep/message
+8639	0	play	sound	64	gui/beep/message
+8642	0	play	sound	64	gui/beep/message
+8645	0	play	sound	64	gui/beep/message
+8648	0	play	sound	64	gui/beep/message
+8651	0	play	sound	64	gui/beep/message
+8654	0	play	sound	64	gui/beep/message
+8657	0	play	sound	64	gui/beep/message
+8660	0	play	sound	64	gui/beep/message
+8663	0	play	sound	64	gui/beep/message
+8666	0	play	sound	64	gui/beep/message
+8669	0	play	sound	64	gui/beep/message
+8672	0	play	sound	64	gui/beep/message
+8675	0	play	sound	64	gui/beep/message
+8678	0	play	sound	64	gui/beep/message
+8681	0	play	sound	64	gui/beep/message
+8684	0	play	sound	64	gui/beep/message
+8687	0	play	sound	64	gui/beep/message
+8690	0	play	sound	64	gui/beep/message
+8693	0	play	sound	64	gui/beep/message
+8696	0	play	sound	64	gui/beep/message
+8699	0	play	sound	64	gui/beep/message
+8702	0	play	sound	64	gui/beep/message
+8705	0	play	sound	64	gui/beep/message
+8708	0	play	sound	64	gui/beep/message
+8711	0	play	sound	64	gui/beep/message
+8714	0	play	sound	64	gui/beep/message
+8717	0	play	sound	64	gui/beep/message
+8720	0	play	sound	64	gui/beep/message
+8723	0	play	sound	64	gui/beep/message
+8726	0	play	sound	64	gui/beep/message
+8729	0	play	sound	64	gui/beep/message
+8732	0	play	sound	64	gui/beep/message
+8976	0	play	sound	128	gui/beep/zoom
+9030	0	play	sound	255	sfx/warp/charge/1
+9033	2	play	sound	255	dev/cm
+9036	2	play	sound	255	dev/cm
+9054	1	play	sound	255	sfx/warp/charge/2
+9060	0	play	sound	255	sfx/warp/charge/1
+9070	2	play	sound	128	gui/beep/zoom
+9078	2	play	sound	41	sfx/warp/out
+9078	2	play	sound	255	sfx/warp/charge/3
+9084	1	play	sound	255	sfx/warp/charge/2
+9105	0	play	sound	255	sfx/warp/charge/4
+9108	2	play	sound	33	sfx/warp/out
+9108	2	play	sound	42	sfx/warp/out
+9108	2	play	sound	255	sfx/warp/charge/3
+9129	1	play	sound	255	sfx/warp/in
+9135	0	play	sound	255	sfx/warp/charge/4
+9159	2	play	sound	201	sfx/warp/in
+9168	1	play	sound	175	dev/magno
+9192	1	play	sound	255	dev/tspace
+9202	0	play	sound	128	gui/beep/zoom
+9237	0	play	sound	228	dev/stealth/off
+9237	2	play	sound	228	dev/pk/sal
+9252	1	play	sound	255	dev/tspace
+9255	2	play	sound	212	dev/pk/sal
+9255	0	play	sound	255	sfx/explosion/energy
+9264	2	play	sound	255	sfx/warp/out
+9294	0	play	sound	255	dev/magno
+9297	1	play	sound	213	dev/pk/sal
+9312	1	play	sound	255	dev/tspace
+9315	2	play	sound	255	sfx/explosion/energy
+9321	0	play	sound	255	dev/cm
+9336	2	play	sound	255	dev/lepton
+9342	0	play	sound	255	dev/cm
+9345	2	play	sound	255	dev/lepton
+9351	1	play	sound	255	dev/pp
+9354	2	play	sound	255	dev/lepton
+9363	1	play	sound	255	dev/pp
+9363	2	play	sound	255	dev/lepton
+9372	2	play	sound	255	dev/lepton
+9372	0	play	sound	255	sfx/explosion/gas
+9375	1	play	sound	255	dev/pp
+9381	2	play	sound	255	dev/lepton
+9387	1	play	sound	255	dev/pp
+9390	2	play	sound	255	dev/lepton
+9399	1	play	sound	255	dev/pp
+9399	2	play	sound	255	dev/lepton
+9408	2	play	sound	255	dev/lepton
+9411	1	play	sound	255	dev/pp
+9414	0	play	sound	255	dev/cm
+9417	2	play	sound	255	dev/lepton
+9420	0	play	sound	216	sfx/explosion/gas
+9423	1	play	sound	255	dev/pp
+9426	2	play	sound	255	dev/lepton
+9429	0	play	sound	255	sfx/explosion/gas
+9435	1	play	sound	255	dev/pp
+9435	2	play	sound	255	dev/lepton
+9444	2	play	sound	255	dev/lepton
+9447	1	play	sound	255	dev/pp
+9453	2	play	sound	255	dev/lepton
+9459	1	play	sound	255	dev/pk/sal
+9462	2	play	sound	255	dev/lepton
+9471	0	play	sound	255	dev/pp
+9471	2	play	sound	255	dev/lepton
+9477	1	play	sound	255	dev/pk/sal
+9480	2	play	sound	255	dev/lepton
+9483	0	play	sound	255	dev/pp
+9489	2	play	sound	255	dev/lepton
+9492	1	play	sound	245	dev/tspace
+9495	0	play	sound	255	dev/pp
+9495	1	play	sound	246	sfx/explosion/energy
+9498	2	play	sound	255	dev/lepton
+9498	1	play	sound	247	sfx/explosion/energy
+9501	1	play	sound	248	sfx/explosion/energy
+9504	1	play	sound	249	sfx/explosion/energy
+9507	0	play	sound	255	dev/pp
+9507	2	play	sound	255	dev/lepton
+9507	1	play	sound	250	sfx/explosion/energy
+9507	1	play	sound	250	sfx/explosion/energy
+9510	1	play	sound	250	sfx/explosion/energy
+9513	1	play	sound	251	sfx/explosion/energy
+9516	1	play	sound	255	dev/pk/sal
+9516	2	play	sound	255	dev/lepton
+9519	0	play	sound	255	dev/pp
+9525	2	play	sound	255	dev/lepton
+9531	0	play	sound	255	dev/pp
+9534	1	play	sound	255	dev/pk/sal
+9534	2	play	sound	255	dev/lepton
+9543	0	play	sound	255	dev/stealth/on
+9543	2	play	sound	255	dev/lepton
+9546	1	play	sound	231	dev/magno
+9546	1	play	sound	255	sfx/explosion/energy
+9546	1	play	sound	255	sfx/explosion/energy
+9549	0	play	sound	255	dev/stealth/on
+9549	0	play	sound	255	sfx/explosion/gas
+9552	2	play	sound	255	dev/lepton
+9555	1	play	sound	255	sfx/explosion/energy
+9558	1	play	sound	255	sfx/explosion/energy
+9561	2	play	sound	255	dev/lepton
+9561	1	play	sound	255	sfx/explosion/energy
+9570	2	play	sound	255	dev/lepton
+9579	2	play	sound	255	dev/lepton
+9583	0	play	sound	128	gui/beep/zoom
+9588	2	play	sound	255	dev/lepton
+9588	0	play	sound	246	sfx/explosion/energy
+9591	0	play	sound	255	dev/pp
+9597	2	play	sound	255	dev/lepton
+9603	0	play	sound	255	dev/pp
+9606	2	play	sound	255	dev/lepton
+9612	1	play	sound	255	dev/tspace
+9615	0	play	sound	251	dev/pk/sal
+9615	0	play	sound	255	dev/pp
+9615	2	play	sound	255	dev/lepton
+9624	2	play	sound	255	dev/lepton
+9627	0	play	sound	255	dev/pp
+9633	2	play	sound	255	dev/lepton
+9639	0	play	sound	255	dev/pp
+9642	2	play	sound	255	dev/lepton
+9651	0	play	sound	255	dev/pp
+9651	2	play	sound	255	dev/lepton
+9657	1	play	sound	253	dev/pk/sal
+9660	2	play	sound	255	dev/lepton
+9663	1	play	sound	255	dev/stealth/off
+9663	0	play	sound	255	dev/anti
+9669	2	play	sound	255	dev/lepton
+9675	0	play	sound	255	dev/pp
+9678	2	play	sound	255	dev/lepton
+9678	0	play	sound	255	sfx/explosion/gas
+9687	1	play	sound	255	dev/pp
+9687	2	play	sound	255	dev/lepton
+9696	2	play	sound	255	dev/lepton
+9699	1	play	sound	255	dev/pp
+9705	2	play	sound	255	dev/lepton
+9711	1	play	sound	255	dev/pp
+9711	0	play	sound	255	sfx/explosion/energy
+9714	2	play	sound	255	dev/lepton
+9714	0	play	sound	255	sfx/explosion/energy
+9717	0	play	sound	255	sfx/explosion/energy
+9717	0	play	sound	255	sfx/explosion/gas
+9723	1	play	sound	239	dev/stealth/off
+9723	1	play	sound	255	dev/pp
+9723	2	play	sound	255	dev/lepton
+9732	2	play	sound	255	dev/lepton
+9735	1	play	sound	255	dev/pp
+9741	2	play	sound	255	dev/lepton
+9747	1	play	sound	252	dev/pk/sal
+9747	1	play	sound	255	dev/pp
+9750	2	play	sound	255	dev/lepton
+9750	0	play	sound	255	sfx/explosion/gas
+9756	0	play	sound	255	sfx/explosion/gas
+9759	1	play	sound	255	dev/bay
+9759	2	play	sound	255	dev/lepton
+9768	2	play	sound	255	dev/lepton
+9777	2	play	sound	255	dev/lepton
+9780	1	play	sound	255	sfx/explosion/energy
+9786	2	play	sound	255	dev/lepton
+9789	0	play	sound	255	sfx/explosion/gas
+9792	1	play	sound	255	sfx/explosion/energy
+9795	2	play	sound	255	dev/lepton
+9795	1	play	sound	255	sfx/explosion/energy
+9795	1	play	sound	255	sfx/explosion/energy
+9798	1	play	sound	255	sfx/explosion/energy
+9801	1	play	sound	255	sfx/explosion/energy
+9801	1	play	sound	255	sfx/explosion/energy
+9801	1	play	sound	255	sfx/explosion/energy
+9804	2	play	sound	255	dev/lepton
+9804	1	play	sound	255	sfx/explosion/energy
+9810	1	play	sound	255	sfx/explosion/energy
+9813	2	play	sound	255	dev/lepton
+9819	0	play	sound	255	sfx/explosion/gas
+9822	2	play	sound	255	dev/lepton
+9831	1	play	sound	255	dev/pp
+9831	2	play	sound	255	dev/lepton
+9831	0	play	sound	255	sfx/explosion/gas
+9840	2	play	sound	255	dev/lepton
+9843	1	play	sound	255	dev/pp
+9849	2	play	sound	255	dev/lepton
+9855	1	play	sound	255	dev/pp
+9858	2	play	sound	255	dev/lepton
+9867	1	play	sound	255	dev/pp
+9867	2	play	sound	255	dev/lepton
+9870	0	play	sound	238	dev/pk/sal
+9870	0	play	sound	255	sfx/explosion/energy
+9870	0	play	sound	255	sfx/explosion/energy
+9876	2	play	sound	255	dev/lepton
+9879	1	play	sound	161	dev/pk/sal
+9879	1	play	sound	255	dev/pp
+9879	0	play	sound	255	sfx/explosion/energy
+9882	0	play	sound	255	sfx/explosion/energy
+9885	2	play	sound	255	dev/lepton
+9888	0	play	sound	255	sfx/explosion/energy
+9891	1	play	sound	255	dev/pp
+9891	0	play	sound	255	sfx/explosion/gas
+9894	2	play	sound	255	dev/lepton
+9903	1	play	sound	247	dev/pk/sal
+9903	1	play	sound	255	dev/pp
+9903	2	play	sound	255	dev/lepton
+9912	2	play	sound	255	dev/lepton
+9915	1	play	sound	255	dev/pp
+9915	1	play	sound	153	sfx/explosion/gas
+9915	1	play	sound	255	sfx/explosion/energy
+9918	1	play	sound	255	sfx/explosion/energy
+9918	1	play	sound	255	sfx/explosion/energy
+9921	2	play	sound	255	dev/lepton
+9921	1	play	sound	255	sfx/explosion/energy
+9921	1	play	sound	255	sfx/explosion/energy
+9921	1	play	sound	255	sfx/explosion/energy
+9921	1	play	sound	255	sfx/explosion/energy
+9924	0	play	sound	255	dev/magno
+9924	1	play	sound	255	sfx/explosion/energy
+9927	1	play	sound	255	sfx/explosion/energy
+9927	1	play	sound	255	sfx/explosion/energy
+9930	2	play	sound	255	dev/lepton
+9930	1	play	sound	255	sfx/explosion/energy
+9930	1	play	sound	255	sfx/explosion/energy
+9933	1	play	sound	255	sfx/explosion/energy
+9936	1	play	sound	255	sfx/explosion/energy
+9939	0	play	sound	251	dev/pk/sal
+9939	0	play	sound	255	dev/pp
+9939	2	play	sound	255	dev/lepton
+9939	1	play	sound	255	sfx/explosion/energy
+9939	1	play	sound	255	sfx/explosion/energy
+9939	1	play	sound	255	sfx/explosion/energy
+9942	1	play	sound	255	sfx/explosion/energy
+9945	1	play	sound	255	sfx/explosion/energy
+9948	2	play	sound	255	dev/lepton
+9948	1	play	sound	255	sfx/explosion/energy
+9948	0	play	sound	255	sfx/explosion/gas
+9948	1	play	sound	255	sfx/explosion/large
+9957	2	play	sound	255	dev/lepton
+9966	2	play	sound	255	dev/lepton
+9975	1	play	sound	255	dev/pp
+9975	2	play	sound	255	dev/lepton
+9984	2	play	sound	255	dev/lepton
+9987	1	play	sound	255	dev/pp
+9987	0	play	sound	255	sfx/explosion/energy
+9996	2	play	sound	255	dev/pk/sal
+9999	0	play	sound	255	sfx/explosion/energy
+10005	0	play	sound	255	sfx/explosion/energy
+10011	1	play	sound	205	dev/pk/sal
+10020	1	play	sound	255	sfx/explosion/gas
+10029	2	play	sound	194	dev/pk/sal
+10032	2	play	sound	255	sfx/energy
+10038	2	play	sound	255	sfx/energy
+10038	2	play	sound	255	sfx/energy
+10041	2	play	sound	255	sfx/energy
+10044	2	play	sound	255	sfx/energy
+10047	0	play	sound	183	dev/pk/sal
+10047	0	play	sound	255	dev/stealth/off
+10047	2	play	sound	255	sfx/energy
+10053	2	play	sound	255	sfx/energy
+10056	2	play	sound	255	sfx/energy
+10059	2	play	sound	255	sfx/energy
+10062	1	play	sound	255	dev/lepton
+10062	0	play	sound	253	sfx/jump
+10065	0	play	sound	255	dev/pk/sal
+10068	2	play	sound	255	sfx/energy
+10071	1	play	sound	255	dev/lepton
+10071	2	play	sound	255	sfx/energy
+10080	0	play	sound	255	dev/pp
+10080	1	play	sound	255	dev/lepton
+10083	2	play	sound	255	dev/pk/sal
+10089	1	play	sound	255	dev/lepton
+10092	0	play	sound	155	dev/pk/sal
+10092	0	play	sound	255	dev/pp
+10098	2	play	sound	242	dev/pk/sal
+10098	1	play	sound	255	dev/lepton
+10098	2	play	sound	255	sfx/explosion/energy
+10098	2	play	sound	255	sfx/explosion/energy
+10104	0	play	sound	255	dev/pp
+10107	1	play	sound	255	dev/lepton
+10116	0	play	sound	243	dev/pk/sal
+10116	0	play	sound	255	dev/pp
+10116	1	play	sound	255	dev/lepton
+10116	2	play	sound	255	sfx/explosion/energy
+10125	1	play	sound	255	dev/lepton
+10128	0	play	sound	255	dev/pp
+10134	1	play	sound	255	dev/lepton
+10140	2	play	sound	241	dev/pk/sal
+10140	0	play	sound	255	dev/pp
+10143	1	play	sound	255	dev/lepton
+10146	2	play	sound	255	sfx/explosion/energy
+10152	0	play	sound	255	dev/pp
+10152	1	play	sound	255	dev/lepton
+10152	2	play	sound	255	sfx/explosion/energy
+10158	2	play	sound	255	sfx/explosion/energy
+10161	1	play	sound	255	dev/lepton
+10161	2	play	sound	255	sfx/explosion/energy
+10164	0	play	sound	255	dev/pp
+10170	1	play	sound	255	dev/lepton
+10176	0	play	sound	255	dev/pp
+10179	1	play	sound	255	dev/lepton
+10185	2	play	sound	255	sfx/explosion/energy
+10188	0	play	sound	255	dev/pp
+10188	1	play	sound	255	dev/lepton
+10194	2	play	sound	255	sfx/explosion/energy
+10197	1	play	sound	255	dev/lepton
+10200	0	play	sound	255	dev/pp
+10203	2	play	sound	255	sfx/explosion/energy
+10206	1	play	sound	255	dev/lepton
+10206	2	play	sound	255	sfx/explosion/energy
+10206	0	play	sound	255	sfx/explosion/large
+10206	2	play	sound	255	sfx/explosion/energy
+10215	1	play	sound	255	dev/lepton
+10218	2	play	sound	255	sfx/explosion/energy
+10224	1	play	sound	255	dev/lepton
+10233	1	play	sound	255	dev/lepton
+10233	2	play	sound	255	sfx/explosion/energy
+10236	2	play	sound	255	sfx/explosion/energy
+10242	1	play	sound	255	dev/lepton
+10251	1	play	sound	255	dev/lepton
+10257	2	play	sound	255	dev/pk/sal
+10263	1	play	sound	255	sfx/explosion/energy
+10272	2	play	sound	255	dev/pk/sal
+10272	0	play	sound	112	dev/pk/sal
+10275	1	play	sound	255	sfx/explosion/energy
+10278	0	play	sound	255	dev/pk/sal
+10284	1	play	sound	255	sfx/explosion/energy
+10287	2	play	sound	255	dev/anti
+10287	1	play	sound	255	sfx/explosion/energy
+10290	0	play	sound	255	dev/pk/sal
+10296	0	play	sound	255	dev/pk/sal
+10296	1	play	sound	255	sfx/explosion/energy
+10299	1	play	sound	255	sfx/explosion/energy
+10299	1	play	sound	255	sfx/explosion/energy
+10302	2	play	sound	255	dev/pk/ish
+10305	1	play	sound	255	sfx/explosion/energy
+10308	0	play	sound	255	dev/pk/sal
+10311	2	play	sound	255	dev/pk/ish
+10311	1	play	sound	255	sfx/explosion/energy
+10314	1	play	sound	255	sfx/explosion/energy
+10317	1	play	sound	255	sfx/explosion/energy
+10323	0	play	sound	255	dev/pp
+10323	2	play	sound	255	dev/lepton
+10332	2	play	sound	255	dev/lepton
+10332	1	play	sound	255	sfx/explosion/energy
+10335	0	play	sound	255	dev/fusion
+10341	2	play	sound	255	dev/lepton
+10344	1	play	sound	255	sfx/explosion/energy
+10347	0	play	sound	255	dev/pp
+10350	2	play	sound	255	dev/lepton
+10359	0	play	sound	255	dev/pp
+10359	2	play	sound	255	dev/lepton
+10368	2	play	sound	255	dev/lepton
+10371	0	play	sound	255	dev/pp
+10374	1	play	sound	255	dev/pk/sal
+10377	2	play	sound	255	dev/lepton
+10383	0	play	sound	255	dev/pp
+10386	2	play	sound	255	dev/lepton
+10392	1	play	sound	171	dev/pk/sal
+10395	0	play	sound	255	dev/pp
+10395	2	play	sound	255	dev/lepton
+10398	1	play	sound	255	dev/cm
+10404	2	play	sound	255	dev/lepton
+10407	0	play	sound	255	dev/pp
+10413	2	play	sound	255	dev/lepton
+10419	0	play	sound	255	dev/pp
+10422	2	play	sound	255	dev/lepton
+10431	0	play	sound	255	dev/pp
+10431	2	play	sound	255	dev/lepton
+10440	2	play	sound	255	dev/lepton
+10443	0	play	sound	255	dev/pp
+10449	2	play	sound	255	dev/lepton
+10452	1	play	sound	177	dev/pk/sal
+10455	0	play	sound	255	dev/pp
+10458	1	play	sound	255	dev/pk/sal
+10458	2	play	sound	255	dev/lepton
+10467	0	play	sound	255	dev/pp
+10467	2	play	sound	255	dev/lepton
+10470	1	play	sound	210	dev/fusion
+10470	1	play	sound	255	dev/cm
+10476	2	play	sound	255	dev/lepton
+10479	0	play	sound	242	dev/pk/sal
+10479	0	play	sound	255	dev/pp
+10485	2	play	sound	255	dev/lepton
+10491	0	play	sound	255	dev/pp
+10494	2	play	sound	255	dev/lepton
+10503	0	play	sound	255	dev/pp
+10503	2	play	sound	255	dev/lepton
+10506	1	play	sound	255	sfx/explosion/energy
+10512	2	play	sound	255	dev/lepton
+10515	0	play	sound	255	dev/pp
+10521	2	play	sound	255	dev/lepton
+10527	0	play	sound	255	dev/pp
+10530	2	play	sound	255	dev/lepton
+10533	1	play	sound	255	sfx/explosion/energy
+10533	1	play	sound	255	sfx/explosion/energy
+10539	0	play	sound	255	dev/pp
+10539	2	play	sound	255	dev/lepton
+10548	2	play	sound	255	dev/lepton
+10551	0	play	sound	255	dev/pp
+10557	2	play	sound	255	dev/lepton
+10560	1	play	sound	255	dev/pk/sal
+10563	0	play	sound	255	dev/pp
+10566	2	play	sound	255	dev/lepton
+10578	1	play	sound	255	dev/pk/sal
+10581	0	play	sound	139	dev/pk/sal
+10599	0	play	sound	139	dev/pk/sal
+10608	0	play	sound	255	dev/fusion
+10608	2	play	sound	255	dev/pk/ish
+10608	1	play	sound	255	dev/cm
+10617	2	play	sound	255	dev/pk/ish
+10623	0	play	sound	255	dev/fusion
+10626	2	play	sound	255	dev/pk/ish
+10644	0	play	sound	145	dev/pk/sal
+10650	0	play	sound	246	dev/pk/sal
+10656	0	play	sound	250	dev/anti
+10662	2	play	sound	151	dev/pk/sal
+10665	0	play	sound	255	sfx/explosion/energy
+10668	2	play	sound	255	dev/pk/sal
+10668	1	play	sound	255	dev/pp
+10680	1	play	sound	255	dev/pp
+10680	2	play	sound	255	dev/lepton
+10689	0	play	sound	152	dev/pk/sal
+10689	2	play	sound	255	dev/lepton
+10692	1	play	sound	255	dev/pp
+10695	0	play	sound	255	sfx/explosion/energy
+10698	2	play	sound	255	dev/lepton
+10704	1	play	sound	191	dev/cm
+10704	1	play	sound	255	dev/pp
+10707	2	play	sound	255	dev/lepton
+10716	1	play	sound	255	dev/pp
+10716	2	play	sound	255	dev/lepton
+10725	2	play	sound	255	dev/lepton
+10728	1	play	sound	255	dev/pp
+10734	2	play	sound	255	dev/lepton
+10737	0	play	sound	255	dev/stealth/on
+10740	1	play	sound	255	dev/pp
+10743	2	play	sound	255	dev/lepton
+10752	1	play	sound	255	dev/pp
+10752	2	play	sound	255	dev/lepton
+10761	2	play	sound	255	dev/lepton
+10764	1	play	sound	255	dev/pp
+10764	0	quiet
+10764	1	quiet
+10764	2	quiet
+10764	3	quiet

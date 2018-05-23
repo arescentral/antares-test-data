@@ -1,1841 +1,619 @@
-quiet	3	0
-amp	3	0	255
-loop	3	0	/music/freds-theme
-quiet	3	0
-quiet	3	0
-amp	3	0	215
-loop	3	0	/music/yesterday
-quiet	0	1
-amp	0	1	128
-play	0	1	/sounds/gui/beep/zoom
-quiet	1	201
-amp	1	201	128
-play	1	201	/sounds/gui/beep/button
-quiet	1	213
-amp	1	213	128
-play	1	213	/sounds/gui/beep/button
-quiet	0	309
-amp	0	309	192
-play	0	309	/sounds/gui/beep/select
-quiet	0	396
-amp	0	396	192
-play	0	396	/sounds/gui/beep/select
-quiet	0	459
-amp	0	459	192
-play	0	459	/sounds/gui/beep/select
-quiet	0	516
-amp	0	516	192
-play	0	516	/sounds/gui/beep/select
-quiet	0	561
-amp	0	561	192
-play	0	561	/sounds/gui/beep/select
-quiet	0	687
-amp	0	687	192
-play	0	687	/sounds/gui/beep/select
-quiet	0	831
-amp	0	831	192
-play	0	831	/sounds/gui/beep/select
-quiet	1	903
-amp	1	903	128
-play	1	903	/sounds/gui/beep/button
-quiet	1	936
-amp	1	936	128
-play	1	936	/sounds/gui/beep/button
-quiet	0	1008
-amp	0	1008	255
-play	0	1008	/sounds/sfx/warp/charge/1
-quiet	1	1032
-amp	1	1032	255
-play	1	1032	/sounds/sfx/warp/charge/2
-quiet	2	1056
-amp	2	1056	255
-play	2	1056	/sounds/sfx/warp/charge/3
-quiet	0	1083
-amp	0	1083	255
-play	0	1083	/sounds/sfx/warp/charge/4
-quiet	1	1107
-amp	1	1107	255
-play	1	1107	/sounds/sfx/warp/in
-quiet	2	1233
-amp	2	1233	255
-play	2	1233	/sounds/sfx/warp/out
-quiet	0	1361
-amp	0	1361	128
-play	0	1361	/sounds/gui/beep/zoom
-quiet	0	1515
-amp	0	1515	255
-play	0	1515	/sounds/dev/fusion
-quiet	1	1515
-amp	1	1515	255
-play	1	1515	/sounds/dev/pk/ish
-quiet	1	1524
-amp	1	1524	255
-play	1	1524	/sounds/dev/pk/ish
-quiet	0	1530
-amp	0	1530	255
-play	0	1530	/sounds/dev/fusion
-quiet	1	1533
-amp	1	1533	255
-play	1	1533	/sounds/dev/pk/ish
-quiet	2	1536
-amp	2	1536	255
-play	2	1536	/sounds/sfx/explosion/energy
-quiet	1	1542
-amp	1	1542	255
-play	1	1542	/sounds/dev/pk/ish
-quiet	0	1545
-amp	0	1545	255
-play	0	1545	/sounds/dev/fusion
-quiet	2	1551
-amp	2	1551	255
-play	2	1551	/sounds/sfx/explosion/energy
-quiet	0	1560
-amp	0	1560	255
-play	0	1560	/sounds/dev/fusion
-quiet	1	1560
-amp	1	1560	255
-play	1	1560	/sounds/dev/pk/ish
-quiet	1	1569
-amp	1	1569	255
-play	1	1569	/sounds/dev/pk/ish
-quiet	0	1575
-amp	0	1575	255
-play	0	1575	/sounds/dev/fusion
-quiet	2	1575
-amp	2	1575	255
-play	2	1575	/sounds/sfx/explosion/energy
-quiet	1	1578
-amp	1	1578	255
-play	1	1578	/sounds/dev/pk/ish
-quiet	1	1587
-amp	1	1587	255
-play	1	1587	/sounds/dev/pk/ish
-quiet	0	1590
-amp	0	1590	255
-play	0	1590	/sounds/dev/fusion
-quiet	2	1593
-amp	2	1593	255
-play	2	1593	/sounds/sfx/explosion/energy
-quiet	2	1602
-amp	2	1602	255
-play	2	1602	/sounds/sfx/explosion/energy
-quiet	0	1608
-amp	0	1608	255
-play	0	1608	/sounds/dev/fusion
-quiet	2	1620
-amp	2	1620	255
-play	2	1620	/sounds/sfx/explosion/energy
-quiet	0	1656
-amp	0	1656	255
-play	0	1656	/sounds/dev/fusion
-quiet	1	1659
-amp	1	1659	255
-play	1	1659	/sounds/dev/pk/ish
-quiet	1	1668
-amp	1	1668	255
-play	1	1668	/sounds/dev/pk/ish
-quiet	0	1671
-amp	0	1671	255
-play	0	1671	/sounds/dev/fusion
-quiet	2	1671
-amp	2	1671	255
-play	2	1671	/sounds/sfx/explosion/energy
-quiet	1	1677
-amp	1	1677	255
-play	1	1677	/sounds/dev/pk/ish
-quiet	2	1680
-amp	2	1680	255
-play	2	1680	/sounds/sfx/explosion/energy
-quiet	0	1686
-amp	0	1686	255
-play	0	1686	/sounds/dev/fusion
-quiet	1	1686
-amp	1	1686	255
-play	1	1686	/sounds/dev/pk/ish
-quiet	1	1695
-amp	1	1695	255
-play	1	1695	/sounds/dev/pk/ish
-quiet	2	1707
-amp	2	1707	255
-play	2	1707	/sounds/sfx/explosion/energy
-quiet	0	1755
-amp	0	1755	255
-play	0	1755	/sounds/dev/cm
-quiet	0	1887
-amp	0	1887	255
-play	0	1887	/sounds/dev/cm
-quiet	0	1965
-amp	0	1965	255
-play	0	1965	/sounds/sfx/explosion/gas
-quiet	1	2028
-amp	1	2028	255
-play	1	2028	/sounds/dev/cm
-quiet	2	2070
-amp	2	2070	255
-play	2	2070	/sounds/dev/conc
-quiet	2	2073
-amp	2	2073	255
-play	2	2073	/sounds/dev/conc/ricochet/2
-quiet	0	2076
-amp	0	2076	255
-play	0	2076	/sounds/dev/conc
-quiet	2	2079
-amp	2	2079	255
-play	2	2079	/sounds/dev/conc/ricochet/2
-quiet	1	2082
-amp	1	2082	255
-play	1	2082	/sounds/dev/conc
-quiet	0	2085
-amp	0	2085	255
-play	0	2085	/sounds/dev/conc/ricochet/1
-quiet	2	2091
-amp	2	2091	255
-play	2	2091	/sounds/dev/conc/ricochet/2
-quiet	1	2094
-amp	1	2094	255
-play	1	2094	/sounds/dev/conc
-quiet	1	2094
-amp	1	2094	255
-play	1	2094	/sounds/dev/fusion
-quiet	2	2097
-amp	2	2097	255
-play	2	2097	/sounds/dev/conc/ricochet/2
-quiet	0	2100
-amp	0	2100	255
-play	0	2100	/sounds/sfx/explosion/large
-quiet	1	2109
-amp	1	2109	255
-play	1	2109	/sounds/dev/fusion
-quiet	2	2118
-amp	2	2118	255
-play	2	2118	/sounds/sfx/explosion/energy
-quiet	1	2121
-amp	1	2121	255
-play	1	2121	/sounds/dev/pk/ish
-quiet	1	2154
-amp	1	2154	255
-play	1	2154	/sounds/sfx/energy
-quiet	2	2301
-amp	2	2301	255
-play	2	2301	/sounds/dev/fusion
-quiet	0	2304
-amp	0	2304	255
-play	0	2304	/sounds/dev/pk/ish
-quiet	0	2313
-amp	0	2313	255
-play	0	2313	/sounds/dev/pk/ish
-quiet	2	2316
-amp	2	2316	255
-play	2	2316	/sounds/dev/fusion
-quiet	1	2316
-amp	1	2316	255
-play	1	2316	/sounds/sfx/explosion/energy
-quiet	0	2322
-amp	0	2322	255
-play	0	2322	/sounds/dev/pk/ish
-quiet	1	2322
-amp	1	2322	255
-play	1	2322	/sounds/sfx/explosion/energy
-quiet	1	2325
-amp	1	2325	255
-play	1	2325	/sounds/sfx/explosion/energy
-quiet	2	2331
-amp	2	2331	255
-play	2	2331	/sounds/dev/fusion
-quiet	0	2331
-amp	0	2331	255
-play	0	2331	/sounds/dev/pk/ish
-quiet	1	2331
-amp	1	2331	255
-play	1	2331	/sounds/sfx/explosion/energy
-quiet	1	2331
-amp	1	2331	255
-play	1	2331	/sounds/sfx/explosion/energy
-quiet	1	2337
-amp	1	2337	255
-play	1	2337	/sounds/sfx/explosion/energy
-quiet	0	2340
-amp	0	2340	255
-play	0	2340	/sounds/dev/pk/ish
-quiet	1	2340
-amp	1	2340	255
-play	1	2340	/sounds/sfx/explosion/energy
-quiet	1	2343
-amp	1	2343	255
-play	1	2343	/sounds/sfx/explosion/energy
-quiet	2	2346
-amp	2	2346	255
-play	2	2346	/sounds/dev/fusion
-quiet	0	2349
-amp	0	2349	255
-play	0	2349	/sounds/dev/pk/ish
-quiet	1	2349
-amp	1	2349	255
-play	1	2349	/sounds/sfx/explosion/energy
-quiet	1	2352
-amp	1	2352	255
-play	1	2352	/sounds/sfx/explosion/energy
-quiet	0	2358
-amp	0	2358	255
-play	0	2358	/sounds/dev/pk/ish
-quiet	1	2358
-amp	1	2358	255
-play	1	2358	/sounds/sfx/explosion/energy
-quiet	2	2430
-amp	2	2430	255
-play	2	2430	/sounds/dev/fusion
-quiet	0	2433
-amp	0	2433	255
-play	0	2433	/sounds/dev/pk/ish
-quiet	0	2442
-amp	0	2442	255
-play	0	2442	/sounds/dev/pk/ish
-quiet	2	2445
-amp	2	2445	255
-play	2	2445	/sounds/dev/fusion
-quiet	1	2445
-amp	1	2445	255
-play	1	2445	/sounds/sfx/explosion/energy
-quiet	0	2451
-amp	0	2451	255
-play	0	2451	/sounds/dev/pk/ish
-quiet	1	2454
-amp	1	2454	255
-play	1	2454	/sounds/sfx/explosion/energy
-quiet	1	2454
-amp	1	2454	255
-play	1	2454	/sounds/sfx/explosion/energy
-quiet	2	2460
-amp	2	2460	255
-play	2	2460	/sounds/dev/fusion
-quiet	0	2460
-amp	0	2460	255
-play	0	2460	/sounds/dev/pk/ish
-quiet	1	2463
-amp	1	2463	255
-play	1	2463	/sounds/sfx/explosion/energy
-quiet	0	2469
-amp	0	2469	255
-play	0	2469	/sounds/dev/pk/ish
-quiet	1	2469
-amp	1	2469	255
-play	1	2469	/sounds/sfx/explosion/energy
-quiet	1	2472
-amp	1	2472	255
-play	1	2472	/sounds/sfx/explosion/energy
-quiet	2	2475
-amp	2	2475	255
-play	2	2475	/sounds/dev/fusion
-quiet	0	2478
-amp	0	2478	255
-play	0	2478	/sounds/dev/pk/ish
-quiet	1	2481
-amp	1	2481	255
-play	1	2481	/sounds/sfx/explosion/energy
-quiet	0	2484
-amp	0	2484	255
-play	0	2484	/sounds/sfx/explosion/large
-quiet	1	2484
-amp	1	2484	255
-play	1	2484	/sounds/sfx/explosion/energy
-quiet	2	2487
-amp	2	2487	255
-play	2	2487	/sounds/dev/pk/ish
-quiet	2	2496
-amp	2	2496	255
-play	2	2496	/sounds/dev/pk/ish
-quiet	1	2537
-amp	1	2537	128
-play	1	2537	/sounds/gui/beep/zoom
-quiet	1	2625
-amp	1	2625	255
-play	1	2625	/sounds/sfx/warp/charge/1
-quiet	2	2649
-amp	2	2649	255
-play	2	2649	/sounds/sfx/warp/charge/2
-quiet	0	2673
-amp	0	2673	255
-play	0	2673	/sounds/sfx/warp/charge/3
-quiet	1	2700
-amp	1	2700	255
-play	1	2700	/sounds/sfx/warp/charge/4
-quiet	2	2724
-amp	2	2724	255
-play	2	2724	/sounds/sfx/warp/in
-quiet	0	2840
-amp	0	2840	128
-play	0	2840	/sounds/gui/beep/zoom
-quiet	0	2841
-amp	0	2841	255
-play	0	2841	/sounds/dev/conc
-quiet	0	2889
-amp	0	2889	255
-play	0	2889	/sounds/sfx/warp/out
-quiet	1	2976
-amp	1	2976	255
-play	1	2976	/sounds/dev/fusion
-quiet	2	2976
-amp	2	2976	255
-play	2	2976	/sounds/dev/pk/ish
-quiet	2	2985
-amp	2	2985	255
-play	2	2985	/sounds/dev/pk/ish
-quiet	1	2991
-amp	1	2991	255
-play	1	2991	/sounds/dev/fusion
-quiet	2	2994
-amp	2	2994	255
-play	2	2994	/sounds/dev/pk/ish
-quiet	0	2994
-amp	0	2994	255
-play	0	2994	/sounds/sfx/explosion/energy
-quiet	0	2994
-amp	0	2994	255
-play	0	2994	/sounds/sfx/explosion/energy
-quiet	2	3003
-amp	2	3003	255
-play	2	3003	/sounds/dev/pk/ish
-quiet	0	3003
-amp	0	3003	255
-play	0	3003	/sounds/sfx/explosion/energy
-quiet	1	3006
-amp	1	3006	255
-play	1	3006	/sounds/dev/fusion
-quiet	0	3009
-amp	0	3009	255
-play	0	3009	/sounds/sfx/explosion/energy
-quiet	2	3012
-amp	2	3012	255
-play	2	3012	/sounds/dev/pk/ish
-quiet	0	3012
-amp	0	3012	255
-play	0	3012	/sounds/sfx/explosion/energy
-quiet	0	3015
-amp	0	3015	255
-play	0	3015	/sounds/sfx/explosion/energy
-quiet	1	3021
-amp	1	3021	255
-play	1	3021	/sounds/dev/fusion
-quiet	2	3021
-amp	2	3021	255
-play	2	3021	/sounds/dev/pk/ish
-quiet	0	3021
-amp	0	3021	255
-play	0	3021	/sounds/sfx/explosion/energy
-quiet	0	3021
-amp	0	3021	255
-play	0	3021	/sounds/sfx/explosion/energy
-quiet	1	3090
-amp	1	3090	255
-play	1	3090	/sounds/dev/fusion
-quiet	2	3090
-amp	2	3090	255
-play	2	3090	/sounds/dev/pk/ish
-quiet	2	3099
-amp	2	3099	255
-play	2	3099	/sounds/dev/pk/ish
-quiet	1	3105
-amp	1	3105	255
-play	1	3105	/sounds/dev/fusion
-quiet	2	3108
-amp	2	3108	255
-play	2	3108	/sounds/dev/pk/ish
-quiet	2	3117
-amp	2	3117	255
-play	2	3117	/sounds/dev/pk/ish
-quiet	1	3120
-amp	1	3120	255
-play	1	3120	/sounds/dev/fusion
-quiet	2	3126
-amp	2	3126	255
-play	2	3126	/sounds/dev/pk/ish
-quiet	0	3132
-amp	0	3132	255
-play	0	3132	/sounds/sfx/explosion/energy
-quiet	1	3135
-amp	1	3135	255
-play	1	3135	/sounds/dev/fusion
-quiet	2	3135
-amp	2	3135	255
-play	2	3135	/sounds/dev/pk/ish
-quiet	0	3141
-amp	0	3141	255
-play	0	3141	/sounds/sfx/explosion/energy
-quiet	2	3144
-amp	2	3144	255
-play	2	3144	/sounds/dev/pk/ish
-quiet	1	3150
-amp	1	3150	255
-play	1	3150	/sounds/dev/fusion
-quiet	2	3153
-amp	2	3153	255
-play	2	3153	/sounds/dev/pk/ish
-quiet	2	3162
-amp	2	3162	255
-play	2	3162	/sounds/dev/pk/ish
-quiet	0	3171
-amp	0	3171	255
-play	0	3171	/sounds/sfx/explosion/energy
-quiet	1	3201
-amp	1	3201	255
-play	1	3201	/sounds/dev/fusion
-quiet	2	3201
-amp	2	3201	255
-play	2	3201	/sounds/dev/pk/ish
-quiet	2	3210
-amp	2	3210	255
-play	2	3210	/sounds/dev/pk/ish
-quiet	1	3216
-amp	1	3216	255
-play	1	3216	/sounds/dev/fusion
-quiet	0	3216
-amp	0	3216	255
-play	0	3216	/sounds/sfx/explosion/energy
-quiet	2	3219
-amp	2	3219	255
-play	2	3219	/sounds/dev/pk/ish
-quiet	0	3222
-amp	0	3222	255
-play	0	3222	/sounds/sfx/explosion/energy
-quiet	0	3225
-amp	0	3225	255
-play	0	3225	/sounds/sfx/explosion/energy
-quiet	2	3228
-amp	2	3228	255
-play	2	3228	/sounds/dev/pk/ish
-quiet	1	3231
-amp	1	3231	255
-play	1	3231	/sounds/dev/fusion
-quiet	0	3231
-amp	0	3231	255
-play	0	3231	/sounds/sfx/explosion/energy
-quiet	2	3237
-amp	2	3237	255
-play	2	3237	/sounds/dev/pk/ish
-quiet	0	3237
-amp	0	3237	255
-play	0	3237	/sounds/sfx/explosion/energy
-quiet	0	3240
-amp	0	3240	255
-play	0	3240	/sounds/sfx/explosion/large
-quiet	1	3246
-amp	1	3246	255
-play	1	3246	/sounds/dev/fusion
-quiet	2	3246
-amp	2	3246	255
-play	2	3246	/sounds/dev/pk/ish
-quiet	2	3255
-amp	2	3255	255
-play	2	3255	/sounds/dev/pk/ish
-quiet	1	3261
-amp	1	3261	255
-play	1	3261	/sounds/dev/fusion
-quiet	2	3264
-amp	2	3264	255
-play	2	3264	/sounds/dev/pk/ish
-quiet	1	3324
-amp	1	3324	255
-play	1	3324	/sounds/sfx/explosion/energy
-quiet	2	3525
-amp	2	3525	255
-play	2	3525	/sounds/dev/fusion
-quiet	0	3525
-amp	0	3525	255
-play	0	3525	/sounds/dev/pk/ish
-quiet	0	3534
-amp	0	3534	255
-play	0	3534	/sounds/dev/pk/ish
-quiet	2	3540
-amp	2	3540	255
-play	2	3540	/sounds/dev/fusion
-quiet	2	3555
-amp	2	3555	255
-play	2	3555	/sounds/dev/fusion
-quiet	0	3555
-amp	0	3555	255
-play	0	3555	/sounds/dev/pk/ish
-quiet	0	3564
-amp	0	3564	255
-play	0	3564	/sounds/dev/pk/ish
-quiet	2	3570
-amp	2	3570	255
-play	2	3570	/sounds/dev/fusion
-quiet	2	3585
-amp	2	3585	255
-play	2	3585	/sounds/dev/fusion
-quiet	0	3585
-amp	0	3585	255
-play	0	3585	/sounds/dev/pk/ish
-quiet	1	3585
-amp	1	3585	255
-play	1	3585	/sounds/sfx/explosion/energy
-quiet	1	3597
-amp	1	3597	255
-play	1	3597	/sounds/sfx/explosion/energy
-quiet	2	3612
-amp	2	3612	255
-play	2	3612	/sounds/dev/fusion
-quiet	0	3612
-amp	0	3612	255
-play	0	3612	/sounds/dev/pk/ish
-quiet	0	3621
-amp	0	3621	255
-play	0	3621	/sounds/dev/pk/ish
-quiet	2	3645
-amp	2	3645	255
-play	2	3645	/sounds/dev/fusion
-quiet	0	3645
-amp	0	3645	255
-play	0	3645	/sounds/dev/pk/ish
-quiet	0	3654
-amp	0	3654	255
-play	0	3654	/sounds/dev/pk/ish
-quiet	2	3660
-amp	2	3660	255
-play	2	3660	/sounds/dev/fusion
-quiet	2	3690
-amp	2	3690	255
-play	2	3690	/sounds/dev/fusion
-quiet	0	3690
-amp	0	3690	255
-play	0	3690	/sounds/dev/pk/ish
-quiet	0	3699
-amp	0	3699	255
-play	0	3699	/sounds/dev/pk/ish
-quiet	2	3705
-amp	2	3705	255
-play	2	3705	/sounds/dev/fusion
-quiet	1	3705
-amp	1	3705	255
-play	1	3705	/sounds/sfx/explosion/energy
-quiet	0	3708
-amp	0	3708	255
-play	0	3708	/sounds/dev/pk/ish
-quiet	0	3717
-amp	0	3717	255
-play	0	3717	/sounds/dev/pk/ish
-quiet	1	3723
-amp	1	3723	255
-play	1	3723	/sounds/sfx/explosion/energy
-quiet	2	3738
-amp	2	3738	255
-play	2	3738	/sounds/dev/fusion
-quiet	0	3741
-amp	0	3741	255
-play	0	3741	/sounds/dev/pk/ish
-quiet	0	3750
-amp	0	3750	255
-play	0	3750	/sounds/dev/pk/ish
-quiet	2	3801
-amp	2	3801	255
-play	2	3801	/sounds/dev/fusion
-quiet	0	3801
-amp	0	3801	255
-play	0	3801	/sounds/dev/pk/ish
-quiet	0	3810
-amp	0	3810	255
-play	0	3810	/sounds/dev/pk/ish
-quiet	1	3810
-amp	1	3810	255
-play	1	3810	/sounds/sfx/explosion/energy
-quiet	2	3816
-amp	2	3816	255
-play	2	3816	/sounds/dev/fusion
-quiet	1	3816
-amp	1	3816	255
-play	1	3816	/sounds/sfx/explosion/energy
-quiet	0	3819
-amp	0	3819	255
-play	0	3819	/sounds/dev/pk/ish
-quiet	0	3828
-amp	0	3828	255
-play	0	3828	/sounds/dev/pk/ish
-quiet	2	3831
-amp	2	3831	255
-play	2	3831	/sounds/dev/fusion
-quiet	1	3846
-amp	1	3846	255
-play	1	3846	/sounds/sfx/warp/charge/2
-quiet	2	3849
-amp	2	3849	255
-play	2	3849	/sounds/dev/fusion
-quiet	0	3849
-amp	0	3849	255
-play	0	3849	/sounds/dev/pk/ish
-quiet	0	3858
-amp	0	3858	255
-play	0	3858	/sounds/dev/pk/ish
-quiet	2	3864
-amp	2	3864	255
-play	2	3864	/sounds/dev/fusion
-quiet	1	3870
-amp	1	3870	255
-play	1	3870	/sounds/sfx/warp/charge/3
-quiet	0	3897
-amp	0	3897	255
-play	0	3897	/sounds/sfx/warp/charge/4
-quiet	2	3921
-amp	2	3921	253
-play	2	3921	/sounds/sfx/warp/in
-quiet	1	4029
-amp	1	4029	245
-play	1	4029	/sounds/sfx/warp/charge/1
-quiet	0	4053
-amp	0	4053	231
-play	0	4053	/sounds/sfx/warp/charge/2
-quiet	2	4077
-amp	2	4077	220
-play	2	4077	/sounds/sfx/warp/charge/3
-quiet	1	4103
-amp	1	4103	128
-play	1	4103	/sounds/gui/beep/zoom
-quiet	1	4104
-amp	1	4104	206
-play	1	4104	/sounds/sfx/warp/charge/4
-quiet	0	4128
-amp	0	4128	191
-play	0	4128	/sounds/sfx/warp/in
-quiet	2	4434
-amp	2	4434	36
-play	2	4434	/sounds/dev/atomic
-quiet	2	4591
-amp	2	4591	128
-play	2	4591	/sounds/gui/beep/zoom
-quiet	0	4674
-amp	0	4674	240
-play	0	4674	/sounds/dev/atomic
-quiet	0	4914
-amp	0	4914	252
-play	0	4914	/sounds/dev/atomic
-quiet	0	5043
-amp	0	5043	255
-play	0	5043	/sounds/dev/fusion
-quiet	1	5043
-amp	1	5043	255
-play	1	5043	/sounds/dev/pk/ish
-quiet	1	5052
-amp	1	5052	255
-play	1	5052	/sounds/dev/pk/ish
-quiet	0	5058
-amp	0	5058	255
-play	0	5058	/sounds/dev/fusion
-quiet	1	5061
-amp	1	5061	255
-play	1	5061	/sounds/dev/pk/ish
-quiet	2	5061
-amp	2	5061	255
-play	2	5061	/sounds/sfx/explosion/energy
-quiet	2	5064
-amp	2	5064	255
-play	2	5064	/sounds/sfx/explosion/energy
-quiet	2	5067
-amp	2	5067	255
-play	2	5067	/sounds/sfx/explosion/energy
-quiet	1	5070
-amp	1	5070	255
-play	1	5070	/sounds/dev/pk/ish
-quiet	0	5073
-amp	0	5073	255
-play	0	5073	/sounds/dev/fusion
-quiet	1	5079
-amp	1	5079	255
-play	1	5079	/sounds/dev/pk/ish
-quiet	0	5109
-amp	0	5109	255
-play	0	5109	/sounds/dev/fusion
-quiet	1	5112
-amp	1	5112	255
-play	1	5112	/sounds/dev/pk/ish
-quiet	1	5121
-amp	1	5121	255
-play	1	5121	/sounds/dev/pk/ish
-quiet	0	5124
-amp	0	5124	255
-play	0	5124	/sounds/dev/fusion
-quiet	2	5124
-amp	2	5124	255
-play	2	5124	/sounds/sfx/explosion/energy
-quiet	1	5130
-amp	1	5130	255
-play	1	5130	/sounds/dev/pk/ish
-quiet	2	5133
-amp	2	5133	255
-play	2	5133	/sounds/sfx/explosion/energy
-quiet	0	5139
-amp	0	5139	255
-play	0	5139	/sounds/dev/fusion
-quiet	1	5139
-amp	1	5139	255
-play	1	5139	/sounds/dev/pk/ish
-quiet	2	5142
-amp	2	5142	255
-play	2	5142	/sounds/sfx/explosion/energy
-quiet	1	5148
-amp	1	5148	255
-play	1	5148	/sounds/dev/pk/ish
-quiet	0	5154
-amp	0	5154	255
-play	0	5154	/sounds/dev/atomic
-quiet	1	5160
-amp	1	5160	255
-play	1	5160	/sounds/dev/fusion
-quiet	2	5169
-amp	2	5169	255
-play	2	5169	/sounds/dev/pk/ish
-quiet	1	5175
-amp	1	5175	255
-play	1	5175	/sounds/dev/fusion
-quiet	0	5175
-amp	0	5175	255
-play	0	5175	/sounds/sfx/explosion/energy
-quiet	2	5178
-amp	2	5178	255
-play	2	5178	/sounds/dev/pk/ish
-quiet	0	5184
-amp	0	5184	255
-play	0	5184	/sounds/sfx/explosion/energy
-quiet	2	5187
-amp	2	5187	255
-play	2	5187	/sounds/dev/pk/ish
-quiet	1	5190
-amp	1	5190	255
-play	1	5190	/sounds/dev/fusion
-quiet	0	5193
-amp	0	5193	255
-play	0	5193	/sounds/sfx/explosion/energy
-quiet	2	5211
-amp	2	5211	255
-play	2	5211	/sounds/sfx/explosion/small
-quiet	1	5214
-amp	1	5214	255
-play	1	5214	/sounds/dev/fusion
-quiet	0	5214
-amp	0	5214	255
-play	0	5214	/sounds/dev/pk/ish
-quiet	0	5223
-amp	0	5223	255
-play	0	5223	/sounds/dev/pk/ish
-quiet	1	5238
-amp	1	5238	255
-play	1	5238	/sounds/sfx/explosion/energy
-quiet	2	5241
-amp	2	5241	255
-play	2	5241	/sounds/dev/fusion
-quiet	0	5241
-amp	0	5241	255
-play	0	5241	/sounds/dev/pk/ish
-quiet	0	5250
-amp	0	5250	255
-play	0	5250	/sounds/dev/pk/ish
-quiet	2	5265
-amp	2	5265	255
-play	2	5265	/sounds/dev/fusion
-quiet	0	5268
-amp	0	5268	255
-play	0	5268	/sounds/dev/pk/ish
-quiet	0	5277
-amp	0	5277	255
-play	0	5277	/sounds/dev/pk/ish
-quiet	2	5280
-amp	2	5280	255
-play	2	5280	/sounds/dev/fusion
-quiet	0	5286
-amp	0	5286	255
-play	0	5286	/sounds/dev/pk/ish
-quiet	1	5286
-amp	1	5286	255
-play	1	5286	/sounds/sfx/explosion/energy
-quiet	1	5298
-amp	1	5298	255
-play	1	5298	/sounds/sfx/explosion/energy
-quiet	2	5325
-amp	2	5325	255
-play	2	5325	/sounds/dev/fusion
-quiet	0	5325
-amp	0	5325	255
-play	0	5325	/sounds/dev/pk/ish
-quiet	0	5334
-amp	0	5334	255
-play	0	5334	/sounds/dev/pk/ish
-quiet	2	5340
-amp	2	5340	255
-play	2	5340	/sounds/dev/fusion
-quiet	0	5352
-amp	0	5352	255
-play	0	5352	/sounds/dev/pk/ish
-quiet	2	5355
-amp	2	5355	255
-play	2	5355	/sounds/dev/fusion
-quiet	0	5361
-amp	0	5361	255
-play	0	5361	/sounds/dev/pk/ish
-quiet	1	5367
-amp	1	5367	255
-play	1	5367	/sounds/sfx/explosion/energy
-quiet	2	5370
-amp	2	5370	255
-play	2	5370	/sounds/dev/fusion
-quiet	0	5370
-amp	0	5370	255
-play	0	5370	/sounds/dev/pk/ish
-quiet	0	5379
-amp	0	5379	255
-play	0	5379	/sounds/dev/pk/ish
-quiet	2	5385
-amp	2	5385	255
-play	2	5385	/sounds/dev/fusion
-quiet	1	5388
-amp	1	5388	255
-play	1	5388	/sounds/sfx/explosion/energy
-quiet	0	5394
-amp	0	5394	255
-play	0	5394	/sounds/dev/atomic
-quiet	2	5412
-amp	2	5412	255
-play	2	5412	/sounds/dev/fusion
-quiet	1	5412
-amp	1	5412	255
-play	1	5412	/sounds/dev/pk/ish
-quiet	1	5421
-amp	1	5421	255
-play	1	5421	/sounds/dev/pk/ish
-quiet	2	5427
-amp	2	5427	255
-play	2	5427	/sounds/dev/fusion
-quiet	1	5430
-amp	1	5430	255
-play	1	5430	/sounds/dev/pk/ish
-quiet	1	5439
-amp	1	5439	255
-play	1	5439	/sounds/dev/pk/ish
-quiet	2	5442
-amp	2	5442	255
-play	2	5442	/sounds/dev/fusion
-quiet	1	5448
-amp	1	5448	255
-play	1	5448	/sounds/dev/pk/ish
-quiet	0	5448
-amp	0	5448	255
-play	0	5448	/sounds/sfx/explosion/energy
-quiet	2	5457
-amp	2	5457	255
-play	2	5457	/sounds/dev/fusion
-quiet	1	5457
-amp	1	5457	255
-play	1	5457	/sounds/dev/pk/ish
-quiet	0	5457
-amp	0	5457	255
-play	0	5457	/sounds/sfx/explosion/energy
-quiet	1	5466
-amp	1	5466	255
-play	1	5466	/sounds/dev/pk/ish
-quiet	0	5484
-amp	0	5484	255
-play	0	5484	/sounds/sfx/explosion/energy
-quiet	2	5511
-amp	2	5511	255
-play	2	5511	/sounds/dev/fusion
-quiet	1	5514
-amp	1	5514	255
-play	1	5514	/sounds/dev/pk/ish
-quiet	1	5523
-amp	1	5523	255
-play	1	5523	/sounds/dev/pk/ish
-quiet	2	5526
-amp	2	5526	255
-play	2	5526	/sounds/dev/fusion
-quiet	1	5532
-amp	1	5532	255
-play	1	5532	/sounds/dev/pk/ish
-quiet	2	5541
-amp	2	5541	255
-play	2	5541	/sounds/dev/fusion
-quiet	1	5541
-amp	1	5541	255
-play	1	5541	/sounds/dev/pk/ish
-quiet	0	5541
-amp	0	5541	255
-play	0	5541	/sounds/sfx/explosion/large
-quiet	1	5772
-amp	1	5772	255
-play	1	5772	/sounds/sfx/energy
-quiet	2	5793
-amp	2	5793	255
-play	2	5793	/sounds/dev/conc
-quiet	0	5799
-amp	0	5799	255
-play	0	5799	/sounds/dev/conc
-quiet	1	5805
-amp	1	5805	255
-play	1	5805	/sounds/dev/conc
-quiet	2	5808
-amp	2	5808	255
-play	2	5808	/sounds/dev/conc
-quiet	0	5811
-amp	0	5811	255
-play	0	5811	/sounds/dev/conc
-quiet	1	5820
-amp	1	5820	255
-play	1	5820	/sounds/dev/conc
-quiet	0	5820
-amp	0	5820	255
-play	0	5820	/sounds/dev/conc/ricochet/2
-quiet	2	5826
-amp	2	5826	255
-play	2	5826	/sounds/dev/conc
-quiet	1	5829
-amp	1	5829	255
-play	1	5829	/sounds/dev/conc/ricochet/1
-quiet	2	5892
-amp	2	5892	255
-play	2	5892	/sounds/dev/fusion
-quiet	0	5892
-amp	0	5892	255
-play	0	5892	/sounds/dev/pk/ish
-quiet	0	5901
-amp	0	5901	255
-play	0	5901	/sounds/dev/pk/ish
-quiet	2	5907
-amp	2	5907	255
-play	2	5907	/sounds/dev/fusion
-quiet	0	5910
-amp	0	5910	255
-play	0	5910	/sounds/dev/pk/ish
-quiet	0	5919
-amp	0	5919	255
-play	0	5919	/sounds/dev/pk/ish
-quiet	2	5922
-amp	2	5922	255
-play	2	5922	/sounds/dev/fusion
-quiet	1	5925
-amp	1	5925	255
-play	1	5925	/sounds/sfx/explosion/energy
-quiet	0	5928
-amp	0	5928	255
-play	0	5928	/sounds/dev/pk/ish
-quiet	1	5928
-amp	1	5928	255
-play	1	5928	/sounds/sfx/explosion/energy
-quiet	1	5934
-amp	1	5934	255
-play	1	5934	/sounds/sfx/explosion/energy
-quiet	2	5937
-amp	2	5937	255
-play	2	5937	/sounds/dev/fusion
-quiet	0	5937
-amp	0	5937	255
-play	0	5937	/sounds/dev/pk/ish
-quiet	0	5946
-amp	0	5946	255
-play	0	5946	/sounds/dev/pk/ish
-quiet	2	5949
-amp	2	5949	255
-play	2	5949	/sounds/dev/conc
-quiet	1	5949
-amp	1	5949	255
-play	1	5949	/sounds/sfx/explosion/energy
-quiet	2	5955
-amp	2	5955	255
-play	2	5955	/sounds/dev/fusion
-quiet	0	5958
-amp	0	5958	255
-play	0	5958	/sounds/dev/pk/ish
-quiet	1	5958
-amp	1	5958	255
-play	1	5958	/sounds/sfx/explosion/energy
-quiet	2	5967
-amp	2	5967	255
-play	2	5967	/sounds/dev/conc
-quiet	0	5967
-amp	0	5967	255
-play	0	5967	/sounds/dev/pk/ish
-quiet	2	5970
-amp	2	5970	255
-play	2	5970	/sounds/dev/fusion
-quiet	0	5976
-amp	0	5976	255
-play	0	5976	/sounds/dev/pk/ish
-quiet	2	5985
-amp	2	5985	255
-play	2	5985	/sounds/dev/fusion
-quiet	0	5985
-amp	0	5985	255
-play	0	5985	/sounds/dev/pk/ish
-quiet	1	5985
-amp	1	5985	255
-play	1	5985	/sounds/sfx/explosion/energy
-quiet	1	5988
-amp	1	5988	255
-play	1	5988	/sounds/sfx/explosion/energy
-quiet	0	5994
-amp	0	5994	255
-play	0	5994	/sounds/dev/pk/ish
-quiet	2	6000
-amp	2	6000	255
-play	2	6000	/sounds/dev/fusion
-quiet	1	6000
-amp	1	6000	255
-play	1	6000	/sounds/sfx/explosion/energy
-quiet	0	6003
-amp	0	6003	255
-play	0	6003	/sounds/dev/pk/ish
-quiet	1	6009
-amp	1	6009	255
-play	1	6009	/sounds/sfx/explosion/energy
-quiet	2	6012
-amp	2	6012	255
-play	2	6012	/sounds/dev/conc
-quiet	0	6012
-amp	0	6012	255
-play	0	6012	/sounds/dev/pk/ish
-quiet	1	6012
-amp	1	6012	255
-play	1	6012	/sounds/sfx/explosion/energy
-quiet	2	6015
-amp	2	6015	255
-play	2	6015	/sounds/dev/fusion
-quiet	0	6021
-amp	0	6021	255
-play	0	6021	/sounds/dev/pk/ish
-quiet	1	6021
-amp	1	6021	255
-play	1	6021	/sounds/sfx/explosion/energy
-quiet	2	6027
-amp	2	6027	255
-play	2	6027	/sounds/dev/conc/ricochet/1
-quiet	0	6030
-amp	0	6030	255
-play	0	6030	/sounds/dev/pk/ish
-quiet	0	6039
-amp	0	6039	255
-play	0	6039	/sounds/dev/pk/ish
-quiet	2	6039
-amp	2	6039	255
-play	2	6039	/sounds/dev/conc/ricochet/1
-quiet	1	6042
-amp	1	6042	255
-play	1	6042	/sounds/dev/conc
-quiet	1	6045
-amp	1	6045	255
-play	1	6045	/sounds/dev/fusion
-quiet	0	6048
-amp	0	6048	255
-play	0	6048	/sounds/dev/pk/ish
-quiet	0	6057
-amp	0	6057	255
-play	0	6057	/sounds/dev/pk/ish
-quiet	1	6060
-amp	1	6060	255
-play	1	6060	/sounds/dev/fusion
-quiet	2	6063
-amp	2	6063	255
-play	2	6063	/sounds/sfx/explosion/energy
-quiet	0	6066
-amp	0	6066	255
-play	0	6066	/sounds/dev/pk/ish
-quiet	1	6075
-amp	1	6075	255
-play	1	6075	/sounds/dev/fusion
-quiet	0	6075
-amp	0	6075	255
-play	0	6075	/sounds/dev/pk/ish
-quiet	0	6084
-amp	0	6084	255
-play	0	6084	/sounds/dev/pk/ish
-quiet	2	6096
-amp	2	6096	255
-play	2	6096	/sounds/dev/conc
-quiet	1	6102
-amp	1	6102	255
-play	1	6102	/sounds/dev/conc
-quiet	0	6108
-amp	0	6108	255
-play	0	6108	/sounds/dev/conc
-quiet	0	6108
-amp	0	6108	255
-play	0	6108	/sounds/dev/conc/ricochet/1
-quiet	2	6114
-amp	2	6114	255
-play	2	6114	/sounds/dev/conc
-quiet	0	6117
-amp	0	6117	255
-play	0	6117	/sounds/dev/conc/ricochet/1
-quiet	1	6120
-amp	1	6120	255
-play	1	6120	/sounds/dev/conc
-quiet	0	6123
-amp	0	6123	255
-play	0	6123	/sounds/dev/conc/ricochet/1
-quiet	1	6129
-amp	1	6129	255
-play	1	6129	/sounds/dev/fusion
-quiet	2	6129
-amp	2	6129	255
-play	2	6129	/sounds/dev/pk/ish
-quiet	2	6138
-amp	2	6138	255
-play	2	6138	/sounds/dev/pk/ish
-quiet	1	6144
-amp	1	6144	255
-play	1	6144	/sounds/dev/fusion
-quiet	2	6147
-amp	2	6147	255
-play	2	6147	/sounds/dev/pk/ish
-quiet	2	6156
-amp	2	6156	255
-play	2	6156	/sounds/dev/pk/ish
-quiet	0	6159
-amp	0	6159	255
-play	0	6159	/sounds/sfx/explosion/energy
-quiet	1	6162
-amp	1	6162	255
-play	1	6162	/sounds/dev/fusion
-quiet	2	6165
-amp	2	6165	255
-play	2	6165	/sounds/dev/pk/ish
-quiet	2	6174
-amp	2	6174	255
-play	2	6174	/sounds/dev/pk/ish
-quiet	1	6177
-amp	1	6177	255
-play	1	6177	/sounds/dev/fusion
-quiet	2	6183
-amp	2	6183	255
-play	2	6183	/sounds/dev/pk/ish
-quiet	1	6195
-amp	1	6195	255
-play	1	6195	/sounds/dev/fusion
-quiet	2	6198
-amp	2	6198	255
-play	2	6198	/sounds/dev/pk/ish
-quiet	0	6204
-amp	0	6204	255
-play	0	6204	/sounds/dev/conc
-quiet	2	6207
-amp	2	6207	255
-play	2	6207	/sounds/dev/pk/ish
-quiet	1	6210
-amp	1	6210	255
-play	1	6210	/sounds/dev/conc
-quiet	0	6210
-amp	0	6210	255
-play	0	6210	/sounds/dev/fusion
-quiet	2	6216
-amp	2	6216	255
-play	2	6216	/sounds/dev/pk/ish
-quiet	0	6225
-amp	0	6225	255
-play	0	6225	/sounds/dev/fusion
-quiet	1	6225
-amp	1	6225	255
-play	1	6225	/sounds/sfx/explosion/energy
-quiet	2	6228
-amp	2	6228	255
-play	2	6228	/sounds/dev/pk/ish
-quiet	2	6237
-amp	2	6237	255
-play	2	6237	/sounds/dev/pk/ish
-quiet	1	6240
-amp	1	6240	255
-play	1	6240	/sounds/sfx/explosion/energy
-quiet	0	6246
-amp	0	6246	255
-play	0	6246	/sounds/dev/fusion
-quiet	2	6246
-amp	2	6246	255
-play	2	6246	/sounds/dev/pk/ish
-quiet	1	6255
-amp	1	6255	255
-play	1	6255	/sounds/sfx/explosion/energy
-quiet	1	6261
-amp	1	6261	255
-play	1	6261	/sounds/sfx/explosion/energy
-quiet	0	6270
-amp	0	6270	255
-play	0	6270	/sounds/dev/fusion
-quiet	2	6273
-amp	2	6273	255
-play	2	6273	/sounds/dev/pk/ish
-quiet	2	6282
-amp	2	6282	255
-play	2	6282	/sounds/dev/pk/ish
-quiet	0	6285
-amp	0	6285	255
-play	0	6285	/sounds/dev/fusion
-quiet	0	6285
-amp	0	6285	255
-play	0	6285	/sounds/sfx/explosion/large
-quiet	1	6285
-amp	1	6285	255
-play	1	6285	/sounds/sfx/explosion/energy
-quiet	2	6291
-amp	2	6291	255
-play	2	6291	/sounds/dev/pk/ish
-quiet	1	6297
-amp	1	6297	255
-play	1	6297	/sounds/sfx/explosion/energy
-quiet	2	6300
-amp	2	6300	255
-play	2	6300	/sounds/dev/pk/ish
-quiet	2	6378
-amp	2	6378	255
-play	2	6378	/sounds/sfx/energy
-quiet	1	6699
-amp	1	6699	255
-play	1	6699	/sounds/sfx/explosion/energy
-quiet	0	6730
-amp	0	6730	128
-play	0	6730	/sounds/gui/beep/zoom
-quiet	0	6889
-amp	0	6889	128
-play	0	6889	/sounds/gui/beep/zoom
-quiet	0	6957
-amp	0	6957	255
-play	0	6957	/sounds/dev/cm
-quiet	2	7002
-amp	2	7002	255
-play	2	7002	/sounds/dev/fusion
-quiet	1	7002
-amp	1	7002	255
-play	1	7002	/sounds/dev/pk/ish
-quiet	1	7011
-amp	1	7011	255
-play	1	7011	/sounds/dev/pk/ish
-quiet	2	7017
-amp	2	7017	255
-play	2	7017	/sounds/dev/fusion
-quiet	1	7020
-amp	1	7020	255
-play	1	7020	/sounds/dev/pk/ish
-quiet	1	7029
-amp	1	7029	255
-play	1	7029	/sounds/dev/pk/ish
-quiet	0	7029
-amp	0	7029	255
-play	0	7029	/sounds/sfx/explosion/gas
-quiet	2	7032
-amp	2	7032	255
-play	2	7032	/sounds/dev/fusion
-quiet	1	7038
-amp	1	7038	255
-play	1	7038	/sounds/dev/pk/ish
-quiet	2	7047
-amp	2	7047	255
-play	2	7047	/sounds/dev/fusion
-quiet	1	7047
-amp	1	7047	255
-play	1	7047	/sounds/dev/pk/ish
-quiet	1	7056
-amp	1	7056	255
-play	1	7056	/sounds/dev/pk/ish
-quiet	2	7062
-amp	2	7062	255
-play	2	7062	/sounds/dev/fusion
-quiet	0	7062
-amp	0	7062	255
-play	0	7062	/sounds/sfx/explosion/energy
-quiet	1	7065
-amp	1	7065	255
-play	1	7065	/sounds/dev/pk/ish
-quiet	0	7068
-amp	0	7068	255
-play	0	7068	/sounds/sfx/explosion/energy
-quiet	0	7071
-amp	0	7071	255
-play	0	7071	/sounds/sfx/explosion/energy
-quiet	1	7074
-amp	1	7074	255
-play	1	7074	/sounds/dev/pk/ish
-quiet	0	7074
-amp	0	7074	255
-play	0	7074	/sounds/sfx/explosion/energy
-quiet	2	7077
-amp	2	7077	255
-play	2	7077	/sounds/dev/fusion
-quiet	0	7080
-amp	0	7080	255
-play	0	7080	/sounds/sfx/explosion/energy
-quiet	1	7083
-amp	1	7083	255
-play	1	7083	/sounds/dev/pk/ish
-quiet	0	7083
-amp	0	7083	255
-play	0	7083	/sounds/sfx/explosion/energy
-quiet	0	7089
-amp	0	7089	255
-play	0	7089	/sounds/sfx/explosion/energy
-quiet	2	7092
-amp	2	7092	255
-play	2	7092	/sounds/dev/fusion
-quiet	1	7092
-amp	1	7092	255
-play	1	7092	/sounds/dev/pk/ish
-quiet	0	7092
-amp	0	7092	255
-play	0	7092	/sounds/sfx/explosion/energy
-quiet	0	7098
-amp	0	7098	255
-play	0	7098	/sounds/sfx/explosion/energy
-quiet	1	7101
-amp	1	7101	255
-play	1	7101	/sounds/dev/pk/ish
-quiet	0	7101
-amp	0	7101	255
-play	0	7101	/sounds/sfx/explosion/energy
-quiet	0	7104
-amp	0	7104	255
-play	0	7104	/sounds/sfx/explosion/energy
-quiet	2	7107
-amp	2	7107	255
-play	2	7107	/sounds/dev/fusion
-quiet	1	7110
-amp	1	7110	255
-play	1	7110	/sounds/dev/pk/ish
-quiet	0	7113
-amp	0	7113	255
-play	0	7113	/sounds/sfx/explosion/large
-quiet	1	7119
-amp	1	7119	255
-play	1	7119	/sounds/dev/pk/ish
-quiet	2	7122
-amp	2	7122	255
-play	2	7122	/sounds/dev/fusion
-quiet	1	7128
-amp	1	7128	255
-play	1	7128	/sounds/dev/pk/ish
-quiet	2	7179
-amp	2	7179	128
-play	2	7179	/sounds/gui/beep/zoom
-quiet	2	7217
-amp	2	7217	128
-play	2	7217	/sounds/gui/beep/zoom
-quiet	1	7322
-amp	1	7322	64
-play	1	7322	/sounds/gui/beep/message
-quiet	1	7325
-amp	1	7325	64
-play	1	7325	/sounds/gui/beep/message
-quiet	1	7328
-amp	1	7328	64
-play	1	7328	/sounds/gui/beep/message
-quiet	1	7331
-amp	1	7331	64
-play	1	7331	/sounds/gui/beep/message
-quiet	1	7334
-amp	1	7334	64
-play	1	7334	/sounds/gui/beep/message
-quiet	1	7337
-amp	1	7337	64
-play	1	7337	/sounds/gui/beep/message
-quiet	1	7340
-amp	1	7340	64
-play	1	7340	/sounds/gui/beep/message
-quiet	1	7343
-amp	1	7343	64
-play	1	7343	/sounds/gui/beep/message
-quiet	1	7344
-amp	1	7344	255
-play	1	7344	/sounds/sfx/warp/charge/1
-quiet	0	7346
-amp	0	7346	64
-play	0	7346	/sounds/gui/beep/message
-quiet	0	7349
-amp	0	7349	64
-play	0	7349	/sounds/gui/beep/message
-quiet	0	7352
-amp	0	7352	64
-play	0	7352	/sounds/gui/beep/message
-quiet	0	7355
-amp	0	7355	64
-play	0	7355	/sounds/gui/beep/message
-quiet	0	7358
-amp	0	7358	64
-play	0	7358	/sounds/gui/beep/message
-quiet	0	7361
-amp	0	7361	64
-play	0	7361	/sounds/gui/beep/message
-quiet	0	7364
-amp	0	7364	64
-play	0	7364	/sounds/gui/beep/message
-quiet	0	7367
-amp	0	7367	64
-play	0	7367	/sounds/gui/beep/message
-quiet	0	7368
-amp	0	7368	255
-play	0	7368	/sounds/sfx/warp/charge/2
-quiet	2	7370
-amp	2	7370	64
-play	2	7370	/sounds/gui/beep/message
-quiet	2	7373
-amp	2	7373	64
-play	2	7373	/sounds/gui/beep/message
-quiet	2	7376
-amp	2	7376	64
-play	2	7376	/sounds/gui/beep/message
-quiet	2	7379
-amp	2	7379	64
-play	2	7379	/sounds/gui/beep/message
-quiet	2	7382
-amp	2	7382	64
-play	2	7382	/sounds/gui/beep/message
-quiet	2	7385
-amp	2	7385	64
-play	2	7385	/sounds/gui/beep/message
-quiet	2	7388
-amp	2	7388	64
-play	2	7388	/sounds/gui/beep/message
-quiet	2	7391
-amp	2	7391	64
-play	2	7391	/sounds/gui/beep/message
-quiet	2	7392
-amp	2	7392	255
-play	2	7392	/sounds/sfx/warp/charge/3
-quiet	1	7394
-amp	1	7394	64
-play	1	7394	/sounds/gui/beep/message
-quiet	1	7397
-amp	1	7397	64
-play	1	7397	/sounds/gui/beep/message
-quiet	1	7400
-amp	1	7400	64
-play	1	7400	/sounds/gui/beep/message
-quiet	1	7403
-amp	1	7403	64
-play	1	7403	/sounds/gui/beep/message
-quiet	1	7406
-amp	1	7406	64
-play	1	7406	/sounds/gui/beep/message
-quiet	1	7409
-amp	1	7409	64
-play	1	7409	/sounds/gui/beep/message
-quiet	1	7412
-amp	1	7412	64
-play	1	7412	/sounds/gui/beep/message
-quiet	1	7415
-amp	1	7415	64
-play	1	7415	/sounds/gui/beep/message
-quiet	1	7418
-amp	1	7418	64
-play	1	7418	/sounds/gui/beep/message
-quiet	1	7419
-amp	1	7419	255
-play	1	7419	/sounds/sfx/warp/charge/4
-quiet	0	7421
-amp	0	7421	64
-play	0	7421	/sounds/gui/beep/message
-quiet	0	7424
-amp	0	7424	64
-play	0	7424	/sounds/gui/beep/message
-quiet	0	7427
-amp	0	7427	64
-play	0	7427	/sounds/gui/beep/message
-quiet	0	7430
-amp	0	7430	64
-play	0	7430	/sounds/gui/beep/message
-quiet	0	7433
-amp	0	7433	64
-play	0	7433	/sounds/gui/beep/message
-quiet	0	7436
-amp	0	7436	64
-play	0	7436	/sounds/gui/beep/message
-quiet	0	7439
-amp	0	7439	64
-play	0	7439	/sounds/gui/beep/message
-quiet	0	7442
-amp	0	7442	64
-play	0	7442	/sounds/gui/beep/message
-quiet	0	7443
-amp	0	7443	255
-play	0	7443	/sounds/sfx/warp/in
-quiet	2	7445
-amp	2	7445	64
-play	2	7445	/sounds/gui/beep/message
-quiet	2	7448
-amp	2	7448	64
-play	2	7448	/sounds/gui/beep/message
-quiet	2	7451
-amp	2	7451	64
-play	2	7451	/sounds/gui/beep/message
-quiet	2	7454
-amp	2	7454	64
-play	2	7454	/sounds/gui/beep/message
-quiet	2	7457
-amp	2	7457	64
-play	2	7457	/sounds/gui/beep/message
-quiet	2	7460
-amp	2	7460	64
-play	2	7460	/sounds/gui/beep/message
-quiet	2	7463
-amp	2	7463	64
-play	2	7463	/sounds/gui/beep/message
-quiet	2	7466
-amp	2	7466	64
-play	2	7466	/sounds/gui/beep/message
-quiet	2	7469
-amp	2	7469	64
-play	2	7469	/sounds/gui/beep/message
-quiet	2	7472
-amp	2	7472	64
-play	2	7472	/sounds/gui/beep/message
-quiet	2	7475
-amp	2	7475	64
-play	2	7475	/sounds/gui/beep/message
-quiet	2	7478
-amp	2	7478	64
-play	2	7478	/sounds/gui/beep/message
-quiet	2	7481
-amp	2	7481	64
-play	2	7481	/sounds/gui/beep/message
-quiet	2	7484
-amp	2	7484	64
-play	2	7484	/sounds/gui/beep/message
-quiet	2	7485
-amp	2	7485	51
-play	2	7485	/sounds/dev/atomic
-quiet	2	7487
-amp	2	7487	64
-play	2	7487	/sounds/gui/beep/message
-quiet	2	7490
-amp	2	7490	64
-play	2	7490	/sounds/gui/beep/message
-quiet	2	7493
-amp	2	7493	64
-play	2	7493	/sounds/gui/beep/message
-quiet	2	7496
-amp	2	7496	64
-play	2	7496	/sounds/gui/beep/message
-quiet	2	7499
-amp	2	7499	64
-play	2	7499	/sounds/gui/beep/message
-quiet	2	7499
-amp	2	7499	128
-play	2	7499	/sounds/gui/beep/zoom
-quiet	1	7502
-amp	1	7502	64
-play	1	7502	/sounds/gui/beep/message
-quiet	1	7505
-amp	1	7505	64
-play	1	7505	/sounds/gui/beep/message
-quiet	1	7508
-amp	1	7508	64
-play	1	7508	/sounds/gui/beep/message
-quiet	1	7511
-amp	1	7511	64
-play	1	7511	/sounds/gui/beep/message
-quiet	1	7514
-amp	1	7514	64
-play	1	7514	/sounds/gui/beep/message
-quiet	1	7517
-amp	1	7517	64
-play	1	7517	/sounds/gui/beep/message
-quiet	1	7520
-amp	1	7520	64
-play	1	7520	/sounds/gui/beep/message
-quiet	1	7523
-amp	1	7523	64
-play	1	7523	/sounds/gui/beep/message
-quiet	1	7526
-amp	1	7526	64
-play	1	7526	/sounds/gui/beep/message
-quiet	1	7529
-amp	1	7529	64
-play	1	7529	/sounds/gui/beep/message
-quiet	1	7532
-amp	1	7532	64
-play	1	7532	/sounds/gui/beep/message
-quiet	1	7535
-amp	1	7535	64
-play	1	7535	/sounds/gui/beep/message
-quiet	1	7538
-amp	1	7538	64
-play	1	7538	/sounds/gui/beep/message
-quiet	1	7541
-amp	1	7541	64
-play	1	7541	/sounds/gui/beep/message
-quiet	1	7544
-amp	1	7544	64
-play	1	7544	/sounds/gui/beep/message
-quiet	1	7547
-amp	1	7547	64
-play	1	7547	/sounds/gui/beep/message
-quiet	1	7550
-amp	1	7550	64
-play	1	7550	/sounds/gui/beep/message
-quiet	1	7553
-amp	1	7553	64
-play	1	7553	/sounds/gui/beep/message
-quiet	1	7785
-amp	1	7785	255
-play	1	7785	/sounds/sfx/warp/out
-quiet	2	7833
-amp	2	7833	140
-play	2	7833	/sounds/sfx/warp/out
-quiet	0	7851
-amp	0	7851	128
-play	0	7851	/sounds/gui/beep/button
-quiet	1	7860
-amp	1	7860	255
-play	1	7860	/sounds/sfx/warp/out
-quiet	0	7914
-amp	0	7914	128
-play	0	7914	/sounds/gui/beep/button
-quiet	0	7965
-amp	0	7965	232
-play	0	7965	/sounds/dev/atomic
-quiet	2	7985
-amp	2	7985	128
-play	2	7985	/sounds/gui/beep/zoom
-quiet	2	8079
-amp	2	8079	202
-play	2	8079	/sounds/dev/stealth/off
-quiet	1	8079
-amp	1	8079	202
-play	1	8079	/sounds/dev/pp
-quiet	0	8085
-amp	0	8085	255
-play	0	8085	/sounds/dev/fusion
-quiet	1	8088
-amp	1	8088	255
-play	1	8088	/sounds/dev/pk/ish
-quiet	2	8091
-amp	2	8091	255
-play	2	8091	/sounds/dev/conc
-quiet	2	8094
-amp	2	8094	205
-play	2	8094	/sounds/dev/pp
-quiet	2	8097
-amp	2	8097	255
-play	2	8097	/sounds/dev/conc
-quiet	1	8097
-amp	1	8097	255
-play	1	8097	/sounds/dev/pk/ish
-quiet	2	8097
-amp	2	8097	255
-play	2	8097	/sounds/sfx/explosion/energy
-quiet	2	8097
-amp	2	8097	255
-play	2	8097	/sounds/sfx/explosion/energy
-quiet	0	8100
-amp	0	8100	255
-play	0	8100	/sounds/dev/fusion
-quiet	2	8103
-amp	2	8103	255
-play	2	8103	/sounds/sfx/explosion/energy
-quiet	1	8106
-amp	1	8106	255
-play	1	8106	/sounds/dev/pk/ish
-quiet	0	8124
-amp	0	8124	211
-play	0	8124	/sounds/dev/pp
-quiet	0	8139
-amp	0	8139	215
-play	0	8139	/sounds/dev/pp
-quiet	1	8142
-amp	1	8142	215
-play	1	8142	/sounds/dev/stealth/on
-quiet	0	8145
-amp	0	8145	255
-play	0	8145	/sounds/dev/conc
-quiet	1	8151
-amp	1	8151	255
-play	1	8151	/sounds/dev/conc
-quiet	0	8154
-amp	0	8154	219
-play	0	8154	/sounds/dev/pp
-quiet	0	8157
-amp	0	8157	255
-play	0	8157	/sounds/dev/conc
-quiet	2	8160
-amp	2	8160	255
-play	2	8160	/sounds/sfx/explosion/energy
-quiet	1	8163
-amp	1	8163	255
-play	1	8163	/sounds/dev/conc
-quiet	0	8163
-amp	0	8163	255
-play	0	8163	/sounds/dev/conc/ricochet/1
-quiet	0	8166
-amp	0	8166	255
-play	0	8166	/sounds/dev/conc/ricochet/1
-quiet	1	8169
-amp	1	8169	228
-play	1	8169	/sounds/dev/pp
-quiet	1	8169
-amp	1	8169	255
-play	1	8169	/sounds/dev/conc
-quiet	0	8172
-amp	0	8172	255
-play	0	8172	/sounds/dev/conc/ricochet/1
-quiet	1	8178
-amp	1	8178	255
-play	1	8178	/sounds/dev/conc/ricochet/2
-quiet	0	8181
-amp	0	8181	255
-play	0	8181	/sounds/dev/conc/ricochet/1
-quiet	2	8184
-amp	2	8184	241
-play	2	8184	/sounds/dev/pp
-quiet	2	8202
-amp	2	8202	255
-play	2	8202	/sounds/dev/pp
-quiet	1	8202
-amp	1	8202	255
-play	1	8202	/sounds/dev/pk/ish
-quiet	0	8202
-amp	0	8202	255
-play	0	8202	/sounds/sfx/explosion/small
-quiet	0	8205
-amp	0	8205	255
-play	0	8205	/sounds/gui/klaxon
-quiet	1	8217
-amp	1	8217	255
-play	1	8217	/sounds/dev/stealth/off
-quiet	2	8217
-amp	2	8217	255
-play	2	8217	/sounds/dev/pp
-quiet	2	8232
-amp	2	8232	255
-play	2	8232	/sounds/dev/pp
-quiet	1	8238
-amp	1	8238	255
-play	1	8238	/sounds/dev/conc
-quiet	1	8238
-amp	1	8238	255
-play	1	8238	/sounds/dev/conc/ricochet/1
-quiet	2	8244
-amp	2	8244	255
-play	2	8244	/sounds/dev/pk/ish
-quiet	1	8244
-amp	1	8244	255
-play	1	8244	/sounds/dev/conc/ricochet/1
-quiet	2	8256
-amp	2	8256	255
-play	2	8256	/sounds/dev/conc
-quiet	1	8262
-amp	1	8262	255
-play	1	8262	/sounds/dev/conc
-quiet	1	8262
-amp	1	8262	255
-play	1	8262	/sounds/sfx/explosion/large
-quiet	2	8262
-amp	2	8262	255
-play	2	8262	/sounds/dev/conc/ricochet/1
-quiet	0	8268
-amp	0	8268	255
-play	0	8268	/sounds/dev/conc
-quiet	0	8277
-amp	0	8277	255
-play	0	8277	/sounds/dev/conc/ricochet/2
-quiet	2	8280
-amp	2	8280	255
-play	2	8280	/sounds/dev/pp
-quiet	2	8292
-amp	2	8292	255
-play	2	8292	/sounds/sfx/explosion/energy
-quiet	0	8313
-amp	0	8313	255
-play	0	8313	/sounds/sfx/explosion/small
-quiet	0	8325
-quiet	1	8325
-quiet	2	8325
-quiet	3	8325
+0	3	quiet
+0	3	loop	music	255	freds-theme
+0	3	quiet
+0	3	quiet
+0	3	loop	music	215	yesterday
+1	0	play	sound	128	gui/beep/zoom
+201	1	play	sound	128	gui/beep/button
+213	1	play	sound	128	gui/beep/button
+309	0	play	sound	192	gui/beep/select
+396	0	play	sound	192	gui/beep/select
+459	0	play	sound	192	gui/beep/select
+516	0	play	sound	192	gui/beep/select
+561	0	play	sound	192	gui/beep/select
+687	0	play	sound	192	gui/beep/select
+831	0	play	sound	192	gui/beep/select
+903	1	play	sound	128	gui/beep/button
+936	1	play	sound	128	gui/beep/button
+1008	0	play	sound	255	sfx/warp/charge/1
+1032	1	play	sound	255	sfx/warp/charge/2
+1056	2	play	sound	255	sfx/warp/charge/3
+1083	0	play	sound	255	sfx/warp/charge/4
+1107	1	play	sound	255	sfx/warp/in
+1233	2	play	sound	255	sfx/warp/out
+1361	0	play	sound	128	gui/beep/zoom
+1515	0	play	sound	255	dev/fusion
+1515	1	play	sound	255	dev/pk/ish
+1524	1	play	sound	255	dev/pk/ish
+1530	0	play	sound	255	dev/fusion
+1533	1	play	sound	255	dev/pk/ish
+1536	2	play	sound	255	sfx/explosion/energy
+1542	1	play	sound	255	dev/pk/ish
+1545	0	play	sound	255	dev/fusion
+1551	2	play	sound	255	sfx/explosion/energy
+1560	0	play	sound	255	dev/fusion
+1560	1	play	sound	255	dev/pk/ish
+1569	1	play	sound	255	dev/pk/ish
+1575	0	play	sound	255	dev/fusion
+1575	2	play	sound	255	sfx/explosion/energy
+1578	1	play	sound	255	dev/pk/ish
+1587	1	play	sound	255	dev/pk/ish
+1590	0	play	sound	255	dev/fusion
+1593	2	play	sound	255	sfx/explosion/energy
+1602	2	play	sound	255	sfx/explosion/energy
+1608	0	play	sound	255	dev/fusion
+1620	2	play	sound	255	sfx/explosion/energy
+1656	0	play	sound	255	dev/fusion
+1659	1	play	sound	255	dev/pk/ish
+1668	1	play	sound	255	dev/pk/ish
+1671	0	play	sound	255	dev/fusion
+1671	2	play	sound	255	sfx/explosion/energy
+1677	1	play	sound	255	dev/pk/ish
+1680	2	play	sound	255	sfx/explosion/energy
+1686	0	play	sound	255	dev/fusion
+1686	1	play	sound	255	dev/pk/ish
+1695	1	play	sound	255	dev/pk/ish
+1707	2	play	sound	255	sfx/explosion/energy
+1755	0	play	sound	255	dev/cm
+1887	0	play	sound	255	dev/cm
+1965	0	play	sound	255	sfx/explosion/gas
+2028	1	play	sound	255	dev/cm
+2070	2	play	sound	255	dev/conc
+2073	2	play	sound	255	dev/conc/ricochet/2
+2076	0	play	sound	255	dev/conc
+2079	2	play	sound	255	dev/conc/ricochet/2
+2082	1	play	sound	255	dev/conc
+2085	0	play	sound	255	dev/conc/ricochet/1
+2091	2	play	sound	255	dev/conc/ricochet/2
+2094	1	play	sound	255	dev/conc
+2094	1	play	sound	255	dev/fusion
+2097	2	play	sound	255	dev/conc/ricochet/2
+2100	0	play	sound	255	sfx/explosion/large
+2109	1	play	sound	255	dev/fusion
+2118	2	play	sound	255	sfx/explosion/energy
+2121	1	play	sound	255	dev/pk/ish
+2154	1	play	sound	255	sfx/energy
+2301	2	play	sound	255	dev/fusion
+2304	0	play	sound	255	dev/pk/ish
+2313	0	play	sound	255	dev/pk/ish
+2316	2	play	sound	255	dev/fusion
+2316	1	play	sound	255	sfx/explosion/energy
+2322	0	play	sound	255	dev/pk/ish
+2322	1	play	sound	255	sfx/explosion/energy
+2325	1	play	sound	255	sfx/explosion/energy
+2331	2	play	sound	255	dev/fusion
+2331	0	play	sound	255	dev/pk/ish
+2331	1	play	sound	255	sfx/explosion/energy
+2331	1	play	sound	255	sfx/explosion/energy
+2337	1	play	sound	255	sfx/explosion/energy
+2340	0	play	sound	255	dev/pk/ish
+2340	1	play	sound	255	sfx/explosion/energy
+2343	1	play	sound	255	sfx/explosion/energy
+2346	2	play	sound	255	dev/fusion
+2349	0	play	sound	255	dev/pk/ish
+2349	1	play	sound	255	sfx/explosion/energy
+2352	1	play	sound	255	sfx/explosion/energy
+2358	0	play	sound	255	dev/pk/ish
+2358	1	play	sound	255	sfx/explosion/energy
+2430	2	play	sound	255	dev/fusion
+2433	0	play	sound	255	dev/pk/ish
+2442	0	play	sound	255	dev/pk/ish
+2445	2	play	sound	255	dev/fusion
+2445	1	play	sound	255	sfx/explosion/energy
+2451	0	play	sound	255	dev/pk/ish
+2454	1	play	sound	255	sfx/explosion/energy
+2454	1	play	sound	255	sfx/explosion/energy
+2460	2	play	sound	255	dev/fusion
+2460	0	play	sound	255	dev/pk/ish
+2463	1	play	sound	255	sfx/explosion/energy
+2469	0	play	sound	255	dev/pk/ish
+2469	1	play	sound	255	sfx/explosion/energy
+2472	1	play	sound	255	sfx/explosion/energy
+2475	2	play	sound	255	dev/fusion
+2478	0	play	sound	255	dev/pk/ish
+2481	1	play	sound	255	sfx/explosion/energy
+2484	0	play	sound	255	sfx/explosion/large
+2484	1	play	sound	255	sfx/explosion/energy
+2487	2	play	sound	255	dev/pk/ish
+2496	2	play	sound	255	dev/pk/ish
+2537	1	play	sound	128	gui/beep/zoom
+2625	1	play	sound	255	sfx/warp/charge/1
+2649	2	play	sound	255	sfx/warp/charge/2
+2673	0	play	sound	255	sfx/warp/charge/3
+2700	1	play	sound	255	sfx/warp/charge/4
+2724	2	play	sound	255	sfx/warp/in
+2840	0	play	sound	128	gui/beep/zoom
+2841	0	play	sound	255	dev/conc
+2889	0	play	sound	255	sfx/warp/out
+2976	1	play	sound	255	dev/fusion
+2976	2	play	sound	255	dev/pk/ish
+2985	2	play	sound	255	dev/pk/ish
+2991	1	play	sound	255	dev/fusion
+2994	2	play	sound	255	dev/pk/ish
+2994	0	play	sound	255	sfx/explosion/energy
+2994	0	play	sound	255	sfx/explosion/energy
+3003	2	play	sound	255	dev/pk/ish
+3003	0	play	sound	255	sfx/explosion/energy
+3006	1	play	sound	255	dev/fusion
+3009	0	play	sound	255	sfx/explosion/energy
+3012	2	play	sound	255	dev/pk/ish
+3012	0	play	sound	255	sfx/explosion/energy
+3015	0	play	sound	255	sfx/explosion/energy
+3021	1	play	sound	255	dev/fusion
+3021	2	play	sound	255	dev/pk/ish
+3021	0	play	sound	255	sfx/explosion/energy
+3021	0	play	sound	255	sfx/explosion/energy
+3090	1	play	sound	255	dev/fusion
+3090	2	play	sound	255	dev/pk/ish
+3099	2	play	sound	255	dev/pk/ish
+3105	1	play	sound	255	dev/fusion
+3108	2	play	sound	255	dev/pk/ish
+3117	2	play	sound	255	dev/pk/ish
+3120	1	play	sound	255	dev/fusion
+3126	2	play	sound	255	dev/pk/ish
+3132	0	play	sound	255	sfx/explosion/energy
+3135	1	play	sound	255	dev/fusion
+3135	2	play	sound	255	dev/pk/ish
+3141	0	play	sound	255	sfx/explosion/energy
+3144	2	play	sound	255	dev/pk/ish
+3150	1	play	sound	255	dev/fusion
+3153	2	play	sound	255	dev/pk/ish
+3162	2	play	sound	255	dev/pk/ish
+3171	0	play	sound	255	sfx/explosion/energy
+3201	1	play	sound	255	dev/fusion
+3201	2	play	sound	255	dev/pk/ish
+3210	2	play	sound	255	dev/pk/ish
+3216	1	play	sound	255	dev/fusion
+3216	0	play	sound	255	sfx/explosion/energy
+3219	2	play	sound	255	dev/pk/ish
+3222	0	play	sound	255	sfx/explosion/energy
+3225	0	play	sound	255	sfx/explosion/energy
+3228	2	play	sound	255	dev/pk/ish
+3231	1	play	sound	255	dev/fusion
+3231	0	play	sound	255	sfx/explosion/energy
+3237	2	play	sound	255	dev/pk/ish
+3237	0	play	sound	255	sfx/explosion/energy
+3240	0	play	sound	255	sfx/explosion/large
+3246	1	play	sound	255	dev/fusion
+3246	2	play	sound	255	dev/pk/ish
+3255	2	play	sound	255	dev/pk/ish
+3261	1	play	sound	255	dev/fusion
+3264	2	play	sound	255	dev/pk/ish
+3324	1	play	sound	255	sfx/explosion/energy
+3525	2	play	sound	255	dev/fusion
+3525	0	play	sound	255	dev/pk/ish
+3534	0	play	sound	255	dev/pk/ish
+3540	2	play	sound	255	dev/fusion
+3555	2	play	sound	255	dev/fusion
+3555	0	play	sound	255	dev/pk/ish
+3564	0	play	sound	255	dev/pk/ish
+3570	2	play	sound	255	dev/fusion
+3585	2	play	sound	255	dev/fusion
+3585	0	play	sound	255	dev/pk/ish
+3585	1	play	sound	255	sfx/explosion/energy
+3597	1	play	sound	255	sfx/explosion/energy
+3612	2	play	sound	255	dev/fusion
+3612	0	play	sound	255	dev/pk/ish
+3621	0	play	sound	255	dev/pk/ish
+3645	2	play	sound	255	dev/fusion
+3645	0	play	sound	255	dev/pk/ish
+3654	0	play	sound	255	dev/pk/ish
+3660	2	play	sound	255	dev/fusion
+3690	2	play	sound	255	dev/fusion
+3690	0	play	sound	255	dev/pk/ish
+3699	0	play	sound	255	dev/pk/ish
+3705	2	play	sound	255	dev/fusion
+3705	1	play	sound	255	sfx/explosion/energy
+3708	0	play	sound	255	dev/pk/ish
+3717	0	play	sound	255	dev/pk/ish
+3723	1	play	sound	255	sfx/explosion/energy
+3738	2	play	sound	255	dev/fusion
+3741	0	play	sound	255	dev/pk/ish
+3750	0	play	sound	255	dev/pk/ish
+3801	2	play	sound	255	dev/fusion
+3801	0	play	sound	255	dev/pk/ish
+3810	0	play	sound	255	dev/pk/ish
+3810	1	play	sound	255	sfx/explosion/energy
+3816	2	play	sound	255	dev/fusion
+3816	1	play	sound	255	sfx/explosion/energy
+3819	0	play	sound	255	dev/pk/ish
+3828	0	play	sound	255	dev/pk/ish
+3831	2	play	sound	255	dev/fusion
+3846	1	play	sound	255	sfx/warp/charge/2
+3849	2	play	sound	255	dev/fusion
+3849	0	play	sound	255	dev/pk/ish
+3858	0	play	sound	255	dev/pk/ish
+3864	2	play	sound	255	dev/fusion
+3870	1	play	sound	255	sfx/warp/charge/3
+3897	0	play	sound	255	sfx/warp/charge/4
+3921	2	play	sound	253	sfx/warp/in
+4029	1	play	sound	245	sfx/warp/charge/1
+4053	0	play	sound	231	sfx/warp/charge/2
+4077	2	play	sound	220	sfx/warp/charge/3
+4103	1	play	sound	128	gui/beep/zoom
+4104	1	play	sound	206	sfx/warp/charge/4
+4128	0	play	sound	191	sfx/warp/in
+4434	2	play	sound	36	dev/atomic
+4591	2	play	sound	128	gui/beep/zoom
+4674	0	play	sound	240	dev/atomic
+4914	0	play	sound	252	dev/atomic
+5043	0	play	sound	255	dev/fusion
+5043	1	play	sound	255	dev/pk/ish
+5052	1	play	sound	255	dev/pk/ish
+5058	0	play	sound	255	dev/fusion
+5061	1	play	sound	255	dev/pk/ish
+5061	2	play	sound	255	sfx/explosion/energy
+5064	2	play	sound	255	sfx/explosion/energy
+5067	2	play	sound	255	sfx/explosion/energy
+5070	1	play	sound	255	dev/pk/ish
+5073	0	play	sound	255	dev/fusion
+5079	1	play	sound	255	dev/pk/ish
+5109	0	play	sound	255	dev/fusion
+5112	1	play	sound	255	dev/pk/ish
+5121	1	play	sound	255	dev/pk/ish
+5124	0	play	sound	255	dev/fusion
+5124	2	play	sound	255	sfx/explosion/energy
+5130	1	play	sound	255	dev/pk/ish
+5133	2	play	sound	255	sfx/explosion/energy
+5139	0	play	sound	255	dev/fusion
+5139	1	play	sound	255	dev/pk/ish
+5142	2	play	sound	255	sfx/explosion/energy
+5148	1	play	sound	255	dev/pk/ish
+5154	0	play	sound	255	dev/atomic
+5160	1	play	sound	255	dev/fusion
+5169	2	play	sound	255	dev/pk/ish
+5175	1	play	sound	255	dev/fusion
+5175	0	play	sound	255	sfx/explosion/energy
+5178	2	play	sound	255	dev/pk/ish
+5184	0	play	sound	255	sfx/explosion/energy
+5187	2	play	sound	255	dev/pk/ish
+5190	1	play	sound	255	dev/fusion
+5193	0	play	sound	255	sfx/explosion/energy
+5211	2	play	sound	255	sfx/explosion/small
+5214	1	play	sound	255	dev/fusion
+5214	0	play	sound	255	dev/pk/ish
+5223	0	play	sound	255	dev/pk/ish
+5238	1	play	sound	255	sfx/explosion/energy
+5241	2	play	sound	255	dev/fusion
+5241	0	play	sound	255	dev/pk/ish
+5250	0	play	sound	255	dev/pk/ish
+5265	2	play	sound	255	dev/fusion
+5268	0	play	sound	255	dev/pk/ish
+5277	0	play	sound	255	dev/pk/ish
+5280	2	play	sound	255	dev/fusion
+5286	0	play	sound	255	dev/pk/ish
+5286	1	play	sound	255	sfx/explosion/energy
+5298	1	play	sound	255	sfx/explosion/energy
+5325	2	play	sound	255	dev/fusion
+5325	0	play	sound	255	dev/pk/ish
+5334	0	play	sound	255	dev/pk/ish
+5340	2	play	sound	255	dev/fusion
+5352	0	play	sound	255	dev/pk/ish
+5355	2	play	sound	255	dev/fusion
+5361	0	play	sound	255	dev/pk/ish
+5367	1	play	sound	255	sfx/explosion/energy
+5370	2	play	sound	255	dev/fusion
+5370	0	play	sound	255	dev/pk/ish
+5379	0	play	sound	255	dev/pk/ish
+5385	2	play	sound	255	dev/fusion
+5388	1	play	sound	255	sfx/explosion/energy
+5394	0	play	sound	255	dev/atomic
+5412	2	play	sound	255	dev/fusion
+5412	1	play	sound	255	dev/pk/ish
+5421	1	play	sound	255	dev/pk/ish
+5427	2	play	sound	255	dev/fusion
+5430	1	play	sound	255	dev/pk/ish
+5439	1	play	sound	255	dev/pk/ish
+5442	2	play	sound	255	dev/fusion
+5448	1	play	sound	255	dev/pk/ish
+5448	0	play	sound	255	sfx/explosion/energy
+5457	2	play	sound	255	dev/fusion
+5457	1	play	sound	255	dev/pk/ish
+5457	0	play	sound	255	sfx/explosion/energy
+5466	1	play	sound	255	dev/pk/ish
+5484	0	play	sound	255	sfx/explosion/energy
+5511	2	play	sound	255	dev/fusion
+5514	1	play	sound	255	dev/pk/ish
+5523	1	play	sound	255	dev/pk/ish
+5526	2	play	sound	255	dev/fusion
+5532	1	play	sound	255	dev/pk/ish
+5541	2	play	sound	255	dev/fusion
+5541	1	play	sound	255	dev/pk/ish
+5541	0	play	sound	255	sfx/explosion/large
+5772	1	play	sound	255	sfx/energy
+5793	2	play	sound	255	dev/conc
+5799	0	play	sound	255	dev/conc
+5805	1	play	sound	255	dev/conc
+5808	2	play	sound	255	dev/conc
+5811	0	play	sound	255	dev/conc
+5820	1	play	sound	255	dev/conc
+5820	0	play	sound	255	dev/conc/ricochet/2
+5826	2	play	sound	255	dev/conc
+5829	1	play	sound	255	dev/conc/ricochet/1
+5892	2	play	sound	255	dev/fusion
+5892	0	play	sound	255	dev/pk/ish
+5901	0	play	sound	255	dev/pk/ish
+5907	2	play	sound	255	dev/fusion
+5910	0	play	sound	255	dev/pk/ish
+5919	0	play	sound	255	dev/pk/ish
+5922	2	play	sound	255	dev/fusion
+5925	1	play	sound	255	sfx/explosion/energy
+5928	0	play	sound	255	dev/pk/ish
+5928	1	play	sound	255	sfx/explosion/energy
+5934	1	play	sound	255	sfx/explosion/energy
+5937	2	play	sound	255	dev/fusion
+5937	0	play	sound	255	dev/pk/ish
+5946	0	play	sound	255	dev/pk/ish
+5949	2	play	sound	255	dev/conc
+5949	1	play	sound	255	sfx/explosion/energy
+5955	2	play	sound	255	dev/fusion
+5958	0	play	sound	255	dev/pk/ish
+5958	1	play	sound	255	sfx/explosion/energy
+5967	2	play	sound	255	dev/conc
+5967	0	play	sound	255	dev/pk/ish
+5970	2	play	sound	255	dev/fusion
+5976	0	play	sound	255	dev/pk/ish
+5985	2	play	sound	255	dev/fusion
+5985	0	play	sound	255	dev/pk/ish
+5985	1	play	sound	255	sfx/explosion/energy
+5988	1	play	sound	255	sfx/explosion/energy
+5994	0	play	sound	255	dev/pk/ish
+6000	2	play	sound	255	dev/fusion
+6000	1	play	sound	255	sfx/explosion/energy
+6003	0	play	sound	255	dev/pk/ish
+6009	1	play	sound	255	sfx/explosion/energy
+6012	2	play	sound	255	dev/conc
+6012	0	play	sound	255	dev/pk/ish
+6012	1	play	sound	255	sfx/explosion/energy
+6015	2	play	sound	255	dev/fusion
+6021	0	play	sound	255	dev/pk/ish
+6021	1	play	sound	255	sfx/explosion/energy
+6027	2	play	sound	255	dev/conc/ricochet/1
+6030	0	play	sound	255	dev/pk/ish
+6039	0	play	sound	255	dev/pk/ish
+6039	2	play	sound	255	dev/conc/ricochet/1
+6042	1	play	sound	255	dev/conc
+6045	1	play	sound	255	dev/fusion
+6048	0	play	sound	255	dev/pk/ish
+6057	0	play	sound	255	dev/pk/ish
+6060	1	play	sound	255	dev/fusion
+6063	2	play	sound	255	sfx/explosion/energy
+6066	0	play	sound	255	dev/pk/ish
+6075	1	play	sound	255	dev/fusion
+6075	0	play	sound	255	dev/pk/ish
+6084	0	play	sound	255	dev/pk/ish
+6096	2	play	sound	255	dev/conc
+6102	1	play	sound	255	dev/conc
+6108	0	play	sound	255	dev/conc
+6108	0	play	sound	255	dev/conc/ricochet/1
+6114	2	play	sound	255	dev/conc
+6117	0	play	sound	255	dev/conc/ricochet/1
+6120	1	play	sound	255	dev/conc
+6123	0	play	sound	255	dev/conc/ricochet/1
+6129	1	play	sound	255	dev/fusion
+6129	2	play	sound	255	dev/pk/ish
+6138	2	play	sound	255	dev/pk/ish
+6144	1	play	sound	255	dev/fusion
+6147	2	play	sound	255	dev/pk/ish
+6156	2	play	sound	255	dev/pk/ish
+6159	0	play	sound	255	sfx/explosion/energy
+6162	1	play	sound	255	dev/fusion
+6165	2	play	sound	255	dev/pk/ish
+6174	2	play	sound	255	dev/pk/ish
+6177	1	play	sound	255	dev/fusion
+6183	2	play	sound	255	dev/pk/ish
+6195	1	play	sound	255	dev/fusion
+6198	2	play	sound	255	dev/pk/ish
+6204	0	play	sound	255	dev/conc
+6207	2	play	sound	255	dev/pk/ish
+6210	1	play	sound	255	dev/conc
+6210	0	play	sound	255	dev/fusion
+6216	2	play	sound	255	dev/pk/ish
+6225	0	play	sound	255	dev/fusion
+6225	1	play	sound	255	sfx/explosion/energy
+6228	2	play	sound	255	dev/pk/ish
+6237	2	play	sound	255	dev/pk/ish
+6240	1	play	sound	255	sfx/explosion/energy
+6246	0	play	sound	255	dev/fusion
+6246	2	play	sound	255	dev/pk/ish
+6255	1	play	sound	255	sfx/explosion/energy
+6261	1	play	sound	255	sfx/explosion/energy
+6270	0	play	sound	255	dev/fusion
+6273	2	play	sound	255	dev/pk/ish
+6282	2	play	sound	255	dev/pk/ish
+6285	0	play	sound	255	dev/fusion
+6285	0	play	sound	255	sfx/explosion/large
+6285	1	play	sound	255	sfx/explosion/energy
+6291	2	play	sound	255	dev/pk/ish
+6297	1	play	sound	255	sfx/explosion/energy
+6300	2	play	sound	255	dev/pk/ish
+6378	2	play	sound	255	sfx/energy
+6699	1	play	sound	255	sfx/explosion/energy
+6730	0	play	sound	128	gui/beep/zoom
+6889	0	play	sound	128	gui/beep/zoom
+6957	0	play	sound	255	dev/cm
+7002	2	play	sound	255	dev/fusion
+7002	1	play	sound	255	dev/pk/ish
+7011	1	play	sound	255	dev/pk/ish
+7017	2	play	sound	255	dev/fusion
+7020	1	play	sound	255	dev/pk/ish
+7029	1	play	sound	255	dev/pk/ish
+7029	0	play	sound	255	sfx/explosion/gas
+7032	2	play	sound	255	dev/fusion
+7038	1	play	sound	255	dev/pk/ish
+7047	2	play	sound	255	dev/fusion
+7047	1	play	sound	255	dev/pk/ish
+7056	1	play	sound	255	dev/pk/ish
+7062	2	play	sound	255	dev/fusion
+7062	0	play	sound	255	sfx/explosion/energy
+7065	1	play	sound	255	dev/pk/ish
+7068	0	play	sound	255	sfx/explosion/energy
+7071	0	play	sound	255	sfx/explosion/energy
+7074	1	play	sound	255	dev/pk/ish
+7074	0	play	sound	255	sfx/explosion/energy
+7077	2	play	sound	255	dev/fusion
+7080	0	play	sound	255	sfx/explosion/energy
+7083	1	play	sound	255	dev/pk/ish
+7083	0	play	sound	255	sfx/explosion/energy
+7089	0	play	sound	255	sfx/explosion/energy
+7092	2	play	sound	255	dev/fusion
+7092	1	play	sound	255	dev/pk/ish
+7092	0	play	sound	255	sfx/explosion/energy
+7098	0	play	sound	255	sfx/explosion/energy
+7101	1	play	sound	255	dev/pk/ish
+7101	0	play	sound	255	sfx/explosion/energy
+7104	0	play	sound	255	sfx/explosion/energy
+7107	2	play	sound	255	dev/fusion
+7110	1	play	sound	255	dev/pk/ish
+7113	0	play	sound	255	sfx/explosion/large
+7119	1	play	sound	255	dev/pk/ish
+7122	2	play	sound	255	dev/fusion
+7128	1	play	sound	255	dev/pk/ish
+7179	2	play	sound	128	gui/beep/zoom
+7217	2	play	sound	128	gui/beep/zoom
+7322	1	play	sound	64	gui/beep/message
+7325	1	play	sound	64	gui/beep/message
+7328	1	play	sound	64	gui/beep/message
+7331	1	play	sound	64	gui/beep/message
+7334	1	play	sound	64	gui/beep/message
+7337	1	play	sound	64	gui/beep/message
+7340	1	play	sound	64	gui/beep/message
+7343	1	play	sound	64	gui/beep/message
+7344	1	play	sound	255	sfx/warp/charge/1
+7346	0	play	sound	64	gui/beep/message
+7349	0	play	sound	64	gui/beep/message
+7352	0	play	sound	64	gui/beep/message
+7355	0	play	sound	64	gui/beep/message
+7358	0	play	sound	64	gui/beep/message
+7361	0	play	sound	64	gui/beep/message
+7364	0	play	sound	64	gui/beep/message
+7367	0	play	sound	64	gui/beep/message
+7368	0	play	sound	255	sfx/warp/charge/2
+7370	2	play	sound	64	gui/beep/message
+7373	2	play	sound	64	gui/beep/message
+7376	2	play	sound	64	gui/beep/message
+7379	2	play	sound	64	gui/beep/message
+7382	2	play	sound	64	gui/beep/message
+7385	2	play	sound	64	gui/beep/message
+7388	2	play	sound	64	gui/beep/message
+7391	2	play	sound	64	gui/beep/message
+7392	2	play	sound	255	sfx/warp/charge/3
+7394	1	play	sound	64	gui/beep/message
+7397	1	play	sound	64	gui/beep/message
+7400	1	play	sound	64	gui/beep/message
+7403	1	play	sound	64	gui/beep/message
+7406	1	play	sound	64	gui/beep/message
+7409	1	play	sound	64	gui/beep/message
+7412	1	play	sound	64	gui/beep/message
+7415	1	play	sound	64	gui/beep/message
+7418	1	play	sound	64	gui/beep/message
+7419	1	play	sound	255	sfx/warp/charge/4
+7421	0	play	sound	64	gui/beep/message
+7424	0	play	sound	64	gui/beep/message
+7427	0	play	sound	64	gui/beep/message
+7430	0	play	sound	64	gui/beep/message
+7433	0	play	sound	64	gui/beep/message
+7436	0	play	sound	64	gui/beep/message
+7439	0	play	sound	64	gui/beep/message
+7442	0	play	sound	64	gui/beep/message
+7443	0	play	sound	255	sfx/warp/in
+7445	2	play	sound	64	gui/beep/message
+7448	2	play	sound	64	gui/beep/message
+7451	2	play	sound	64	gui/beep/message
+7454	2	play	sound	64	gui/beep/message
+7457	2	play	sound	64	gui/beep/message
+7460	2	play	sound	64	gui/beep/message
+7463	2	play	sound	64	gui/beep/message
+7466	2	play	sound	64	gui/beep/message
+7469	2	play	sound	64	gui/beep/message
+7472	2	play	sound	64	gui/beep/message
+7475	2	play	sound	64	gui/beep/message
+7478	2	play	sound	64	gui/beep/message
+7481	2	play	sound	64	gui/beep/message
+7484	2	play	sound	64	gui/beep/message
+7485	2	play	sound	51	dev/atomic
+7487	2	play	sound	64	gui/beep/message
+7490	2	play	sound	64	gui/beep/message
+7493	2	play	sound	64	gui/beep/message
+7496	2	play	sound	64	gui/beep/message
+7499	2	play	sound	64	gui/beep/message
+7499	2	play	sound	128	gui/beep/zoom
+7502	1	play	sound	64	gui/beep/message
+7505	1	play	sound	64	gui/beep/message
+7508	1	play	sound	64	gui/beep/message
+7511	1	play	sound	64	gui/beep/message
+7514	1	play	sound	64	gui/beep/message
+7517	1	play	sound	64	gui/beep/message
+7520	1	play	sound	64	gui/beep/message
+7523	1	play	sound	64	gui/beep/message
+7526	1	play	sound	64	gui/beep/message
+7529	1	play	sound	64	gui/beep/message
+7532	1	play	sound	64	gui/beep/message
+7535	1	play	sound	64	gui/beep/message
+7538	1	play	sound	64	gui/beep/message
+7541	1	play	sound	64	gui/beep/message
+7544	1	play	sound	64	gui/beep/message
+7547	1	play	sound	64	gui/beep/message
+7550	1	play	sound	64	gui/beep/message
+7553	1	play	sound	64	gui/beep/message
+7785	1	play	sound	255	sfx/warp/out
+7833	2	play	sound	140	sfx/warp/out
+7851	0	play	sound	128	gui/beep/button
+7860	1	play	sound	255	sfx/warp/out
+7914	0	play	sound	128	gui/beep/button
+7965	0	play	sound	232	dev/atomic
+7985	2	play	sound	128	gui/beep/zoom
+8079	2	play	sound	202	dev/stealth/off
+8079	1	play	sound	202	dev/pp
+8085	0	play	sound	255	dev/fusion
+8088	1	play	sound	255	dev/pk/ish
+8091	2	play	sound	255	dev/conc
+8094	2	play	sound	205	dev/pp
+8097	2	play	sound	255	dev/conc
+8097	1	play	sound	255	dev/pk/ish
+8097	2	play	sound	255	sfx/explosion/energy
+8097	2	play	sound	255	sfx/explosion/energy
+8100	0	play	sound	255	dev/fusion
+8103	2	play	sound	255	sfx/explosion/energy
+8106	1	play	sound	255	dev/pk/ish
+8124	0	play	sound	211	dev/pp
+8139	0	play	sound	215	dev/pp
+8142	1	play	sound	215	dev/stealth/on
+8145	0	play	sound	255	dev/conc
+8151	1	play	sound	255	dev/conc
+8154	0	play	sound	219	dev/pp
+8157	0	play	sound	255	dev/conc
+8160	2	play	sound	255	sfx/explosion/energy
+8163	1	play	sound	255	dev/conc
+8163	0	play	sound	255	dev/conc/ricochet/1
+8166	0	play	sound	255	dev/conc/ricochet/1
+8169	1	play	sound	228	dev/pp
+8169	1	play	sound	255	dev/conc
+8172	0	play	sound	255	dev/conc/ricochet/1
+8178	1	play	sound	255	dev/conc/ricochet/2
+8181	0	play	sound	255	dev/conc/ricochet/1
+8184	2	play	sound	241	dev/pp
+8202	2	play	sound	255	dev/pp
+8202	1	play	sound	255	dev/pk/ish
+8202	0	play	sound	255	sfx/explosion/small
+8205	0	play	sound	255	gui/klaxon
+8217	1	play	sound	255	dev/stealth/off
+8217	2	play	sound	255	dev/pp
+8232	2	play	sound	255	dev/pp
+8238	1	play	sound	255	dev/conc
+8238	1	play	sound	255	dev/conc/ricochet/1
+8244	2	play	sound	255	dev/pk/ish
+8244	1	play	sound	255	dev/conc/ricochet/1
+8256	2	play	sound	255	dev/conc
+8262	1	play	sound	255	dev/conc
+8262	1	play	sound	255	sfx/explosion/large
+8262	2	play	sound	255	dev/conc/ricochet/1
+8268	0	play	sound	255	dev/conc
+8277	0	play	sound	255	dev/conc/ricochet/2
+8280	2	play	sound	255	dev/pp
+8292	2	play	sound	255	sfx/explosion/energy
+8313	0	play	sound	255	sfx/explosion/small
+8325	0	quiet
+8325	1	quiet
+8325	2	quiet
+8325	3	quiet
