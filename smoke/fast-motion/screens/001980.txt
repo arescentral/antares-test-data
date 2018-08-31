@@ -225,4 +225,4 @@ rect	392	317	424	318	ffff7f
 		341		420	
 	54	329	393	330	
 	423		588		
-draw	320	240	332	250	/sprites/cursor%0
+draw	320	240	332	250	/sprites/gui/cursor%0

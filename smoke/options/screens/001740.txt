@@ -317,4 +317,4 @@ draw	0	245	178	456	/pictures/gui/main/left.png
 		0	640	245	/pictures/gui/main/top.png
 	460	245		456	/pictures/gui/main/right.png
 	0	456		480	/pictures/gui/main/bottom.png
-	550	430	562	440	/sprites/cursor%0
+	550	430	562	440	/sprites/gui/cursor%0

@@ -99,4 +99,4 @@ crop	253	93	260	113	24	80	000000	/fonts/title.png
 rect	274	113	288	135	7fff7f
 	226	227	430	244	387038
 			226		60c060
-draw	320	240	332	250	/sprites/cursor%0
+draw	320	240	332	250	/sprites/gui/cursor%0
