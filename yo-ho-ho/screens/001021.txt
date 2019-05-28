@@ -123,8 +123,8 @@ point	165	108	d0d0d0
 	347	283	808080
 	190	128	b0b0b0
 	139	323	
-rect	457	0	458	481	000050
-	128	432	609	433	
+rect	457	0	458	480	000050
+	128	432	608	433	
 draw	571	339	587	355	/sprites/sfx/invisible%0
 	540	456	560	473	/sprites/loc/jump/node%1
 	496	246	516	263	/sprites/loc/jump/node%0

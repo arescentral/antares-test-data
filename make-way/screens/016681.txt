@@ -123,8 +123,8 @@ point	570	8	b0b0b0
 	597	246	
 	361	218	
 	399	143	808080
-rect	339	0	340	481	000050
-	128	272	609	273	
+rect	339	0	340	480	000050
+	128	272	608	273	
 draw	559	226	637	288	/sprites/loc/bunker%0
 	358	230	375	245	/sprites/ish/cruiser%8
 	248	53	272	66	/sprites/ish/aslttran%4

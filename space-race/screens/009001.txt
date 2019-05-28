@@ -123,8 +123,8 @@ point	561	219	d0d0d0
 	394	230	
 	203	52	
 	545	166	b0b0b0
-rect	338	0	339	481	000050
-	128	87	609	88	
+rect	338	0	339	480	000050
+	128	87	608	88	
 draw	319	217	423	262	/sprites/ish/carrier%17
 	488	461	598	583	/sprites/gai/carrier%22
 	197	67	223	95	/sprites/gai/cruiser%4

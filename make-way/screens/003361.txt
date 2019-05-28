@@ -173,8 +173,8 @@ point	192	464	808080
 	324	251	
 	364	304	
 	329	155	
-rect	595	0	596	481	000050
-	128	232	609	233	
+rect	595	0	596	480	000050
+	128	232	608	233	
 static	356	227	384	253	ffffff	36	/sprites/ish/cruiser%18
 	272	228	296	261	f0f078	83	/sprites/can/aslttran%23
 draw	398	168	414	174	/sprites/dev/cm%5

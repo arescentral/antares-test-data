@@ -137,8 +137,8 @@ point	459	412	d0d0d0
 	500	415	
 	522	400	
 	525	424	
-rect	336	0	337	481	000050
-	128	453	609	454	
+rect	336	0	337	480	000050
+	128	453	608	454	
 static	551	393	650	455	ffffff	39	/sprites/ish/carrier%8
 draw	320	209	419	271	/sprites/ish/carrier%8
 static	341	400	490	497	f0f078	69	/sprites/gai/carrier%5

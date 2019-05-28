@@ -159,9 +159,9 @@ point	476	67	808080
 	225	-353	
 	284	-368	
 	246	-421	
-rect	187	0	188	481	000050
+rect	187	0	188	480	000050
 	443		444		
-	128	232	609	233	
+	128	232	608	233	
 line	441	224	432	227	00ff00
 draw	206	169	270	233	/sprites/loc/planets/purpleblue%0
 static	361	235	375	248	ffffff	111	/sprites/ish/cruiser%5

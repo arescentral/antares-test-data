@@ -133,8 +133,8 @@ point	550	392	808080
 	389	250	
 	388	230	
 	401	259	
-rect	492	0	493	481	002850
-	128	195	609	196	
+rect	492	0	493	480	002850
+	128	195	608	196	
 draw	486	-88	614	40	/sprites/loc/planets/yellow-cookie%0
 	352	225	384	250	/sprites/ish/cruiser%7
 	71	284	87	304	/sprites/gai/fighter%12

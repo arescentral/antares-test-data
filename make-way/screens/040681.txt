@@ -183,8 +183,8 @@ point	340	296	b0b0b0
 	673	84	
 	606	226	
 	371	52	
-rect	305	0	306	481	005000
-	128	19	609	20	000050
+rect	305	0	306	480	005000
+	128	19	608	20	000050
 line	569	-257	560	-271	00ff00
 draw	-41	141	87	269	/sprites/loc/planets/cloudtones%0
 static	347	221	391	261	ffffff	86	/sprites/ish/gunship%23

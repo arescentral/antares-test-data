@@ -123,8 +123,8 @@ point	554	183	808080
 	377	328	808080
 	206	180	d0d0d0
 	587	338	b0b0b0
-rect	183	0	184	481	000050
-	128	464	609	465	
+rect	183	0	184	480	000050
+	128	464	608	465	
 draw	349	74	477	202	/sprites/loc/planets/cloudtones%0
 	413	283	457	323	/sprites/ish/gunship%23
 	258	128	298	168	/sprites/ish/gunship%6

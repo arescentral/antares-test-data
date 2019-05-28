@@ -133,8 +133,8 @@ point	272	384	d0d0d0
 	420	-1011	
 	432	-959	
 	400		
-rect	236	0	237	481	000050
-	128	216	609	217	
+rect	236	0	237	480	000050
+	128	216	608	217	
 line	556	-211	566	-206	ff007f
 static	350	228	380	249	f0f078	34	/sprites/ish/aslttran%3
 draw	325	283	349	306	/sprites/sfx/explosion/gas%6

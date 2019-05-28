@@ -129,8 +129,8 @@ point	535	220	b0b0b0
 	351	262	
 	363	275	e0e000
 	384	287	
-rect	421	0	422	481	000050
-	128	188	609	189	
+rect	421	0	422	480	000050
+	128	188	608	189	
 static	312	206	424	276	ffffff	25	/sprites/ish/carrier%16
 	284	286	316	321	f0eac3	76	/sprites/gai/cruiser%5
 draw	350	241	370	253	/sprites/dev/pp%1

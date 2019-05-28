@@ -123,7 +123,7 @@ point	328	442	808080
 	266	43	
 	482	245	b0b0b0
 	397	69	808080
-rect	279	0	280	427	000050
+rect	279	0	280	426	000050
 draw	351	34	633	312	/sprites/sfx/jump%13
 	322	461	369	505	/sprites/uns/gunship%2
 static	414	136	585	234	ffffff	135	/sprites/can/gateship%5

@@ -183,7 +183,7 @@ point	294	345	808080
 	381	252	
 	378	272	
 	401	253	
-rect	264	0	265	481	000050
+rect	264	0	265	480	000050
 line	307	103	312	117	7fff7f
 static	337	230	401	258	ffffff	48	/sprites/uns/gunship%5
 draw	321	52	337	68	/sprites/can/fighter%15

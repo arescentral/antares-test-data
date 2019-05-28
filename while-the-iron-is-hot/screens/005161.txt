@@ -135,8 +135,8 @@ point	401	246	b0b0b0
 	253	506	
 	145	389	d0d000
 	185	398	
-rect	337	0	338	481	000050
-	128	3	609	4	
+rect	337	0	338	480	000050
+	128	3	608	4	
 line	395	390	393	370	00ff00
 draw	358	225	386	253	/sprites/ish/cruiser%13
 static	73	255	109	288	f0eac3	86	/sprites/gai/cruiser%8

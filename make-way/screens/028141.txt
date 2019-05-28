@@ -123,9 +123,9 @@ point	405	169	d0d0d0
 	190	154	
 	376	74	b0b0b0
 	252	73	d0d0d0
-rect	229	0	230	481	000050
+rect	229	0	230	480	000050
 	581		582		
-	128	303	609	304	
+	128	303	608	304	
 draw	173	156	209	187	/sprites/can/transport%6
 	222	287	233	297	/sprites/can/fighter%3
 	63	127	74	138	/sprites/can/fighter%10

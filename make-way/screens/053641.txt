@@ -173,7 +173,7 @@ point	451	199	808080
 	130	198	
 	295	134	
 	255	321	
-rect	491	0	492	481	005000
+rect	491	0	492	480	005000
 line	277	259	262	252	ffff7f
 draw	145	106	273	234	/sprites/loc/planets/cloudtones%0
 	123	329	167	370	/sprites/ish/gunship%1

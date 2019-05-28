@@ -133,8 +133,8 @@ point	594	72	d0d0d0
 	493	415	
 	426	368	
 	350	378	
-rect	428	0	429	481	000050
-	128	233	609	234	002850
+rect	428	0	429	480	000050
+	128	233	608	234	002850
 static	358	228	388	255	ffffff	18	/sprites/ish/cruiser%22
 draw	288	378	318	401	/sprites/ish/cruiser%0
 	246	74	280	105	/sprites/gai/cruiser%16

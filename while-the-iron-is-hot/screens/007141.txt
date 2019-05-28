@@ -153,8 +153,8 @@ point	302	317	d0d0d0
 	914	-1337	
 	1076	-1406	
 	886	-1407	
-rect	221	0	222	481	000050
-	128	173	609	174	
+rect	221	0	222	480	000050
+	128	173	608	174	
 static	427	106	463	136	f0eac3	54	/sprites/gai/cruiser%11
 draw	351	228	379	257	/sprites/ish/cruiser%2
 	475	-49	587	115	/sprites/gai/carrier%11

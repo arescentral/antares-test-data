@@ -123,8 +123,8 @@ point	342	303	d0d0d0
 	186	56	d0d0d0
 	373	128	
 	469	363	808080
-rect	593	0	594	405	000050
-	128	216	609	217	
+rect	593	0	594	404	000050
+	128	216	608	217	
 line	459	155	449	165	7f7fff
 static	465	75	601	217	ffffff	4	/sprites/ish/etc/research%11
 draw	355	222	379	261	/sprites/ele/cruiser%1

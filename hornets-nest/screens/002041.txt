@@ -123,7 +123,7 @@ point	304	297	d0d0d0
 	506	28	808080
 	561	64	
 	294	120	
-rect	128	179	609	180	000050
+rect	128	179	608	180	000050
 draw	357	222	381	261	/sprites/ele/cruiser%11
 	343	390	367	411	/sprites/sfx/energy%0
 	388	449	416	472	/sprites/sfx/explosion/energy%14

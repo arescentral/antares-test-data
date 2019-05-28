@@ -163,8 +163,8 @@ point	194	291	b0b0b0
 	324	278	
 	333	284	
 	323	169	
-rect	458	0	459	481	000050
-	128	22	609	23	
+rect	458	0	459	480	000050
+	128	22	608	23	
 line	359	222	358	235	7fff7f
 draw	340	222	388	267	/sprites/uns/gunship%2
 static	334	126	386	172	f0f078	54	/sprites/can/transport%6

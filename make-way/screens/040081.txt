@@ -133,7 +133,7 @@ point	330	49	b0b0b0
 	386	300	
 	391	325	
 		318	
-rect	356	0	357	481	000050
+rect	356	0	357	480	000050
 line	33	-106	22	-93	00ff00
 draw	522	99	650	227	/sprites/loc/planets/cloudtones%0
 static	241	121	269	155	00000000	101	/sprites/can/cruiser%5

@@ -133,8 +133,8 @@ point	340	370	b0b0b0
 	-7697	2339	
 	-7854	2390	
 	-7912	2313	
-rect	242	0	243	481	000050
-	128	45	609	46	
+rect	242	0	243	480	000050
+	128	45	608	46	
 draw	62	414	70	419	/sprites/sfx/crew%20
 static	348	216	396	260	ffffff	50	/sprites/ish/gunship%15
 draw	348	381	384	412	/sprites/can/aslttran%4

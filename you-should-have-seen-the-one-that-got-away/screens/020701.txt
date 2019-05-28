@@ -123,9 +123,9 @@ point	204	122	b0b0b0
 	176	433	
 	227	118	b0b0b0
 	552	200	d0d0d0
-rect	311	0	312	481	000050
+rect	311	0	312	480	000050
 	523		524		
-	128	211	609	212	
+	128	211	608	212	
 		423		424	
 draw	119	188	145	214	/sprites/loc/planets/yellow-cookie%0
 	356	235	382	245	/sprites/uns/gunship%18

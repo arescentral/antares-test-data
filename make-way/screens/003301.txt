@@ -153,7 +153,7 @@ point	392	142	b0b0b0
 	304	302	
 	337	325	
 	294	300	
-rect	128	449	609	450	000050
+rect	128	449	608	450	000050
 draw	356	224	388	251	/sprites/ish/cruiser%16
 static	276	289	312	321	f0f078	95	/sprites/can/aslttran%7
 draw	292	272	303	281	/sprites/sfx/explosion/energy%19

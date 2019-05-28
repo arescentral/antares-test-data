@@ -123,8 +123,8 @@ point	260	371	d0d0d0
 	243	305	
 	263	50	
 	319	279	b0b0b0
-rect	520	0	521	481	000050
-	128	202	609	203	
+rect	520	0	521	480	000050
+	128	202	608	203	
 draw	318	200	422	280	/sprites/ish/carrier%15
 	66	408	82	424	/sprites/sfx/debris%5
 	196	417	212	431	/sprites/sfx/debris%4

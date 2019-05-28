@@ -123,7 +123,7 @@ point	403	41	808080
 	368	449	
 	584	446	808080
 	499	5	
-rect	128	201	609	202	000050
+rect	128	201	608	202	000050
 draw	358	225	386	253	/sprites/ish/cruiser%13
 	313	378	349	410	/sprites/can/aslttran%17
 	629	233	669	269	/sprites/ish/gunship%12

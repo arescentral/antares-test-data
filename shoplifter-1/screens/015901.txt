@@ -133,8 +133,8 @@ point	172	139	b0b0b0
 	368	199	
 	369	218	
 	365	229	
-rect	455	0	456	481	000050
-	128	419	609	420	
+rect	455	0	456	480	000050
+	128	419	608	420	
 line	368	17	367	35	00ff00
 draw	347	225	383	261	/sprites/ish/hvc%2
 	168	2	172	6	/sprites/obi/etc/obiard/turning%5

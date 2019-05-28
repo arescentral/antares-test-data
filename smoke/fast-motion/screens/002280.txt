@@ -123,7 +123,7 @@ point	493	95	808080
 	189	128	b0b0b0
 	196	415	808080
 	496	140	d0d0d0
-rect	416	0	417	481	000050
+rect	416	0	417	480	000050
 draw	248	24	296	90	/sprites/gai/gunship%13
 	367	237	373	243	/sprites/sfx/crew%14
 	518	156	526	161	/sprites/sfx/crew%7

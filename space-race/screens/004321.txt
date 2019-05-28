@@ -133,8 +133,8 @@ point	573	466	d0d0d0
 	-491	1661	
 	-330	1749	
 	-443	1825	
-rect	360	0	361	481	000050
-	128	342	609	343	
+rect	360	0	361	480	000050
+	128	342	608	343	
 draw	328	199	409	280	/sprites/ish/carrier%10
 	407	273	421	285	/sprites/ish/fighter%6
 	390	-5	404	8	/sprites/ish/fighter%9

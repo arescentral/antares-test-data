@@ -143,8 +143,8 @@ point	580	301	808080
 	204	219	
 	172	204	
 	198	267	
-rect	481	0	482	481	000050
-	128	116	609	117	
+rect	481	0	482	480	000050
+	128	116	608	117	
 draw	353	230	376	253	/sprites/ish/cruiser%2
 	148	187	174	209	/sprites/ish/cruiser%16
 static	63	215	194	318	f0f078	85	/sprites/gai/carrier%4

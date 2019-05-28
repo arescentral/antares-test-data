@@ -143,9 +143,9 @@ point	223	384	808080
 	557	341	
 	461	373	
 	507	177	
-rect	146	0	147	481	000050
+rect	146	0	147	480	000050
 	532		533		
-	128	378	609	379	
+	128	378	608	379	
 static	359	230	379	249	ffffff	66	/sprites/ish/cruiser%18
 draw	550	-9	573	13	/sprites/ish/cruiser%14
 	472	329	492	348	/sprites/ish/cruiser%18

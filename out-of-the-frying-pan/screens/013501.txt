@@ -123,7 +123,7 @@ point	548	20	808080
 	336	192	b0b0b0
 	241	441	
 	586	350	d0d0d0
-rect	206	0	207	481	002850
+rect	206	0	207	480	002850
 draw	266	140	522	396	/sprites/loc/planets/bluegas%0
 	346	216	410	270	/sprites/ish/cruiser%23
 	500	144	580	210	/sprites/loc/flak%13

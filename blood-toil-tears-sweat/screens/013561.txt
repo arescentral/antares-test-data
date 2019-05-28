@@ -123,8 +123,8 @@ point	155	315	b0b0b0
 	378	455	b0b0b0
 	134	130	
 	428	25	808080
-rect	160	0	161	481	000050
-	128	120	609	121	
+rect	160	0	161	480	000050
+	128	120	608	121	
 draw	429	136	550	257	/sprites/loc/planets/fall%0
 	344	220	397	258	/sprites/uns/gunship%15
 static	-26	-38	8	5	ffffff	110	/sprites/uns/gunship%11

@@ -133,8 +133,8 @@ point	492	329	b0b0b0
 	102	318	
 	103	317	
 	99	321	
-rect	457	0	458	481	000050
-	128	117	609	118	
+rect	457	0	458	480	000050
+	128	117	608	118	
 draw	351	223	383	252	/sprites/ish/cruiser%9
 	90	324	130	354	/sprites/gai/cruiser%2
 	101	242	137	269	/sprites/gai/cruiser%12

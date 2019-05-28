@@ -153,8 +153,8 @@ point	342	96	d0d0d0
 	424	77	
 	467	130	
 	393	78	
-rect	564	0	565	481	000050
-	128	273	609	274	
+rect	564	0	565	480	000050
+	128	273	608	274	
 static	345	21	425	92	f0f078	24	/sprites/can/carrier%3
 		223	389	261	ffffff	120	/sprites/ish/gunship%2
 draw	188	226	202	239	/sprites/can/fighter%21

@@ -123,8 +123,8 @@ point	460	299	b0b0b0
 	352	250	d0d0d0
 	297	375	808080
 	493	424	
-rect	277	0	278	481	002850
-	128	300	609	301	
+rect	277	0	278	480	002850
+	128	300	608	301	
 draw	292	186	420	314	/sprites/loc/planets/calmpurple%0
 	340	223	404	265	/sprites/ish/hvd%20
 	350	240	376	264	/sprites/ish/transport%20

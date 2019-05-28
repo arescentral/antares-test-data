@@ -145,7 +145,7 @@ point	200	342	d0d0d0
 	799	708	
 	612	584	c0c000
 	719	549	
-rect	559	0	560	481	000050
+rect	559	0	560	480	000050
 draw	306	218	434	262	/sprites/ish/carrier%6
 static	467	327	579	491	f0f078	53	/sprites/gai/carrier%11
 draw	500	318	509	328	/sprites/sfx/explosion/large-hit%1

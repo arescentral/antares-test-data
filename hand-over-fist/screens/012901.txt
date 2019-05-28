@@ -123,7 +123,7 @@ point	355	3	808080
 	367	427	
 	465	182	808080
 	195	42	d0d0d0
-rect	513	0	514	481	002850
+rect	513	0	514	480	002850
 draw	304	-32	432	96	/sprites/loc/planets/yellow%0
 	502	394	522	435	/sprites/can/cruiser%23
 	344	220	388	264	/sprites/ish/gunship%4

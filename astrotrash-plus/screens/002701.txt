@@ -123,8 +123,8 @@ point	158	385	b0b0b0
 	370	138	d0d0d0
 	163	127	b0b0b0
 	399	232	808080
-rect	136	0	137	481	000050
-	128	142	609	143	
+rect	136	0	137	480	000050
+	128	142	608	143	
 draw	351	229	391	257	/sprites/ish/hvc%19
 	165	182	217	232	/sprites/ast/regular/big%7
 	224	273	264	316	/sprites/ish/etc/astrominer%0

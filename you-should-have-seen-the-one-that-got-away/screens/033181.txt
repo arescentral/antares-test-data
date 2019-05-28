@@ -163,8 +163,8 @@ point	226	126	808080
 	891	26	
 	893	19	
 	910	9	
-rect	190	0	191	481	002850
-	128	22	609	23	000050
+rect	190	0	191	480	002850
+	128	22	608	23	000050
 line	423	229	410	232	7fff7f
 draw	453	156	581	284	/sprites/loc/planets/aqua-minerale%0
 static	337	224	393	265	ffffff	88	/sprites/uns/gunship%3

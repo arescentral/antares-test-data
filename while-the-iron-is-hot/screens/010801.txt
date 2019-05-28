@@ -153,8 +153,8 @@ point	209	31	d0d0d0
 	471	323	
 	515	503	
 	588	321	
-rect	541	0	542	481	000050
-	128	202	609	203	
+rect	541	0	542	480	000050
+	128	202	608	203	
 draw	354	229	382	256	/sprites/ish/cruiser%5
 static	423	274	583	370	f0f078	46	/sprites/gai/carrier%18
 draw	536	279	544	286	/sprites/sfx/explosion/energy%18

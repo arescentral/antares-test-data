@@ -133,8 +133,8 @@ point	424	315	b0b0b0
 	291	605	
 	437	467	
 	434	545	
-rect	273	0	274	481	000050
-	128	315	609	316	
+rect	273	0	274	480	000050
+	128	315	608	316	
 draw	344	194	392	286	/sprites/ish/carrier%12
 	278	452	286	457	/sprites/sfx/crew%22
 	270	467	358	541	/sprites/sfx/explosion/energy%8

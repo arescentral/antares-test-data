@@ -155,7 +155,7 @@ point	581	425	d0d0d0
 	651	604	
 	702	517	
 	660	560	
-rect	460	0	461	481	000050
+rect	460	0	461	480	000050
 draw	314	206	426	276	/sprites/ish/carrier%8
 	404	385	572	497	/sprites/gai/carrier%7
 	580	289	612	323	/sprites/gai/cruiser%7

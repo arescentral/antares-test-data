@@ -221,8 +221,8 @@ point	599	290	808080
 	316	471	
 	510	275	b0b000
 	441	380	
-rect	272	0	273	481	002850
-	128		609	1	
+rect	272	0	273	480	002850
+	128		608	1	
 line	588	1197	594	1185	7fff7f
 static	334	194	405	283	ffffff	73	/sprites/ish/carrier%13
 draw	312	377	379	417	/sprites/gai/gunship%5

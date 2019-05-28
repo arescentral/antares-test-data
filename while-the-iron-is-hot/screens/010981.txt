@@ -157,8 +157,8 @@ point	136	4	d0d0d0
 	447	353	
 	366	302	e0e000
 	368	274	
-rect	389	0	390	481	000050
-	128	179	609	180	
+rect	389	0	390	480	000050
+	128	179	608	180	
 line	409	283	398	271	00ff00
 draw	582	228	708	354	/sprites/loc/planets/saturny%0
 static	351	224	382	252	ffffff	106	/sprites/ish/cruiser%10

@@ -123,7 +123,7 @@ point	160	405	808080
 	349	-1	
 	432	433	808080
 	515	81	b0b0b0
-rect	128	198	609	199	000050
+rect	128	198	608	199	000050
 static	350	224	380	257	ffffff	96	/sprites/ish/hvc%1
 draw	316	145	321	150	/sprites/sfx/crew%18
 	360	75	367	81	/sprites/sfx/crew%23

@@ -133,7 +133,7 @@ point	370	222	d0d0d0
 		514	
 	444	506	
 	450	490	
-rect	465	0	466	481	002850
+rect	465	0	466	480	002850
 line	385	245	378	230	00ff00
 draw	351	223	383	252	/sprites/ish/cruiser%9
 static	439	321	575	471	f0f078	107	/sprites/gai/carrier%22

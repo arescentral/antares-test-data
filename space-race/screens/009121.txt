@@ -135,8 +135,8 @@ point	387	190	d0d0d0
 	428	412	
 	454	292	c0c000
 	321	378	
-rect	135	0	136	481	000050
-	128	22	609	23	
+rect	135	0	136	480	000050
+	128	22	608	23	
 static	344	194	392	286	ffffff	6	/sprites/ish/carrier%12
 draw	283	359	299	375	/sprites/sfx/debris%3
 	284	362	300	377	/sprites/sfx/debris%6

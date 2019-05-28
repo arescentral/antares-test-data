@@ -127,7 +127,7 @@ point	278	328	d0d0d0
 		653	
 	782	638	f0f000
 	783	644	
-rect	128	479	609	480	000050
+rect	128	479	608	480	000050
 draw	306	218	434	262	/sprites/ish/carrier%6
 static	486	298	622	456	f0f078	14	/sprites/gai/carrier%10
 draw	483	342	496	356	/sprites/sfx/explosion/large-hit%3

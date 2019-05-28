@@ -133,8 +133,8 @@ point	508	215	d0d0d0
 	445	28	
 	435	46	
 	368	214	
-rect	581	0	582	481	000050
-	128	364	609	365	
+rect	581	0	582	480	000050
+	128	364	608	365	
 static	599	86	627	123	00000000	254	/sprites/can/cruiser%20
 draw	343	222	391	264	/sprites/ish/gunship%2
 	431	98	447	113	/sprites/sfx/debris%6

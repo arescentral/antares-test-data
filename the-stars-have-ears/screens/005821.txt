@@ -125,8 +125,8 @@ point	560	325	d0d0d0
 	228	216	d0d0d0
 	359	247	ffff00
 	357	250	
-rect	365	0	366	481	005000
-	128	462	609	463	002850
+rect	365	0	366	480	005000
+	128	462	608	463	002850
 static	356	219	386	253	ffffff	90	/sprites/ish/hvc%14
 draw	292	294	326	325	/sprites/gai/cruiser%3
 	296	181		214	/sprites/gai/cruiser%5

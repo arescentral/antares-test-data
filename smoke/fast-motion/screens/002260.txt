@@ -131,8 +131,8 @@ point	145	57	b0b0b0
 	421	302	
 	412	236	ffff00
 	398	252	
-rect	390	0	391	481	000050
-	128	118	609	119	
+rect	390	0	391	480	000050
+	128	118	608	119	
 static	353	225	381	250	ffffff	94	/sprites/ish/cruiser%9
 draw	267	169	326	216	/sprites/gai/gunship%8
 	299	190	316	199	/sprites/sfx/gunsmoke%8

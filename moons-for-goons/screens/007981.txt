@@ -123,7 +123,7 @@ point	404	339	808080
 	261	138	d0d0d0
 	464	441	b0b0b0
 	508	34	808080
-rect	128	112	609	113	000050
+rect	128	112	608	113	000050
 static	356	224	388	251	ffffff	116	/sprites/ish/cruiser%16
 draw	297	236	313	252	/sprites/sfx/debris%5
 	319	280	335	293	/sprites/sfx/debris%1

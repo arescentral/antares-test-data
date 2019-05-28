@@ -133,7 +133,7 @@ point	571	411	808080
 	464	272	
 	424	435	
 	687	317	
-rect	460	0	461	481	000050
+rect	460	0	461	480	000050
 static	355	227	383	253	ffffff	96	/sprites/ish/cruiser%6
 	402	172	426	205	f0f078	56	/sprites/can/aslttran%23
 draw	45	136	73	164	/sprites/ish/cruiser%11

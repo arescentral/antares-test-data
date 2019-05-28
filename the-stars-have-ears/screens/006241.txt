@@ -133,7 +133,7 @@ point	252	182	808080
 	315	83	
 	320	82	
 	318	77	
-rect	128	66	609	67	002850
+rect	128	66	608	67	002850
 line	361	180	367	199	00ff00
 draw	357	225	393	261	/sprites/ish/hvc%22
 static	291	78	331	108	f0eac3	51	/sprites/gai/cruiser%22

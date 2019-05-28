@@ -123,8 +123,8 @@ point	210	96	d0d0d0
 	168	98	
 	451	211	808080
 	200	137	b0b0b0
-rect	369	0	370	481	000050
-	128	250	609	251	
+rect	369	0	370	480	000050
+	128	250	608	251	
 draw	352	225	384	250	/sprites/ish/cruiser%7
 	103	-15	167	79	/sprites/can/carrier%13
 	304	36	340	67	/sprites/can/aslttran%20

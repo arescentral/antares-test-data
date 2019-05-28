@@ -123,8 +123,8 @@ point	137	330	d0d0d0
 	302	382	b0b0b0
 	498	201	808080
 	440	112	b0b0b0
-rect	245	0	246	481	002850
-	128	117	609	118	
+rect	245	0	246	480	002850
+	128	117	608	118	
 draw	419	141	547	269	/sprites/loc/planets/marshmellow%0
 	482	146	570	234	/sprites/ish/carrier%10
 	332	223	396	265	/sprites/ish/hvd%4

@@ -183,8 +183,8 @@ point	503	119	808080
 	382	407	
 	503	295	
 	391	312	
-rect	486	0	487	481	000050
-	128	14	609	15	
+rect	486	0	487	480	000050
+	128	14	608	15	
 line	334	290	343	280	7fff7f
 draw	237	148	365	276	/sprites/loc/planets/aqua-minerale%0
 	460	19	492	68	/sprites/uns/transport%13

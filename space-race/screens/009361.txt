@@ -123,8 +123,8 @@ point	229	409	d0d0d0
 	227	324	
 	247	68	
 	295	307	b0b0b0
-rect	489	0	490	481	000050
-	128	240	609	241	
+rect	489	0	490	480	000050
+	128	240	608	241	
 draw	318	200	422	280	/sprites/ish/carrier%15
 	219	211	255	244	/sprites/gai/cruiser%8
 	66	459	78	473	/sprites/sfx/debris%11

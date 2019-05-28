@@ -143,8 +143,8 @@ point	338	179	b0b0b0
 	228	339	
 	221	375	
 	232	345	
-rect	536	0	537	481	002850
-	128	231	609	232	000050
+rect	536	0	537	480	002850
+	128	231	608	232	000050
 draw	219	280	347	408	/sprites/loc/planets/saturny%0
 	356	224	388	251	/sprites/ish/cruiser%16
 static	192	329	328	479	f0f078	9	/sprites/gai/carrier%2
