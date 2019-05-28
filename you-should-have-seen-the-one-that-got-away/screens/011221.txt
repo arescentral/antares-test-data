@@ -134,7 +134,7 @@ point	514	282	d0d0d0
 	11659	2126	
 	11640	2227	
 rect	413	0	414	480	000050
-	128	231	608	232	
+	128	230	608	231	
 draw	350	233	387	250	/sprites/uns/gunship%19
 	521	328	533	339	/sprites/sfx/energy%1
 	560	346	629	403	/sprites/sfx/explosion/energy%13

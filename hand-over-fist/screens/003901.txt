@@ -183,8 +183,8 @@ point	453	256	808080
 	582	280	
 	559	304	
 	558	324	
-rect	571	0	572	480	000050
-	128	179	608	180	
+rect	573	0	574	480	000050
+	128	180	608	181	
 draw	487	243	528	286	/sprites/can/gunship%2
 	346	219	387	259	/sprites/ish/gunship%7
 	544	265	554	273	/sprites/sfx/explosion/energy%19

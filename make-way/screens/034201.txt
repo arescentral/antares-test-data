@@ -154,8 +154,8 @@ point	151	91	b0b0b0
 	417	299	
 	398		
 rect	132	0	133	415	002850
-	488		489		000050
-	128	66	608	67	
+	483		484		000050
+	128	65	608	66	
 draw	53	7	151	85	/sprites/loc/bunker%0
 	90	369	117	396	/sprites/ish/gunship%6
 	319	264	340	282	/sprites/ish/cruiser%1

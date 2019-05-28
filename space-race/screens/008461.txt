@@ -125,7 +125,7 @@ point	434	293	d0d0d0
 	524	106	d0d0d0
 rect	353	0	354	480	000050
 	128	74	608	75	
-		333		334	
+		332		333	
 draw	592	454	656	477	/sprites/ish/carrier%5
 	338	224	398	254	/sprites/ish/carrier%7
 	340	398	343	401	/sprites/sfx/crew%18

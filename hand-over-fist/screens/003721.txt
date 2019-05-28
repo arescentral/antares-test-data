@@ -133,7 +133,7 @@ point	470	302	808080
 	517	398	
 	638	532	
 	569	590	
-rect	128	309	608	310	000050
+rect	128	308	608	309	000050
 draw	368	416	399	444	/sprites/ish/cruiser%10
 	478	423	517	475	/sprites/can/gunship%15
 	346	219	389	258	/sprites/ish/gunship%11

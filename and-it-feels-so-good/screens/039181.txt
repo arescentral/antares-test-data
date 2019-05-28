@@ -123,7 +123,7 @@ point	470	115	b0b0b0
 	260	320	
 	402	129	
 	296	4	b0b0b0
-rect	166	0	167	480	002850
+rect	167	0	168	480	002850
 	128	92	608	93	
 draw	323	113	439	229	/sprites/loc/planets/marshmellow%0
 	338	223	396	254	/sprites/ish/hvd%6

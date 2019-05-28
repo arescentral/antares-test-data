@@ -124,7 +124,7 @@ point	593	476	d0d0d0
 	520	208	b0b0b0
 	537	431	d0d0d0
 rect	215	0	216	480	000050
-	128	410	608	411	002850
+	128	407	608	408	002850
 draw	357	225	386	257	/sprites/ish/hvc%23
 	288	-59	376	47	/sprites/ast/nasty%17
 	270	-1	303	29	/sprites/sfx/explosion/gas%9

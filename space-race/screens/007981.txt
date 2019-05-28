@@ -124,9 +124,9 @@ point	252	384	d0d0d0
 	488	261	b0b0b0
 	476	359	808080
 rect	172	0	173	480	000050
-	492		493		
+	493		494		
 	128	45	608	46	
-		365		366	
+		366		367	
 static	391	280	446	335	ffffff	3	/sprites/ish/carrier%10
 draw	352	211	382	268	/sprites/ish/carrier%12
 	564	315	576	325	/sprites/gai/fighter%20

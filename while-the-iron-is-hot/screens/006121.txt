@@ -134,7 +134,7 @@ point	550	18	d0d0d0
 	690	206	
 	624	298	
 rect	159	0	160	480	000050
-	128	272	608	273	
+	128	271	608	272	
 line	611	161	600	161	00ff00
 draw	355	230	379	254	/sprites/ish/cruiser%5
 static	563	201	705	286	f0f078	53	/sprites/gai/carrier%18

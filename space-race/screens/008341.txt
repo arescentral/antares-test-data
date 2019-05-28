@@ -124,8 +124,8 @@ point	347	314	d0d0d0
 	336	161	
 	438	128	d0d0d0
 rect	237	0	238	480	000050
-	128	17	608	18	
-		413		414	
+	128	16	608	17	
+		409		410	
 draw	323	216	415	262	/sprites/ish/carrier%7
 static	508	281	612	402	f0f078	4	/sprites/gai/carrier%14
 draw	523	333	532	343	/sprites/sfx/explosion/large-hit%3
