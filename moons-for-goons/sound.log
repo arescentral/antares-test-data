@@ -1,10 +1,10 @@
 0	3	quiet
 0	3	loop	music	255	freds-theme
 0	3	quiet
+0	0	play	sound	128	gui/beep/zoom
 0	3	quiet
 0	3	loop	music	215	autoregret
-0	0	play	sound	128	gui/beep/button
-1	1	play	sound	128	gui/beep/zoom
+0	1	play	sound	128	gui/beep/button
 2	2	play	sound	64	gui/beep/message
 3	2	play	sound	64	gui/beep/message
 4	2	play	sound	64	gui/beep/message
@@ -20,7 +20,7 @@
 14	2	play	sound	64	gui/beep/message
 15	2	play	sound	64	gui/beep/message
 16	2	play	sound	64	gui/beep/message
-17	1	play	sound	128	gui/beep/zoom
+16	0	play	sound	128	gui/beep/zoom
 17	2	play	sound	64	gui/beep/message
 18	2	play	sound	64	gui/beep/message
 19	2	play	sound	64	gui/beep/message
@@ -243,7 +243,7 @@
 236	2	play	sound	64	gui/beep/message
 237	2	play	sound	64	gui/beep/message
 238	2	play	sound	64	gui/beep/message
-300	0	play	sound	128	gui/beep/button
+300	1	play	sound	128	gui/beep/button
 361	2	play	sound	64	gui/beep/message
 362	2	play	sound	64	gui/beep/message
 363	2	play	sound	64	gui/beep/message
@@ -335,7 +335,7 @@
 449	2	play	sound	64	gui/beep/message
 450	2	play	sound	64	gui/beep/message
 451	2	play	sound	64	gui/beep/message
-564	0	play	sound	128	gui/beep/button
+564	1	play	sound	128	gui/beep/button
 574	2	play	sound	64	gui/beep/message
 575	2	play	sound	64	gui/beep/message
 576	2	play	sound	64	gui/beep/message
@@ -496,7 +496,7 @@
 732	2	play	sound	64	gui/beep/message
 733	2	play	sound	64	gui/beep/message
 734	2	play	sound	64	gui/beep/message
-735	0	play	sound	128	gui/beep/button
+735	1	play	sound	128	gui/beep/button
 735	2	play	sound	64	gui/beep/message
 736	2	play	sound	64	gui/beep/message
 737	2	play	sound	64	gui/beep/message
@@ -703,7 +703,7 @@
 945	2	play	sound	64	gui/beep/message
 946	2	play	sound	64	gui/beep/message
 947	2	play	sound	64	gui/beep/message
-948	0	play	sound	128	gui/beep/button
+948	1	play	sound	128	gui/beep/button
 948	2	play	sound	64	gui/beep/message
 949	2	play	sound	64	gui/beep/message
 950	2	play	sound	64	gui/beep/message
@@ -810,7 +810,7 @@
 1066	2	play	sound	64	gui/beep/message
 1067	2	play	sound	64	gui/beep/message
 1068	2	play	sound	64	gui/beep/message
-1101	0	play	sound	128	gui/beep/button
+1101	1	play	sound	128	gui/beep/button
 1112	2	play	sound	64	gui/beep/message
 1115	2	play	sound	64	gui/beep/message
 1118	2	play	sound	64	gui/beep/message
@@ -965,7 +965,7 @@
 1452	2	play	sound	64	gui/beep/message
 1455	2	play	sound	64	gui/beep/message
 1458	2	play	sound	64	gui/beep/message
-1461	0	play	sound	128	gui/beep/button
+1461	1	play	sound	128	gui/beep/button
 1463	2	play	sound	64	gui/beep/message
 1466	2	play	sound	64	gui/beep/message
 1469	2	play	sound	64	gui/beep/message
@@ -1016,9 +1016,9 @@
 1633	2	play	sound	64	gui/beep/message
 1636	2	play	sound	64	gui/beep/message
 1639	2	play	sound	64	gui/beep/message
-1674	0	play	sound	128	gui/beep/button
-1683	0	play	sound	128	gui/beep/button
-1692	0	play	sound	128	gui/beep/button
+1674	1	play	sound	128	gui/beep/button
+1683	1	play	sound	128	gui/beep/button
+1692	1	play	sound	128	gui/beep/button
 1712	2	play	sound	64	gui/beep/message
 1715	2	play	sound	64	gui/beep/message
 1718	2	play	sound	64	gui/beep/message
@@ -1043,7 +1043,7 @@
 1775	2	play	sound	64	gui/beep/message
 1778	2	play	sound	64	gui/beep/message
 1781	2	play	sound	64	gui/beep/message
-1791	0	play	sound	128	gui/beep/button
+1791	1	play	sound	128	gui/beep/button
 1794	2	play	sound	64	gui/beep/message
 1797	2	play	sound	64	gui/beep/message
 1800	2	play	sound	64	gui/beep/message
@@ -1063,7 +1063,7 @@
 1842	2	play	sound	64	gui/beep/message
 1845	2	play	sound	64	gui/beep/message
 1848	2	play	sound	64	gui/beep/message
-1849	1	play	sound	128	gui/beep/zoom
+1848	0	play	sound	128	gui/beep/zoom
 1851	2	play	sound	64	gui/beep/message
 1854	2	play	sound	64	gui/beep/message
 1857	2	play	sound	64	gui/beep/message
@@ -1182,11 +1182,11 @@
 2200	2	play	sound	64	gui/beep/message
 2203	2	play	sound	64	gui/beep/message
 2206	2	play	sound	64	gui/beep/message
-2208	0	play	sound	128	gui/beep/button
+2208	1	play	sound	128	gui/beep/button
 2209	2	play	sound	64	gui/beep/message
 2212	2	play	sound	64	gui/beep/message
 2215	2	play	sound	64	gui/beep/message
-2217	0	play	sound	128	gui/beep/button
+2217	1	play	sound	128	gui/beep/button
 2218	2	play	sound	64	gui/beep/message
 2221	2	play	sound	64	gui/beep/message
 2224	2	play	sound	64	gui/beep/message
@@ -1674,7 +1674,7 @@
 2939	2	play	sound	64	gui/beep/message
 2942	2	play	sound	64	gui/beep/message
 2945	2	play	sound	64	gui/beep/message
-2946	0	play	sound	128	gui/beep/button
+2946	1	play	sound	128	gui/beep/button
 2948	2	play	sound	64	gui/beep/message
 2951	2	play	sound	64	gui/beep/message
 2954	2	play	sound	64	gui/beep/message
@@ -1682,7 +1682,7 @@
 2960	2	play	sound	64	gui/beep/message
 2963	2	play	sound	64	gui/beep/message
 2966	2	play	sound	64	gui/beep/message
-2967	0	play	sound	128	gui/beep/button
+2967	1	play	sound	128	gui/beep/button
 2969	2	play	sound	64	gui/beep/message
 2972	2	play	sound	64	gui/beep/message
 2975	2	play	sound	64	gui/beep/message
@@ -1690,7 +1690,7 @@
 2981	2	play	sound	64	gui/beep/message
 2984	2	play	sound	64	gui/beep/message
 2987	2	play	sound	64	gui/beep/message
-2988	0	play	sound	128	gui/beep/button
+2988	1	play	sound	128	gui/beep/button
 2990	2	play	sound	64	gui/beep/message
 2993	2	play	sound	64	gui/beep/message
 2996	2	play	sound	64	gui/beep/message
@@ -1699,7 +1699,7 @@
 3005	2	play	sound	64	gui/beep/message
 3008	2	play	sound	64	gui/beep/message
 3011	2	play	sound	64	gui/beep/message
-3012	0	play	sound	128	gui/beep/button
+3012	1	play	sound	128	gui/beep/button
 3014	2	play	sound	64	gui/beep/message
 3017	2	play	sound	64	gui/beep/message
 3020	2	play	sound	64	gui/beep/message
@@ -1708,13 +1708,13 @@
 3029	2	play	sound	64	gui/beep/message
 3032	2	play	sound	64	gui/beep/message
 3035	2	play	sound	64	gui/beep/message
-3036	0	play	sound	128	gui/beep/button
+3036	1	play	sound	128	gui/beep/button
 3038	2	play	sound	64	gui/beep/message
 3041	2	play	sound	64	gui/beep/message
 3044	2	play	sound	64	gui/beep/message
 3047	2	play	sound	64	gui/beep/message
-3050	1	play	sound	128	gui/beep/zoom
-3075	0	play	sound	128	gui/beep/button
+3049	0	play	sound	128	gui/beep/zoom
+3075	1	play	sound	128	gui/beep/button
 3154	2	play	sound	64	gui/beep/message
 3157	2	play	sound	64	gui/beep/message
 3160	2	play	sound	64	gui/beep/message
@@ -1745,7 +1745,7 @@
 3265	2	play	sound	64	gui/beep/message
 3268	2	play	sound	64	gui/beep/message
 3271	2	play	sound	64	gui/beep/message
-3273	0	play	sound	128	gui/beep/button
+3273	1	play	sound	128	gui/beep/button
 3276	2	play	sound	64	gui/beep/message
 3279	2	play	sound	64	gui/beep/message
 3282	2	play	sound	64	gui/beep/message
@@ -1764,7 +1764,7 @@
 3321	2	play	sound	64	gui/beep/message
 3324	2	play	sound	64	gui/beep/message
 3327	2	play	sound	64	gui/beep/message
-3328	1	play	sound	128	gui/beep/zoom
+3327	0	play	sound	128	gui/beep/zoom
 3330	2	play	sound	64	gui/beep/message
 3333	2	play	sound	64	gui/beep/message
 3336	2	play	sound	64	gui/beep/message
@@ -1814,11 +1814,11 @@
 3468	2	play	sound	64	gui/beep/message
 3471	2	play	sound	64	gui/beep/message
 3474	2	play	sound	64	gui/beep/message
-3477	0	play	sound	128	gui/beep/button
+3477	1	play	sound	128	gui/beep/button
 3479	2	play	sound	64	gui/beep/message
 3482	2	play	sound	64	gui/beep/message
 3485	2	play	sound	64	gui/beep/message
-3487	1	play	sound	128	gui/beep/zoom
+3486	0	play	sound	128	gui/beep/zoom
 3488	2	play	sound	64	gui/beep/message
 3491	2	play	sound	64	gui/beep/message
 3494	2	play	sound	64	gui/beep/message
@@ -3338,8 +3338,8 @@
 6148	2	play	sound	64	gui/beep/message
 6151	2	play	sound	64	gui/beep/message
 6154	2	play	sound	64	gui/beep/message
-6157	2	play	sound	64	gui/beep/message
-6157	2	play	sound	128	gui/beep/zoom
+6156	2	play	sound	128	gui/beep/zoom
+6157	0	play	sound	64	gui/beep/message
 6160	0	play	sound	64	gui/beep/message
 6163	0	play	sound	64	gui/beep/message
 6166	0	play	sound	64	gui/beep/message
@@ -3387,8 +3387,8 @@
 6369	0	play	sound	64	gui/beep/message
 6372	0	play	sound	64	gui/beep/message
 6375	0	play	sound	64	gui/beep/message
+6377	2	play	sound	128	gui/beep/zoom
 6378	0	play	sound	64	gui/beep/message
-6378	2	play	sound	128	gui/beep/zoom
 6381	0	play	sound	64	gui/beep/message
 6384	0	play	sound	64	gui/beep/message
 6387	0	play	sound	64	gui/beep/message
@@ -3608,10 +3608,10 @@
 6899	1	play	sound	64	gui/beep/message
 6921	1	play	sound	128	gui/beep/button
 6930	1	play	sound	128	gui/beep/button
-6979	2	play	sound	128	gui/beep/zoom
+6978	2	play	sound	128	gui/beep/zoom
 6981	1	play	sound	128	gui/beep/button
 6996	1	play	sound	128	gui/beep/button
-6997	2	play	sound	128	gui/beep/zoom
+6996	2	play	sound	128	gui/beep/zoom
 7093	0	play	sound	64	gui/beep/message
 7094	0	play	sound	64	gui/beep/message
 7095	0	play	sound	64	gui/beep/message

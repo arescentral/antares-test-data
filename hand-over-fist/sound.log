@@ -1,9 +1,9 @@
 0	3	quiet
 0	3	loop	music	255	freds-theme
 0	3	quiet
+0	0	play	sound	128	gui/beep/zoom
 0	3	quiet
 0	3	loop	music	215	eyes-of-fire
-1	0	play	sound	128	gui/beep/zoom
 54	1	play	sound	128	gui/beep/button
 126	1	play	sound	128	gui/beep/button
 192	0	play	sound	192	gui/beep/select
@@ -175,8 +175,8 @@
 2694	2	play	sound	128	gui/beep/button
 2700	2	play	sound	128	gui/beep/button
 2724	0	play	sound	255	sfx/warp/out
-2771	1	play	sound	128	gui/beep/zoom
-2812	1	play	sound	128	gui/beep/zoom
+2770	1	play	sound	128	gui/beep/zoom
+2811	1	play	sound	128	gui/beep/zoom
 2862	1	play	sound	42	sfx/warp/out
 2913	2	play	sound	20	dev/fusion
 2916	2	play	sound	24	dev/pk/ish
@@ -189,7 +189,7 @@
 3249	1	play	sound	138	sfx/explosion/small
 3288	1	play	sound	156	dev/pk/can
 3294	1	play	sound	159	dev/anti
-3387	2	play	sound	128	gui/beep/zoom
+3386	2	play	sound	128	gui/beep/zoom
 3390	1	play	sound	183	dev/fusion
 3417	0	play	sound	128	gui/beep/button
 3423	1	play	sound	128	gui/beep/naughty
@@ -379,7 +379,7 @@
 4185	0	play	sound	255	sfx/explosion/energy
 4194	0	play	sound	255	sfx/explosion/energy
 4200	1	play	sound	128	gui/beep/build
-4231	2	play	sound	128	gui/beep/zoom
+4230	2	play	sound	128	gui/beep/zoom
 4290	0	play	sound	128	gui/beep/button
 4299	0	play	sound	128	gui/beep/button
 5304	0	play	sound	192	gui/beep/select
@@ -430,7 +430,7 @@
 10296	2	play	sound	65	sfx/warp/charge/3
 10479	2	play	sound	128	gui/beep/button
 10488	2	play	sound	128	gui/beep/button
-10761	0	play	sound	128	gui/beep/zoom
+10760	0	play	sound	128	gui/beep/zoom
 10770	0	play	sound	255	dev/lepton
 10770	1	play	sound	255	dev/pk/ish
 10779	0	play	sound	255	dev/lepton
@@ -1039,7 +1039,7 @@
 13101	0	play	sound	255	dev/pk/can
 13107	0	play	sound	255	dev/pk/can
 13113	1	play	sound	110	dev/stealth/on
-13117	1	play	sound	128	gui/beep/zoom
+13116	1	play	sound	128	gui/beep/zoom
 13122	1	play	sound	255	dev/anti
 13128	0	play	sound	255	dev/pk/can
 13137	2	play	sound	255	sfx/explosion/energy
@@ -1091,7 +1091,7 @@
 13488	0	play	sound	196	sfx/warp/out
 13581	2	play	sound	128	gui/beep/button
 13590	2	play	sound	128	gui/beep/button
-13609	1	play	sound	128	gui/beep/zoom
+13608	1	play	sound	128	gui/beep/zoom
 13635	1	play	sound	20	dev/fusion
 13674	0	play	sound	255	dev/pk/can
 13677	1	play	sound	43	dev/anti
@@ -1120,28 +1120,28 @@
 13914	2	play	sound	95	dev/pk/ish
 13962	0	play	sound	94	dev/fusion
 13965	1	play	sound	63	dev/stealth/on
+13973	0	play	sound	128	gui/beep/zoom
 13974	0	play	sound	211	dev/fusion
 13974	2	play	sound	210	dev/pk/ish
-13974	1	play	sound	128	gui/beep/zoom
 13986	1	play	sound	96	dev/fusion
 13986	1	play	sound	97	dev/pk/ish
 13989	0	play	sound	90	dev/pk/ish
 13995	2	play	sound	79	sfx/explosion/energy
 13998	0	play	sound	92	dev/fusion
 13998	2	play	sound	80	sfx/explosion/energy
-14076	0	play	sound	128	gui/beep/zoom
+14075	0	play	sound	128	gui/beep/zoom
 14079	2	play	sound	94	dev/fusion
 14079	0	play	sound	94	dev/pk/ish
 14079	0	play	sound	128	gui/beep/button
-14086	1	play	sound	128	gui/beep/zoom
+14085	1	play	sound	128	gui/beep/zoom
 14088	0	play	sound	128	gui/beep/button
-14099	1	play	sound	128	gui/beep/zoom
+14098	1	play	sound	128	gui/beep/zoom
 14121	2	play	sound	96	dev/fusion
 14121	0	play	sound	95	dev/pk/ish
-14122	1	play	sound	128	gui/beep/zoom
+14121	1	play	sound	128	gui/beep/zoom
 14130	0	play	sound	97	sfx/explosion/energy
 14142	0	play	sound	99	dev/pk/ish
-14152	1	play	sound	128	gui/beep/zoom
+14151	1	play	sound	128	gui/beep/zoom
 14181	2	play	sound	107	dev/fusion
 14184	0	play	sound	255	dev/pk/can
 14193	1	play	sound	255	sfx/explosion/energy
@@ -1393,16 +1393,16 @@
 15318	0	play	sound	189	dev/fusion
 15345	0	play	sound	245	dev/fusion
 15360	1	play	sound	128	gui/beep/button
-15361	2	play	sound	128	gui/beep/zoom
+15360	2	play	sound	128	gui/beep/zoom
 15369	1	play	sound	128	gui/beep/button
 15369	0	play	sound	255	sfx/energy
 15369	0	play	sound	255	sfx/energy
-15371	2	play	sound	128	gui/beep/zoom
+15370	2	play	sound	128	gui/beep/zoom
 15393	0	play	sound	255	sfx/energy
 15408	1	play	sound	128	gui/beep/button
 15423	1	play	sound	128	gui/beep/button
 15438	1	play	sound	128	gui/klaxon
-15454	2	play	sound	128	gui/beep/zoom
+15453	2	play	sound	128	gui/beep/zoom
 15486	2	play	sound	79	dev/stealth/off
 15486	0	play	sound	78	dev/anti
 15489	0	play	sound	212	dev/fusion
@@ -1473,7 +1473,7 @@
 17583	0	play	sound	157	sfx/warp/out
 17586	1	play	sound	76	sfx/warp/out
 17586	0	play	sound	255	sfx/warp/out
-17669	1	play	sound	128	gui/beep/zoom
+17668	1	play	sound	128	gui/beep/zoom
 17691	1	play	sound	255	dev/lepton
 17694	2	play	sound	255	dev/pk/ish
 17700	1	play	sound	255	dev/lepton
@@ -1508,7 +1508,7 @@
 18018	1	play	sound	255	sfx/warp/charge/4
 18042	0	play	sound	254	sfx/warp/in
 18084	2	play	sound	128	gui/klaxon
-18088	1	play	sound	128	gui/beep/zoom
+18087	1	play	sound	128	gui/beep/zoom
 18210	2	play	sound	128	gui/klaxon
 18336	2	play	sound	128	gui/klaxon
 18408	0	play	sound	128	gui/beep/button
@@ -1524,7 +1524,7 @@
 18714	2	play	sound	128	gui/klaxon
 18840	2	play	sound	128	gui/klaxon
 18966	2	play	sound	128	gui/klaxon
-19049	0	play	sound	128	gui/beep/zoom
+19048	0	play	sound	128	gui/beep/zoom
 19077	0	play	sound	255	dev/lepton
 19080	1	play	sound	255	dev/pk/ish
 19086	0	play	sound	255	dev/lepton
@@ -2126,10 +2126,10 @@
 21246	2	play	sound	255	sfx/explosion/energy
 21264	1	play	sound	255	dev/lepton
 21303	2	play	sound	128	gui/beep/button
-21352	1	play	sound	128	gui/beep/zoom
+21351	1	play	sound	128	gui/beep/zoom
 21396	2	play	sound	128	gui/beep/button
 21408	2	play	sound	128	gui/beep/button
-21412	1	play	sound	128	gui/beep/zoom
+21411	1	play	sound	128	gui/beep/zoom
 21489	2	play	sound	128	gui/beep/button
 21498	2	play	sound	128	gui/beep/button
 21528	2	play	sound	128	gui/beep/button

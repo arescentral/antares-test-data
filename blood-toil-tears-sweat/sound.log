@@ -1,9 +1,9 @@
 0	3	quiet
 0	3	loop	music	255	freds-theme
 0	3	quiet
+0	0	play	sound	128	gui/beep/zoom
 0	3	quiet
 0	3	loop	music	215	targetron
-1	0	play	sound	128	gui/beep/zoom
 66	0	play	sound	255	sfx/warp/charge/1
 90	1	play	sound	255	sfx/warp/charge/2
 114	2	play	sound	255	sfx/warp/charge/3
@@ -22,7 +22,7 @@
 969	0	play	sound	215	dev/inasa
 999	0	play	sound	248	dev/inasa
 999	1	play	sound	248	dev/asb
-1002	2	play	sound	128	gui/beep/zoom
+1001	2	play	sound	128	gui/beep/zoom
 1047	0	play	sound	255	dev/laser/turret
 1050	1	play	sound	255	dev/magneto
 1056	1	play	sound	255	dev/magneto
@@ -171,7 +171,7 @@
 1611	0	play	sound	220	dev/inasa
 1611	2	play	sound	128	gui/beep/button
 1623	2	play	sound	128	gui/beep/button
-1645	1	play	sound	128	gui/beep/zoom
+1644	1	play	sound	128	gui/beep/zoom
 1701	1	play	sound	54	sfx/warp/charge/1
 1725	2	play	sound	5	sfx/warp/charge/2
 2067	1	play	sound	128	gui/beep/button
@@ -179,7 +179,7 @@
 2139	2	play	sound	11	dev/laser/gun
 2142	2	play	sound	21	dev/pk/can
 2163	2	play	sound	63	dev/pk/can
-2171	2	play	sound	128	gui/beep/zoom
+2170	2	play	sound	128	gui/beep/zoom
 2175	1	play	sound	19	sfx/explosion/energy
 2184	1	play	sound	98	dev/pk/can
 2184	0	play	sound	255	tpl/transport/land
@@ -2449,7 +2449,7 @@
 9375	0	play	sound	255	dev/laser/turret
 9384	1	play	sound	178	dev/laser/turret
 9387	0	play	sound	255	dev/laser/turret
-9393	2	play	sound	128	gui/beep/zoom
+9392	2	play	sound	128	gui/beep/zoom
 9399	0	play	sound	255	dev/laser/turret
 9432	2	play	sound	83	dev/laser/gun
 9438	0	play	sound	255	dev/laser/turret
@@ -2588,7 +2588,7 @@
 10110	0	play	sound	255	dev/laser/turret
 10119	2	play	sound	255	sfx/explosion/energy
 10212	0	play	sound	255	sfx/energy
-10264	1	play	sound	128	gui/beep/zoom
+10263	1	play	sound	128	gui/beep/zoom
 10386	2	play	sound	128	gui/beep/build
 10404	0	play	sound	128	gui/beep/button
 10470	0	play	sound	255	sfx/warp/charge/1
@@ -2635,7 +2635,7 @@
 11883	2	play	sound	128	gui/beep/button
 11892	2	play	sound	128	gui/beep/button
 12603	0	play	sound	252	sfx/warp/out
-12651	1	play	sound	128	gui/beep/zoom
+12650	1	play	sound	128	gui/beep/zoom
 12654	1	play	sound	200	dev/inasa
 12669	1	play	sound	211	dev/inasa
 12684	0	play	sound	255	dev/laser/turret

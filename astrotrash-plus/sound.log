@@ -1,9 +1,9 @@
 0	3	quiet
 0	3	loop	music	255	freds-theme
 0	3	quiet
+0	0	play	sound	128	gui/beep/zoom
 0	3	quiet
 0	3	loop	music	215	targetron
-1	0	play	sound	128	gui/beep/zoom
 111	0	play	sound	255	sfx/warp/charge/1
 135	1	play	sound	255	sfx/warp/charge/2
 159	2	play	sound	255	sfx/warp/charge/3
@@ -22,7 +22,7 @@
 792	0	play	sound	255	dev/pk/ish
 801	2	play	sound	255	dev/fusion
 801	0	play	sound	255	dev/pk/ish
-803	1	play	sound	128	gui/beep/zoom
+802	1	play	sound	128	gui/beep/zoom
 810	0	play	sound	255	dev/pk/ish
 816	2	play	sound	255	dev/fusion
 834	1	play	sound	255	sfx/warp/out
@@ -82,12 +82,12 @@
 1299	1	play	sound	255	dev/pk/ish
 1305	0	play	sound	255	sfx/energy
 1308	1	play	sound	255	dev/pk/ish
-1359	2	play	sound	128	gui/beep/zoom
+1358	2	play	sound	128	gui/beep/zoom
 1800	0	play	sound	128	gui/beep/button
 1809	0	play	sound	128	gui/beep/button
 1926	0	play	sound	128	gui/beep/button
 1935	0	play	sound	128	gui/beep/button
-2332	2	play	sound	128	gui/beep/zoom
+2331	2	play	sound	128	gui/beep/zoom
 2511	0	play	sound	255	dev/fusion
 2511	1	play	sound	255	dev/pk/ish
 2520	1	play	sound	255	dev/pk/ish
@@ -234,7 +234,7 @@
 2967	1	play	sound	255	sfx/explosion/energy
 2970	0	play	sound	255	dev/mine
 2970	0	play	sound	255	dev/mine
-2971	2	play	sound	128	gui/beep/zoom
+2970	2	play	sound	128	gui/beep/zoom
 2973	1	play	sound	255	sfx/explosion/energy
 2973	1	play	sound	255	sfx/explosion/energy
 2976	0	play	sound	255	dev/mine
@@ -859,7 +859,7 @@
 4872	0	play	sound	255	dev/mine
 4872	2	play	sound	128	gui/beep/button
 4872	2	play	sound	65	sfx/explosion/energy
-4873	2	play	sound	128	gui/beep/zoom
+4872	2	play	sound	128	gui/beep/zoom
 4875	0	play	sound	255	dev/mine
 4878	1	play	sound	255	sfx/explosion/energy
 4881	2	play	sound	75	dev/mine
@@ -957,11 +957,11 @@
 5526	0	play	sound	255	sfx/energy
 5952	1	play	sound	128	gui/beep/button
 5952	0	play	sound	255	sfx/energy
-6016	2	play	sound	128	gui/beep/zoom
+6015	2	play	sound	128	gui/beep/zoom
 6153	1	play	sound	128	gui/beep/button
 6189	1	play	sound	128	gui/beep/button
 6198	1	play	sound	128	gui/beep/button
-6235	2	play	sound	128	gui/beep/zoom
+6234	2	play	sound	128	gui/beep/zoom
 6309	1	play	sound	128	gui/beep/button
 6327	1	play	sound	128	gui/beep/button
 6339	1	play	sound	128	gui/beep/button
@@ -973,7 +973,7 @@
 6924	1	play	sound	203	dev/mine
 6942	1	play	sound	206	dev/mine
 6951	1	play	sound	208	dev/mine
-6953	2	play	sound	128	gui/beep/zoom
+6952	2	play	sound	128	gui/beep/zoom
 6960	1	play	sound	209	dev/mine
 6963	1	play	sound	209	dev/mine
 6966	2	play	sound	194	sfx/explosion/energy
@@ -1088,7 +1088,7 @@
 7206	0	play	sound	255	dev/mine
 7209	1	play	sound	255	sfx/explosion/energy
 7209	1	play	sound	255	sfx/explosion/energy
-7210	2	play	sound	128	gui/beep/zoom
+7209	2	play	sound	128	gui/beep/zoom
 7212	0	play	sound	255	dev/mine
 7215	0	play	sound	255	dev/mine
 7215	1	play	sound	255	sfx/explosion/energy
@@ -1141,7 +1141,7 @@
 7314	1	play	sound	255	sfx/explosion/energy
 7317	1	play	sound	255	sfx/explosion/energy
 7320	0	play	sound	255	dev/mine
-7321	2	play	sound	128	gui/beep/zoom
+7320	2	play	sound	128	gui/beep/zoom
 7323	0	play	sound	255	dev/mine
 7323	1	play	sound	255	sfx/explosion/energy
 7326	1	play	sound	255	sfx/explosion/energy
@@ -2212,7 +2212,7 @@
 9984	1	play	sound	128	gui/beep/button
 9984	1	play	sound	67	sfx/explosion/energy
 9984	0	play	sound	255	sfx/explosion/energy
-9985	1	play	sound	128	gui/beep/zoom
+9984	1	play	sound	128	gui/beep/zoom
 9987	1	play	sound	255	dev/mine
 9993	1	play	sound	43	dev/mine
 9993	1	play	sound	78	dev/mine
@@ -2224,8 +2224,9 @@
 10002	1	play	sound	78	dev/mine
 10002	1	play	sound	128	gui/beep/button
 10002	0	play	sound	255	sfx/explosion/energy
+10004	2	play	sound	128	gui/beep/zoom
 10005	1	play	sound	255	dev/mine
-10005	2	play	sound	128	gui/beep/zoom
+10005	2	play	sound	30	sfx/explosion/energy
 10008	2	play	sound	70	sfx/explosion/energy
 10011	1	play	sound	45	dev/mine
 10011	1	play	sound	77	dev/mine
@@ -2271,7 +2272,7 @@
 10092	1	play	sound	75	dev/mine
 10092	0	play	sound	255	sfx/explosion/energy
 10095	1	play	sound	255	dev/mine
-10096	2	play	sound	128	gui/beep/zoom
+10095	2	play	sound	128	gui/beep/zoom
 10098	2	play	sound	68	sfx/explosion/energy
 10101	1	play	sound	28	dev/mine
 10101	1	play	sound	75	dev/mine
@@ -2319,7 +2320,7 @@
 10182	1	play	sound	20	dev/mine
 10182	1	play	sound	75	dev/mine
 10182	0	play	sound	255	sfx/explosion/energy
-10183	1	play	sound	128	gui/beep/zoom
+10182	1	play	sound	128	gui/beep/zoom
 10185	1	play	sound	255	dev/mine
 10188	2	play	sound	68	sfx/explosion/energy
 10191	1	play	sound	20	dev/mine
@@ -2398,7 +2399,7 @@
 10326	2	play	sound	73	dev/mine
 10326	1	play	sound	62	sfx/explosion/energy
 10326	0	play	sound	255	sfx/explosion/energy
-10327	1	play	sound	128	gui/beep/zoom
+10326	1	play	sound	128	gui/beep/zoom
 10329	1	play	sound	9	dev/mine
 10329	1	play	sound	255	dev/mine
 10332	2	play	sound	66	sfx/explosion/energy
@@ -2830,7 +2831,7 @@
 11394	0	play	sound	43	dev/mine
 11397	0	play	sound	78	dev/mine
 11397	1	play	sound	39	sfx/explosion/energy
-11398	0	play	sound	128	gui/beep/zoom
+11397	0	play	sound	128	gui/beep/zoom
 11400	1	play	sound	63	sfx/explosion/energy
 11403	0	play	sound	42	dev/mine
 11406	0	play	sound	77	dev/mine
@@ -2932,7 +2933,6 @@
 11880	0	play	sound	255	dev/mine
 11883	2	play	sound	128	gui/beep/button
 11886	1	play	sound	255	sfx/explosion/energy
-11886	0	play	sound	128	gui/beep/zoom
 11889	0	play	sound	255	dev/mine
 11892	2	play	sound	128	gui/beep/button
 11898	0	play	sound	255	dev/mine
@@ -2941,7 +2941,7 @@
 11907	0	play	sound	255	dev/mine
 11913	1	play	sound	255	sfx/explosion/energy
 11916	2	play	sound	251	dev/mine
-11923	0	play	sound	128	gui/beep/zoom
+11922	0	play	sound	128	gui/beep/zoom
 11955	0	play	sound	239	dev/mine
 11964	0	play	sound	239	dev/mine
 11967	0	play	sound	252	sfx/explosion/energy

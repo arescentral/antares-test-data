@@ -21,9 +21,9 @@
 1971	1	play	sound	64	gui/beep/message
 1974	1	play	sound	64	gui/beep/message
 1979	3	quiet
+1979	1	play	sound	128	gui/beep/zoom
 1979	3	quiet
-1979	1	play	sound	128	gui/beep/button
-1980	2	play	sound	128	gui/beep/zoom
+1979	2	play	sound	128	gui/beep/button
 1981	0	play	sound	64	gui/beep/message
 1982	0	play	sound	64	gui/beep/message
 1983	0	play	sound	64	gui/beep/message
@@ -39,7 +39,7 @@
 1993	0	play	sound	64	gui/beep/message
 1994	0	play	sound	64	gui/beep/message
 1995	0	play	sound	64	gui/beep/message
-1996	2	play	sound	128	gui/beep/zoom
+1995	1	play	sound	128	gui/beep/zoom
 1996	0	play	sound	64	gui/beep/message
 1997	0	play	sound	64	gui/beep/message
 1998	0	play	sound	64	gui/beep/message
@@ -65,7 +65,7 @@
 2018	0	play	sound	64	gui/beep/message
 2019	0	play	sound	64	gui/beep/message
 2020	0	play	sound	64	gui/beep/message
-2020	2	play	sound	255	gui/beep/zoom
+2020	1	play	sound	255	gui/beep/zoom
 2142	0	play	sound	64	gui/beep/message
 2143	0	play	sound	64	gui/beep/message
 2144	0	play	sound	64	gui/beep/message

@@ -21,8 +21,8 @@
 1974	1	play	sound	64	gui/beep/message
 1980	0	play	sound	192	gui/beep/select
 1981	3	quiet
+1981	1	play	sound	128	gui/beep/zoom
 1981	3	quiet
-1982	1	play	sound	128	gui/beep/zoom
 2242	1	play	sound	165	sfx/warp/out
 2242	1	play	sound	167	dev/atomic
 2250	2	play	sound	128	gui/beep/zoom
@@ -54,7 +54,11 @@
 2269	1	play	sound	255	sfx/explosion/large
 2269	2	play	sound	255	dev/conc/ricochet/2
 2270	2	play	sound	255	dev/conc/ricochet/2
-2301	2	play	sound	128	gui/beep/zoom
+2300	2	play	sound	128	gui/beep/zoom
+2321	2	play	sound	64	gui/beep/message
+2321	2	play	sound	64	gui/beep/message
+2321	2	play	sound	64	gui/beep/message
+2321	2	play	sound	64	gui/beep/message
 2322	2	play	sound	64	gui/beep/message
 2322	2	play	sound	64	gui/beep/message
 2322	2	play	sound	64	gui/beep/message
