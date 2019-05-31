@@ -143,8 +143,8 @@ point	535	120	b0b0b0
 	237	307	
 	232	308	
 	235	307	
-rect	387	0	388	480	000050
-	128	228	608	229	
+rect	383	0	384	480	000050
+	128	225	608	226	
 draw	361	230	379	246	/sprites/ish/cruiser%15
 static	250	294	261	318	f0f078	122	/sprites/can/aslttran%12
 draw	545	187	561	203	/sprites/ish/cruiser%13

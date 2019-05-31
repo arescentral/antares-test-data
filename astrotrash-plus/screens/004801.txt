@@ -124,10 +124,10 @@ point	259	460	d0d0d0
 	595	34	808080
 	480	438	
 rect	139	0	140	480	005000
-	349		350		000050
-	559		560		
+	351		352		000050
+	563		564		
 	128	68	608	69	
-		278		279	002850
+		280		281	002850
 draw	360	233	376	243	/sprites/ish/hvc%17
 	255	351	276	370	/sprites/ast/regular/big%1
 static	309	312	330	333	ffffff	4	/sprites/ish/etc/astrominer%3

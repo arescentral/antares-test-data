@@ -124,7 +124,7 @@ point	227	438	b0b0b0
 	148	468	
 	490	405	b0b0b0
 rect	177	0	178	480	000050
-	128	336	608	337	
+	128	334	608	335	
 draw	367	249	405	280	/sprites/ish/aslttran%9
 static	47	383	85	431	f0f078	131	/sprites/can/gunship%17
 draw	511	162	526	174	/sprites/can/fighter%5

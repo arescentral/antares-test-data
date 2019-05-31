@@ -124,9 +124,9 @@ point	508	410	b0b0b0
 	407	358	d0d0d0
 	318	463	b0b0b0
 rect	150	0	151	480	000050
-	411		412		
+	410		411		
 	128	197	608	198	
-		458		459	
+		457		458	
 draw	496	260	561	325	/sprites/loc/planets/cloudtones%0
 	367	143	383	158	/sprites/ish/cruiser%14
 	393	355	415	377	/sprites/ish/gunship%4

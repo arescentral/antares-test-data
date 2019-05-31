@@ -124,9 +124,9 @@ point	345	52	808080
 	492	177	
 	582	443	b0b0b0
 rect	275	0	276	415	000050
-	482		483		
+	481		482		
 	128	70	608	71	
-		277		278	
+		276		277	
 draw	319	254	330	265	/sprites/ish/cruiser%13
 	282	240	299	256	/sprites/ish/gunship%13
 	8	231	20	241	/sprites/ish/cruiser%7

@@ -123,10 +123,10 @@ point	204	122	b0b0b0
 	176	433	
 	227	118	b0b0b0
 	552	200	d0d0d0
-rect	310	0	311	480	000050
-	520		521		
-	128	209	608	210	
-		419		420	
+rect	311	0	312	480	000050
+	523		524		
+	128	211	608	212	
+		423		424	
 draw	119	188	145	214	/sprites/loc/planets/yellow-cookie%0
 	356	235	382	245	/sprites/uns/gunship%18
 	215	153	221	159	/sprites/can/fighter%8

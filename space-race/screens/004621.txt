@@ -146,8 +146,8 @@ point	345	111	d0d0d0
 rect	173	0	174	480	000050
 	372		373		
 	571		572		005000
-	128	180	608	181	002850
-		379		380	000050
+	128	181	608	182	002850
+		380		381	000050
 draw	345	228	391	251	/sprites/ish/carrier%7
 static	83	342	89	347	ffffff	20	/sprites/ish/fighter%9
 draw	3	313	18	323	/sprites/gai/cruiser%23

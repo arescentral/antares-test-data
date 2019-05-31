@@ -123,9 +123,9 @@ point	320	423	d0d0d0
 	452	435	808080
 	257	59	
 	498	66	d0d0d0
-rect	236	0	237	480	000050
-	588		589		
-	128	168	608	169	
+rect	232	0	233	480	000050
+	572		573		
+	128	162	608	163	
 draw	300	151	388	239	/sprites/loc/planets/graysplotch%0
 	346	130	365	148	/sprites/ish/cruiser%5
 	361	231	383	250	/sprites/ish/cruiser%22
