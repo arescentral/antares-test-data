@@ -951,8 +951,8 @@
 11316	2	play	sound	128	gui/beep/button
 11325	2	play	sound	128	gui/beep/button
 11352	1	play	sound	128	gui/klaxon
-11478	1	play	sound	128	gui/klaxon
 11478	2	play	sound	128	gui/beep/button
+11478	1	play	sound	128	gui/klaxon
 11580	0	play	sound	175	sfx/warp/out
 11604	1	play	sound	128	gui/klaxon
 11730	1	play	sound	128	gui/klaxon
