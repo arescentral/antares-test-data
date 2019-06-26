@@ -146,14 +146,7 @@ draw	475	404	486	414	/sprites/aud/fighter%19
 	535	405	546	417	/sprites/sfx/explosion/large-hit%9
 	217	59	231	73	/sprites/dev/onas%0
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		16			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		16			
 	231		238		80	55		

@@ -144,14 +144,7 @@ draw	366	236	374	244	/sprites/ish/hvc%23
 	481	388	486	392	/sprites/uns/fighter%22
 	413	447	425	458	/sprites/uns/gunship%22
 dither	391	394	446	411	303000
-crop	395	398	402	409	24	44	000000	/fonts/tactical.png
-	402		409		8	66		
-	409		416		16	77		
-	416		423					
-	423		430		72	66		
-	430		437		40			
-	437		444		16	77		
-	394	397	401	408	24	44	ffff00	
+crop	394	397	401	408	24	44	ffff00	/fonts/tactical.png
 	401		408		8	66		
 	408		415		16	77		
 	415		422					

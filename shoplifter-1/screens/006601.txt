@@ -153,12 +153,7 @@ draw	357	228	378	250	/sprites/ish/hvc%0
 	401	100	417	114	/sprites/sfx/energy%0
 	386	124	398	134	/sprites/sfx/explosion/energy%2
 dither	370	459	418	476	001830
-crop	374	463	381	474	24	44	000000	/fonts/tactical.png
-	381		388		40	66		
-	388		395		96			
-	395		402					
-	409		416		16	33		
-	373	462	380	473	24	44	007fff	
+crop	373	462	380	473	24	44	007fff	/fonts/tactical.png
 	380		387		40	66		
 	387		394		96			
 	394		401					

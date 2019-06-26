@@ -142,14 +142,7 @@ draw	357	230	377	245	/sprites/ish/hvc%8
 	331	223	340	232	/sprites/sfx/explosion/large-hit%7
 	327	231	333	238	/sprites/sfx/explosion/large-hit%4
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		16			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		16			
 	231		238		80	55		

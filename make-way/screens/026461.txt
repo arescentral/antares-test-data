@@ -134,14 +134,7 @@ draw	62	461	81	471	/sprites/ish/aslttran%20
 	342	235	354	246	/sprites/ish/cruiser%12
 	356	231	376	250	/sprites/ish/gunship%3
 dither	347	250	402	267	303000
-crop	351	254	358	265	24	44	000000	/fonts/tactical.png
-	358		365		16	77		
-	365		372		40			
-	372		379		72	66		
-	379		386		24	77		
-	386		393		40	66		
-	393		400		16	77		
-	350	253	357	264	24	44	ffff00	
+crop	350	253	357	264	24	44	ffff00	/fonts/tactical.png
 	357		364		16	77		
 	364		371		40			
 	371		378		72	66		

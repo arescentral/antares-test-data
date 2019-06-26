@@ -138,14 +138,7 @@ draw	264	361	281	377	/sprites/ish/aslttran%1
 	206	388	212	392	/sprites/dev/anti%1
 	418	107	437	121	/sprites/sfx/explosion/gas%16
 dither	527	459	582	476	303000
-crop	531	463	538	474	24	44	000000	/fonts/tactical.png
-	538		545		16	77		
-	545		552		40			
-	552		559		72	66		
-	559		566		24	77		
-	566		573		40	66		
-	573		580		16	77		
-	530	462	537	473	24	44	ffff00	
+crop	530	462	537	473	24	44	ffff00	/fonts/tactical.png
 	537		544		16	77		
 	544		551		40			
 	551		558		72	66		

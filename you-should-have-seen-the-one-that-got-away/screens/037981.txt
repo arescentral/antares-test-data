@@ -268,14 +268,7 @@ draw	400	419	407	427	/sprites/dev/magneto%0
 	206	477	214	485	/sprites/sfx/explosion/large-hit%8
 	185	458	189	462	/sprites/sfx/explosion/energy%19
 dither	210	459	265	476	303000
-crop	214	463	221	474	56	44	000000	/fonts/tactical.png
-	221		228		40	77		
-	228		235		112	66		
-	235		242		24	77		
-	242		249		64	66		
-	249		256		72			
-	256		263		0	77		
-	213	462	220	473	56	44	ffff00	
+crop	213	462	220	473	56	44	ffff00	/fonts/tactical.png
 	220		227		40	77		
 	227		234		112	66		
 	234		241		24	77		

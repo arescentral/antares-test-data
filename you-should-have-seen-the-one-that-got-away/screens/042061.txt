@@ -156,20 +156,7 @@ draw	199	164	327	292	/sprites/loc/planets/aqua-minerale%0
 	186	411	198	425	/sprites/sfx/explosion/energy%1
 	176	402	186	413	/sprites/sfx/explosion/large-hit%2
 dither	132	4	243	21	001830
-crop	136	8	143	19	0	55	000000	/fonts/tactical.png
-	143		150		72	66		
-	150		157		24			
-	157		164		32	77		
-	164		171		120	66		
-	171		178		16	77		
-	178		185		72	66		
-	185		192		24	77		
-	199		206		16	44		
-	206		213		40	66		
-	213		220		32	77		
-	220		227		8	66		
-	234		241		16	33		
-	135	7	142	18	0	55	007fff	
+crop	135	7	142	18	0	55	007fff	/fonts/tactical.png
 	142		149		72	66		
 	149		156		24			
 	156		163		32	77		

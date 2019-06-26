@@ -228,14 +228,7 @@ draw	185	476	196	487	/sprites/can/hvc%21
 	172	451	177	455	/sprites/dev/anti%0
 	166	436	171	441	/sprites/sfx/explosion/large-hit%3
 dither	132	459	187	476	303000
-crop	136	463	143	474	56	44	000000	/fonts/tactical.png
-	143		150		40	77		
-	150		157		112	66		
-	157		164		24	77		
-	164		171		64	66		
-	171		178		72			
-	178		185		0	77		
-	135	462	142	473	56	44	ffff00	
+crop	135	462	142	473	56	44	ffff00	/fonts/tactical.png
 	142		149		40	77		
 	149		156		112	66		
 	156		163		24	77		

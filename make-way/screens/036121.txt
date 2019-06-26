@@ -146,17 +146,7 @@ draw	394	384	435	408	/sprites/uns/etc/bttlship%20
 	368	326	378	334	/sprites/sfx/explosion/energy%14
 	205	266	209	268	/sprites/dev/fusion%6
 dither	410	394	486	411	303000
-crop	414	398	421	409	16	44	000000	/fonts/tactical.png
-	421		428		8	66		
-	428		435		32	77		
-	435		442					
-	442		449		96	66		
-	449		456		40			
-	456		463		24	77		
-	463		470		64	66		
-	470		477		72			
-	477		484		0	77		
-	413	397	420	408	16	44	ffff00	
+crop	413	397	420	408	16	44	ffff00	/fonts/tactical.png
 	420		427		8	66		
 	427		434		32	77		
 	434		441					

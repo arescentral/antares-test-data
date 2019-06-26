@@ -145,16 +145,7 @@ draw	296	205	310	220	/sprites/sfx/explosion/large-hit%9
 	302	207	316	222	/sprites/sfx/explosion/large-hit%6
 	323	255	333	261	/sprites/dev/fusion%16
 dither	132	459	201	476	303000
-crop	136	463	143	474	32	55	000000	/fonts/tactical.png
-	143		150		16	77		
-	150		157		8	66		
-	157		164		112			
-	164		171		24	77		
-	171		178		0			
-	178		185		120	66		
-	185		192		16	77		
-	192		199		32			
-	135	462	142	473		55	ffff00	
+crop	135	462	142	473	32	55	ffff00	/fonts/tactical.png
 	142		149		16	77		
 	149		156		8	66		
 	156		163		112			

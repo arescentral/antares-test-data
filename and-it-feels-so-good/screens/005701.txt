@@ -142,14 +142,7 @@ draw	348	228	380	255	/sprites/ish/hvd%2
 	389	222	405	233	/sprites/dev/inasa%1
 	318	278	329	286	/sprites/sfx/explosion/gas%26
 dither	524	211	579	228	303000
-crop	528	215	535	226	24	44	000000	/fonts/tactical.png
-	535		542		16	77		
-	542		549		40			
-	549		556		72	66		
-	556		563		24	77		
-	563		570		40	66		
-	570		577		16	77		
-	527	214	534	225	24	44	ffff00	
+crop	527	214	534	225	24	44	ffff00	/fonts/tactical.png
 	534		541		16	77		
 	541		548		40			
 	548		555		72	66		

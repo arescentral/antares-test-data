@@ -153,14 +153,7 @@ draw	492	212	524	244	/sprites/loc/planets/fall%0
 	379	239	385	242	/sprites/uns/fighter%8
 	429	271	430	272	/sprites/sfx/crew%16
 dither	382	271	437	288	303000
-crop	386	275	393	286	56	44	000000	/fonts/tactical.png
-	393		400		40	77		
-	400		407		112	66		
-	407		414		24	77		
-	414		421		64	66		
-	421		428		72			
-	428		435		0	77		
-	385	274	392	285	56	44	ffff00	
+crop	385	274	392	285	56	44	ffff00	/fonts/tactical.png
 	392		399		40	77		
 	399		406		112	66		
 	406		413		24	77		

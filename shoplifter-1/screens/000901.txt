@@ -147,25 +147,13 @@ draw	472	355	480	364	/sprites/gai/fighter%10
 	495	323	499	326	/sprites/sfx/explosion/energy%18
 	446	295	452	299	/sprites/dev/fusion%8
 dither	375	143	423	160	001830
-crop	379	147	386	158	24	44	000000	/fonts/tactical.png
-	386		393		40	66		
-	393		400		96			
-	400		407					
-	414		421		8	33		
-	378	146	385	157	24	44	007fff	
+crop	378	146	385	157	24	44	007fff	/fonts/tactical.png
 	385		392		40	66		
 	392		399		96			
 	399		406					
 	413		420		8	33		
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		16			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		16			
 	231		238		80	55		

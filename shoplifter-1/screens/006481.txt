@@ -131,12 +131,7 @@ draw	380	447	407	475	/sprites/gai/etc/lab%0
 	191	36	204	46	/sprites/gai/fighter%5
 	243	134	260	149	/sprites/sfx/explosion/energy%11
 dither	392	440	440	457	001830
-crop	396	444	403	455	24	44	000000	/fonts/tactical.png
-	403		410		40	66		
-	410		417		96			
-	417		424					
-	431		438		16	33		
-	395	443	402	454	24	44	007fff	
+crop	395	443	402	454	24	44	007fff	/fonts/tactical.png
 	402		409		40	66		
 	409		416		96			
 	416		423					

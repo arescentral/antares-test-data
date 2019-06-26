@@ -141,14 +141,7 @@ draw	405	313	437	345	/sprites/loc/planets/aqua-minerale%0
 	291	460	305	470	/sprites/uns/gunship%15
 	295	264	310	271	/sprites/uns/gunship%19
 dither	231	371	286	388	303000
-crop	235	375	242	386	56	44	000000	/fonts/tactical.png
-	242		249		40	77		
-	249		256		112	66		
-	256		263		24	77		
-	263		270		64	66		
-	270		277		72			
-	277		284		0	77		
-	234	374	241	385	56	44	ffff00	
+crop	234	374	241	385	56	44	ffff00	/fonts/tactical.png
 	241		248		40	77		
 	248		255		112	66		
 	255		262		24	77		

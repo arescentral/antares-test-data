@@ -146,14 +146,7 @@ draw	614	276	631	290	/sprites/aud/cruiser%9
 	388	80	391	83	/sprites/sfx/explosion/large-hit%0
 	367	106	380	119	/sprites/sfx/explosion/gas%7
 dither	437	137	492	154	303000
-crop	441	141	448	152	24	44	000000	/fonts/tactical.png
-	448		455		16	77		
-	455		462		40			
-	462		469		72	66		
-	469		476		24	77		
-	476		483		40	66		
-	483		490		16	77		
-	440	140	447	151	24	44	ffff00	
+crop	440	140	447	151	24	44	ffff00	/fonts/tactical.png
 	447		454		16	77		
 	454		461		40			
 	461		468		72	66		

@@ -156,14 +156,7 @@ draw	318	208	329	215	/sprites/ele/cruiser%8
 	454	304	458	308	/sprites/sfx/explosion/large-hit%8
 	449	306	451		/sprites/sfx/explosion/large-hit%2
 dither	341	294	396	311	303000
-crop	345	298	352	309	24	44	000000	/fonts/tactical.png
-	352		359		16	77		
-	359		366		40			
-	366		373		72	66		
-	373		380		24	77		
-	380		387		40	66		
-	387		394		16	77		
-	344	297	351	308	24	44	ffff00	
+crop	344	297	351	308	24	44	ffff00	/fonts/tactical.png
 	351		358		16	77		
 	358		365		40			
 	365		372		72	66		

@@ -145,12 +145,7 @@ static	357	230	375	247	ffffff	24	/sprites/ish/hvc%9
 draw	465	371	483	387	/sprites/gai/cruiser%9
 	412	156	420	165	/sprites/gai/fighter%11
 dither	173	207	221	224	001830
-crop	177	211	184	222	24	44	000000	/fonts/tactical.png
-	184		191		40	66		
-	191		198		96			
-	198		205					
-	212		219		8	33		
-	176	210	183	221	24	44	007fff	
+crop	176	210	183	221	24	44	007fff	/fonts/tactical.png
 	183		190		40	66		
 	190		197		96			
 	197		204					

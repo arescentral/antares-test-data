@@ -222,14 +222,7 @@ draw	415	14	420	19	/sprites/sal/fighter%22
 	290	80	301	95	/sprites/dev/magno%3
 	158	97	171	107	/sprites/dev/fullerene%2
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		32			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		32			
 	231		238		80	55		

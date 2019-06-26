@@ -184,14 +184,7 @@ draw	443	426	455	434	/sprites/dev/fusion%9
 	192	352	203	361	/sprites/sfx/explosion/energy%19
 	475	235	503	254	/sprites/sfx/explosion/energy%16
 dither	397	353	452	370	303000
-crop	401	357	408	368	24	44	000000	/fonts/tactical.png
-	408		415		16	77		
-	415		422		40			
-	422		429		72	66		
-	429		436		24	77		
-	436		443		40	66		
-	443		450		16	77		
-	400	356	407	367	24	44	ffff00	
+crop	400	356	407	367	24	44	ffff00	/fonts/tactical.png
 	407		414		16	77		
 	414		421		40			
 	421		428		72	66		

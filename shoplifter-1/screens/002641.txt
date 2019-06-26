@@ -135,16 +135,7 @@ draw	305	227	331	242	/sprites/obi/transport%19
 	226	191	230	193	/sprites/sfx/crew%22
 	238	243	294	288	/sprites/sfx/explosion/energy%12
 dither	316	246	385	263	303000
-crop	320	250	327	261	32	55	000000	/fonts/tactical.png
-	327		334		16	77		
-	334		341		8	66		
-	341		348		112			
-	348		355		24	77		
-	355		362		0			
-	362		369		120	66		
-	369		376		16	77		
-	376		383		32			
-	319	249	326	260		55	ffff00	
+crop	319	249	326	260	32	55	ffff00	/fonts/tactical.png
 	326		333		16	77		
 	333		340		8	66		
 	340		347		112			

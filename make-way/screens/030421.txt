@@ -199,14 +199,7 @@ draw	440	56	463	79	/sprites/ish/cruiser%11
 	398	90	408	101	/sprites/sfx/explosion/large-hit%3
 	354	368	363	375	/sprites/sfx/explosion/energy%19
 dither	496	4	551	21	303000
-crop	500	8	507	19	24	44	000000	/fonts/tactical.png
-	507		514		16	77		
-	514		521		40			
-	521		528		72	66		
-	528		535		24	77		
-	535		542		40	66		
-	542		549		16	77		
-	499	7	506	18	24	44	ffff00	
+crop	499	7	506	18	24	44	ffff00	/fonts/tactical.png
 	506		513		16	77		
 	513		520		40			
 	520		527		72	66		

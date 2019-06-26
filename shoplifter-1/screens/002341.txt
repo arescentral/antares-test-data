@@ -135,12 +135,7 @@ draw	110	108	130	129	/sprites/gai/etc/lab%0
 	432	363	450	379	/sprites/gai/cruiser%10
 	608	124	612	126	/sprites/sfx/crew%20
 dither	132	98	180	115	001830
-crop	136	102	143	113	24	44	000000	/fonts/tactical.png
-	143		150		40	66		
-	150		157		96			
-	157		164					
-	171		178		8	33		
-	135	101	142	112	24	44	007fff	
+crop	135	101	142	112	24	44	007fff	/fonts/tactical.png
 	142		149		40	66		
 	149		156		96			
 	156		163					

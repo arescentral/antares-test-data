@@ -137,14 +137,7 @@ draw	614	416	708	504	/sprites/loc/outpost%0
 	488	94	511	119	/sprites/dev/fullerene%5
 	364	215	391	240	/sprites/dev/fullerene%4
 dither	132	88	187	105	303000
-crop	136	92	143	103	24	44	000000	/fonts/tactical.png
-	143		150		16	77		
-	150		157		40			
-	157		164		72	66		
-	164		171		24	77		
-	171		178		40	66		
-	178		185		16	77		
-	135	91	142	102	24	44	ffff00	
+crop	135	91	142	102	24	44	ffff00	/fonts/tactical.png
 	142		149		16	77		
 	149		156		40			
 	156		163		72	66		

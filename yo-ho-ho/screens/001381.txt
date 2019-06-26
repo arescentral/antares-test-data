@@ -139,14 +139,7 @@ draw	353	232	385	251	/sprites/ish/hvd%19
 	196	146	210	157	/sprites/dev/fullerene%2
 	356	233	370	246	/sprites/dev/fullerene%4
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		16			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		16			
 	231		238		80	55		

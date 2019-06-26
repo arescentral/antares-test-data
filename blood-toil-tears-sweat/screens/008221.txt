@@ -143,14 +143,7 @@ draw	251	1	279	27	/sprites/loc/planets/marslike%0
 	210	49	224	59	/sprites/uns/gunship%9
 	208	11	214	14	/sprites/uns/fighter%6
 dither	221	110	276	127	303000
-crop	225	114	232	125	48	44	000000	/fonts/tactical.png
-	232		239		72	66		
-	239		246		56			
-	246		253		64			
-	253		260		32	77		
-	260		267		40	66		
-	267		274		16	77		
-	224	113	231	124	48	44	ffff00	
+crop	224	113	231	124	48	44	ffff00	/fonts/tactical.png
 	231		238		72	66		
 	238		245		56			
 	245		252		64			

@@ -145,14 +145,7 @@ draw	436	28	471	63	/sprites/loc/planets/fall%0
 	417	118	421	122	/sprites/can/fighter%15
 	428	32	435	37	/sprites/dev/inasa%4
 dither	463	320	518	337	303000
-crop	467	324	474	335	56	44	000000	/fonts/tactical.png
-	474		481		40	77		
-	481		488		112	66		
-	488		495		24	77		
-	495		502		64	66		
-	502		509		72			
-	509		516		0	77		
-	466	323	473	334	56	44	ffff00	
+crop	466	323	473	334	56	44	ffff00	/fonts/tactical.png
 	473		480		40	77		
 	480		487		112	66		
 	487		494		24	77		

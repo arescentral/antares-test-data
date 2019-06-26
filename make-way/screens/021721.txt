@@ -240,14 +240,7 @@ draw	334	168	345	177	/sprites/sfx/explosion/energy%19
 	619	189	631	199	/sprites/dev/anti%0
 	586	174	594	181	/sprites/sfx/explosion/energy%18
 dither	132	200	187	217	303000
-crop	136	204	143	215	24	44	000000	/fonts/tactical.png
-	143		150		16	77		
-	150		157		40			
-	157		164		72	66		
-	164		171		24	77		
-	171		178		40	66		
-	178		185		16	77		
-	135	203	142	214	24	44	ffff00	
+crop	135	203	142	214	24	44	ffff00	/fonts/tactical.png
 	142		149		16	77		
 	149		156		40			
 	156		163		72	66		

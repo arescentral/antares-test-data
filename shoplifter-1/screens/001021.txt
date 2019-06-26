@@ -137,12 +137,7 @@ draw	108	102	128	123	/sprites/gai/etc/lab%0
 	369	240	375	244	/sprites/dev/fusion%8
 	408	275	414	279	/sprites/dev/fusion%9
 dither	132	92	180	109	001830
-crop	136	96	143	107	24	44	000000	/fonts/tactical.png
-	143		150		40	66		
-	150		157		96			
-	157		164					
-	171		178		8	33		
-	135	95	142	106	24	44	007fff	
+crop	135	95	142	106	24	44	007fff	/fonts/tactical.png
 	142		149		40	66		
 	149		156		96			
 	156		163					

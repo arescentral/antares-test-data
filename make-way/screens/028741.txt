@@ -213,14 +213,7 @@ draw	195	439	211	454	/sprites/sfx/debris%6
 	206	436	214	443	/sprites/sfx/explosion/energy%18
 	181	170	193	178	/sprites/dev/fusion%20
 dither	312	290	367	307	303000
-crop	316	294	323	305	24	44	000000	/fonts/tactical.png
-	323		330		16	77		
-	330		337		40			
-	337		344		72	66		
-	344		351		24	77		
-	351		358		40	66		
-	358		365		16	77		
-	315	293	322	304	24	44	ffff00	
+crop	315	293	322	304	24	44	ffff00	/fonts/tactical.png
 	322		329		16	77		
 	329		336		40			
 	336		343		72	66		

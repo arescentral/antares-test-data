@@ -136,14 +136,7 @@ static	163	269	174	277	00000000	254	/sprites/can/hvc%6
 draw	154	187	160	192	/sprites/can/fighter%5
 	130	181	146	202	/sprites/can/gunship%7
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		32			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		32			
 	231		238		80	55		

@@ -149,14 +149,7 @@ draw	482	229	495	240	/sprites/aud/cruiser%9
 	240	271	246	277	/sprites/dev/onas%0
 	187	290	193	294	/sprites/sfx/explosion/gas%1
 dither	251	279	306	296	303000
-crop	255	283	262	294	24	44	000000	/fonts/tactical.png
-	262		269		16	77		
-	269		276		40			
-	276		283		72	66		
-	283		290		24	77		
-	290		297		40	66		
-	297		304		16	77		
-	254	282	261	293	24	44	ffff00	
+crop	254	282	261	293	24	44	ffff00	/fonts/tactical.png
 	261		268		16	77		
 	268		275		40			
 	275		282		72	66		

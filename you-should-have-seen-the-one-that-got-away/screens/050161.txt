@@ -133,15 +133,7 @@ static	414	136	585	234	ffffff	135	/sprites/can/gateship%5
 	436	156	498	183		68	/sprites/uns/gunship%7
 	360	265	414	305		61	/sprites/uns/gunship%3
 dither	498	151	567	168	001830
-crop	502	155	509	166	56	44	000000	/fonts/tactical.png
-	509		516		8	66		
-	516		523		32	77		
-	523		530		40	66		
-	537		544		24	55		
-	544		551		64	66		
-	551		558		72			
-	558		565		0	77		
-	501	154	508	165	56	44	007fff	
+crop	501	154	508	165	56	44	007fff	/fonts/tactical.png
 	508		515		8	66		
 	515		522		32	77		
 	522		529		40	66		

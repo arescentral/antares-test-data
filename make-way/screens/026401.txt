@@ -135,14 +135,7 @@ static	532	447	551	477	00000000	225	/sprites/can/cruiser%15
 draw	427	257	449	277	/sprites/ish/cruiser%9
 	350	223	381	254	/sprites/ish/gunship%8
 dither	438	278	493	295	303000
-crop	442	282	449	293	24	44	000000	/fonts/tactical.png
-	449		456		16	77		
-	456		463		40			
-	463		470		72	66		
-	470		477		24	77		
-	477		484		40	66		
-	484		491		16	77		
-	441	281	448	292	24	44	ffff00	
+crop	441	281	448	292	24	44	ffff00	/fonts/tactical.png
 	448		455		16	77		
 	455		462		40			
 	462		469		72	66		

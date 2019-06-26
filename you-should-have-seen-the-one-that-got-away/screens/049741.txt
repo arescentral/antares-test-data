@@ -251,15 +251,7 @@ draw	346	226	382	259	/sprites/uns/gunship%2
 	438	94	444	101	/sprites/sfx/explosion/large-hit%1
 	407	101	413	107	/sprites/sfx/explosion/large-hit%0
 dither	465	4	534	21	001830
-crop	469	8	476	19	56	44	000000	/fonts/tactical.png
-	476		483		8	66		
-	483		490		32	77		
-	490		497		40	66		
-	504		511		24	55		
-	511		518		64	66		
-	518		525		72			
-	525		532		0	77		
-	468	7	475	18	56	44	007fff	
+crop	468	7	475	18	56	44	007fff	/fonts/tactical.png
 	475		482		8	66		
 	482		489		32	77		
 	489		496		40	66		

@@ -191,20 +191,7 @@ draw	372	414	392	434	/sprites/loc/planets/yellow-cookie%0
 	361	81	366	86	/sprites/sfx/explosion/large-hit%5
 	213	183	257	213	/sprites/sfx/explosion/energy%16
 dither	382	404	493	421	001830
-crop	386	408	393	419	0	55	000000	/fonts/tactical.png
-	393		400		72	66		
-	400		407		24			
-	407		414		32	77		
-	414		421		120	66		
-	421		428		16	77		
-	428		435		72	66		
-	435		442		24	77		
-	449		456		16	44		
-	456		463		40	66		
-	463		470		32	77		
-	470		477		8	66		
-	484		491			33		
-	385	407	392	418	0	55	007fff	
+crop	385	407	392	418	0	55	007fff	/fonts/tactical.png
 	392		399		72	66		
 	399		406		24			
 	406		413		32	77		

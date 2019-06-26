@@ -137,15 +137,7 @@ static	483	144	519	188	ffffff	36	/sprites/uns/gunship%0
 	554	259	602	304		68	/sprites/uns/gunship%2
 	465	162	501	206		61	/sprites/uns/gunship%0
 dither	430	206	499	223	001830
-crop	434	210	441	221	56	44	000000	/fonts/tactical.png
-	441		448		8	66		
-	448		455		32	77		
-	455		462		40	66		
-	469		476		24	55		
-	476		483		64	66		
-	483		490		72			
-	490		497		0	77		
-	433	209	440	220	56	44	007fff	
+crop	433	209	440	220	56	44	007fff	/fonts/tactical.png
 	440		447		8	66		
 	447		454		32	77		
 	454		461		40	66		

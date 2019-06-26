@@ -131,15 +131,7 @@ draw	362	234	376	247	/sprites/ish/hvc%21
 	301	230	303	233	/sprites/sfx/crew%2
 	362	290	372	298	/sprites/sfx/explosion/energy%11
 dither	200	50	269	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		8			
-	225		232		48			
-	239		246		80	55		
-	246		253		120	66		
-	253		260					
-	260		267		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		8			
 	224		231		48			

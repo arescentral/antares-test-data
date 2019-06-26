@@ -134,14 +134,7 @@ line	-2674	-1907	-2680	-1907	7fff7f
 draw	349	220	388	259	/sprites/loc/planets/saturny%0
 	363	236	372	244	/sprites/ish/cruiser%19
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		16			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		16			
 	231		238		80	55		

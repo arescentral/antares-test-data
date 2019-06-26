@@ -147,21 +147,7 @@ draw	340	67	403	130	/sprites/loc/planets/marshmellow%0
 	477	6	532	51	/sprites/sfx/explosion/energy%13
 	486	23	501	33	/sprites/sfx/explosion/gas%23
 dither	372	78	504	95	001830
-crop	376	82	383	93	96	44	000000	/fonts/tactical.png
-	383		390		8	66		
-	390		397		96			
-	397		404		8			
-	404		411		112			
-	411		418		32			
-	418		425		40			
-	432		439		16	44		
-	439		446		40	66		
-	446		453		32	77		
-	453		460		8	66		
-	467		474		96	33		
-	481		488		24			
-	495		502		112			
-	375	81	382	92	96	44	007fff	
+crop	375	81	382	92	96	44	007fff	/fonts/tactical.png
 	382		389		8	66		
 	389		396		96			
 	396		403		8			

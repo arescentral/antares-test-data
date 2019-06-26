@@ -146,14 +146,7 @@ draw	360	234	373	246	/sprites/uns/gunship%2
 	311	379	312	380	/sprites/sfx/crew%14
 	523	348	529	351	/sprites/uns/fighter%20
 dither	526	359	581	376	303000
-crop	530	363	537	374	48	44	000000	/fonts/tactical.png
-	537		544		72	66		
-	544		551		56			
-	551		558		64			
-	558		565		32	77		
-	565		572		40	66		
-	572		579		16	77		
-	529	362	536	373	48	44	ffff00	
+crop	529	362	536	373	48	44	ffff00	/fonts/tactical.png
 	536		543		72	66		
 	543		550		56			
 	550		557		64			

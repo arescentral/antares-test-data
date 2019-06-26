@@ -197,14 +197,7 @@ draw	303	266	315	278	/sprites/can/fighter%13
 	331	403	349	419	/sprites/sfx/energy%0
 	313	331	431	415	/sprites/sfx/explosion/energy%15
 dither	273	168	328	185	303000
-crop	277	172	284	183	24	44	000000	/fonts/tactical.png
-	284		291		16	77		
-	291		298		40			
-	298		305		72	66		
-	305		312		24	77		
-	312		319		40	66		
-	319		326		16	77		
-	276	171	283	182	24	44	ffff00	
+crop	276	171	283	182	24	44	ffff00	/fonts/tactical.png
 	283		290		16	77		
 	290		297		40			
 	297		304		72	66		

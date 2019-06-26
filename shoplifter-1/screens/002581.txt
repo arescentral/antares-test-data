@@ -172,16 +172,7 @@ draw	211	288	221	296	/sprites/gai/fighter%9
 	355	254	395	290	/sprites/sfx/explosion/energy%3
 	364	260	373	269	/sprites/sfx/explosion/large-hit%7
 dither	506	286	575	303	303000
-crop	510	290	517	301	32	55	000000	/fonts/tactical.png
-	517		524		16	77		
-	524		531		8	66		
-	531		538		112			
-	538		545		24	77		
-	545		552		0			
-	552		559		120	66		
-	559		566		16	77		
-	566		573		32			
-	509	289	516	300		55	ffff00	
+crop	509	289	516	300	32	55	ffff00	/fonts/tactical.png
 	516		523		16	77		
 	523		530		8	66		
 	530		537		112			

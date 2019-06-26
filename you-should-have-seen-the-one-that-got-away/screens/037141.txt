@@ -148,14 +148,7 @@ draw	437	302	469	334	/sprites/loc/planets/aqua-minerale%0
 	444	6	446	7	/sprites/sfx/crew%0
 	202	475	206	479	/sprites/dev/magneto%3
 dither	370	439	425	456	303000
-crop	374	443	381	454	56	44	000000	/fonts/tactical.png
-	381		388		40	77		
-	388		395		112	66		
-	395		402		24	77		
-	402		409		64	66		
-	409		416		72			
-	416		423		0	77		
-	373	442	380	453	56	44	ffff00	
+crop	373	442	380	453	56	44	ffff00	/fonts/tactical.png
 	380		387		40	77		
 	387		394		112	66		
 	394		401		24	77		

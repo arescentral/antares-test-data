@@ -130,14 +130,7 @@ draw	354	229	381	252	/sprites/ish/cruiser%1
 	364	123	391	146	/sprites/ish/cruiser%16
 	312	76	325	81	/sprites/dev/cm%8
 dither	398	4	453	21	303000
-crop	402	8	409	19	56	44	000000	/fonts/tactical.png
-	409		416		40	77		
-	416		423		112	66		
-	423		430		24	77		
-	430		437		64	66		
-	437		444		72			
-	444		451		0	77		
-	401	7	408	18	56	44	ffff00	
+crop	401	7	408	18	56	44	ffff00	/fonts/tactical.png
 	408		415		40	77		
 	415		422		112	66		
 	422		429		24	77		

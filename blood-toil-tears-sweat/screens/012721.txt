@@ -148,14 +148,7 @@ draw	614	83	642	120	/sprites/can/gunship%15
 	461	189	480	202	/sprites/dev/inasa%1
 	385	264	394	274	/sprites/sfx/explosion/large-hit%4
 dither	549	388	604	405	303000
-crop	553	392	560	403	56	44	000000	/fonts/tactical.png
-	560		567		40	77		
-	567		574		112	66		
-	574		581		24	77		
-	581		588		64	66		
-	588		595		72			
-	595		602		0	77		
-	552	391	559	402	56	44	ffff00	
+crop	552	391	559	402	56	44	ffff00	/fonts/tactical.png
 	559		566		40	77		
 	566		573		112	66		
 	573		580		24	77		

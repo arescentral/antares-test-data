@@ -161,14 +161,7 @@ draw	8	323	16	330	/sprites/ish/cruiser%21
 	348	357	350	359	/sprites/dev/fusion%2
 	425	373	428	375	/sprites/dev/fusion%15
 dither	342	379	397	396	303000
-crop	346	383	353	394	24	44	000000	/fonts/tactical.png
-	353		360		16	77		
-	360		367		40			
-	367		374		72	66		
-	374		381		24	77		
-	381		388		40	66		
-	388		395		16	77		
-	345	382	352	393	24	44	ffff00	
+crop	345	382	352	393	24	44	ffff00	/fonts/tactical.png
 	352		359		16	77		
 	359		366		40			
 	366		373		72	66		

@@ -182,17 +182,7 @@ draw	324	205	390	238	/sprites/uns/etc/bttlship%17
 	219	280	225	285	/sprites/sfx/explosion/energy%19
 	225		229	284	/sprites/sfx/explosion/large-hit%0
 dither	353	240	429	257	303000
-crop	357	244	364	255	16	44	000000	/fonts/tactical.png
-	364		371		8	66		
-	371		378		32	77		
-	378		385					
-	385		392		96	66		
-	392		399		40			
-	399		406		24	77		
-	406		413		64	66		
-	413		420		72			
-	420		427		0	77		
-	356	243	363	254	16	44	ffff00	
+crop	356	243	363	254	16	44	ffff00	/fonts/tactical.png
 	363		370		8	66		
 	370		377		32	77		
 	377		384					

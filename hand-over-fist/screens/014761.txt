@@ -177,14 +177,7 @@ draw	297	468	301	471	/sprites/can/fighter%1
 	335	341	339	345	/sprites/sfx/explosion/large-hit%9
 	18	336	20	338	/sprites/dev/fusion%2
 dither	339	356	394	373	303000
-crop	343	360	350	371	24	44	000000	/fonts/tactical.png
-	350		357		16	77		
-	357		364		40			
-	364		371		72	66		
-	371		378		24	77		
-	378		385		40	66		
-	385		392		16	77		
-	342	359	349	370	24	44	ffff00	
+crop	342	359	349	370	24	44	ffff00	/fonts/tactical.png
 	349		356		16	77		
 	356		363		40			
 	363		370		72	66		

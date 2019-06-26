@@ -208,14 +208,7 @@ draw	616	326	670	339	/sprites/uns/carrier%6
 	527	185	531	189	/sprites/sfx/explosion/large-hit%6
 	525	181	528	185	/sprites/sfx/explosion/large-hit%10
 dither	260	23	315	40	303000
-crop	264	27	271	38	48	44	000000	/fonts/tactical.png
-	271		278		72	66		
-	278		285		56			
-	285		292		64			
-	292		299		32	77		
-	299		306		40	66		
-	306		313		16	77		
-	263	26	270	37	48	44	ffff00	
+crop	263	26	270	37	48	44	ffff00	/fonts/tactical.png
 	270		277		72	66		
 	277		284		56			
 	284		291		64			

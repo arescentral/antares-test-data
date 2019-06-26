@@ -176,17 +176,7 @@ draw	352	223	379	250	/sprites/ish/hvc%10
 	386	269		279	/sprites/sfx/explosion/large-hit%3
 	392	294	400	301	/sprites/sfx/explosion/energy%19
 dither	398	277	488	294	001830
-crop	402	281	409	292	16	55	000000	/fonts/tactical.png
-	409		416		40	66		
-	416		423		96			
-	423		430		8			
-	430		437		72	77		
-	444		451		32	44		
-	451		458		72	66		
-	458		465		24	77		
-	465		472		64	66		
-	479		486		8	33		
-	401	280	408	291	16	55	007fff	
+crop	401	280	408	291	16	55	007fff	/fonts/tactical.png
 	408		415		40	66		
 	415		422		96			
 	422		429		8			

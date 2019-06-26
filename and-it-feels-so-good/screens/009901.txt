@@ -186,14 +186,7 @@ draw	307	291	343	319	/sprites/loc/bunker%0
 	309	294	313	298	/sprites/sfx/explosion/large-hit%8
 	326	291	335		/sprites/sfx/explosion/gas%15
 dither	323	321	378	338	303000
-crop	327	325	334	336	24	44	000000	/fonts/tactical.png
-	334		341		16	77		
-	341		348		40			
-	348		355		72	66		
-	355		362		24	77		
-	362		369		40	66		
-	369		376		16	77		
-	326	324	333	335	24	44	ffff00	
+crop	326	324	333	335	24	44	ffff00	/fonts/tactical.png
 	333		340		16	77		
 	340		347		40			
 	347		354		72	66		

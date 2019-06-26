@@ -164,14 +164,7 @@ draw	367	238	369	242	/sprites/sfx/crew%17
 	532	264	546	277	/sprites/sfx/energy%0
 	527	274	539	285	/sprites/sfx/energy%1
 dither	200	50	262	67	003030
-crop	204	54	211	65	8	33	000000	/fonts/tactical.png
-	211		218		80			
-	218		225		32			
-	232		239		80	55		
-	239		246		120	66		
-	246		253					
-	253		260		104			
-	203	53	210	64	8	33	00ffff	
+crop	203	53	210	64	8	33	00ffff	/fonts/tactical.png
 	210		217		80			
 	217		224		32			
 	231		238		80	55		

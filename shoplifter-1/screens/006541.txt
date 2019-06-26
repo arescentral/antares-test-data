@@ -133,12 +133,7 @@ draw	341	444	363	468	/sprites/gai/etc/lab%0
 	361	230	379	250	/sprites/ish/hvc%23
 	317	54	326	64	/sprites/gai/fighter%23
 dither	351	435	399	452	001830
-crop	355	439	362	450	24	44	000000	/fonts/tactical.png
-	362		369		40	66		
-	369		376		96			
-	376		383					
-	390		397		16	33		
-	354	438	361	449	24	44	007fff	
+crop	354	438	361	449	24	44	007fff	/fonts/tactical.png
 	361		368		40	66		
 	368		375		96			
 	375		382					

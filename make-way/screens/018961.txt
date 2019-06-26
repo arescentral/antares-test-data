@@ -136,14 +136,7 @@ draw	398	275	410	286	/sprites/can/fighter%16
 	390	335	414	355	/sprites/ish/cruiser%4
 	374	245	383	249	/sprites/dev/fusion%6
 dither	437	323	492	340	303000
-crop	441	327	448	338	24	44	000000	/fonts/tactical.png
-	448		455		16	77		
-	455		462		40			
-	462		469		72	66		
-	469		476		24	77		
-	476		483		40	66		
-	483		490		16	77		
-	440	326	447	337	24	44	ffff00	
+crop	440	326	447	337	24	44	ffff00	/fonts/tactical.png
 	447		454		16	77		
 	454		461		40			
 	461		468		72	66		

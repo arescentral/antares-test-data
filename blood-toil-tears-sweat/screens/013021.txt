@@ -187,14 +187,7 @@ draw	76	40	124	85	/sprites/uns/gunship%10
 	286	343	302	359	/sprites/sfx/explosion/large-hit%9
 	364	251	384	266	/sprites/dev/magneto%2
 dither	456	304	511	321	303000
-crop	460	308	467	319	56	44	000000	/fonts/tactical.png
-	467		474		40	77		
-	474		481		112	66		
-	481		488		24	77		
-	488		495		64	66		
-	495		502		72			
-	502		509		0	77		
-	459	307	466	318	56	44	ffff00	
+crop	459	307	466	318	56	44	ffff00	/fonts/tactical.png
 	466		473		40	77		
 	473		480		112	66		
 	480		487		24	77		
