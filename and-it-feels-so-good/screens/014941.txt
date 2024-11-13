@@ -134,8 +134,8 @@ draw	558	151	644	219	/sprites/loc/bunker%0
 	589	111	615	128	/sprites/ele/cruiser%16
 	455	253	471	269	/sprites/ish/cruiser%13
 	453	279	472	294	/sprites/ish/cruiser%17
-dither	132	459	201	476	001830
-crop	135	462	142	473	120	44	007fff	/fonts/tactical.png
+dither	132	4	201	21	001830
+crop	135	7	142	18	120	44	007fff	/fonts/tactical.png
 	142		149		40	77		
 	149		156		32			
 	156		163		0			

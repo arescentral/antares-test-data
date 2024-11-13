@@ -261,14 +261,14 @@ draw	623	120	627	123	/sprites/can/fighter%23
 	386	256	390	259	/sprites/sfx/debris%13
 	425	208	428	211	/sprites/sfx/debris%11
 	391	218	421	244	/sprites/sfx/explosion/energy%10
-dither	549	459	604	476	303000
-crop	552	462	559	473	56	44	ffff00	/fonts/tactical.png
-	559		566		40	77		
-	566		573		112	66		
-	573		580		24	77		
-	580		587		64	66		
-	587		594		72			
-	594		601		0	77		
+dither	132	4	187	21	303000
+crop	135	7	142	18	56	44	ffff00	/fonts/tactical.png
+	142		149		40	77		
+	149		156		112	66		
+	156		163		24	77		
+	163		170		64	66		
+	170		177		72			
+	177		184		0	77		
 dither	200	451	451	468	300000
 crop	210	454	217	465	56	44	ff0000	/fonts/tactical.png
 	217		224		40	77		

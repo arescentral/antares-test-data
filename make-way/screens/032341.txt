@@ -138,8 +138,8 @@ draw	540	261	551	272	/sprites/ish/gunship%20
 	425	306	427	307	/sprites/sfx/crew%12
 	334	248	335	249	/sprites/sfx/crew%17
 	364	234	375	245	/sprites/ish/gunship%16
-dither	132	394	201	411	303000
-crop	135	397	142	408	32	55	ffff00	/fonts/tactical.png
+dither	132	4	201	21	303000
+crop	135	7	142	18	32	55	ffff00	/fonts/tactical.png
 	142		149		16	77		
 	149		156		8	66		
 	156		163		112			

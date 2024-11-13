@@ -156,8 +156,8 @@ crop	203	53	210	64	80	55	00ffff	/fonts/tactical.png
 	343		350		72	66		
 	350		357		96			
 	357		364		40			
-dither	132	459	257	476	303000
-crop	135	462	142	473	8	44	ffff00	/fonts/tactical.png
+dither	132	4	257	21	303000
+crop	135	7	142	18	8	44	ffff00	/fonts/tactical.png
 	142		149		24	77		
 	149		156					
 	156		163		8	66		
